@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Siz %d qadamdan so‘ng ishlab chiqaruvchi bo‘lishingiz mumkin.</item>
+        <item quantity="one">Siz 1 qadamdan so‘ng ishlab chiqaruvchi bo‘lishingiz mumkin.</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">%1$d ta barmoq izi sozlandi</item>
+        <item quantity="one">%1$d ta barmoq izi sozlandi</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Parol tarkibida kamida %d harf bo‘lishi lozim.</item>
+        <item quantity="one">Parol tarkibida kamida 1 harf bo‘lishi lozim.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Parol tarkibida kamida %d kichik harf bo‘lishi lozim.</item>
+        <item quantity="one">Parol tarkibida kamida 1 kichik harf bo‘lishi lozim.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Parol tarkibida kamida %d bosh harf bo‘lishi lozim.</item>
+        <item quantity="one">Parol tarkibida kamida 1 bosh harf bo‘lishi lozim.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Parol tarkibida kamida %d raqam bo‘lishi lozim.</item>
+        <item quantity="one">Parol tarkibida kamida 1 raqam bo‘lishi lozim.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Parol eng kamida %d belgidan tashkil topishi lozim.</item>
+        <item quantity="one">Parol eng kamida 1 belgidan tashkil topishi lozim.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Parol eng kamida %d raqam yoki belgidan tashkil topishi lozim.</item>
+        <item quantity="one">Parol eng kamida 1 raqam yoki belgidan tashkil topishi lozim.</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">SIM kartaning PIN kodi noto‘g‘ri. Qurilmani qulfdan chiqarish uchun sizda yana %d ta urinish qoldi.</item>
+        <item quantity="one">SIM kartaning PIN kodi noto‘g‘ri. Sizda yana %d ta urinish qoldi.</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%dta ilova bildirishnomalarni o‘qishi mumkin.</item>
+        <item quantity="one">%dta ilovaga bildirishnomalarni o‘qish uchun ruxsat berilgan.</item>
+    </plurals>
+    <plurals name="manage_condition_providers_summary_nonzero">
+        <item quantity="other">Ushbu funksiya uchun holatlarni taqdim etadigan %d ta ilova o‘rnatildi</item>
+        <item quantity="one">%d app provides conditions</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">Signallar %2$s gacha faqat bir daqiqaga o‘rnatilsin</item>
+        <item quantity="one">Signallar (%2$s gacha) faqat %1$d daqiqaga o‘rnatilsin</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">Signallar %2$s gacha faqat bir soatga o‘rnatilsin</item>
+        <item quantity="one">Signallar %2$s gacha faqat %1$d soatga o‘rnatilsin</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">%d ta ruxsat berildi</item>
+        <item quantity="one">%d ta ruxsat berildi</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">%1$ddan %2$d ta ruxsat berilgan</item>
+        <item quantity="one">%1$ddan %2$d ta ruxsat berilgan</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">Yana %d ta ruxsat</item>
+        <item quantity="one">Yana %d ta ruxsat</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">%d apps can open their supported links</item>
+        <item quantity="zero">%d ta ilova mos havolalarni ochishi mumkin</item>
+        <item quantity="one">Bitta ilova mos havolalarni ochishi mumkin</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">1 ta ilovaga batareya quvvati tejamalsik uchun ruxsat berilgan</item>
+        <item quantity="one">%d ta ilovaga batareya quvvatini tejamaslik uchun ruxsat berilgan</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">So‘nggi %2$s davomida 1 ta ilova xotiradan foydalandi</item>
+        <item quantity="one">So‘nggi %2$s davomida %1$d ta ilova xotiradan foydalandi</item>
+    </plurals>
+    <plurals name="lock_timeout_hours">
+        <item quantity="other">%d soat</item>
+        <item quantity="one">1 soat</item>
+    </plurals>
+    <plurals name="lock_timeout_minutes">
+        <item quantity="other">%d daqiqa</item>
+        <item quantity="one">1 daqiqa</item>
+    </plurals>
+    <plurals name="lock_timeout_seconds">
+        <item quantity="other">%d soniya</item>
+        <item quantity="one">1 soniya</item>
+    </plurals>
+</resources>

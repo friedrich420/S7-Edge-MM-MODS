@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">ဖွံ့ဖြိုးအောင် ဆောင်ရွက်သူတစ်ဦးအဖြစ်မှ %d ဆင့်အကွာတွင် ယခုရောက်နေသည်။</item>
+        <item quantity="one">ယခု သင်သည် ဖွံ့ဖြိုးစေသူ တစ်ဦးအဖြစ်မှ ၁ ဆင့် လိုသေးသည်။</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">%1$d လက်ဗွေရာ ပြင်ဆင်သတ်မှတ်ရန်</item>
+        <item quantity="one">%1$d လက်ဗွေရာများ ပြင်ဆင်သတ်မှတ်ရန်</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">စကားဝှက်သည် အနည်းဆုံး စာလုံး %d လုံး ပါဝင်ရမည်။</item>
+        <item quantity="one">စကားဝှက်သည် အနည်းဆုံး စာ ၁ လုံး ပါရမည်။</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">စကားဝှက်သည် အနည်းဆုံး စာလုံးသေး %d လုံး ပါဝင်ရမည်။</item>
+        <item quantity="one">စကားဝှက်သည် အနည်းဆုံး စာအသေး ၁ လုံး ပါရမည်။</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">စကားဝှက်သည် အနည်းဆုံး စာလုံးကြီး %d လုံး ပါဝင်ရမည်။</item>
+        <item quantity="one">စကားဝှက်သည် အနည်းဆုံး စာလုံးအကြီး ၁ လုံး ပါရမည်။</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">စကားဝှက်သည် အနည်းဆုံး ဂဏန်း %d လုံး ပါဝင်ရမည်။</item>
+        <item quantity="one">စကားဝှက်သည် အနည်းဆုံး ဂဏန်း ၁ လုံး ပါရမည်။</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">စကားဝှက်သည် အနည်းဆုံး သင်္ကေတ %d ခု ပါဝင်ရမည်။</item>
+        <item quantity="one">စကားဝှက်သည် အနည်းဆုံး သင်္ကေတ ၁ လုံး ပါရမည်။</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">စကားဝှက်သည် အနည်းဆုံး ဂဏန်း သို့မဟုတ် သင်္ကေတ %d ခု ပါဝင်ရမည်။</item>
+        <item quantity="one">စကားဝှက်သည် အနည်းဆုံး ဂဏန်း သို့မဟုတ် သင်္ကေတ ၁ လုံး ပါရမည်။</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">ဆင်းမ်ကဒ်၏ ပင်နံပါတ် မှားနေပါသည်၊ သင့်ကိရိယာကို ဖွင့်ရန် မိုဘိုင်းဖုန်းဆက်သွယ်ရေးဝန်ဆောင်မှုဌာနသို့ မဆက်သွယ်မီ သင့်တွင် %d ခါ ကြိုးစားခွင့် ကျန်ပါသေးသည်။</item>
+        <item quantity="one">ဆင်းမ်ကဒ်၏ ပင်နံပါတ် မှားနေပါသည်၊ သင့်တွင် %d ခါ ကြိုးစားခွင့် ကျန်ပါသေးသည်။</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">အပလီကေးရှင်း %d ခုက အသိပေးချက်များကို ဖတ်နိုင်ကြသည်။</item>
+        <item quantity="one">%d အပလီကေးရှင်းကို အကြောင်းကြားစာများ ဖတ်ရန်အတွက် ခွင့်ပြထားပါသည်။</item>
+    </plurals>
+    <plurals name="manage_condition_providers_summary_nonzero">
+        <item quantity="other">ဤလုပ်ဆောင်ချက်အတွက် လိုအပ်သည်များကို စီစဉ်ပေးမည့် အပလီကေးရှင်း %d ခုကို တပ်ဆင်ပြီးပါပြီ</item>
+        <item quantity="one">%d app provides conditions</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">%2$sအထိတစ်မိနစ်မျှ နိုးစက်သာလျှင်သို့ပြောင်းမည်</item>
+        <item quantity="one">(%2$sအထိ)%1$dမိနစ်မျှ နိုးစက်သာလျှင်သို့ပြောင်းမည်</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">%2$sအထိတစ်နာရီမျှ နိုးစက်သာလျှင်သို့ပြောင်းမည်</item>
+        <item quantity="one">%2$sအထိ%1$dနာရီမျှ နိုးစက်သာလျှင်သို့ပြောင်းမည်</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">ခွင့်ပြုချက် %d ခုပေးထားသည်</item>
+        <item quantity="one">ခွင့်ပြုချက် %d ခုပေးထားသည်</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">%1$d / %2$d ခွင့်ပြုချက် ရရှိခဲ့၏</item>
+        <item quantity="one">%1$d / %2$d ခွင့်ပြုချက် ရရှိခဲ့၏</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">နောက်ထပ် ခွင့်ပြုချက် %d ခု</item>
+        <item quantity="one">နောက်ထပ် ခွင့်ပြုချက် %d ခု</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">%d apps can open their supported links</item>
+        <item quantity="zero">%d အပ်ဖ်များသည် ၎င်းတို့ထောက်ပံ့ထာသည့် လင့်များကိုဖွင့်နိုင်သည်။</item>
+        <item quantity="one">အပ်ဖ်တစ်ခုသည် ၎င်းထောက်ပံ့ထားသည့် လင့်ခ်များကိုဖွင့်နိုင်သည်။</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">1 အက်ပ်အား ဘက်ထရီအား သင့်မြတ်အောင် လုပ်ကိုင်မှုကို လျစ်လျူရှုခွင့် ပြုထား</item>
+        <item quantity="one">%d အက်ပ်အား ဘက်ထရီအား သင့်မြတ်အောင် လုပ်ကိုင်မှုကို လျစ်လျူရှုခွင့် ပြုထား</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">လွန်ခဲ့သော %2$s က မှတ်ဉာဏ်အား app ၁ ခု မှ သုံးခဲ့၏</item>
+        <item quantity="one">App %1$d သည် မှတ်ဉာဏ်အား လွန်ခဲ့သော %2$s က သုံးခဲ့၏</item>
+    </plurals>
+    <plurals name="lock_timeout_hours">
+        <item quantity="other">%d နာရီ</item>
+        <item quantity="one">1 နာရီ</item>
+    </plurals>
+    <plurals name="lock_timeout_minutes">
+        <item quantity="other">%d မိနစ်</item>
+        <item quantity="one">၁ မိနစ်</item>
+    </plurals>
+    <plurals name="lock_timeout_seconds">
+        <item quantity="other">%d စက္ကန့်</item>
+        <item quantity="one">၁ စက္ကန့်</item>
+    </plurals>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:gravity="right" android:orientation="horizontal" android:id="@id/suw_layout_navigation_bar" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/SecurityPreferenceButtonContainer">
+        <LinearLayout android:gravity="center|right" android:layout_gravity="bottom|center|right" android:orientation="horizontal" android:id="@id/swg_linearlayout_focus" android:paddingTop="@dimen/storage_wizard_padding_top_bottom" android:paddingBottom="@dimen/storage_wizard_padding_top_bottom" android:focusable="true" android:layout_width="wrap_content" android:layout_height="56.0dip" android:layout_marginRight="@dimen/storage_wizard_margin_end" style="@style/SecurityPreferenceButton">
+            <TextView android:textSize="@dimen/storage_wizard_textview_size" android:textColor="@color/storage_wizard_button_text_color" android:gravity="center|right" android:id="@id/swg_text" android:focusable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:textAllCaps="true" android:layout_marginEnd="@dimen/storage_wizard_textview_margin_end" android:layout_alignParentEnd="true" />
+            <ImageView android:layout_width="@dimen/storage_wizard_image_size" android:layout_height="@dimen/storage_wizard_image_size" android:src="@drawable/setupwizard_next_arrow" android:layout_alignParentEnd="true" />
+        </LinearLayout>
+    </FrameLayout>
+</LinearLayout>

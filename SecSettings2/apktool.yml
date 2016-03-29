@@ -1,0 +1,17 @@
+version: 2.0.0
+apkFileName: SecSettings2.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+  - 2
+sdkInfo:
+  minSdkVersion: '23'
+  targetSdkVersion: '23'
+packageInfo:
+  forced-package-id: '127'
+versionInfo:
+  versionCode: '23'
+  versionName: 6.0.1
+compressionType: false
+sharedLibrary: false

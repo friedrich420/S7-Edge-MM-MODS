@@ -1,0 +1,1244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="save">រក្សា​ទុក</string>
+    <string name="cancel">បោះ​បង់​</string>
+    <string name="close">បិទ</string>
+    <string name="ok">ព្រម</string>
+    <string name="back">ថយ</string>
+    <string name="set">កំណត់</string>
+    <string name="s_view_cover_set_wallpaper">កំណត់​ជា​រូប​ផ្ទៃ​អេក្រង់</string>
+    <string name="clearcover_no_missed_event">អ្នក​គ្មាន​ព្រឹត្តិការណ៍​បាន​ខកខាន។</string>
+    <string name="clearcover_1_missed_call">អ្នក​មាន 1 ការហៅ​បាន​ខក។</string>
+    <string name="clearcover_1_unread_message">អ្នក​មាន​សារ​មិន​ទាន់​អាន 1។</string>
+    <string name="clearcover_n_missed_calls">អ្នក​មាន​ការហៅ​ដែល​បាន​ខកខាន %d។</string>
+    <string name="clearcover_n_unread_messages">អ្នក​មាន​សារ​មិន​ទាន់​អាន %1$d។</string>
+    <string name="clearcover_calls_and_messages">អ្នក​មាន​ការហៅ​ដែល​បាន​ខកខាន %1$d និង សារ​មិន​ទាន់​អាន %2$d។</string>
+    <string name="zzz_tts_temp_celsius">សេ</string>
+    <string name="zzz_tts_temp_fahrenheit">ហ្វារិនហៃ</string>
+    <string name="zzz_tts_temperature">អង្សា</string>
+    <string name="volumepanel_notification">ការជូន​ដំណឹង</string>
+    <string name="s_view_cover_shortcuts_title_text">ផ្លូវ​កាត់</string>
+    <string name="s_view_cover_shortcuts_camera_text">កាមេរ៉ា</string>
+    <string name="s_view_cover_shortcuts_settings_text">ការកំណត់</string>
+    <string name="s_view_cover_shortcuts_favorite_text">ទំនាក់ទំនង​សំណព្វ</string>
+    <string name="s_view_cover_shortcuts_light_text">ពិល</string>
+    <string name="s_view_cover_shortcuts_heart_text">អត្រា​បេះដូង</string>
+    <string name="s_view_cover_shortcuts_quick_memo_text">មេម៉ូ​សកម្មភាព</string>
+    <string name="select_background_color">កំណត់​រូបផ្ទៃអេក្រង់​វីនដូវ S View</string>
+    <string name="select_background_color_title">កំណត់​រូប​ផ្ទៃ​អេក្រង់</string>
+    <string name="s_view_stylized_clock_theme">កំណត់​នាឡិកា​ស្ទីល</string>
+    <string name="s_view_window_theme">រូបផ្ទៃអេក្រង់​វីនដូវ S View</string>
+    <string name="s_view_info_cover">ជ្រើស​ធាតុ​ដែល​ត្រូវ​បង្ហាញ</string>
+    <string name="s_view_screen_roaming">រ៉ូមីង</string>
+    <string name="s_view_screen_home">ផ្ទះ</string>
+    <string name="battery_charging_percent">កំពុងសាក៖ %d%%</string>
+    <string name="battery_wireless_charging_percent">កំពុង​សាក​ដោយ​ឥតខ្សែ៖ %d%%</string>
+    <string name="battery_wireless_fast_charging_percent">កំពុង​សាក​លឿន​ឥតខ្សែ៖ %d%%</string>
+    <string name="battery_charged">បាន​សាក។</string>
+    <string name="s_view_cover_transport_prev_description">ពី​មុន</string>
+    <string name="s_view_cover_transport_next_description">បន្ទាប់</string>
+    <string name="s_view_cover_transport_pause_description">ផ្អាក</string>
+    <string name="s_view_cover_transport_play_description">ចាក់</string>
+    <string name="s_view_cover_transport_stop_description">ឈប់</string>
+    <string name="s_view_cover_transport_volume_description">កម្រិត​សំឡេង</string>
+    <string name="s_view_cover_transport_playlist_description">បញ្ជី​ចាក់</string>
+    <string name="s_view_cover_missed_event_secured_popup">បាន​ចាក់​សោ​ឧបករណ៍។ បើក​គម្រប​ដើម្បី​បង្ហាញ​ព័ត៌មានលម្អិត​ច្រើនទៀត។</string>
+    <string name="s_view_cover_open_cover_popup">បើក​គម្រប​ដើម្បី​កំណត់​រូបផ្ទៃអេក្រង់។</string>
+    <string name="s_view_cover_open_cover_popup_view_detail">បើក​គម្រប ដើម្បី​បង្ហាញ​ព័ត៌មាន​លម្អិត។</string>
+    <string name="s_view_cover_open_cover_popup_for_detail_message">បើក​គម្រប​ដើម្បី​បង្ហាញ​ព័ត៌មាន​លម្អិត​សារ។</string>
+    <string name="s_view_cover_open_cover_popup_for_detail_call">បើក​គម្រប​ដើម្បី​បង្ហាញ​ព័ត៌មានលម្អិត​ការហៅ</string>
+    <string name="s_view_cover_missed_event_button_accessibiliy">ប្រើ​ម្រាមដៃ​ពីរ​អូស ដើម្បី​ផ្លាស់ទី​ទៅ​ទំព័រ​ព្រឹត្តិការណ៍​ដែល​បាន​ខកខាន។</string>
+    <string name="s_view_cover_settings_button_accessibiliy">ប្រើ​ម្រាមដៃ​ពីរ​អូស​ដើម្បី​ចូលទៅ​ការកំណត់។</string>
+    <string name="s_view_cover_camera_button_accessibiliy">ប៉ះ​ពីរដង ហើយ​អូស​ដើម្បី​បើក​កាមេរ៉ា។</string>
+    <string name="s_view_cover_favourite_button_accessibiliy">ប៉ះ​ពីរដង ហើយ​អូស ដើម្បី​ទំនាក់ទំនង​សំណព្វ។</string>
+    <string name="accessibility_battery_level">ថ្ម %d ភាគរយ</string>
+    <string name="s_view_cover_open_popup_favorite">បាន​ចាក់សោ​ឧបករណ៍។ បើក​គម្រប​ដើម្បី​បង្ហាញ​ទំនាក់ទំនង​សំណព្វ។</string>
+    <string name="mini_view_cover_settings_description">បើក​គម្រប​ដើម្បី​ចូលទៅ​ការកំណត់ S View Cover។</string>
+    <string name="s_view_cover_warn_popup_stylized_clock">មិន​អាច​បង្ហាញ​រូបផ្ទៃអេក្រង់, ព័ត៌មាន​បាទាមាត្រ និង ព័ត៌មាន​អាកាសធាតុ ខណៈពេល​នាឡិកា​ស្ទីល​បង្ហាញ​ឡើង​លើ​វីនដូវ S View។</string>
+    <string name="s_view_wallpaper_selected_tts">រូបផ្ទៃអេក្រង់ %1$d នៃ %2$d</string>
+    <string name="popup_do_not_show_gain">កុំ​បង្ហាញ​ម្តង​ទៀត</string>
+    <string name="pinwindowcover_warning_content">ដើម្បី​ប្រើ​កម្មវិធី​ដែល​បាន​ខ្ទាស់ សូម​បើក​គម្រប។</string>
+    <string name="battery_fast_charging_percent">សាក​លឿន៖ %d%%</string>
+    <string name="app_name">ការពារ​គ្រាប់ចុច</string>
+    <string name="keyguard_password_enter_pin_code">បញ្ចូល​កូដ PIN</string>
+    <string name="keyguard_password_enter_puk_code">"បញ្ចូល​លេខ​កូដ PUK  និង​​ PIN ថ្មី​របស់​ស៊ីម"</string>
+    <string name="keyguard_password_enter_puk_prompt">លេខ​កូដ PUK ស៊ីម</string>
+    <string name="keyguard_password_enter_pin_prompt">លេខ​កូដ PIN ស៊ីម​ថ្មី</string>
+    <string name="keyguard_password_entry_touch_hint"><font size="17">ប៉ះ ដើម្បី​បញ្ចូល​ពាក្យ​សម្ងាត់</font></string>
+    <string name="keyguard_password_enter_password_code">បញ្ចូល​ពាក្យ​សម្ងាត់​ ​ដើម្បី​ដោះ​សោ</string>
+    <string name="keyguard_password_enter_pin_password_code">បញ្ចូល​កូដ PIN ដើម្បី​ដោះ​សោ</string>
+    <string name="keyguard_password_wrong_pin_code">កូដ PIN មិន​ត្រឹមត្រូវ។</string>
+    <string name="keyguard_charged">បាន​សាក​ពេញ</string>
+    <string name="keyguard_plugged_in">កំពុងសាក៖ %d%%</string>
+    <string name="keyguard_low_battery">ភ្ជាប់​ឆ្នាំងសាក​របស់​អ្នក។</string>
+    <string name="keyguard_connect_charger">ភ្ជាប់​គ្រឿងសាក</string>
+    <string name="keyguard_instructions_when_pattern_disabled">ចុច​ម៉ឺនុយ ដើម្បី​ដោះ​សោ។</string>
+    <string name="keyguard_network_locked_message">បណ្ដាញ​ជាប់​សោ</string>
+    <string name="kg_missing_sim_message_short">គ្មាន​កាត SIM</string>
+    <string name="keyguard_missing_sim_message_short">គ្មាន​ស៊ី​ម​កាត</string>
+    <string name="keyguard_missing_sim_message">បញ្ចូល​កាត USIM រួច​ចាប់ផ្ដើម​ឧបករណ៍​ឡើងវិញ</string>
+    <string name="keyguard_missing_sim_instructions">បញ្ចូល​​​ស៊ី​ម​កាត​។</string>
+    <string name="keyguard_missing_sim_instructions_long">បាត់​ស៊ីមកាត ឬ​មិន​អាច​អាន។ បញ្ចូល​ស៊ីម​កាត។</string>
+    <string name="keyguard_permanent_disabled_sim_message_short">ស៊ីម​កាត​មិន​អាច​ប្រើ​បាន។</string>
+    <string name="keyguard_permanent_disabled_sim_instructions">"បាន​បិទ​ស៊ីម​កាត​របស់​អ្នក​ជា​អចិន្ត្រៃយ៍។
+ ទាក់ទង​​ក្រុមហ៊ុន​ផ្ដល់​សេវាកម្ម​ឥត​ខ្សែ​សម្រាប់​ស៊ីម​កាត​ផ្សេង។"</string>
+    <string name="keyguard_sim_locked_message">ស៊ីម​កាត​​ជាប់​សោ។</string>
+    <string name="keyguard_sim_puk_locked_message">ស៊ីម​កាត​ជាប់​កូដ​​ PUK ។</string>
+    <string name="keyguard_sim_unlock_progress_dialog_message">កំពុង​ដោះ​សោ​ស៊ីម​កាត...</string>
+    <string name="keyguard_accessibility_pattern_unlock">លំនាំ​ដោះ​សោ​។</string>
+    <string name="keyguard_accessibility_pin_unlock">កូដ PIN ដោះ​សោ។</string>
+    <string name="keyguard_accessibility_password_unlock">ពាក្យ​សម្ងាត់​ដោះ​សោ​។</string>
+    <string name="keyguard_accessibility_pattern_area">ផ្ទៃ​លំនាំ។</string>
+    <string name="keyguard_accessibility_slide_area">ផ្ទៃ​រុញ។</string>
+    <string name="keyguard_accessibility_pin_area">ប្រអប់លេខសម្ងាត់</string>
+    <string name="keyguard_accessibility_sim_pin_area">ប្រអប់លេខសម្ងាត់ស៊ីម</string>
+    <string name="keyguard_accessibility_sim_puk_area">ប្រអប់ PUK ស៊ីម</string>
+    <string name="keyguard_accessibility_next_alarm">ការ​ជូន​ដំណឹង​បន្ទាប់​កំណត់​សម្រាប់ %1$s</string>
+    <string name="keyboardview_keycode_delete">លុប</string>
+    <string name="keyboardview_keycode_enter">វាយបញ្ចូល</string>
+    <string name="kg_forgot_pattern_button_text">ភ្លេច​​លំនាំ</string>
+    <string name="kg_wrong_pattern">បាន​គូស​លំនាំ​មិន​ត្រឹមត្រូវ</string>
+    <string name="kg_wrong_password">បាន​វាយបញ្ចូល​ពាក្យសម្ងាត់​មិន​ត្រឹមត្រូវ</string>
+    <string name="kg_wrong_pin">បាន​វាយបញ្ចូល PIN មិន​ត្រឹមត្រូវ</string>
+    <string name="kg_n_attempts_remaining">(នៅសល់​ការប៉ុនប៉ង %d)</string>
+    <string name="kg_1_attempt_remaining">(សល់​ការប៉ុនប៉ង 1)</string>
+    <string name="kg_too_many_failed_attempts_countdown">សាកល្បង​ម្ដងទៀត​ក្នុង​ពេល %d វិនាទី។</string>
+    <string name="kg_too_many_failed_attempts_countdown_min">សាកល្បង​ម្តងទៀត​ក្នុង​ពេល 1 នាទី</string>
+    <string name="kg_too_many_failed_attempts_countdown_mins">សាកល្បង​ម្ដងទៀត​ក្នុង​ពេល %d នាទី</string>
+    <string name="kg_pattern_bouncer_instructions">គូរ​លំនាំ​ដោះសោ ដើម្បី​បើក</string>
+    <string name="kg_pin_bouncer_instructions">វាយបញ្ចូល PIN ដើម្បី​បើក</string>
+    <string name="kg_password_bouncer_instructions">វាយបញ្ចូល​ពាក្យសម្ងាត់ ដើម្បី​បើក</string>
+    <string name="kg_pattern_instructions">គូស​លំនាំ​ដោះសោ</string>
+    <string name="kg_sim_pin_instructions">បញ្ចូល​កូដ PIN ស៊ីម​កាត</string>
+    <string name="kg_unlock_sim_pin_instructions">វាយបញ្ចូល PIN ដោះ​សោ​កាត SIM។</string>
+    <string name="kg_sim_puk_instructions">បាន​ចាក់សោ SIM។ វាយបញ្ចូល PUK។ ទាក់ទង​អ្នកផ្ដល់សេវា​សម្រាប់​ព័ត៌មាន​លម្អិត។</string>
+    <string name="kg_sim_pin_instructions_multi">បញ្ចូលលេខកូដសម្ងាត់ស៊ីមសម្រាប់ \"%1$s\"</string>
+    <string name="kg_pin_instructions">វាយបញ្ចូល PIN</string>
+    <string name="kg_backup_pin_instructions">វាយបញ្ចូល PIN ជំនួយ</string>
+    <string name="kg_backup_password_instructions">វាយបញ្ចូល​ពាក្យ​សម្ងាត់​ចម្លង​ទុក</string>
+    <string name="kg_password_instructions">វាយបញ្ចូល​ពាក្យសម្ងាត់</string>
+    <string name="kg_puk_enter_puk_hint">ឥឡូវ​ស៊ីមកាត​ត្រូវ​បាន​បិទ។ បញ្ចូល​កូដ PUK ដើម្បី​បន្ត។ ចំពោះ​ព័ត៌មាន​លម្អិត​ទាក់ទង​ក្រុមហ៊ុន​បញ្ជូន​របស់​អ្នក។</string>
+    <string name="kg_puk_enter_puk_hint_multi">ស៊ីម \"%1$s\" ត្រូវបានបិទដំណើរការឥឡូវនេះ។ បញ្ចូលលេខកូដ PUK ដើម្បីបន្តទំនាក់ទំនងអ្នកផ្តល់សេវាកម្មសម្រាប់ព័ត៌មានលំអិត។</string>
+    <string name="kg_puk_enter_pin_hint">វាយបញ្ចូល PIN នៃ​កាត SIM ថ្មី។</string>
+    <string name="kg_enter_confirm_pin_hint">វាយបញ្ចូល PIN នៃ​កាត SIM ថ្មី​ម្ដងទៀត ដើម្បី​បញ្ជាក់​វា។</string>
+    <string name="kg_sim_unlock_progress_dialog_message">កំពុង​ដោះ​សោ​កាត SIM…</string>
+    <string name="kg_invalid_sim_pin_hint">បញ្ចូល​កូដ PIN ដែល​មាន​ពី ៤ ដល់ ៨ លេខ។</string>
+    <string name="kg_invalid_sim_puk_hint">កូដ PUK គួរ​តែ​មាន​​ ៨ លេខ ឬ​​ច្រើន​ជាង​នេះ។</string>
+    <string name="kg_invalid_puk">បញ្ចូល​កូដ PUK ម្ដង​ទៀត។ ការ​ព្យាយាម​ដដែល​ច្រើន​ដឹង​នឹង​បិទ​ស៊ីម​កាត​ជា​អចិន្ត្រៃយ៍។</string>
+    <string name="kg_invalid_confirm_pin_hint">កូដ PIN មិន​ដូច​គ្នា</string>
+    <string name="kg_login_too_many_attempts">ព្យាយាម​លំនាំ​ច្រើន​ពេក</string>
+    <string name="kg_login_username_hint">ឈ្មោះ​អ្នកប្រើ (អ៊ីមែល)</string>
+    <string name="kg_login_password_hint">ពាក្យ​សម្ងាត់</string>
+    <string name="kg_login_submit_button">ចុះ​ឈ្មោះ​ចូល</string>
+    <string name="kg_login_invalid_input">ឈ្មោះ​អ្នកប្រើប្រាស់ ឬ ពាក្យសម្ងាត់​អសុពលភាព។</string>
+    <string name="no_network_connection">គ្មាន​ការភ្ជាប់​បណ្តាញ</string>
+    <string name="kg_forgot_spass_button_text">Samsung Account</string>
+    <string name="kg_login_checking_password">កំពុង​ពិនិត្យ​គណនី…</string>
+    <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"អ្នក​បាន​បញ្ចូល​កូដ PIN របស់​អ្នក​មិន​ត្រឹមត្រូវ​ចំនួន %d ដង។
+
+ ព្យាយាម​ម្ដង​ទៀត​ក្នុង​រយៈ​ពេល %d វិនាទី។"</string>
+    <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"អ្នក​បាន​បញ្ចូល​ពាក្យ​សម្ងាត់​មិន​ត្រឹមត្រូវ %d ដង។
+
+ព្យាយាម​ម្ដង​ទៀត​ក្នុង​រយៈ​ពេល %d វិនាទី។"</string>
+    <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"អ្នក​បាន​​គូរ​លំនាំ​ដោះ​សោ​របស់​អ្នក​មិន​ត្រឹមត្រូវ​ចំនួន %d ដង។
+
+ព្យាយាម​ម្ដង​ទៀត​ក្នុង​រយៈ​ពេល %d វិនាទី។"</string>
+    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">អ្នកបានព្យាយាមដោះសោមិនត្រឹមត្រូវលើទូរស័ព្ទរបស់អ្នក %d ដង។ បន្ទាប់ពីការព្យាយាម %d ដងទៀត ទូរស័ព្ទនេះនឹងត្រូវបានកំណត់ឡើងវិញ ដែលវានឹងលុបទិន្នន័យរបស់វាទាំងអស់។</string>
+    <string name="kg_failed_attempts_now_wiping">អ្នកបានព្យាយាមដោះសោមិនត្រឹមត្រូវលើទូរស័ព្ទរបស់អ្នក %d ដង។ ទូរស័ព្ទនេះនឹងត្រូវបានកំណត់ឡើងវិញ ដែលវានឹងលុបទិន្នន័យរបស់វាទាំងអស់។</string>
+    <string name="kg_failed_attempts_almost_at_erase_user" formatted="false">អ្នកបានព្យាយាមដោះសោមិនត្រឹមត្រូវលើទូរស័ព្ទរបស់អ្នក %d ដង។ បន្ទាប់ពីការព្យាយាម %d ដងទៀត អ្នកប្រើនេះនឹងត្រូវបានដកចេញ ដែលវានឹងលុបទិន្នន័យអ្នកប្រើទាំងអស់។</string>
+    <string name="kg_failed_attempts_now_erasing_user">អ្នកបានព្យាយាមដោះសោមិនត្រឹមត្រូវលើទូរស័ព្ទរបស់អ្នក %d ដង។ អ្នកប្រើនេះនឹងត្រូវបានដកចេញ ដែលវានឹងលុបទិន្នន័យអ្នកប្រើទាំងអស់។</string>
+    <string name="kg_failed_attempts_almost_at_erase_profile" formatted="false">អ្នកបានព្យាយាមដោះសោមិនត្រឹមត្រូវលើទូរស័ព្ទរបស់អ្នក %d ដង។ បន្ទាប់ពីការព្យាយាម %d ដងទៀត ប្រវត្តិរូបការងាររបស់អ្នកនឹងត្រូវបានដកចេញ ដែលវានឹងលុបទិន្នន័យប្រវត្តិរូបទាំងអស់។</string>
+    <string name="kg_failed_attempts_now_erasing_profile">អ្នកបានព្យាយាមដោះសោមិនត្រឹមត្រូវលើទូរស័ព្ទរបស់អ្នក %d ដង។ ប្រវត្តិរូបការងាររបស់អ្នកនឹងត្រូវបានដកចេញ ដែលវានឹងលុបទិន្នន័យប្រវត្តិរូបទាំងអស់របស់អ្នក។</string>
+    <string name="kg_sec_1_failed_attempt_almost_at_wipe">បាន​ធ្វើ​ការប៉ុនប៉ង​ដោះសោ​ឧបករណ៍។ អ្នក​នៅសល់​ការប៉ុនប៉ង %d ដង​ទៀត មុនពេល​ឧបករណ៍​ត្រូវ​បាន​កំណត់​ឡើងវិញ​ទៅ​ការកំណត់​លំនាំដើម​ពី​រោងចក្រ ហើយ​ទិន្នន័យ​ទាំងអស់​ត្រូវ​បាន​លុប​ចោល រួមទាំង​ឯកសារ និង កម្មវិធី​ដែល​បាន​ទាញយក។</string>
+    <string name="kg_sec_failed_attempts_almost_at_wipe">បាន​ធ្វើ​ការប៉ុនប៉ង​ដោះសោ​ឧបករណ៍ %1$d ដង។ អ្នក​នៅសល់​ការប៉ុនប៉ង %2$d ដង​ទៀត មុនពេល​ឧបករណ៍​ត្រូវ​បាន​កំណត់​ឡើងវិញ​ទៅ​ការកំណត់​លំនាំដើម​ពី​រោងចក្រ ហើយ​ទិន្នន័យ​ទាំងអស់​ត្រូវ​បាន​លុប​ចោល រួមទាំង​ឯកសារ និង កម្មវិធី​ដែល​បាន​ទាញយក។</string>
+    <string name="kg_sec_1_remaing_count_almost_at_wipe">បាន​ធ្វើ​ការប៉ុនប៉ង​ដោះសោ​ឧបករណ៍ %d ដង។ អ្នក​នៅសល់​ការប៉ុនប៉ង 1 ដង​ទៀត មុនពេល​ឧបករណ៍​ត្រូវ​បាន​កំណត់​ឡើងវិញ​ទៅ​ការកំណត់​លំនាំដើម​ពី​រោងចក្រ ហើយ​ទិន្នន័យ​ទាំងអស់​ត្រូវ​បាន​លុប​ចោល រួមទាំង​ឯកសារ និង កម្មវិធី​ដែល​បាន​ទាញយក។</string>
+    <string name="kg_sec_1_failed_attempt_almost_at_erase_user">បាន​ធ្វើ​ការប៉ុនប៉ង​ដោះសោ​ឧបករណ៍។ អ្នក​នៅសល់​ការប៉ុនប៉ង %d ដង​ទៀត មុនពេល​ទម្រង់​របស់​អ្នក​នឹង​ត្រូវ​បាន​លុប ជាមួយ​នឹង​កម្មវិធី​ដែល​បាន​ទាញយក និង ទិន្នន័យ​ពាក់ព័ន្ធ​នឹង​វា​ទាំងអស់។</string>
+    <string name="kg_sec_failed_attempts_almost_at_erase_user">បាន​ធ្វើ​ការប៉ុនប៉ង​ដោះសោ​ឧបករណ៍ %1$d ដង។ អ្នក​នៅសល់​ការប៉ុនប៉ង %2$d ដង​ទៀត មុនពេល​ទម្រង់​របស់​អ្នក​នឹង​ត្រូវ​បាន​លុប ជាមួយ​នឹង​កម្មវិធី​ដែល​បាន​ទាញយក និង ទិន្នន័យ​ពាក់ព័ន្ធ​នឹង​វា​ទាំងអស់។</string>
+    <string name="kg_sec_1_remaing_count_almost_at_erase_user">បាន​ធ្វើ​ការប៉ុនប៉ង​ដោះសោ​ឧបករណ៍ %d ដង។ អ្នក​នៅសល់​ការប៉ុនប៉ង 1 ដង​ទៀត មុនពេល​ទម្រង់​របស់​អ្នក​នឹង​ត្រូវ​បាន​លុប​ចោល ជាមួយ​នឹង​កម្មវិធី​ដែល​បាន​ទាញយក និង ទិន្នន័យ​ពាក់ព័ន្ធ​នឹង​វា​ទាំងអស់។</string>
+    <string name="kg_sec_failed_attempts_now_erasing_user">បាន​ធ្វើ​ការប៉ុនប៉ង​ដោះសោ​ឧបករណ៍ %d ដង។ ទម្រង់​របស់​អ្នក​នឹង​ត្រូវ​បាន​លុប ជាមួយ​នឹង​កម្មវិធី​ដែល​បាន​ទាញយក និង ទិន្នន័យ​ពាក់ព័ន្ធ​នឹង​វា​ទាំងអស់។ ទិន្នន័យ​នេះ​មិន​អាច​សង្គ្រោះ​មក​វិញ​ឡើយ។</string>
+    <string name="kg_sec_1_failed_attempt_almost_at_erase_profile">បាន​ធ្វើ​ការប៉ុនប៉ង​ដោះសោ​ឧបករណ៍។ អ្នក​នៅសល់​ការប៉ុនប៉ង %d ដង​ទៀត មុនពេល​ទម្រង់​ការងារ​របស់​អ្នក​នឹង​ត្រូវ​បាន​លុប ជាមួយ​នឹង​កម្មវិធី​ដែល​បាន​ទាញយក និង ទិន្នន័យ​ពាក់ព័ន្ធ​នឹង​វា​ទាំងអស់។</string>
+    <string name="kg_sec_failed_attempts_almost_at_erase_profile">បាន​ធ្វើ​ការប៉ុនប៉ង​ដោះសោ​ឧបករណ៍ %1$d ដង។ អ្នក​នៅសល់​ការប៉ុនប៉ង %2$d ដង​ទៀត មុនពេល​ទម្រង់​ការងារ​របស់​អ្នក​នឹង​ត្រូវ​បាន​លុប ជាមួយ​នឹង​កម្មវិធី​ដែល​បាន​ទាញយក និង ទិន្នន័យ​ពាក់ព័ន្ធ​នឹង​វា​ទាំងអស់។</string>
+    <string name="kg_sec_1_remaing_count_almost_at_erase_profile">បាន​ធ្វើ​ការប៉ុនប៉ង​ដោះសោ​ឧបករណ៍ %d ដង។ អ្នក​នៅសល់​ការប៉ុនប៉ង 1 ដង​ទៀត មុនពេល​ទម្រង់​ការងារ​របស់​អ្នក​នឹង​ត្រូវ​បាន​លុប​ចោល ជាមួយ​នឹង​កម្មវិធី​ដែល​បាន​ទាញយក និង ទិន្នន័យ​ពាក់ព័ន្ធ​នឹង​វា​ទាំងអស់។</string>
+    <string name="kg_sec_failed_attempts_now_erasing_profile">បាន​ធ្វើ​ការប៉ុនប៉ង​ដោះសោ​ឧបករណ៍ %d ដង។ ទម្រង់​ការងារ​របស់​អ្នក​នឹង​ត្រូវ​បាន​លុប ជាមួយ​នឹង​កម្មវិធី​ដែល​បាន​ទាញយក និង ទិន្នន័យ​ពាក់ព័ន្ធ​នឹង​វា​ទាំងអស់។ ទិន្នន័យ​នេះ​មិន​អាច​សង្គ្រោះ​មក​វិញ​ឡើយ។</string>
+    <string name="kg_failed_attempts_almost_at_login" formatted="false">"អ្នក​បាន​គូរ​លំនាំ​ដោះ​​សោ​របស់​អ្នក​មិន​ត្រឹមត្រូវ​ចំនួន %d ដង។ បន្ទាប់​ពី​ការ​ព្យាយាម​មិន​ជោគជ័យ​​ច្រើនជាង %d ដង អ្នក​នឹង​ត្រូវ​បាន​​ស្នើ​ឲ្យ​ដោះ​សោ​ទូរស័ព្ទ​របស់​អ្នក​ដោយ​ប្រើ​គណនី​អ៊ីមែល។
+
+ ព្យាយាម​ម្ដង​ទៀត​ក្នុង​រយៈ​ពេល %d វិនាទី។"</string>
+    <string name="kg_password_wrong_pin_code_pukked">លេខ​កូដ PIN ស៊ីម​មិន​ត្រឹមត្រូវ អ្នក​ត្រូវ​ទាក់ទង​ក្រុមហ៊ុន​បញ្ជូន​របស់​អ្នក​ឥឡូវ​នេះ ដើម្បី​ដោះ​សោ​ឧបករណ៍​របស់​អ្នក។</string>
+    <string name="kg_password_wrong_pin_code_one">បាន​វាយបញ្ចូល PIN នៃ​កាត SIM មិន​ត្រឹមត្រូវ។ អ្នក​នៅសល់​ការប៉ុនប៉ង 1 ដង ទៀត។</string>
+    <string name="kg_password_wrong_pin_code_other">បាន​វាយបញ្ចូល PIN នៃ​កាត SIM មិន​ត្រឹមត្រូវ។ អ្នក​នៅសល់​ការប៉ុនប៉ង %d ដង​ទៀត។</string>
+    <string name="kg_password_wrong_puk_code_dead">ស៊ីម​មិន​អាច​ប្រើ​បាន។ ទាក់ទង​ក្រុមហ៊ុន​បញ្ជូន​របស់​អ្នក។</string>
+    <string name="kg_password_pin_failed">បាន​បរាជ័យ​ក្នុង​ការ​ប្រតិបត្តិ​លេខ​កូដ PIN ស៊ីម!</string>
+    <string name="kg_password_puk_failed">បាន​បរាជ័យ​ក្នុង​ការ​ប្រតិបត្តិ​​លេខ​កូដ PUK ស៊ីម!</string>
+    <string name="kg_pin_accepted">បាន​ទទួល​យក​លេខ​កូដ​!</string>
+    <string name="keyguard_carrier_default">គ្មាន​សេវា​</string>
+    <string name="accessibility_ime_switch_button">ប្ដូរ​ប៊ូតុង​វិធីសាស្ត្រ​បញ្ចូល។</string>
+    <string name="airplane_mode">ទម្រង់​យន្តហោះ</string>
+    <string name="kg_prompt_reason_restart_pattern">តម្រូវឲ្យមានលំនាំនៅពេលដែលអ្នកចាប់ផ្តើមឧបករណ៍ឡើងវិញ។</string>
+    <string name="kg_prompt_reason_restart_pin">តម្រូវឲ្យមានកូដ PIN នៅពេលដែលអ្នកចាប់ផ្តើមឧបករណ៍ឡើងវិញ។</string>
+    <string name="kg_prompt_reason_restart_password">តម្រូវឲ្យមានពាក្យសម្ងាត់នៅពេលដែលអ្នកចាប់ផ្តើមឧបករណ៍ឡើងវិញ។</string>
+    <string name="kg_strong_auth_prompt_reason_timeout_pattern">គូស​លំនាំ​ជំនួស​ឲ្យ​ការប្រើ​ការទទួលស្គាល់​ស្នាមម្រាមដៃ បន្ទាប់​ពី​មិន​បាន​ប្រើ​ឧបករណ៍​លើស​ពី 24 ម៉ោង ដើម្បី​ការពារ​ស្នាមម្រាមដៃ</string>
+    <string name="kg_strong_auth_prompt_reason_timeout_pin">វាយបញ្ចូល PIN ជំនួស​ឲ្យ​ការប្រើ​ការទទួលស្គាល់​ស្នាមម្រាមដៃ បន្ទាប់​ពី​មិន​បាន​ប្រើ​ឧបករណ៍​លើស​ពី 24 ម៉ោង ដើម្បី​ការពារ​ស្នាមម្រាមដៃ</string>
+    <string name="kg_strong_auth_prompt_reason_timeout_password">វាយបញ្ចូល​ពាក្យសម្ងាត់​ជំនួស​ឲ្យ​ការប្រើ​ការទទួលស្គាល់​ស្នាមម្រាមដៃ បន្ទាប់​ពី​មិន​បាន​ប្រើ​ឧបករណ៍​លើស​ពី 24 ម៉ោង ដើម្បី​ការពារ​ស្នាមម្រាមដៃ</string>
+    <string name="kg_prompt_reason_switch_profiles_pattern">តម្រូវឲ្យមានលំនាំនៅពេលដែលអ្នកប្តូរប្រវត្តិរូបរបស់អ្នក។</string>
+    <string name="kg_prompt_reason_switch_profiles_pin">តម្រូវឲ្យមានកូដ PIN នៅពេលដែលអ្នកប្តូរប្រវត្តិរូបរបស់អ្នក។</string>
+    <string name="kg_prompt_reason_switch_profiles_password">តម្រូវឲ្យមានពាក្យសម្ងាត់នៅពេលដែលអ្នកប្តូរប្រវត្តិរូបរបស់អ្នក។</string>
+    <string name="fingerprint_not_recognized">មិនអាចសម្គាល់បានទេ</string>
+    <string name="fingerprint_no_match">គ្មាន​ការផ្គូគ្នា</string>
+    <string name="keyguard_perso_locked_message">ខ្ទប់ USIM ផ្សេងទៀត</string>
+    <string name="keyguard_pin_locked_message">វាយបញ្ចូល PIN</string>
+    <string name="keyguard_puk_locked_message">វាយបញ្ចូល PUK</string>
+    <string name="keyguard_dualclock_home">ផ្ទះ</string>
+    <string name="keyguard_dualclock_roaming">រ៉ូមីង</string>
+    <string name="keyguard_dualclock_home_Seoul">ម៉ោង​នៅ​សេអ៊ូល</string>
+    <string name="keyguard_dualclock_roaming_Korea">រ៉ូមីង</string>
+    <string name="keyguard_progress_erasing_all">Deleting all data…</string>
+    <string name="keyguard_recovery_instructions">វាយបញ្ចូល​ពាក្យសម្ងាត់​សង្គ្រោះ​ដើម្បី​ដោះសោ។</string>
+    <string name="kg_sim_pin_remaining_1_attempt">អ្នក​នៅសល់​ការប៉ុនប៉ង 1 ដង ទៀត។</string>
+    <string name="kg_sim_pin_remaining_attempts">អ្នក​នៅសល់​ការប៉ុនប៉ង %d ដង។</string>
+    <string name="kg_sim_puk_remaining_1_attempt">បើ​អ្នក​វាយបញ្ចូល PUK មិន​ត្រឹមត្រូវ 1 ដង​ទៀត នោះ SIM នឹង​ត្រូវ​បាន​ចាក់សោ។</string>
+    <string name="kg_sim_puk_remaining_attempts">បើ​អ្នក​វាយបញ្ចូល PUK មិន​ត្រឹមត្រូវ %d ដង​ទៀត នោះ SIM នឹង​ត្រូវ​បាន​ចាក់សោ។</string>
+    <string name="kg_kor_password_wrong_pin_code">បាន​វាយបញ្ចូល PIN មិន​ត្រឹមត្រូវ។ សល់​ការប៉ុនប៉ង %d។ ទាក់ទង​សេវា​អតិថិជន។</string>
+    <string name="kg_kor_sim_unlock_progress_dialog_message">កំពុង​ដោះ​សោកាត SIM</string>
+    <string name="kg_kor_sim_puk_instructions">វាយបញ្ចូល PUK។</string>
+    <string name="kg_kor_invalid_sim_puk_hint">វាយបញ្ចូល​កូដ​ដោះសោ PIN (PUK) 8 ខ្ទង់</string>
+    <string name="kg_kor_empty_sim_puk_hint">មិន​បាន​វាយបញ្ចូល​កូដ​ដោះសោ។ វាយបញ្ចូល​កូដ​ដោះសោ PIN (PUK)។</string>
+    <string name="kg_kor_puk_enter_pin_hint">"បង្កើត PIN នៃ​កាត USIM ថ្មី។
+PIN ត្រូវតែ​មាន​ប្រវែង 4 ទៅ 8 ខ្ទង់។"</string>
+    <string name="kg_kor_enter_confirm_pin_hint">វាយបញ្ចូល PIN នៃ​កាត USIM ម្ដងទៀត ដើម្បី​បញ្ជាក់​វា។</string>
+    <string name="kg_kor_invalid_confirm_pin_hint">PINs ថ្មី មិន​ផ្គូគ្នា។</string>
+    <string name="kg_kor_wrong_puk_code">កំហុស​បញ្ចូល​កូដ​ឈប់​ខ្ទប់</string>
+    <string name="kg_kor_sim_puk_remaining_attempts">"បាន​វាយបញ្ចូល PUK មិន​ត្រឹមត្រូវ %1$d ដង។ បើ​វាយបញ្ចូល PUK មិន​ត្រឹមត្រូវ %2$d ដង​ទៀត កាត USIM នឹង​ត្រូវ​បាន​ខ្ទប់​ជា​រៀង​រហូត។
+
+បើ​អ្នក​មិន​ស្គាល់ PUK របស់​អ្នក​ទេ សូម​ទៅ​មជ្ឈមណ្ឌល​សេវា​អតិថិជន។"</string>
+    <string name="kg_kor_success_pin_message">បាន​រក្សាទុក​ពាក្យសម្ងាត់ (PIN) ថ្មី ដោយ​ជោគជ័យ។</string>
+    <string name="kg_ktt_sim_perso_instructions">វាយបញ្ចូល​ពាក្យសម្ងាត់ (PIN) 4 ទៅ 8 ខ្ទង់</string>
+    <string name="kg_empty_sim_perso_hint">មិន​បាន​វាយបញ្ចូល​ពាក្យសម្ងាត់​ណា​មួយ។ វាយបញ្ចូល​ពាក្យសម្ងាត់ (PIN)។</string>
+    <string name="kg_password_perso_failed">PIN មិន​ត្រឹមត្រូវ។ ពិនិត្យ PIN និង សាកល្បង​ម្តងទៀត។</string>
+    <string name="kg_password_perso_max_failed">បាន​វាយ​បញ្ចូល PIN មិន​ត្រឹមត្រូវ​សម្រាប់​សោ​កាត USIM។ បាន​ដល់​ចំនួន​អតិបរមា​នៃ​ការសាកល្បង​ឡើងវិញ។ ចាប់ផ្ដើម​ឧបករណ៍​ឡើងវិញ ឬ ចូលមើល​មជ្ឈមណ្ឌល CS។</string>
+    <string name="keyguard_fmm_phone_locked_title">ទូរសព្ទ​ជាប់​សោ។</string>
+    <string name="keyguard_fmm_owner_phone">លេខ​របស់​ម្ចាស់</string>
+    <string name="kg_wrong_universal_lock">បាន​គូស​ទិសដៅ​មិន​ត្រឹមត្រូវ</string>
+    <string name="kg_universal_lock_instructions_normal_mode">គូស​ស៊េរី​នៃ​ទិសដៅ ដើម្បី​ដោះសោ​អេក្រង់</string>
+    <string name="keyguard_accessibility_universal_lock_unlock">សោ​ទិសដៅ</string>
+    <string name="kg_wrong_universal_lock_vzw">Incorrect directions (%d attempts remaining)</string>
+    <string name="universal_lock_too_many_failed_attempts_countdown">សាកល្បង​ម្ដង​ទៀត​ក្នុង​ពេល %d វិនាទី</string>
+    <string name="kg_too_many_failed_attempt_countdown">សាកល្បង​ម្ដងទៀត​ក្នុង​ពេល 1 វិនាទី</string>
+    <string name="kg_lockscreen_backup_pin_button_text">PIN ជំនួយ</string>
+    <string name="kg_lockscreen_emergency_call_button_text">ការហៅ​អាសន្ន</string>
+    <string name="kg_sim_lock_accepted">បាន​ព្រមទទួល​កូដ។</string>
+    <string name="kg_fingerprints_pattern_instructions">ប្រើ​ស្នាមម្រាមដៃ ឬ គូស​លំនាំ​ដោះសោ</string>
+    <string name="kg_fingerprints_pin_instructions">ប្រើ​ស្នាមម្រាមដៃ ឬ វាយបញ្ចូល PIN</string>
+    <string name="kg_fingerprints_password_instructions">ប្រើ​ស្នាមម្រាមដៃ ឬ វាយបញ្ចូល​ពាក្យសម្ងាត់</string>
+    <string name="kg_fingerprints_pattern_bouncer_instructions">ប្រើ​ស្នាមម្រាមដៃ ឬ គូស​លំនាំ ដើម្បី​បើក</string>
+    <string name="kg_fingerprints_pin_bouncer_instructions">ប្រើ​ស្នាមម្រាមដៃ ឬ វាយបញ្ចូល PIN ដើម្បី​បើក</string>
+    <string name="kg_fingerprints_password_bouncer_instructions">ប្រើ​ស្នាមម្រាមដៃ ឬ វាយបញ្ចូល​ពាក្យសម្ងាត់ ដើម្បី​បើក</string>
+    <string name="kg_fingerprints_pattern_unabled_instructions">គូស​លំនាំ​ជំនួស​ឲ្យ​ការប្រើ​ការទទួលស្គាល់​ស្នាមម្រាមដៃ បន្ទាប់​ពី​ចាប់ផ្ដើម​ឧបករណ៍​ឡើងវិញ ដើម្បី​ការពារ​ស្នាមម្រាមដៃ</string>
+    <string name="kg_fingerprints_pin_unabled_instructions">វាយបញ្ចូល PIN ជំនួស​ឲ្យ​ការប្រើ​ការទទួលស្គាល់​ស្នាមម្រាមដៃ បន្ទាប់​ពី​ចាប់ផ្ដើម​ឧបករណ៍​ឡើងវិញ ដើម្បី​ការពារ​ស្នាមម្រាមដៃ</string>
+    <string name="kg_fingerprints_password_unabled_instructions">វាយបញ្ចូល​ពាក្យសម្ងាត់​ជំនួស​ឲ្យ​ការទទួលស្គាល់​ស្នាមម្រាមដៃ បន្ទាប់​ពី​ចាប់ផ្ដើម​ឧបករណ៍​ឡើងវិញ ដើម្បី​ការពារ​ស្នាមម្រាមដៃ</string>
+    <string name="kg_finger_print_not_responding_error_message">សិនសឺ​ស្នាមម្រាមដៃ​មិន​ឆ្លើយតប។ សាកល្បង​ម្ដងទៀត​ពេលក្រោយ។</string>
+    <string name="kg_finger_print_database_error_message">ទិន្នន័យ​ស្នាមម្រាមដៃ​បាន​ខូច។ កំណត់​ស្នាមម្រាមដៃ​ឡើងវិញ​ជា​ប្រភេទ​សោ​អេក្រង់ រួច​ហើយ​ថែម​ស្នាមម្រាមដៃ​របស់​អ្នក​ម្ដងទៀត ឬ ប្ដូរ​ប្រភេទ​សោ​អេក្រង់។</string>
+    <string name="kg_finger_print_sensor_with_recalibration_error_message">ត្រូវ​ប្រាកដ​ថា គេហប៊ូតុង​ស្អាត និង ស្ងួត រួច​សាកល្បង​ម្ដងទៀត។</string>
+    <string name="kg_finger_print_sensor_changed_error_message">សិនសឺ​ស្នាមម្រាមដៃ​មិន​ត្រូវ​បាន​ប្ដូរ​ត្រឹមត្រូវ។ ទាក់ទង​សេវា​អតិថិជន។</string>
+    <string name="kg_fingerprints_upgrade_popup_title">អាប់ដេត​គោលការណ៍​សន្តិសុខ​សម្រាប់​ស្នាមម្រាមដៃ</string>
+    <string name="kg_fingerprints_upgrade_instructions">"អ្នក​ត្រូវតែ​អាប់ដេត​គោលការណ៍​សន្តិសុខ​ដើម្បី​ការពារ​ស្នាមម្រាមដៃ​របស់​អ្នក។
+
+ដើម្បី​ប្រើ​ស្នាមម្រាមដៃ​ជា​ប្រភេទ​សោ​អេក្រង់​របស់​អ្នក សូម​ប៉ះ បន្ទាប់ ដើម្បី​បង្កើត PIN, លំនាំ ឬ ពាក្យសម្ងាត់ ដើម្បី​ប្រើ​ជា​វិធី​ផ្ទៀងផ្ទាត់​ពីរ​ដង​របស់​អ្នក។
+
+ការផ្ទៀងផ្ទាត់​ពីរ​ដង​ត្រូវ​បាន​ប្រើ​ជំនួស​ឲ្យ​ការទទួលស្គាល់​ស្នាមម្រាមដៃ ក្នុង​ស្ថានភាព​ខាងក្រោម៖
+
+នៅពេល​ឧបករណ៍​ត្រូវ​បាន​ចាប់ផ្ដើម​ឡើងវិញ
+នៅពេល​ឧបករណ៍​មិន​ត្រូវ​បាន​ប្រើ​ក្នុង​ពេល​លើសពី %s ម៉ោង
+នៅពេល​ប្រភេទ​សោ​អេក្រង់ ឬ ការកំណត់​ស្នាមម្រាមដៃ​ត្រូវ​បាន​ប្ដូរ"</string>
+    <string name="keyguard_accessibility_one_hand_operation_left_handed">ប្រើ​ដៃ​ឆ្វេង</string>
+    <string name="keyguard_accessibility_one_hand_operation_right_handed">ប្រើ​ដៃ​ស្តាំ</string>
+    <string name="kg_too_many_failed_attempts_countdown_hours_with_auto_wipe">"បាន​ធ្វើ​ការប៉ុនប៉ង​ដោះសោ​ឧបករណ៍ %1$d ដង។ អ្នក​នៅសល់​ការប៉ុនប៉ង %2$d ដង​ទៀត មុនពេល​ឧបករណ៍​ត្រូវ​បាន​កំណត់​ឡើងវិញ​ទៅ​ការកំណត់​លំនាំដើម​ពី​រោងចក្រ ហើយ​ទិន្នន័យ​ទាំងអស់​ត្រូវ​បាន​លុប​ចោល។
+
+សាកល្បង​ម្ដងទៀត​ក្នុង​ពេល %3$d ម៉ោង។"</string>
+    <string name="kg_too_many_failed_attempts_countdown_1_hour_with_auto_wipe">"បាន​ធ្វើ​ការប៉ុនប៉ង​ដោះសោ​ឧបករណ៍ %1$d ដង។ អ្នក​នៅសល់​ការប៉ុនប៉ង %2$d ដង​ទៀត មុនពេល​ឧបករណ៍​ត្រូវ​បាន​កំណត់​ឡើងវិញ​ទៅ​ការកំណត់​លំនាំដើម​ពី​រោងចក្រ ហើយ​ទិន្នន័យ​ទាំងអស់​ត្រូវ​បាន​លុប​ចោល។
+
+សាកល្បង​ម្ដងទៀត​ក្នុង​ពេល 1 ម៉ោង។"</string>
+    <string name="kg_remained_1_attempts_with_auto_wipe">You only have 1 attempt left to unlock your phone before it is reset to factory mode. This will delete all data, including files and downloaded apps.</string>
+    <string name="kg_remained_1_attempts_with_auto_wipe_subuser">You only have 1 attempt left to unlock your tablet before your account is removed. This will delete all data on your account, including files, and downloaded apps.</string>
+    <string name="kg_too_many_failed_attempts_countdown_mins_with_auto_wipe">"បាន​ធ្វើ​ការប៉ុនប៉ង​ដោះសោ​ឧបករណ៍ %1$d ដង។ អ្នក​នៅសល់​ការប៉ុនប៉ង %2$d ដង​ទៀត មុនពេល​ឧបករណ៍​ត្រូវ​បាន​កំណត់​ឡើងវិញ​ទៅ​ការកំណត់​លំនាំដើម​ពី​រោងចក្រ ហើយ​ទិន្នន័យ​ទាំងអស់​ត្រូវ​បាន​លុប​ចោល។
+
+សាកល្បង​ម្ដងទៀត​ក្នុង​ពេល %3$d នាទី"</string>
+    <string name="kg_too_many_failed_attempts_countdown_secs_with_auto_wipe">"បាន​ធ្វើ​ការប៉ុនប៉ង​ដោះសោ​ឧបករណ៍ %1$d ដង។ អ្នក​នៅសល់​ការប៉ុនប៉ង %2$d ដង​ទៀត មុនពេល​ឧបករណ៍​ត្រូវ​បាន​កំណត់​ឡើងវិញ​ទៅ​ការកំណត់​លំនាំដើម​ពី​រោងចក្រ ហើយ​ទិន្នន័យ​ទាំងអស់​ត្រូវ​បាន​លុប​ចោល។
+
+សាកល្បង​ម្ដងទៀត​ក្នុង​ពេល %3$d វិនាទី"</string>
+    <string name="kg_too_many_failed_attempts_countdown_1_min_with_auto_wipe">"បាន​ធ្វើ​ការប៉ុនប៉ង​ដោះសោ​ឧបករណ៍ %1$d ដង។ អ្នក​នៅសល់​ការប៉ុនប៉ង %2$d ដង​ទៀត មុនពេល​ឧបករណ៍​ត្រូវ​បាន​កំណត់​ឡើងវិញ​ទៅ​ការកំណត់​លំនាំដើម​ពី​រោងចក្រ ហើយ​ទិន្នន័យ​ទាំងអស់​ត្រូវ​បាន​លុប​ចោល។
+
+សាកល្បង​ម្ដងទៀត​ក្នុង​ពេល 1 នាទី"</string>
+    <string name="kg_too_many_failed_attempts_countdown_1_sec_with_auto_wipe">"បាន​ធ្វើ​ការប៉ុនប៉ង​ដោះសោ​ឧបករណ៍ %1$d ដង។ អ្នក​នៅសល់​ការប៉ុនប៉ង %2$d ដង​ទៀត មុនពេល​ឧបករណ៍​ត្រូវ​បាន​កំណត់​ឡើងវិញ​ទៅ​ការកំណត់​លំនាំដើម​ពី​រោងចក្រ ហើយ​ទិន្នន័យ​ទាំងអស់​ត្រូវ​បាន​លុប​ចោល។
+
+សាកល្បង​ម្ដងទៀត​ក្នុង​ពេល 1 វិនាទី"</string>
+    <string name="kg_remained_1_attempt_countdown_mins_with_auto_wipe">"បាន​ធ្វើ​ការប៉ុនប៉ង​ដោះសោ​ឧបករណ៍ %1$d ដង។ អ្នក​នៅសល់​ការប៉ុនប៉ង 1 ដង​ទៀត មុនពេល​ឧបករណ៍​ត្រូវ​បាន​កំណត់​ឡើងវិញ​ទៅ​ការកំណត់​លំនាំដើម​ពី​រោងចក្រ ហើយ​ទិន្នន័យ​ទាំងអស់​ត្រូវ​បាន​លុប​ចោល។
+
+សាកល្បង​ម្ដងទៀត​ក្នុង​ពេល %2$d នាទី"</string>
+    <string name="kg_remained_1_attempt_countdown_secs_with_auto_wipe">"បាន​ធ្វើ​ការប៉ុនប៉ង​ដោះសោ​ឧបករណ៍ %1$d ដង។ អ្នក​នៅសល់​ការប៉ុនប៉ង 1 ដង​ទៀត មុនពេល​ឧបករណ៍​ត្រូវ​បាន​កំណត់​ឡើងវិញ​ទៅ​ការកំណត់​លំនាំដើម​ពី​រោងចក្រ ហើយ​ទិន្នន័យ​ទាំងអស់​ត្រូវ​បាន​លុប​ចោល។
+
+សាកល្បង​ម្ដងទៀត​ក្នុង​ពេល %2$d វិនាទី"</string>
+    <string name="kg_remained_1_attempt_countdown_1_min_with_auto_wipe">"បាន​ធ្វើ​ការប៉ុនប៉ង​ដោះសោ​ឧបករណ៍ %d ដង។ អ្នក​នៅសល់​ការប៉ុនប៉ង 1 ដង​ទៀត មុនពេល​ឧបករណ៍​ត្រូវ​បាន​កំណត់​ឡើងវិញ​ទៅ​ការកំណត់​លំនាំដើម​ពី​រោងចក្រ ហើយ​ទិន្នន័យ​ទាំងអស់​ត្រូវ​បាន​លុប​ចោល។
+
+សាកល្បង​ម្ដងទៀត​ក្នុង​ពេល 1 នាទី"</string>
+    <string name="kg_remained_1_attempt_countdown_1_sec_with_auto_wipe">"បាន​ធ្វើ​ការប៉ុនប៉ង​ដោះសោ​ឧបករណ៍ %d ដង។ អ្នក​នៅសល់​ការប៉ុនប៉ង 1 ដង​ទៀត មុនពេល​ឧបករណ៍​ត្រូវ​បាន​កំណត់​ឡើងវិញ​ទៅ​ការកំណត់​លំនាំដើម​ពី​រោងចក្រ ហើយ​ទិន្នន័យ​ទាំងអស់​ត្រូវ​បាន​លុប​ចោល។
+
+សាកល្បង​ម្ដងទៀត​ក្នុង​ពេល 1 វិនាទី"</string>
+    <string name="kg_too_many_failed_attempts_remaining_with_auto_wipe">សល់​ការប៉ុនប៉ង %d ដង</string>
+    <string name="kg_too_many_failed_1_attempt_remaining_with_auto_wipe">សល់​ការប៉ុនប៉ង 1 ដង</string>
+    <string name="kg_too_many_failed_countdown_mins_with_auto_wipe">សាកល្បង​ម្ដងទៀត​ក្នុង​ពេល %d នាទី</string>
+    <string name="kg_too_many_failed_countdown_1_min_with_auto_wipe">សាកល្បង​ម្តងទៀត​ក្នុង​ពេល 1 នាទី</string>
+    <string name="kg_too_many_failed_countdown_secs_with_auto_wipe">សាកល្បង​ម្ដងទៀត​ក្នុង​ពេល %d វិនាទី</string>
+    <string name="kg_too_many_failed_countdown_1_sec_with_auto_wipe">សាកល្បង​ម្ដងទៀត​ក្នុង​ពេល 1 វិនាទី</string>
+    <string name="kg_too_many_failed_attempts_remaining_with_auto_wipe_mobile_keyboard">អ្នក​នៅសល់​ការប៉ុនប៉ង %d ដង​ទៀត មុនពេល​ឧបករណ៍​ត្រូវ​បាន​កំណត់​ឡើងវិញ​ទៅ​ការកំណត់​លំនាំដើម​ពី​រោងចក្រ ហើយ​ទិន្នន័យ​ទាំងអស់​ត្រូវ​បាន​លុប​ចោល។</string>
+    <string name="kg_too_many_failed_1_attempt_remaining_with_auto_wipe_mobile_keyboard">អ្នក​នៅសល់​ការប៉ុនប៉ង 1 ដង​ទៀត មុនពេល​ឧបករណ៍​ត្រូវ​បាន​កំណត់​ឡើងវិញ​ទៅ​ការកំណត់​​លំនាំដើម​ពី​រោងចក្រ ហើយ​ទិន្នន័យ​ទាំងអស់​នឹង​ត្រូវ​បាន​លុប​ចោល។</string>
+    <string name="kg_tts_shortcut_phone">ប៉ះ​ពីរដង ហើយ​អូស ដើម្បី​បើក​ទូរសព្ទ។</string>
+    <string name="kg_tts_shortcut_camera">ប៉ះ​ពីរដង ហើយ​អូស​ដើម្បី​បើក​កាមេរ៉ា។</string>
+    <string name="kg_tts_shortcut_app">ប៉ះ​ពីរដង ហើយ​អូស​ដើម្បី​បើក %s។</string>
+    <string name="kg_dcm_sim_puk_instructions">PIN ត្រូវ​បាន​ខ្ទប់។ វាយបញ្ចូល PUK ដើម្បី​បន្ត។</string>
+    <string name="kg_liveweather_delete_main_text">រូបផ្ទៃអេក្រង់​អាកាសធាតុ​ផ្ទាល់ មិន​ទទួល​ការគាំទ្រ​ដោយ​កំណែ OS នេះ​ទេ។ ប៉ះ​ការកំណត់​រូបផ្ទៃអេក្រង់ ដើម្បី​ប្ដូរ​រូបផ្ទៃអេក្រង់​ជាប់សោ​របស់​អ្នក។</string>
+    <string name="kg_liveweather_delete_title_text">អេក្រង់​ជាប់​សោ</string>
+    <string name="kg_liveweather_delete_buttion_text">ការកំណត់​រូបផ្ទៃអេក្រង់</string>
+    <string name="kg_default_carrier_text_searching">កំពុង​ស្វែង​រក</string>
+    <string name="flight_mode">ទម្រង់​យន្តហោះ</string>
+    <string name="app_label">ចំណុច​ប្រទាក់​ប្រព័ន្ធ</string>
+    <string name="status_bar_clear_all_button">ជម្រះ</string>
+    <string name="status_bar_recent_remove_item_title">យក​ចេញ​ពី​បញ្ជី</string>
+    <string name="status_bar_recent_inspect_item_title">ព័ត៌មាន​កម្មវិធី</string>
+    <string name="status_bar_no_recent_apps">អេក្រង់​បច្ចុប្បន្ន​របស់​អ្នក​បង្ហាញ​នៅ​ទីនេះ</string>
+    <string name="status_bar_accessibility_dismiss_recents">បដិសេធ​កម្មវិធី​ថ្មីៗ</string>
+    <string name="status_bar_no_notifications_title">គ្មាន​ការ​ជូន​ដំណឹង</string>
+    <string name="status_bar_ongoing_events_title">បន្ត</string>
+    <string name="status_bar_latest_events_title">ការ​ជូន​ដំណឹង</string>
+    <string name="battery_low_title">ជិត​អស់​ថ្ម​ហើយ</string>
+    <string name="battery_low_percent_format">នៅ​សល់ %s</string>
+    <string name="battery_low_percent_format_saver_started">នៅ​សល់ %s ។ កម្មវិធី​សន្សំថ្ម​គឺ​បើក។</string>
+    <string name="invalid_charger">"មិន​គាំទ្រ​ការ​បញ្ចូល​តាម​យូអេសប៊ី។
+ប្រើ​តែ​ឧបករណ៍​បញ្ចូល​ថ្ម​ដែល​បាន​ផ្ដល់។"</string>
+    <string name="invalid_charger_title">មិន​គាំទ្រ​ការ​បញ្ចូល​ថ្ម​តាម​យូអេសប៊ី​ទេ។</string>
+    <string name="invalid_charger_text">ប្រើ​តែ​ឧបករណ៍​បញ្ចូល​ថ្ម​ដែល​បាន​ផ្ដល់​ឲ្យ។</string>
+    <string name="battery_low_why">ការកំណត់</string>
+    <string name="battery_saver_confirmation_title">បើក​ធាតុ​រក្សា​ថាមពល​ថ្ម​?</string>
+    <string name="battery_saver_confirmation_ok">បើក</string>
+    <string name="battery_saver_start_action">បើក​ធាតុ​រក្សា​ថាមពល​ថ្ម</string>
+    <string name="status_bar_settings_settings_button">ការ​កំណត់</string>
+    <string name="status_bar_settings_wifi_button">វ៉ាយហ្វាយ</string>
+    <string name="status_bar_settings_auto_rotation">បង្វិល​អេក្រង់​ស្វ័យ​ប្រវត្តិ</string>
+    <string name="status_bar_settings_mute_label">ស្ងាត់</string>
+    <string name="status_bar_settings_auto_brightness_label">ស្វ័យប្រវត្តិ</string>
+    <string name="brightness_controller_label_text">ស្វ័យប្រវត្តិ</string>
+    <string name="status_bar_settings_notifications">ការ​ជូន​ដំណឹង</string>
+    <string name="bluetooth_tethered">បាន​ភ្ជាប់​ប៊្លូធូស</string>
+    <string name="status_bar_input_method_settings_configure_input_methods">រៀបចំ​វិធីសាស្ត្រ​បញ្ចូល</string>
+    <string name="status_bar_use_physical_keyboard">ក្ដារ​ចុច​ពិតប្រាកដ</string>
+    <string name="usb_device_permission_prompt">ឲ្យ​កម្មវិធី %1$s ចូល​ដំណើរការ​ឧបករណ៍​យូអេសប៊ី?</string>
+    <string name="usb_accessory_permission_prompt">ឲ្យ​កម្មវិធី %1$s ចូល​ដំណើរការ​ឧបករណ៍​យូអេសប៊ី?</string>
+    <string name="usb_device_confirm_prompt">បើក %1$s ពេល​បាន​ភ្ជាប់​ឧបករណ៍​យូអេសប៊ី​នេះ?</string>
+    <string name="usb_accessory_confirm_prompt">បើក %1$s ពេល​បាន​ភ្ជាប់​ឧបករណ៍​យូអេសប៊ី?</string>
+    <string name="usb_accessory_uri_prompt">គ្មាន​កម្មវិធី​បាន​ដំឡើង​ដំណើរការ​ជា​មួយ​ឧបករណ៍​យូអេសប៊ី។ ស្វែងយល់​បន្ថែម​អំពី​ឧបករណ៍​នេះ​នៅ %1$s</string>
+    <string name="title_usb_accessory">ឧបករណ៍​យូអេសប៊ី</string>
+    <string name="label_view">មើល</string>
+    <string name="always_use_device">ប្រើ​តាម​លំនាំដើម​សម្រាប់​ឧបករណ៍​យូអេសប៊ី​នេះ</string>
+    <string name="always_use_accessory">ប្រើ​តាម​លំនាំដើម​សម្រាប់​ខ្សែ​យូអេសប៊ី​នេះ</string>
+    <string name="usb_debugging_title">អនុញ្ញាត​ការ​កែ​កំហុស​យូអេសប៊ី?</string>
+    <string name="usb_debugging_message">"ស្នាម​ម្រាម​ដៃ​ RSA របស់​កុំព្យូទ័រ​គឺ៖ 
+%1$s"</string>
+    <string name="usb_debugging_always">អនុញ្ញាត​ជា​និច្ច​សម្រាប់​កុំព្យូទ័រ​នេះ</string>
+    <string name="usb_debugging_secondary_user_title">មិនអនុញ្ញាតការកែកំហុសតាមរយៈយូអេសប៊ីទេ</string>
+    <string name="usb_debugging_secondary_user_message">អ្នកប្រើដែលបានចូលទៅឧបករណ៍នេះនាពេលបច្ចុប្បន្នមិនអាចបើកការកែកំហុសតាមរយៈយូអេសប៊ីបានទេ។ ដើម្បីប្រើលក្ខណៈពិសេសនេះ សូមប្តូរទៅអ្នកប្រើចម្បង “%s”។</string>
+    <string name="compat_mode_on">ពង្រីក​​ដើម្បី​ឲ្យ​ពេញ​អេក្រង់</string>
+    <string name="compat_mode_off">ទាញ​ដើម្បី​ឲ្យ​ពេញ​អេក្រង់</string>
+    <string name="screenshot_saving_ticker">កំពុង​រក្សាទុក​រូបថត​អេក្រង់…</string>
+    <string name="screenshot_saving_title">កំពុង​រក្សាទុក​រូបថត​អេក្រង់...</string>
+    <string name="screenshot_saving_text">រូបថត​អេក្រង់​កំពុង​ត្រូវ​បាន​រក្សាទុក។</string>
+    <string name="screenshot_saved_title">បាន​ថត​រូប​អេក្រង់</string>
+    <string name="screenshot_saved_text">ប៉ះ​ដើម្បី​បង្ហាញ​រូបថត​អេក្រង់។</string>
+    <string name="screenshot_failed_title">មិន​អាច​ថត​អេក្រង់</string>
+    <string name="screenshot_failed_text">មិនអាចថតអេក្រង់ដោយសារតែទំហំផ្ទុកមានដែនកំណត់ ឬវាមិនត្រូវបានអនុញ្ញាត​ដោយកម្មវិធី ឬ​ស្ថាប័ន​របស់​អ្នក។</string>
+    <string name="screenshot_failed_text_due_to_security_policy">គោលការណ៍​សន្តិសុខ​អាច​រារាំង​មិន​ឲ្យ​ថត​អេក្រង់។</string>
+    <string name="screen_capture_fail_for_storage_capacity">លំហ​មិន​គ្រប់គ្រាន់​ក្នុង​ឃ្លាំងផ្ទុក​នៃ​ឧបករណ៍។ លុប​ឯកសារ​ខ្លះ ហើយ​សាកល្បង​ម្ដងទៀត។</string>
+    <string name="screen_capture_fail_for_security_policy">មិន​អាច​ថត​រូបអេក្រង់។ បាន​រារាំង​ដោយ​គោលការណ៍​សន្តិសុខ។</string>
+    <string name="no_such_item">មិន​អាច​រក​ធាតុ។</string>
+    <string name="one_item_will_be_deleted">នឹង​លុប​ធាតុ 1។</string>
+    <string name="screen_capture_edit">កែ</string>
+    <string name="screen_capture_share">ចែករំលែក</string>
+    <string name="screen_capture_delete">លុប</string>
+    <string name="share_via">ចែក​រំលែក​តាម</string>
+    <string name="usb_preference_title">ជម្រើស​ផ្ទេរ​ឯកសារ​តាម​យូអេសប៊ី</string>
+    <string name="use_mtp_button_title">ភ្ជាប់​ជា​កម្មវិធី​ចាក់​មេឌៀ (MTP)</string>
+    <string name="use_ptp_button_title">ភ្ជាប់​ជា​ម៉ាស៊ីន​ថត (PTP)</string>
+    <string name="installer_cd_button_title">ដំឡើង​កម្មវិធី​ផ្ទេរ​ឯកសារ Android សម្រាប់ Mac</string>
+    <string name="accessibility_back">ថយក្រោយ</string>
+    <string name="accessibility_home">គេហ​ទំព័រ</string>
+    <string name="accessibility_menu">ម៉ឺនុយ</string>
+    <string name="accessibility_recent">ទិដ្ឋភាព</string>
+    <string name="accessibility_search_light">ស្វែងរក</string>
+    <string name="accessibility_camera_button">ម៉ាស៊ីន​ថត</string>
+    <string name="accessibility_phone_button">ទូរស័ព្ទ</string>
+    <string name="accessibility_voice_assist_button">ជំនួយសំឡេង</string>
+    <string name="accessibility_unlock_button">ដោះ​​សោ</string>
+    <string name="accessibility_unlock_button_fingerprint">ប៊ូតុងដោះសោ កំពុងរង់ចាំស្នាមម្រាមដៃ</string>
+    <string name="accessibility_unlock_without_fingerprint">ដោះសោដោយមិនបាច់ប្រើស្នាមម្រាមដៃរបស់អ្នក</string>
+    <string name="unlock_label">ដោះ​សោ</string>
+    <string name="phone_label">បើក​ទូរស័ព្ទ</string>
+    <string name="voice_assist_label">បើកជំនួយសំឡេង</string>
+    <string name="camera_label">បើក​ម៉ាស៊ីន​ថត</string>
+    <string name="recents_caption_resize">ជ្រើសប្លង់ភារកិច្ចថ្មី</string>
+    <string name="accessibility_compatibility_zoom_button">ប៊ូតុង​ពង្រីក​ត្រូវ​គ្នា។</string>
+    <string name="accessibility_compatibility_zoom_example">ពង្រីក/បង្រួម​​អេក្រង់​ពី​​ទៅធំ</string>
+    <string name="accessibility_bluetooth_connected">បាន​តភ្ជាប់​ប៊្លូធូស។</string>
+    <string name="accessibility_bluetooth_disconnected">បាន​ផ្ដាច់​​ប៊្លូធូស។</string>
+    <string name="accessibility_no_battery">គ្មាន​ថ្ម។</string>
+    <string name="accessibility_battery_one_bar">ថ្ម​មួយ​កាំ។</string>
+    <string name="accessibility_battery_two_bars">ថ្ម​ពីរ​កាំ។</string>
+    <string name="accessibility_battery_three_bars">ថ្ម​ទាំង​បី​​កាំ​។</string>
+    <string name="accessibility_battery_full">ថ្ម​ពេញ​ហើយ។</string>
+    <string name="accessibility_no_phone">គ្មាន​ទូរស័ព្ទ។</string>
+    <string name="accessibility_phone_one_bar">សេវា​ទូរស័ព្ទ​មួយ​កាំ។</string>
+    <string name="accessibility_phone_two_bars">សេវា​ទូរស័ព្ទ​ពីរ​កាំ។</string>
+    <string name="accessibility_phone_three_bars">សេវា​ទូរស័ព្ទ​បី​កាំ​។</string>
+    <string name="accessibility_phone_signal_full">សេវា​ទូរស័ព្ទ​ពេញ។</string>
+    <string name="accessibility_no_data">គ្មាន​ទិន្នន័យ​។</string>
+    <string name="accessibility_data_one_bar">ទិន្នន័យ​មួយ​​កាំ។</string>
+    <string name="accessibility_data_two_bars">ទិន្នន័យ​ពីរ​​កាំ។</string>
+    <string name="accessibility_data_three_bars">ទិន្នន័យ​បី​កាំ។</string>
+    <string name="accessibility_data_signal_full">សញ្ញា​ទិន្នន័យ​ពេញ។</string>
+    <string name="accessibility_wifi_name">បាន​ភ្ជាប់​ទៅ %s ។</string>
+    <string name="accessibility_bluetooth_name">បាន​ភ្ជាប់​ទៅ %s ។</string>
+    <string name="accessibility_wifi_signal_full">សេវា Wi-Fi ពេញ។</string>
+    <string name="accessibility_wifi_three_bars">សេវា Wi-Fi បី​កាំ</string>
+    <string name="accessibility_wifi_two_bars">សេវា Wi-Fi ពីរ​កាំ</string>
+    <string name="accessibility_wifi_one_bar">សេវា Wi-Fi មួយ​កាំ</string>
+    <string name="accessibility_no_wifi">គ្មាន​សេវា Wi-Fi</string>
+    <string name="accessibility_no_wimax">គ្មាន WiMAX ។</string>
+    <string name="accessibility_wimax_one_bar">WiMAX មួយ​កាំ។</string>
+    <string name="accessibility_wimax_two_bars">WiMAX ពីរ​កាំ។</string>
+    <string name="accessibility_wimax_three_bars">WiMAX បី​កាំ។</string>
+    <string name="accessibility_wimax_signal_full">សញ្ញា WiMAX ពេញ។</string>
+    <string name="accessibility_ethernet_disconnected">បានផ្តាច់អ៊ីសឺរណិត។</string>
+    <string name="accessibility_ethernet_connected">បានភ្ជាប់អ៊ីសឺរណិត។</string>
+    <string name="accessibility_no_signal">គ្មាន​សញ្ញា។</string>
+    <string name="accessibility_not_connected">មិន​បាន​តភ្ជាប់​។</string>
+    <string name="accessibility_zero_bars">សូន្យ​កាំ។</string>
+    <string name="accessibility_one_bar">មួយ​កាំ។</string>
+    <string name="accessibility_two_bars">ពីរ​កាំ។</string>
+    <string name="accessibility_three_bars">បី​កាំ។</string>
+    <string name="accessibility_signal_full">សញ្ញា​ពេញ​​។</string>
+    <string name="accessibility_desc_on">បើក។</string>
+    <string name="accessibility_desc_off">បិទ</string>
+    <string name="accessibility_desc_connected">បាន​តភ្ជាប់។</string>
+    <string name="accessibility_desc_connecting">ការ​ភ្ជាប់​។</string>
+    <string name="accessibility_data_connection_gprs">GPRS</string>
+    <string name="accessibility_data_connection_1x">1 X</string>
+    <string name="accessibility_data_connection_hspa">HSPA</string>
+    <string name="accessibility_data_connection_3g">3G</string>
+    <string name="accessibility_data_connection_3.5g">3.5G</string>
+    <string name="accessibility_data_connection_4g">4G</string>
+    <string name="accessibility_data_connection_lte">LTE</string>
+    <string name="accessibility_data_connection_cdma">CDMA</string>
+    <string name="accessibility_data_connection_roaming">រ៉ូ​មីង</string>
+    <string name="accessibility_data_connection_edge">Edge</string>
+    <string name="accessibility_data_connection_wifi">វ៉ាយហ្វាយ</string>
+    <string name="accessibility_no_sim">គ្មាន​ស៊ីម​កាត។</string>
+    <string name="accessibility_bluetooth_tether">ការ​ភ្ជាប់​ប៊្លូធូស។</string>
+    <string name="accessibility_airplane_mode">របៀប​​ពេលជិះ​យន្តហោះ</string>
+    <string name="accessibility_no_sims">គ្មានស៊ីមកាតទេ។</string>
+    <string name="accessibility_carrier_network_change_mode">ការប្តូរបណ្តាញក្រុមហ៊ុនផ្តល់សេវា។</string>
+    <string name="accessibility_settings_button">ការ​កំណត់​ប្រព័ន្ធ​។</string>
+    <string name="accessibility_notifications_button">ការ​ជូន​ដំណឹង។</string>
+    <string name="accessibility_remove_notification">សម្អាត​ការ​ជូន​ដំណឹង។</string>
+    <string name="accessibility_gps_enabled">បាន​បើក GPS ។</string>
+    <string name="accessibility_gps_acquiring">ទទួល​​ GPS ។</string>
+    <string name="accessibility_tty_enabled">បាន​បើក​ម៉ាស៊ីន​អង្គុលីលេខ​</string>
+    <string name="accessibility_ringer_vibrate">កម្មវិធី​រោទ៍​ញ័រ។</string>
+    <string name="accessibility_ringer_silent">កម្មវិធី​រោទ៍​ស្ងាត់។</string>
+    <string name="accessibility_recents_item_will_be_dismissed">បោះបង់ %s ។</string>
+    <string name="accessibility_recents_item_dismissed">%s បដិសេធ។</string>
+    <string name="accessibility_recents_item_closed">បាន​បិទ %s។</string>
+    <string name="accessibility_recents_all_items_dismissed">កម្មវិធីថ្មីៗទាំងអស់ត្រូវបានបោះបង់។</string>
+    <string name="accessibility_recents_item_launched">ចាប់ផ្ដើម %s ។</string>
+    <string name="accessibility_recents_task_header">%1$s %2$s</string>
+    <string name="accessibility_notification_dismissed">បាន​បដិសេធ​ការ​ជូនដំណឹង</string>
+    <string name="accessibility_desc_notification_shade">ពណ៌​ការ​ជូន​ដំណឹង</string>
+    <string name="accessibility_desc_quick_settings">ការ​កំណត់​រហ័ស។</string>
+    <string name="accessibility_desc_lock_screen">ចាក់​សោ​អេក្រង់។</string>
+    <string name="accessibility_desc_settings">ការកំណត់</string>
+    <string name="accessibility_desc_recent_apps">កម្មវិធី​ថ្មីៗ</string>
+    <string name="accessibility_desc_close">បិទ</string>
+    <string name="accessibility_quick_settings_user">អ្នក​ប្រើ %s ។</string>
+    <string name="accessibility_quick_settings_wifi">%1$s.</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">បាន​បិទ​វ៉ាយហ្វាយ។</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">បាន​បើក​វ៉ាយហ្វាយ។</string>
+    <string name="accessibility_quick_settings_mobile">ចល័ត %1$s. %2$s. %3$s.</string>
+    <string name="accessibility_quick_settings_battery">ថ្ម %s ។</string>
+    <string name="accessibility_quick_settings_airplane_off">បិទ​របៀប​ជិះ​យន្តហោះ។</string>
+    <string name="accessibility_quick_settings_airplane_on">បើក​របៀប​ជិះ​យន្តហោះ។</string>
+    <string name="accessibility_quick_settings_airplane_changed_off">បាន​បិទ​របៀប​ជិះ​យន្តហោះ។</string>
+    <string name="accessibility_quick_settings_airplane_changed_on">បាន​បើក​របៀប​ជិះ​យន្តហោះ។</string>
+    <string name="accessibility_quick_settings_dnd_priority_on">បានបើកមុខងារកុំរំខាន (អាទិភាពប៉ុណ្ណោះ)។</string>
+    <string name="accessibility_quick_settings_dnd_none_on">មុខងារកុំរំខានបានបើក ស្ងៀមស្ងាត់ទាំងស្រុង។</string>
+    <string name="accessibility_quick_settings_dnd_alarms_on">មុខងារកុំរំខានបានបើក សម្លេងរោទិ៍ប៉ុណ្ណោះ។</string>
+    <string name="accessibility_quick_settings_dnd_off">បានបិទមុខងារកុំរំខាន។</string>
+    <string name="accessibility_quick_settings_dnd_changed_off">បានបិទមុខងារកុំរំខាន។</string>
+    <string name="accessibility_quick_settings_dnd_changed_on">បានបើកមុខងារកុំរំខាន។</string>
+    <string name="accessibility_quick_settings_bluetooth_off">បិទ​ប៊្លូធូស។</string>
+    <string name="accessibility_quick_settings_bluetooth_on">បើក​ប៊្លូធូស។</string>
+    <string name="accessibility_quick_settings_bluetooth_connecting">ការ​​​ភ្ជាប់​ប៊្លូធូស។</string>
+    <string name="accessibility_quick_settings_bluetooth_connected">បាន​​ភ្ជាប់​ប៊្លូធូស។</string>
+    <string name="accessibility_quick_settings_bluetooth_changed_off">បាន​បិទ​ប៊្លូធូស។</string>
+    <string name="accessibility_quick_settings_bluetooth_changed_on">បាន​បើក​ប៊្លូធូស។</string>
+    <string name="accessibility_quick_settings_location_off">បិទ​ការ​រាយការណ៍​ទីតាំង។</string>
+    <string name="accessibility_quick_settings_location_on">បើក​ការ​រាយការណ៍​ទីតាំង។</string>
+    <string name="accessibility_quick_settings_location_changed_off">បាន​បិទ​ការ​រាយការណ៍​ទីតាំង។</string>
+    <string name="accessibility_quick_settings_location_changed_on">បាន​បើក​ការ​រាយការណ៍​ទីតាំង។</string>
+    <string name="accessibility_quick_settings_alarm">កំណត់​សំឡេង​រោទ៍​សម្រាប់ %s ។</string>
+    <string name="accessibility_quick_settings_close">បិទ​ផ្ទាំង។</string>
+    <string name="accessibility_quick_settings_more_time">ច្រើនជាង</string>
+    <string name="accessibility_quick_settings_less_time">តិច​ជាង</string>
+    <string name="accessibility_quick_settings_flashlight_off">បិទ​ពិល។</string>
+    <string name="accessibility_quick_settings_flashlight_on">បើក​ពិល។</string>
+    <string name="accessibility_quick_settings_flashlight_changed_off">បាន​បិទ​ពិល។</string>
+    <string name="accessibility_quick_settings_flashlight_changed_on">បាន​បើក​ពិល។</string>
+    <string name="accessibility_quick_settings_color_inversion_changed_off">បាន​បិទ​ការ​បញ្ច្រាស​ពណ៌។</string>
+    <string name="accessibility_quick_settings_color_inversion_changed_on">បាន​បើក​ការ​បញ្ច្រាស​ពណ៌។</string>
+    <string name="accessibility_quick_settings_hotspot_changed_off">បាន​បិទ​ហតស្ប៉ត​ចល័ត។</string>
+    <string name="accessibility_quick_settings_hotspot_changed_on">បាន​បើក​ហតស្ប៉ត​ចល័ត។</string>
+    <string name="accessibility_casting_turned_off">បាន​បញ្ឈប់​ការ​ចាត់​ថ្នាក់​អេក្រង់។</string>
+    <string name="accessibility_brightness">ពន្លឺ​ការ​បង្ហាញ</string>
+    <string name="quick_settings_brightness_controller_hbm">បាន​បង្កើន​អតិបរមា​សម្រាប់​ការមើល​ល្អបំផុត​ក្រោម​ពន្លឺ​ព្រះអាទិត្យ</string>
+    <string name="quick_settings_brightness_controller_outdoor_mode_label">ក្រៅ​អគារ</string>
+    <string name="quick_settings_brightness_controller_outdoor_mode_title">ទម្រង់​ក្រៅអគារ</string>
+    <string name="quick_settings_brightness_controller_outdoor_message_vzw">Outdoor mode will maximize screen brightness for best viewing in sunlight. If the screen is not in use, screen brightness will return to the previous setting in 15 minutes.</string>
+    <string name="quick_settings_brightness_controller_outdoor_message">បង្កើន​ពន្លឺ​អេក្រង់​ក្នុង​ពេល %1$d នាទី។ បើ​អេក្រង់​ត្រូវ​បាន​បើក នៅពេល %2$d នាទី បាន​កន្លង​ផុត ទម្រង់​ក្រៅអគារ​នឹង​នៅតែ​បាន​បើកប្រើ​ដដែល រហូត​ទាល់តែ​អេក្រង់​បាន​រលត់។</string>
+    <string name="data_usage_disabled_dialog_3g_title">ទិន្នន័យ 2G-3G ត្រូវបានផ្អាក</string>
+    <string name="data_usage_disabled_dialog_4g_title">ទិន្នន័យ 4G ត្រូវបានផ្អាក</string>
+    <string name="data_usage_disabled_dialog_mobile_title">ទិន្នន័យចល័តត្រូវបានផ្អាក</string>
+    <string name="data_usage_disabled_dialog_title">ទិន្នន័យត្រូវបានផ្អាក</string>
+    <string name="data_usage_disabled_dialog">"ដោយសារទិន្នន័យរបស់អ្នកបានឈានដល់កំណត់ ឧបករណ៍នេះបានផ្អាកការប្រើប្រាស់ទិន្នន័យសម្រាប់ការរំលឹកនៃវគ្គនេះ។
+
+ការបន្តប្រើប្រាស់អាចនាំឲ្យមានការគិតប្រាក់ពីក្រុមហ៊ុនផ្តល់សេវាកម្ម។"</string>
+    <string name="data_usage_disabled_dialog_enable">បន្ត</string>
+    <string name="data_usage_disabled_dialog_limit_title">បាន​បិទ​ទិន្នន័យ​ចល័ត</string>
+    <string name="data_usage_disabled_dialog_limit_title_vzw">Mobile data is now off</string>
+    <string name="data_usage_disabled_dialog_limit">បាន​ដល់​ដែនកំណត់​ប្រើប្រាស់​ទិន្នន័យ​ដែល​បាន​បញ្ជាក់។ អ្នកផ្ដល់​សេវា​អាច​គិត​ថ្លៃ​ការប្រើ​ទិន្នន័យ​បន្ថែម។</string>
+    <string name="data_usage_disabled_dialog_limit_vzw">"You've reached your specified data usage limit, so mobile data has been turned off.
+
+If you turn mobile data back on, you may be charged for data usage by your carrier."</string>
+    <string name="data_usage_disabled_dialog_limit_enable">បើក​ទិន្នន័យ​ចល័ត</string>
+    <string name="data_usage_disabled_dialog_limit_enable_vzw">Turn on data</string>
+    <string name="status_bar_settings_signal_meter_disconnected">គ្មាន​ការ​តភ្ជាប់​អ៊ីនធឺណិត</string>
+    <string name="status_bar_settings_signal_meter_wifi_nossid">បាន​ភ្ជាប់​វ៉ាយហ្វាយ</string>
+    <string name="gps_notification_searching_text">ស្វែងរក GPS</string>
+    <string name="gps_notification_found_text">ទីតាំង​​​​​កំណត់​ដោយ GPS</string>
+    <string name="gps_notification_searching_text_vzw">Finding location</string>
+    <string name="gps_notification_found_text_vzw">Location found</string>
+    <string name="accessibility_location_active">សំណើ​ទីតាំង​សកម្ម</string>
+    <string name="accessibility_clear_all">សម្អាត​ការ​ជូន​ដំណឹង​ទាំងអស់។</string>
+    <string name="status_bar_notification_inspect_item_title">​កំណត់​ការ​ជូនដំណឹង</string>
+    <string name="status_bar_notification_app_settings_title">ការ​កំណត់ %s</string>
+    <string name="accessibility_rotation_lock_off">នឹង​បង្វិល​អេក្រង់​ស្វ័យ​ប្រវត្តិ។</string>
+    <string name="accessibility_rotation_lock_on_landscape">អេក្រង់​ជាប់​សោ​ក្នុង​ទិស​ផ្ដេក។</string>
+    <string name="accessibility_rotation_lock_on_portrait">បា​ន​ចាក់​សោ​អេក្រង់​​ក្នុង​ទិស​បញ្ឈរ។</string>
+    <string name="accessibility_rotation_lock_off_changed">ឥឡូវនេះ​អេក្រង់​នឹង​បង្វិល​ដោយ​ស្វ័យប្រវត្តិ។</string>
+    <string name="accessibility_rotation_lock_on_landscape_changed">ឥឡូវ​អេក្រង់​​ជាប់​សោ​ក្នុង​ទិស​ផ្ដេក។</string>
+    <string name="accessibility_rotation_lock_on_portrait_changed">ឥឡូវ​អេក្រង់​​ជាប់​សោ​ក្នុង​ទិស​បញ្ឈរ។</string>
+    <string name="dessert_case">ករណី Dessert</string>
+    <string name="start_dreams">ធាតុ​រក្សា​អេក្រង់</string>
+    <string name="ethernet_label">អ៊ីសឺរណិត</string>
+    <string name="it_policy_not_allow_wifi">គោលការណ៍​សន្តិសុខ​បង្ការ​ការប្រើ Wi-Fi។</string>
+    <string name="it_policy_not_allow_wifiap">គោលការណ៍​សន្តិសុខ​កំហិត​ការប្រើ​ការចែករំលែក​អ៊ីនធឺណិត។</string>
+    <string name="wifi_in_airplane_mode">ក្នុង​ទម្រង់​យន្តហោះ</string>
+    <string name="wifi_authentication_succeed">បាន​ផ្ទៀងផ្ទាត់​ភាពពិត។</string>
+    <string name="wifi_authentication_failed">ការផ្ទៀងផ្ទាត់​ភាពពិត​បាន​បរាជ័យ។</string>
+    <string name="wifi_authentication_succeed_kt">បាន​បញ្ជាក់ AP នៃ Wi-Fi។</string>
+    <string name="wifi_authentication_failed_kt">បាន​បរាជ័យ​ក្នុង​ការ​បញ្ជាក់ AP នៃ Wi-Fi។</string>
+    <string name="wifi_authentication_not_subscribed">មិន​អាច​ភ្ជាប់​ទៅ​បណ្ដាញ %s។ ចុះឈ្មោះប្រើ​សេវា រួច​សាកល្បង​ម្ដងទៀត។</string>
+    <string name="wifi_authentication_no_response">បាន​បរាជ័យ​ក្នុង​ការ​ភ្ជាប់​ទៅ​បណ្ដាញ AP នៃ Wi-Fi។</string>
+    <string name="wifi_authentication_invalid_value">ការផ្ទៀងផ្ទាត់​ភាពពិត​បាន​បរាជ័យ។ ពិនិត្យ ID និង ពាក្យសម្ងាត់។</string>
+    <string name="wifi_setup_title_connected_network">បាន​ភ្ជាប់​ទៅ​បណ្ដាញ Wi-Fi %s។</string>
+    <string name="wifi_disconnected">បាន​ផ្តាច់ Wi-Fi។</string>
+    <string name="quick_settings_dnd_label">"កុំ​
+រំខាន"</string>
+    <string name="quick_settings_dnd_priority_label">អាទិភាពប៉ុណ្ណោះ</string>
+    <string name="quick_settings_dnd_alarms_label">សំឡេងរោទ៍ប៉ុណ្ណោះ</string>
+    <string name="quick_settings_dnd_none_label">ស្ងៀមស្ងាត់ទាំងស្រុង</string>
+    <string name="quick_settings_dormant_mode_label">"កុំ​
+រំខាន"</string>
+    <string name="quick_settings_bluetooth_label">Bluetooth</string>
+    <string name="quick_settings_bluetooth_multiple_devices_label">ប៊្លូធូស (ឧបករណ៍ %d)</string>
+    <string name="quick_settings_bluetooth_off_label">​ប៊្លូធូស​បាន​បិទ</string>
+    <string name="quick_settings_bluetooth_detail_empty_text">មិន​មាន​ឧបករណ៍​ផ្គូផ្គង​ដែល​អាច​ប្រើ​បាន</string>
+    <string name="quick_settings_brightness_label">ពន្លឺ</string>
+    <string name="quick_settings_rotation_unlocked_label">"ស្វ័យ
+បង្វិល"</string>
+    <string name="quick_settings_rotation_locked_label">បាន​ចាក់សោ​ការ​បង្វិល</string>
+    <string name="quick_settings_rotation_locked_portrait_label">បញ្ឈរ</string>
+    <string name="quick_settings_rotation_locked_landscape_label">ទេសភាព</string>
+    <string name="quick_settings_ime_label">វិធីសាស្ត្រ​បញ្ចូល</string>
+    <string name="quick_settings_location_label">ទី​តាំង​</string>
+    <string name="quick_settings_location_off_label">ទីតាំង​បាន​បិទ</string>
+    <string name="quick_settings_media_device_label">ឧបករណ៍​មេឌៀ</string>
+    <string name="quick_settings_rssi_label">RSSI</string>
+    <string name="quick_settings_rssi_emergency_only">សម្រាប់​តែ​ការ​ហៅ​ពេល​អាសន្ន</string>
+    <string name="quick_settings_settings_label">ការ​កំណត់</string>
+    <string name="quick_settings_time_label">ពេលវេលា</string>
+    <string name="quick_settings_user_label">ខ្ញុំ</string>
+    <string name="quick_settings_user_title">អ្នកប្រើ</string>
+    <string name="quick_settings_user_new_user">អ្នកប្រើ​ថ្មី</string>
+    <string name="quick_settings_airplane_mode_label">"ទម្រង់
+យន្តហោះ"</string>
+    <string name="quick_settings_silent_mode_sound">សំឡេង</string>
+    <string name="quick_settings_silent_mode_vibrate">ញ័រ</string>
+    <string name="quick_settings_silent_mode_mute">ស្ងាត់</string>
+    <string name="quick_settings_sfinder_text">S Finder</string>
+    <string name="quick_settings_sync_text">សមកាល</string>
+    <string name="quick_settings_wificalling_text">"Wi-Fi
+Calling"</string>
+    <string name="quick_settings_wifi_hotspot_label">"ហត់ស្ពត់
+ចល័ត"</string>
+    <string name="quick_settings_wifi_hotspot_label_vzw">"ហត់ស្ពត់
+ចល័ត"</string>
+    <string name="quick_settings_wifi_hotspot_label_jpn">"ចំណង
+Wi-Fi"</string>
+    <string name="quick_settings_touch_sensitivity_label">"ភាពចាប់បាន
+ការប៉ះ"</string>
+    <string name="quick_settings_smart_stay_label">"ស្ថិត​នៅ
+វៃឆ្លាត"</string>
+    <string name="quick_settings_quick_connect_label">"ភ្ជាប់
+រហ័ស"</string>
+    <string name="quick_settings_ultra_power_saving_label">"ទម្រង់សំចៃ
+​ថាមពល​បំផុត"</string>
+    <string name="quick_settings_location_text">ទីកន្លែង</string>
+    <string name="quick_settings_gps_text">GPS</string>
+    <string name="quick_settings_reading_mode_label">"ទម្រង់
+អាន"</string>
+    <string name="quick_settings_mobile_data_label">"ទិន្នន័យ
+ចល័ត"</string>
+    <string name="quick_settings_data_roaming_label">"រ៉ូមីង
+ទិន្នន័យ"</string>
+    <string name="quick_settings_personal_mode_label">"ទម្រង់
+ឯកជន"</string>
+    <string name="quick_settings_power_saving_label">"ការសំចៃ
+ថាមពល"</string>
+    <string name="quick_settings_network_power_saving_label">"សំចៃ​ថាមពល
+បណ្ដាញ"</string>
+    <string name="quick_settings_nfc_card_mode_label">"ទម្រង់
+បណ្ណ NFC"</string>
+    <string name="quick_settings_nfc_p2p_label">"R/W
+P2P"</string>
+    <string name="quick_settings_nfc_jpn_label">"NFC/Osaifu-
+Keitai"</string>
+    <string name="quick_settings_torch_label">ពិល</string>
+    <string name="quick_settings_screen_capture_label">"Capture
+screen"</string>
+    <string name="quick_settings_aod_label">"Always On
+Display"</string>
+    <string name="quick_settings_wifi_label">Wi-Fi</string>
+    <string name="quick_settings_wifi_not_connected">មិន​បាន​តភ្ជាប់</string>
+    <string name="quick_settings_wifi_no_network">គ្មាន​បណ្ដាញ</string>
+    <string name="quick_settings_wifi_off_label">វ៉ាយហ្វាយ​បានបិទ</string>
+    <string name="quick_settings_wifi_detail_empty_text">គ្មានបណ្តាញ Wi-Fi ទេ</string>
+    <string name="quick_settings_screen_mirroring_label">"Screen
+Mirroring"</string>
+    <string name="quick_settings_cast_title">ខាស</string>
+    <string name="quick_settings_casting">ការ​ចាត់​ថ្នាក់</string>
+    <string name="quick_settings_cast_device_default_name">ឧបករណ៍​​ដែល​មិន​មាន​ឈ្មោះ</string>
+    <string name="quick_settings_cast_device_default_description">ត្រៀម​រួចរាល់​ដើម្បី​ចាត់​ថ្នាក់</string>
+    <string name="quick_settings_cast_detail_empty_text">មិន​មាន​ឧបករណ៍​ដែល​អាច​ប្រើ​បាន</string>
+    <string name="quick_settings_brightness_dialog_title">ពន្លឺ</string>
+    <string name="quick_settings_brightness_dialog_auto_brightness_label">ស្វ័យប្រវត្តិ</string>
+    <string name="quick_settings_inversion_label">ដាក់​​​បញ្ច្រាស​ពណ៌</string>
+    <string name="quick_settings_color_space_label">របៀប​កែ​ពណ៌</string>
+    <string name="quick_settings_more_settings">ការកំណត់</string>
+    <string name="quick_settings_done">រួចរាល់</string>
+    <string name="quick_settings_connected">បាន​ភ្ជាប់</string>
+    <string name="quick_settings_connecting">កំពុង​តភ្ជាប់...</string>
+    <string name="quick_settings_tethering_label">ការ​ភ្ជាប់</string>
+    <string name="quick_settings_hotspot_label">ហតស្ប៉ត</string>
+    <string name="quick_settings_notifications_label">ការ​ជូនដំណឹង</string>
+    <string name="quick_settings_flashlight_label">ពិល</string>
+    <string name="quick_settings_cellular_detail_title">ទិន្នន័យ​ចល័ត</string>
+    <string name="quick_settings_cellular_detail_data_usage">ការ​ប្រើ​ទិន្នន័យ</string>
+    <string name="quick_settings_cellular_detail_remaining_data">ទិន្នន័យ​នៅសល់</string>
+    <string name="quick_settings_cellular_detail_over_limit">លើស​ដែន​កំណត់</string>
+    <string name="quick_settings_cellular_detail_data_used">បាន​ប្រើ %s</string>
+    <string name="quick_settings_cellular_detail_data_limit">ដែន​កំណត់ %s</string>
+    <string name="quick_settings_cellular_detail_data_warning">%s ការ​ព្រមាន</string>
+    <string name="quickpanel_content_description_led_on">បាន​បើកប្រើ %s។</string>
+    <string name="quickpanel_content_description_led_off">បាន​បិទ %s។</string>
+    <string name="quickpanel_content_description_led_dim">មិន​អាច​បើកប្រើ %s។</string>
+    <string name="quickpanel_content_description_expand_button">ពន្លា​ផ្ទាំង​ការកំណត់​រហ័ស</string>
+    <string name="quickpanel_content_description_collapse_button">វេញ​ផ្ទាំង​ការកំណត់​រហ័ស</string>
+    <string name="quickpanel_long_preesed_description">ប៉ះ​ប៊ូតុង​ការកំណត់​រហ័ស​ឲ្យ​ជាប់ ដើម្បី​ចូល​ទៅ​ការកំណត់​ដែល​ពាក់ព័ន្ធ។</string>
+    <string name="recents_empty_message">គ្មាន​កម្មវិធី​ដែល​បាន​ប្រើ​ថ្មីៗ</string>
+    <string name="recents_app_info_button_label">ព័ត៌មាន​កម្មវិធី</string>
+    <string name="recents_lock_to_app_button_label">ការ​ភ្ជាប់​អេក្រង់</string>
+    <string name="recents_search_bar_label">ស្វែងរក</string>
+    <string name="recents_launch_error_message">មិន​អាច​ចាប់ផ្ដើម %s ទេ។</string>
+    <string name="recents_dismiss_all_message">បោះបង់កម្មវិធីទាំងអស់</string>
+    <string name="recents_multistack_add_stack_dialog_split_horizontal">បំបែកផ្តេក</string>
+    <string name="recents_multistack_add_stack_dialog_split_vertical">បំបែកបញ្ឈរ</string>
+    <string name="recents_multistack_add_stack_dialog_split_custom">បំបែកផ្ទាល់ខ្លួន</string>
+    <string name="expanded_header_battery_charged">បាន​បញ្ចូល​ថ្ម​​</string>
+    <string name="expanded_header_battery_charging">កំពុង​បញ្ចូល​ថ្ម</string>
+    <string name="expanded_header_battery_charging_with_time">%s រហូត​ដល់ពេញ</string>
+    <string name="expanded_header_battery_not_charging">មិន​កំពុង​បញ្ចូល​ថ្ម</string>
+    <string name="ssl_ca_cert_warning">"បណ្ដាញ​អាច​
+ត្រូវ​បាន​ត្រួតពិនិត្យ​"</string>
+    <string name="description_target_search">ស្វែងរក</string>
+    <string name="description_direction_up">រុញ​ឡើង​លើ​ដើម្បី %s ។</string>
+    <string name="description_direction_left">រុញ​ទៅ​ឆ្វេង​ដើម្បី %s ។</string>
+    <string name="zen_priority_introduction">អ្នកនឹងមិនរំខានដោយសម្លេង និងរំញ័រឡើយ លើកលែងតែសម្លេងរោទិ៍ ការរំលឹក ព្រឹត្តិការណ៍ និងអ្នកហៅដែលអ្នកបានបញ្ជាក់ប៉ុណ្ណោះ។</string>
+    <string name="zen_priority_customize_button">ប្ដូរតាមបំណង</string>
+    <string name="zen_silence_introduction_voice">វារារាំងសំឡេង និងរំញ័រទាំងអស់ ដោយរួមបញ្ចូលទាំងសំឡេងរោទិ៍ តន្ត្រី វីដេអូ និងហ្គេម។ អ្នកនឹងនៅតែអាចធ្វើការហៅទូរស័ព្ទបានដដែល។</string>
+    <string name="zen_silence_introduction">វារារាំងសំឡេង និងរំញ័រទាំងអស់ដែលចេញពីម៉ោងរោទិ៍ តន្ត្រី វីដេអូ និងហ្គេម។</string>
+    <string name="keyguard_more_overflow_text">+%d</string>
+    <string name="speed_bump_explanation">ការ​ជូន​ដំណឹង​​មិន​សូវ​បន្ទាន់​ខាង​ក្រោម</string>
+    <string name="notification_tap_again">ប៉ះ​ម្ដង​ទៀត​ដើម្បី​បើក</string>
+    <string name="keyguard_unlock">អូស​អេក្រង់ ដើម្បី​ដោះសោ</string>
+    <string name="lockscreen_unlock_guide_text">អូស​អេក្រង់ ដើម្បី​ដោះសោ</string>
+    <string name="lockscreen_unlock_guide_text_voice_assistant">ប្រើ​ម្រាមដៃ​ពីរ​អូស ដើម្បី​ដោះសោ​អេក្រង់។</string>
+    <string name="kg_fingerprints_unlock_instructions">ប្រើ​ស្នាមម្រាមដៃ ដើម្បី​ដោះសោ</string>
+    <string name="kg_fingerprints_bouncer_instructions">ប្រើ​ស្នាមម្រាមដៃ ដើម្បី​បើក</string>
+    <string name="kg_swipe_bouncer_instructions">អូស​អេក្រង់ ដើម្បី​បើក</string>
+    <string name="kg_swipe_bouncer_instructions_voice_assistant">ប្រើ​ម្រាមដៃ​ពីរ​អូស​អេក្រង់ ដើម្បី​បើក។</string>
+    <string name="phone_hint">អូសចេញពីរូបតំណាងដើម្បីប្រើទូរស័ព្ទ</string>
+    <string name="voice_hint">អូសចេញពីរូបតំណាងដើម្បីប្រើជំនួយសំឡេង</string>
+    <string name="camera_hint">អូសចេញពីរូបតំណាងដើម្បីប្រើកាមេរ៉ា</string>
+    <string name="interruption_level_none_with_warning">បិទសំឡេងទាំងស្រុង។ វាក៏នឹងបិទសំឡេងកម្មវិធីអានអេក្រង់ផងដែរ។</string>
+    <string name="interruption_level_none">ស្ងៀមស្ងាត់ទាំងស្រុង</string>
+    <string name="interruption_level_priority">អាទិភាពប៉ុណ្ណោះ</string>
+    <string name="interruption_level_alarms">សំឡេងរោទ៍ប៉ុណ្ណោះ</string>
+    <string name="interruption_level_none_twoline">"ស្ងៀមស្ងាត់
+ទាំងស្រុង"</string>
+    <string name="interruption_level_priority_twoline">"អាទិភាព
+ប៉ុណ្ណោះ"</string>
+    <string name="interruption_level_alarms_twoline">"សំឡេងរោទ៍
+ប៉ុណ្ណោះ"</string>
+    <string name="keyguard_indication_charging_time">កំពុង​បញ្ចូល​ថ្ម (%s ទើប​ពេញ)</string>
+    <string name="accessibility_multi_user_switch_switcher">ប្ដូរ​អ្នក​ប្រើ</string>
+    <string name="accessibility_multi_user_switch_switcher_with_current">ប្ដូរ​អ្នកប្រើ ​អ្នកប្រើ​បច្ចុប្បន្ន %s</string>
+    <string name="accessibility_multi_user_switch_inactive">អ្នកប្រើបច្ចុប្បន្ន %s</string>
+    <string name="accessibility_multi_user_switch_quick_contact">បង្ហាញ​ប្រវត្តិរូប</string>
+    <string name="user_add_user">បន្ថែម​អ្នកប្រើ</string>
+    <string name="user_new_user_name">អ្នកប្រើ​ថ្មី</string>
+    <string name="guest_nickname">ភ្ញៀវ</string>
+    <string name="guest_new_guest">បន្ថែម​ភ្ញៀវ</string>
+    <string name="guest_exit_guest">លុប​ភ្ញៀវ</string>
+    <string name="guest_exit_guest_dialog_title">លុប​ទម្រង់​ភ្ញៀវ</string>
+    <string name="guest_exit_guest_dialog_message">ទម្រង់​នេះ​នឹង​ត្រូវ​បាន​លុប ជាមួយ​នឹង​កម្មវិធី​ដែល​បាន​ទាញយក និង ទិន្នន័យ​ពាក់ព័ន្ធ​ទាំងអស់។ ទិន្នន័យ​នេះ​មិន​អាច​សង្គ្រោះ​មក​វិញ​ឡើយ។</string>
+    <string name="guest_exit_guest_dialog_remove">លុប</string>
+    <string name="guest_wipe_session_title">សូម​ស្វាគមន៍​ការ​ត្រឡប់​មកវិញ, ភ្ញៀវ!</string>
+    <string name="guest_wipe_session_message">តើ​អ្នក​ចង់​បន្ត​សម័យ​របស់​អ្នក​?</string>
+    <string name="guest_wipe_session_wipe">ចាប់ផ្ដើម</string>
+    <string name="guest_wipe_session_dontwipe">បាទ​/ចាស ​បន្ត</string>
+    <string name="guest_notification_title">អ្នកប្រើភ្ញៀវ</string>
+    <string name="guest_notification_text">ដើម្បីលុបកម្មវិធី និងទិន្នន័យ សូមយកអ្នកប្រើជាភ្ញៀវចេញ</string>
+    <string name="guest_notification_remove_action">យកភ្ញៀវចេញ</string>
+    <string name="user_add_user_title">ថែម​អ្នកប្រើប្រាស់</string>
+    <string name="user_add_user_message_short">"នៅពេល​អ្នក​ថែម​អ្នកប្រើប្រាស់​ថ្មី ពួកគេ​ត្រូវការ​រៀបចំ​លំហ​ផ្ទាល់ខ្លួន​របស់​ពួកវា។
+
+អ្នកប្រើប្រាស់​ទាំងឡាយ​អាច​អាប់ដេត​កម្មវិធី​សម្រាប់​អ្នកប្រើប្រាស់​ផ្សេងទៀត​ទាំងអស់។"</string>
+    <string name="unable_to_switch_user">មិន​អាច​ប្ដូរ​ទម្រង់​អ្នកប្រើប្រាស់​ក្នុង​ពេល​ហៅ។</string>
+    <string name="battery_saver_notification_title">កម្មវិធី​សន្សំ​ថ្ម​គឺ​បើក</string>
+    <string name="battery_saver_notification_text">ការ​បន្ថយ​ការ​ប្រតិបត្តិ និង​ទិន្នន័យ​ផ្ទៃ​ខាងក្រោយ</string>
+    <string name="battery_saver_notification_action_text">បិទ​ធាតុ​រក្សា​ថាមពល​ថ្ម</string>
+    <string name="notification_hidden_text">បាន​លាក់​មាតិកា</string>
+    <string name="sanitized_content_text">ប៉ះ​ទីនេះ ដើម្បី​ចូល %s។</string>
+    <string name="media_projection_dialog_text">%s នឹង​ចាប់ផ្ដើម​ចាប់​យក​អ្វីៗ​គ្រប់យ៉ាង​ដែល​បង្ហាញ​លើ​អេក្រង់​របស់​អ្នក។</string>
+    <string name="media_projection_remember_text">កុំ​បង្ហាញ​ម្ដងទៀត</string>
+    <string name="clear_all_notifications_text">សម្អាត​ទាំងអស់</string>
+    <string name="media_projection_action_text">ចាប់ផ្ដើម​ឥឡូវ</string>
+    <string name="empty_shade_text">គ្មាន​ការ​ជូនដំណឹង</string>
+    <string name="device_owned_footer">ឧបករណ៍​អាច​ត្រូវ​បាន​ត្រួតពិនិត្យ</string>
+    <string name="profile_owned_footer">ប្រវត្តិរូបអាចត្រូវបានតាមដាន</string>
+    <string name="vpn_footer">បណ្ដាញ​អាច​ត្រូវ​បាន​ត្រួតពិនិត្យ</string>
+    <string name="monitoring_title_device_owned">ការ​ត្រួតពិនិត្យ​ឧបករណ៍</string>
+    <string name="monitoring_title_profile_owned">តាមដានប្រវត្ថិរូប</string>
+    <string name="monitoring_title">ការ​ត្រួតពិនិត្យ​បណ្ដាញ</string>
+    <string name="disable_vpn">បិទ VPN</string>
+    <string name="disconnect_vpn">ផ្ដាច់ VPN</string>
+    <string name="monitoring_description_device_owned">"ឧបករណ៍របស់អ្នកត្រូវបានគ្រប់គ្រងដោយ៖ %1$s.
+
+អ្នកគ្រប់គ្រងរបស់អ្នកអាចឃ្លាំមើល និងគ្រប់គ្រងការកំណត់ ការចូលដំណើរការជាក្រុម កម្មវិធី ទិន្នន័យដែលជាប់ទាក់ទងនឹងឧបករណ៍របស់អ្នក និងព័ត៌មានទីតាំងនៃឧបករណ៍របស់អ្នក។ សម្រាប់ព័ត៌មានបន្ថែម សូមទាក់ទងអ្នកគ្រប់គ្រងរបស់អ្នក។"</string>
+    <string name="monitoring_description_vpn">"អ្នកបានអនុញ្ញាតឲ្យកម្មវិធីដំឡើងការតភ្ជាប់ VPN។
+
+កម្មវិធីនេះអាចឃ្លាំមើលឧបករណ៍ និងសកម្មភាពបណ្តាញរបស់អ្នក រាប់បញ្ចូលទាំងអ៊ីមែល កម្មវិធី និងគេហទំព័រ។"</string>
+    <string name="monitoring_description_vpn_device_owned">"ឧបករណ៍របស់អ្នកត្រូវបានគ្រប់គ្រងដោយ %1$s.
+
+អ្នកគ្រប់គ្រងរបស់អ្នកអាចឃ្លាំមើល និងគ្រប់គ្រងការកំណត់ ការចូលដំណើរការជាក្រុម កម្មវិធី ទិន្នន័យដែលជាប់ទាក់ទងនឹងឧបករណ៍របស់អ្នក និងព័ត៌មានទីតាំងនៃឧបករណ៍របស់អ្នក។
+
+អ្នកត្រូវបានភ្ជាប់ជាមួយ VPN ដែលវាអាចឃ្លាំមើលសកម្មភាពបណ្តាញរបស់អ្នក រួមបញ្ចូលទាំងអ៊ីមែល កម្មវិធី និងគេហទំព័រ។
+
+សម្រាប់ព័ត៌មានបន្ថែម សូមទាក់ទងអ្នកគ្រប់គ្រងរបស់អ្នក។"</string>
+    <string name="monitoring_description_vpn_profile_owned">"ប្រវត្តិការងាររបស់អ្នកត្រូវបានគ្រប់គ្រងដោយ %1$s.
+
+អ្នកគ្រប់គ្រងរបស់អ្នកមានលទ្ធភាពអាចឃ្លាំមើលសកម្មភាពបណ្តាញរបស់អ្នក រួមបញ្ចូលទាំងអ៊ីមែល កម្មវិធី គេហទំព័រ។
+
+សម្រាប់ព័ត៌មានបន្ថែម សូមទាក់ទងអ្នកគ្រប់គ្រងរបស់អ្នក។
+
+អ្នកក៏ត្រូវបានភ្ជាប់ជាមួួយ VPN ផងដែរ ដែលវាអាចឃ្លាំមើលសកម្មភាពបណ្តាញរបស់អ្នក។"</string>
+    <string name="legacy_vpn_name">VPN</string>
+    <string name="monitoring_description_app">អ្នកត្រូវបានតភ្ជាប់ទៅ %1$s ដែលអាចឃ្លាំមើលសកម្មភាពបណ្តាញរបស់អ្នក រាប់បញ្ចូលទាំងអ៊ីមែល កម្មវិធី និងគេហទំព័រ។</string>
+    <string name="monitoring_description_app_personal">អ្នកត្រូវបានតភ្ជាប់ទៅ %1$s ដែលអាចឃ្លាំមើលសកម្មភាពបណ្តាញរបស់អ្នក រាប់បញ្ចូលទាំងអ៊ីមែល កម្មវិធី និងគេហទំព័រ។</string>
+    <string name="monitoring_description_app_work">"ប្រវត្តិរូបការងាររបស់អ្នកត្រូវបានគ្រប់គ្រងដោយ %1$s។ វាត្រូវបានតភ្ជាប់ទៅនឹង %2$s ដែលអាចឃ្លាំមើលសកម្មភាពបណ្តាញរបស់អ្នក រាប់បញ្ចូលទាំងអ៊ីមែល កម្មវិធី គេហទំព័រ។
+
+សម្រាប់ព័ត៌មានបន្ថែម សូមទាក់ទងអ្នកគ្រប់គ្រប់របស់អ្នក។"</string>
+    <string name="monitoring_description_app_personal_work">"ប្រវត្តិរូបការងាររបស់អ្នកត្រូវបានគ្រប់គ្រងដោយ %1$s។ វាត្រូវបានតភ្ជាប់ទៅនឹង %2$s ដែលអាចឃ្លាំមើលសកម្មភាពបណ្តាញរបស់អ្នក រាប់បញ្ចូលទាំងអ៊ីមែល កម្មវិធី គេហទំព័រ។
+
+អ្នកក៏ត្រូវបានតភ្ជាប់ផងដែរទៅនឹង %3$s ដែលអាចឃ្លាំមើលសកម្មភាពបណ្តាញផ្ទាល់ខ្លួនរបស់អ្នក។"</string>
+    <string name="monitoring_description_vpn_app_device_owned">"ឧបករណ៍របស់អ្នកត្រូវបានគ្រប់គ្រងដោយ %1$s.
+
+អ្នកគ្រប់គ្រងរបស់អ្នកអាចឃ្លាំមើល និងគ្រប់គ្រងការកំណត់ ការចូលប្រើជាក្រុម កម្មវិធី ទិន្នន័យដែលជាប់ទាក់ទងនឹងឧបករណ៍របស់អ្នក និងព័ត៌មានទីតាំងនៃឧបករណ៍របស់អ្នក។
+
+អ្នកត្រូវបានភ្ជាប់ជាមួយ %2$s ដែលវាអាចឃ្លាំមើលសកម្មភាពបណ្តាញរបស់អ្នក រួមបញ្ចូលទាំងអ៊ីមែល កម្មវិធី និងគេហទំព័រ។
+
+សម្រាប់ព័ត៌មានបន្ថែម សូមទាក់ទងអ្នកគ្រប់គ្រងរបស់អ្នក។"</string>
+    <string name="keyguard_indication_trust_disabled">ឧបករណ៍​នឹង​ចាក់​សោ​រហូត​ដល់​អ្នក​ដោះ​សោ​ដោយ​ដៃ</string>
+    <string name="hidden_notifications_title">ទទួល​បាន​ការ​ជូន​ដំណឹង​កាន់តែ​លឿន</string>
+    <string name="hidden_notifications_text">ឃើញ​ពួកវា​មុន​ពេល​ដោះ​សោ</string>
+    <string name="hidden_notifications_cancel">ទេ អរគុណ!</string>
+    <string name="hidden_notifications_setup">រៀបចំ</string>
+    <string name="notification_expand_button_text">មើលទាំងអស់</string>
+    <string name="notification_collapse_button_text">លាក់ទាំងអស់</string>
+    <string name="zen_mode_and_condition">%1$s. %2$s</string>
+    <string name="volume_zen_end_now">បញ្ចប់ឥឡូវនេះ</string>
+    <string name="accessibility_volume_expand">ពង្រីក</string>
+    <string name="accessibility_volume_collapse">វេញ</string>
+    <string name="screen_pinning_title">អេក្រង់​ត្រូវ​បាន​ភ្ជាប់</string>
+    <string name="screen_pinning_description">រក្សាទុក​វា​ក្នុង​ទិដ្ឋភាព​រហូត​ដល់​អ្នក​ផ្ដាច់។ ប៉ះ ហើយ​សង្កត់​ថយក្រោយ និង​ទិដ្ឋភាព​នៅ​ពេល​តែ​មួយ​ដើម្បី​ផ្ដាច់។</string>
+    <string name="screen_pinning_description_accessible">វា​រក្សាទុក​ក្នុង​ទិដ្ឋភាព​រហូត​ដល់​អ្នក​ផ្ដាច់។ ប៉ះ និង​សង្កត់​ទិដ្ឋភាព​ដើម្បី​ផ្ដាច់។</string>
+    <string name="screen_pinning_positive">យល់​ហើយ</string>
+    <string name="screen_pinning_negative">ទេ អរគុណ</string>
+    <string name="quick_settings_reset_confirmation_title">លាក់ %1$s?</string>
+    <string name="quick_settings_reset_confirmation_message">វា​នឹង​បង្ហាញ​ពេល​ក្រោយ​ ពេល​ដែល​អ្នក​បើក​ក្នុង​ការ​កំណត់។</string>
+    <string name="quick_settings_reset_confirmation_button">លាក់</string>
+    <string name="volumeui_prompt_message">%1$s ចង់ក្លាយជាប្រអប់សម្លេង។</string>
+    <string name="volumeui_prompt_allow">អនុញ្ញាត</string>
+    <string name="volumeui_prompt_deny">បដិសេធ</string>
+    <string name="volumeui_notification_title">%1$s គឺជាប្រអប់សម្លេង</string>
+    <string name="volumeui_notification_text">ប៉ះដើម្បីស្តារច្បាប់ដើម។</string>
+    <string name="managed_profile_foreground_toast">អ្នកកំពុងប្រើប្រវត្តិរូបការងាររបស់អ្នក</string>
+    <string name="tw_safe_media_volume_warning">ការស្ដាប់​កម្រិត​សំឡេង​ខ្លាំង​ក្នុង​ពេល​យូរ​អាច​ធ្វើ​ឲ្យ​អ្នក​ខូច​ត្រចៀក​របស់​អ្នក។ ប៉ះ ព្រម ដើម្បី​អនុញ្ញាត​ឲ្យ​បង្កើន​កម្រិត​សំឡេង​លើស​ពី​កម្រិត​សុវត្ថិភាព។</string>
+    <string name="tw_cover_volume_warning_message">ការស្ដាប់​សំឡេង​ខ្លាំង​ក្នុង​ពេល​យូរ​អាច​ធ្វើ​ឲ្យ​អ្នក​ខូច​ត្រចៀក។ ដើម្បី​បង្កើន​កម្រិតសំឡេង សូម​បើក​គម្រប។</string>
+    <string name="tw_safe_media_volume_warning_kids_mode">កម្រិត​សំឡេង​មិន​អាច​លើស​ដែនកំណត់​សុវត្ថិភាព​ដែល​បាន​ឲ្យ​យោបល់ (%s) ខណៈពេល​បាន​ភ្ជាប់​កាស​ក្នុង Kids Mode។</string>
+    <string name="yes">ព្រម</string>
+    <string name="no">បោះបង់</string>
+    <string name="system_ui_tuner">កម្មវិធីសម្រួល UI ប្រព័ន្ធ</string>
+    <string name="show_battery_percentage">បង្ហាញភាគរយថាមពលថ្មដែលបានបង្កប់</string>
+    <string name="show_battery_percentage_summary">បង្ហាញភាគរយនៃកម្រិតថាមពលថ្មនៅក្នុងរូបតំណាងរបារស្ថានភាពនៅពេលមិនសាកថ្ម</string>
+    <string name="quick_settings">ការកំណត់រហ័ស</string>
+    <string name="status_bar">របារស្ថានភាព</string>
+    <string name="demo_mode">របៀបសាកល្បង</string>
+    <string name="enable_demo_mode">បើករបៀបសាកល្បង</string>
+    <string name="show_demo_mode">បង្ហាញរបៀបសាកល្បង</string>
+    <string name="status_bar_ethernet">អ៊ីសឺរណិត</string>
+    <string name="status_bar_alarm">ម៉ោងរោទ៍</string>
+    <string name="status_bar_work">ប្រវត្តិរូបការងារ</string>
+    <string name="status_bar_airplane">របៀបក្នុងយន្តហោះ</string>
+    <string name="add_tile">បន្ថែមក្រឡាល្អិត</string>
+    <string name="broadcast_tile">ការផ្សាយជាក្រឡាល្អិត</string>
+    <string name="mobile_hotspot_wifi_off_warning">ការបើកប្រើ​ហត់ស្ពត់​ចល័ត​នឹង​បិទ Wi-Fi។</string>
+    <string name="mobile_hotspot_wifi_off_warning_china">Enabling Mobile hotspot will turn off WLAN.</string>
+    <string name="mobile_hotspot_wifi_off_warning_jpn">Enabling Wi-Fi tethering will turn off Wi-Fi.</string>
+    <string name="tethering_attention_title">ប្រុងប្រយ័ត្ន</string>
+    <string name="mobile_data_enable_toast_text">មិន​អាច​ភ្ជាប់​ទៅ​បណ្ដាញ​ចល័ត​ទេ ខណៈពេល​បាន​បើកប្រើ​ទម្រង់​យន្តហោះ។ បិទ​ទម្រង់​យន្តហោះ ហើយ​សាកល្បង​ម្ដងទៀត។</string>
+    <string name="wifi_ap_wifi_p2p_off_warn">ការបើកប្រើ​ហត់ស្ពត់​ចល័ត​នឹង​ផ្ដាច់​ឧបករណ៍​ទាំងឡាយ​ដែល​បច្ចុប្បន្ន​បាន​ភ្ជាប់​តាម Wi-Fi ផ្ទាល់។</string>
+    <string name="wifi_ap_wifi_p2p_off_warn_china">Enabling Portable WLAN hotspot will disconnect device connected via WLAN Direct.</string>
+    <string name="dialog_battery_data_warning">នឹង​បើកប្រើ​ហត់ស្ពត់​ចល័ត។ នេះ​នឹង​បង្កើន​ការស៊ី​ថ្ម និង ការប្រើប្រាស់​ទិន្នន័យ។</string>
+    <string name="zen_alarm_warning_indef">អ្នកនឹងមិនលឺម៉ោងរោទ៍ %1$s បន្ទាប់របស់អ្នកទេ ប្រសិនបើអ្នកមិនបិទរបៀបនេះមុនពេលនោះទេ</string>
+    <string name="zen_alarm_warning">អ្នកនឹងមិនលឺម៉ោងរោទ៍ %1$s បន្ទាប់របស់អ្នកទេ</string>
+    <string name="alarm_template">នៅ %1$s</string>
+    <string name="alarm_template_far">នៅ %1$s</string>
+    <string name="accessibility_quick_settings_detail">ការកំណត់រហ័ស %s។</string>
+    <string name="accessibility_status_bar_hotspot">ហតស្ប៉ត</string>
+    <string name="accessibility_managed_profile">ប្រវត្តិរូបការងារ</string>
+    <string name="tuner_warning_title">ល្អសម្រាប់អ្នកប្រើមួយចំនួន តែមិនសម្រាប់គ្រប់គ្នាទេ</string>
+    <string name="tuner_warning">កម្មវិធីសម្រួល UI ប្រព័ន្ធផ្តល់ជូនអ្នកនូវមធ្យោបាយបន្ថែមទៀតដើម្បីកែសម្រួល និងប្តូរចំណុចប្រទាក់អ្នកប្រើ Android តាមបំណង។ លក្ខណៈពិសេសសាកល្បងនេះអាចនឹងផ្លាស់ប្តូរ បំបែក ឬបាត់បង់បន្ទាប់ពីការចេញផ្សាយនាពេលអនាគត។ សូមបន្តដោយប្រុងប្រយ័ត្ន។</string>
+    <string name="tuner_persistent_warning">លក្ខណៈពិសេសសាកល្បងនេះអាចនឹងផ្លាស់ប្តូរ បំបែក ឬបាត់បង់បន្ទាប់ពីការចេញផ្សាយនាពេលអនាគត។ សូមបន្តដោយប្រុងប្រយ័ត្ន។</string>
+    <string name="got_it">យល់ហើយ</string>
+    <string name="tuner_toast">សូមអបអរសាទរ! កម្មវិធីសម្រួល UI ប្រព័ន្ធត្រូវបានបន្ថែមទៅការកំណត់ហើយ</string>
+    <string name="remove_from_settings">យកចេញពីការកំណត់</string>
+    <string name="remove_from_settings_prompt">យកកម្មវិធីសម្រួល UI ប្រព័ន្ធចេញពីការកំណត់ ហើយឈប់ប្រើលក្ខណៈពិសេសរបស់វាទាំងអស់?</string>
+    <string name="accessibility_qs_edit_button">ប៊ូតុង​កែ</string>
+    <string name="accessibility_button">ប៊ូតុង</string>
+    <string name="no_sim_notification_title">គ្មាន​ SIM</string>
+    <string name="no_sim_notification_title_tmo">មិន​បាន​បញ្ចូល​កាត SIM</string>
+    <string name="no_sim_notification_title_vzw">No SIM found</string>
+    <string name="no_sim_notification_text">បញ្ចូល​កាត SIM។</string>
+    <string name="no_sim_notification_text_vzw">Tap for more information.</string>
+    <string name="full_battery_title">ព័ត៌មាន</string>
+    <string name="full_battery_noti_text">បាន​សាក​ថ្ម​ពេញ។</string>
+    <string name="charging_interruption_title">មិន​អាច​សាក</string>
+    <string name="charging_interruption_by_terminal_open_text">មិន​អាច​សាក​ឧបករណ៍​របស់​អ្នក។ ត្រូវ​ប្រាកដ​ថា​អ្នក​កំពុង​ប្រើ​ថ្ម និង ឆ្នាំងសាក​ដែល​ត្រូវគ្នា​របស់ Samsung ហើយ​ឧបករណ៍​របស់​អ្នក​បាន​ភ្ជាប់​ត្រឹមត្រូវ​ទៅ​ឆ្នាំងសាក។</string>
+    <string name="charging_interruption_by_terminal_open_galaxy_text">Unable to charge your device. Make sure you are using a Galaxy compatible battery and charger and that your device is properly connected to the charger.</string>
+    <string name="charging_interruption_by_too_high_temperature_text">បាន​ផ្អាក​ការសាក។ សីតុណ្ហភាព​ថ្ម​ខ្ពស់​ពេក។</string>
+    <string name="charging_interruption_by_too_low_temperature_text">បាន​ផ្អាក​ការសាក។ សីតុណ្ហភាព​ថ្ម​ទាប​ពេក។</string>
+    <string name="charging_interruption_by_limit_high_temperature_text">"ឧបករណ៍​បាន​បញ្ឈប់​ការសាក។ សីតុណ្ហភាព​ថ្ម​ខ្ពស់​ពេក។ ត្រូវ​ប្រយ័ត្ន នៅពេល​ផ្ដាច់​ឆ្នាំងសាក។ វា​អាច​ក្ដៅ​ខ្លាំង។
+
+ការផ្ដាច់ និង ការភ្ជាប់​ឆ្នាំងសាក​ឡើងវិញ អាច​អនុញ្ញាត​ឲ្យ​បន្ត​ការសាក​ធម្មតា។ បើ​ការឡើង​កម្ដៅ​ជ្រុល​នៅតែ​មាន សូម​ទាក់ទង​សេវា​អតិថិជន ព្រោះ​វា​អាច​មាន​ហានិភ័យ​នៃ​ការឆេះ ឬ របួស។"</string>
+    <string name="highvoltage_charger_notification_title">ការសាក​លឿន</string>
+    <string name="highvoltage_charger_notification_text">បាន​ភ្ជាប់​គ្រឿងសាក​លឿន។</string>
+    <string name="cable_charging_title">កំពុង​សាក​តាម​ខ្សែ</string>
+    <string name="wireless_charging_title">ការសាក​ឥតខ្សែ</string>
+    <string name="fast_wireless_charging_title">ការសាក​ឥតខ្សែ​លឿន</string>
+    <string name="slow_charging_title">ឧបករណ៍​កំពុង​សាក​យឺតៗ</string>
+    <string name="slow_charging_notification_text">ដើម្បី​សាក​ឲ្យ​បាន​លឿន សូម​ប្រើ​គ្រឿងសាក​ដើម។</string>
+    <string name="charging_noti_text_another">"កំពុង​សាក៖ %1$d%%
+(ប្រហែល %2$s ទៀត ទើប​សាក​ពេញ)"</string>
+    <string name="quick_settings_battery_charging_label">កំពុងសាក៖ %d%%</string>
+    <string name="time_format_hour_minute">%1$d h %2$d m</string>
+    <string name="time_format_hour">%d h</string>
+    <string name="time_format_minute">%d m</string>
+    <string name="wireless_charging_disconnect_text">បាន​ផ្អាក​ការសាក​ឥតខ្សែ។</string>
+    <string name="slow_charging_toast_text_for_tablet">To charge faster, use the charger and cable that were provided with this tablet.</string>
+    <string name="wireless_charger_misalign_help_text">ដើម្បី​សាក​ឧបករណ៍​ឲ្យ​មាន​ប្រសិទ្ធភាព​បំផុត សូម​ដាក់​វា​លើ​គ្រឿងសាក​ឥតខ្សែ ហើយ​ប្រាកដ​ថា​បាន​ដាក់​តម្រង់​គ្រឿង​នោះ​ត្រឹមត្រូវ។</string>
+    <string name="wireless_charger_info_text">Make sure there are no metallic objects, such as metallic stickers, paper clips, or straps between the charging pad and mobile device.</string>
+    <string name="battery_saver_notification_title_sec">បាន​បើកប្រើ​ទម្រង់​សំចៃ​ថាមពល</string>
+    <string name="battery_saver_notification_text_sec">បាន​កម្រិត​ប្រសិទ្ធផល​ឧបករណ៍ និង បាន​កំហិត​ទិន្នន័យ​ផ្ទៃខាងក្រោយ</string>
+    <string name="battery_saver_notification_action_text_sec">បិទ</string>
+    <string name="battery_npsm_notification_title">បាន​បើកប្រើ​ទម្រង់​សំចៃ​ថាមពល​បណ្ដាញ</string>
+    <string name="battery_npsm_notification_text">បាន​កម្រិត​ប្រសិទ្ធផល​ឧបករណ៍, បាន​កំហិត​ទិន្នន័យ​ផ្ទៃខាងក្រោយ ហើយ​បាន​បិទ​ទិន្នន័យ​ចល័ត និង Wi-Fi ខណៈពេល​អេក្រង់​រលត់</string>
+    <string name="wireless_charging_from_wireless_to_cable_text">កំពុងប្ដូរពីការយកថ្លៃលើប្រព័ន្ធអត់ខ្សែទៅជាការយកថ្លៃលើប្រព័ន្ធខ្សែកាបវិញ</string>
+    <string name="wireless_charging_from_cable_to_wireless_text">កំពុងប្ដូរពីការយកថ្លៃលើប្រព័ន្ធខ្សែកាបទៅជាការយកថ្លៃលើកប្រព័ន្ធអត់ខ្សែវិញ</string>
+    <string name="incompatible_charger_title">មិន​សាក។</string>
+    <string name="incompatible_charger_dialog_text">ឆ្នាំងសាក​ដែល​បាន​ភ្ជាប់​មិន​ត្រូវ​គ្នា​ជាមួយ​ទូរសព្ទ​នេះ។ ដើម្បី​បង្ការ​ការខូច​ចំពោះ​ទូរសព្ទ​របស់​អ្នក ការសាក​នឹង​ត្រូវ​បាន​បញ្ឈប់។ ដើម្បី​បន្ត​ការសាក សូម​ប្រើ​ឆ្នាំងសាក​ដើម និង ខ្សែ​ដែល​ផ្តល់​មក​ជាមួយ​ទូរសព្ទ​នេះ។</string>
+    <string name="incompatible_charger_notification_text">មិន​អាច​សាក។ ប្រើ​ឆ្នាំងសាក​ដើម។</string>
+    <string name="incompatible_charger_ticker">មិន​សាក។</string>
+    <string name="warning_alert_check">កុំ​បង្ហាញ​ម្តងទៀត</string>
+    <string name="critical_low_battery_title">ថ្ម​ខ្សោយ​ខ្លាំង</string>
+    <string name="low_battery_title">ថ្មខ្សោយ</string>
+    <string name="battery_low_hun_remaining_battery_level_format">ឧបករណ៍​របស់​អ្នក​នៅសល់​ថាមពល​ថ្ម %d%%។ ភ្ជាប់​ឧបករណ៍​របស់​អ្នក​ទៅ​ឆ្នាំងសាក។</string>
+    <string name="button_close">បិទ</string>
+    <string name="cooling_title">ឧបករណ៍​ឡើង​កម្ដៅ​ជ្រុល</string>
+    <string name="cooling_noti_text">ប៉ះ​ទីនេះ ដើម្បី​មើល​ព័ត៌មាន​លម្អិត។</string>
+    <string name="cooling_body">"ឧបករណ៍​របស់​អ្នក​កំពុង​ឡើង​កម្ដៅ​ជ្រុល។ នឹង​ធ្វើ​តាម​ជំហាន​ទាំងនេះ​ដើម្បី​ធ្វើ​ឲ្យ​វា​ចុះត្រជាក់។
+
+អ្នក​នៅ​តែ​អាច​ប្រើ​ឧបករណ៍​របស់​អ្នក​ដដែល ប៉ុន្តែ
+- អេក្រង់​អាច​ឡើង​ស្រអាប់។
+- ឧបករណ៍​អាច​យឺត។
+- ការសាកថ្ម​អាច​ត្រូវ​បាន​ផ្អាក។
+
+ការបិទ​កម្មវិធី​បច្ចុប្បន្ន​នឹង​ជួយ​ធ្វើ​ឲ្យ​ឧបករណ៍​របស់​អ្នក​ចុះត្រជាក់។
+
+បន្ទាប់​ពី​ឧបករណ៍​ចុះត្រជាក់ ប្រសិទ្ធផល​នឹង​ត្រឡប់​ទៅ​ធម្មតា​វិញ​ដោយ​ស្វ័យប្រវត្តិ។"</string>
+    <string name="colling_high_level_noti_text">មិន​អាច​បើក​កម្មវិធី។ អ្នក​អាច​ប្រើ​តែ​កម្មវិធី​ទូរសព្ទ និង ទំនាក់ទំនង​ប៉ុណ្ណោះ។</string>
+    <string name="cooling_title_vzw">Cooling down</string>
+    <string name="cooling_noti_text_vzw">ប៉ះ​ទីនេះ ដើម្បី​ស្វែងយល់​បន្ថែម។</string>
+    <string name="cooling_body_vzw">"Your phone is getting too hot, so it's taking steps to cool itself down.
+
+You can still use your phone, but you may notice:
+The screen might dim.
+The phone might slow down.
+Charging might pause.
+
+After the phone cools down, performance will automatically go back to normal."</string>
+    <string name="cooling_body_tablet_vzw">"Your tablet is getting too hot, so it’s taking steps to cool itself down.
+
+You can still use your tablet, but you may notice:
+The screen might dim.
+The tablet might slow down.
+Charging might pause.
+
+After the tablet cools down, performance willAutomatically go back to normal."</string>
+    <string name="overheat_shutdown_warning_title">Too hot - Turning off</string>
+    <string name="overheat_shutdown_warning_text">Your phone is getting too hot. It will now turn off to cool down.</string>
+    <string name="overheat_shutdown_warning_text_tablet">Your tablet is getting too hot. It will now turn off to cool down.</string>
+    <string name="overheat_shutdown_warning_button_text">"Don't turn off"</string>
+    <string name="overheat_shutdown_notice_title">Why did my phone turn off by itself?</string>
+    <string name="overheat_shutdown_notice_title_tablet">Why did my tablet turn off by itself?</string>
+    <string name="overheat_shutdown_notice_text">"Your phone got too hot. It turned off to prevent damage to the phone.
+
+Overheating can be caused by:
+Using graphics intensive apps like video games and navigation apps for long periods of time.
+Downloading or uploading large files.
+Using your phone in a very hot location."</string>
+    <string name="overheat_shutdown_notice_text_tablet">"Your tablet got too hot. It turned off to prevent damage to the tablet.
+
+Overheating can be caused by:
+Using graphics intensive apps like video games and navigation apps for long periods of time.
+Downloading or uploading large files.
+Using your tablet in a very hot location."</string>
+    <string name="overheat_poweroff_warning_title">បិទ​ថាមពល​ឧបករណ៍</string>
+    <string name="overheat_poweroff_warning_text">ឧបករណ៍​របស់​អ្នក​កំពុង​ឡើង​កម្ដៅ​ជ្រុល។ ឥឡូវ វា​នឹង​បិទ​ថាមពល​ដើម្បី​ធ្វើ​ឲ្យ​ត្រជាក់។</string>
+    <string name="overheat_poweroff_warning_button_text">កុំ​បិទ​ថាមពល</string>
+    <string name="overheat_poweroff_notice_title">ឧបករណ៍​បាន​បិទ​ថាមពល​ដោយ​ស្វ័យប្រវត្តិ</string>
+    <string name="overheat_poweroff_notice_text">"ឧបករណ៍​របស់​អ្នក​បាន​ឡើង​កម្ដៅ​ជ្រុល។ វា​បាន​បិទ​ថាមពល​ដើម្បី​បង្ការ​ការខូច។
+
+ការឡើង​កម្ដៅ​ជ្រុល​អាច​បង្ក​ឡើង​ដោយ៖
+ការប្រើ​កម្មវិធី​ដែល​មាន​ក្រាហ្វិក​ច្រើន ដូចជា​ហ្គេម និង កម្មវិធី​រុករក ក្នុង​អំឡុងពេល​យូរ។
+ការផ្ទេរ​ឯកសារ​ធំៗ។
+ការប្រើ​ឧបករណ៍​របស់​អ្នក​ក្នុង​បរិស្ថាន​ក្ដៅ។"</string>
+    <string name="safe_mode_noti_title">បាន​បើកប្រើ​ទម្រង់​សុវត្ថិភាព</string>
+    <string name="safe_mode_noti_body">ប៉ះ​ទីនេះ​ដើម្បី​បិទ​ទម្រង់​សុវត្ថិភាព។</string>
+    <string name="safe_mode_alert_title">ចាប់ផ្តើម​ឧបករណ៍​ឡើង​វិញ</string>
+    <string name="safe_mode_alert_body">ដើម្បី​បិទ​ទម្រង់​សុវត្ថិភាព ឧបករណ៍​របស់​អ្នក​នឹង​ចាប់ផ្ដើម​ឡើងវិញ។</string>
+    <string name="safe_mode_alert_positive_button">ចាប់​ផ្ដើម​ឡើង​វិញ​ឥឡូវ</string>
+    <string name="safe_mode_noti_title_vzw">Safe Mode Is On</string>
+    <string name="safe_mode_noti_body_vzw">Tap to turn off Safe Mode.</string>
+    <string name="safe_mode_alert_title_vzw">Turn Off Safe Mode</string>
+    <string name="safe_mode_alert_body_vzw">Do you want to restart your phone to turn off Safe Mode? All of your apps will be restored.</string>
+    <string name="safe_mode_alert_positive_button_vzw">Turn Off Safe Mode</string>
+    <string name="insert_sim_card">បញ្ចូល​កាត SIM</string>
+    <string name="insert_sim_card_message">បញ្ចូលកាត SIM ដើម្បី​ចូលប្រើ​សេវា​បណ្ដាញ។</string>
+    <string name="volte_enable_toast_text_about_no_support_sim">VoLTE មិន​ទទួល​ការគាំទ្រ​ពី​កំណែ​សុហ្វវែរ​បច្ចុប្បន្ន​របស់​អ្នក​ទេ។ ទាក់ទង​សេវា​អតិថិជន​សម្រាប់​ព័ត៌មាន​លម្អិត​បន្ថែម។</string>
+    <string name="volte_enable_message">ដើម្បី​ប្រើ​សេវា VoLTE សូម​ចុះឈ្មោះ​ប្រើ VoLTE។ ទាក់ទង​អ្នកផ្ដល់​សេវា​ឲ្យ​អ្នក​សម្រាប់​ព័ត៌មាន​លម្អិត។</string>
+    <string name="volte_disable_is_impossible_during_volte_call">មិន​អាច​បិទ ប្រើ VoLTE នៅពេល​មាន ក្នុង​អំឡុងពេល​ហៅ VoLTE។</string>
+    <string name="location_consent_title">អ្នកប្រើ​យល់ព្រម</string>
+    <string name="location_consent_detail">ទីកន្លែង GPS និង ការប្រើ​ទិន្នន័យ​ទីកន្លែង​របស់​អ្នក​ត្រូវ​បាន​បញ្ជា​ដោយ​កម្មវិធី​ដែល​អ្នក​ប្រើ។</string>
+    <string name="location_agree">យល់​ព្រម</string>
+    <string name="location_disagree">មិន​យល់​ស្រប</string>
+    <string name="location_masterswitch_dialogtitle">ការយល់ព្រម​ទី​កន្លែង</string>
+    <string name="location_masterswitch_dialogtext">"Your phone can share its approximate location with apps and services like maps, shopping and weather.
+
+Apps and services that use your location should inform you. Read the privacy policy of any app or service provider you are considering to understand how they collect, use and share your location information before you use them.
+
+Determining your location will use the mobile network. Data usage will apply."</string>
+    <string name="location_masterswitch_dialogtext_tablet">"Your tablet can share its approximate location with apps and services like maps, shopping and weather.
+
+Apps and services that use your location should inform you. Read the privacy policy of any app or service provider you’re considering to understand how they collect, use and share your location information before you use them.
+
+Determining your location will use the mobile network. Data usage will apply."</string>
+    <string name="agree">យល់​ព្រម</string>
+    <string name="disagree">មិន​យល់​ស្រប</string>
+    <string name="location_turn_off_vowifi_disabled">ដោយ​បិទ GPS មុខងារ VoWiFi នឹង​ត្រូវ​បាន​បិទ​ដោយ​ស្វ័យប្រវត្តិ។</string>
+    <string name="sync_dialog_title_enable">បើក​ស្វ័យ​សមកាល</string>
+    <string name="sync_dialog_title_disable">បិទ​ស្វ័យ​សមកាល</string>
+    <string name="sync_dialog_message_enable">"រាល់​ការ​ផ្លាស់​ប្ដូរ​ដែល​អ្នក​បាន​ធ្វើ​លើ​គណនី​របស់​អ្នក​នៅ​លើ​វិប នឹង​មាន​ការ​ថត​ចម្លង​ដោយស្វ័យប្រវត្តិ​ទៅ​កាន់​ឧបករណ៍​អ្នក។
+
+គណនី​មួយ​ចំនួន ដូចជា គណនី Google ក៏​អាច​នឹង​ថតចម្លង​ដោយ​ស្វ័យប្រវត្តិ​នូវ​រាល់​ការ​ផ្លាស់​ប្ដូរ​មួយ​ចំនួន ដែល​អ្នក​ធ្វើ​ឡើង​នៅ​លើ​ឧបករណ៍​ទៅ​កាន់​វិប​ដែរ។
+
+ដើម្បី​ជ្រើស​នូវ​ព័ត៌មាន​អ្វី ដែល​ត្រូវ​ធ្វើ​សមកាល​ចំពោះ​គណនី​មួយៗ សូម​ចូលទៅ កាកំណត់ > គណនី។"</string>
+    <string name="sync_dialog_message_enable_vzw">"Any changes you make to your accounts on the web will be automatically copied to your phone.
+
+Some accounts, such as Google accounts, may also automatically copy any changes you make on the phone to the web.
+
+To select what information to sync for each account, go to Settings > Accounts."</string>
+    <string name="sync_dialog_message_enable_chn">"ការកែប្រែ​ទាំងឡាយ​ណា​ដែល​អ្នក​ធ្វើ​ចំពោះ​គណនី​របស់​អ្នក​លើ​វិប នឹង​ត្រូវ​បាន​ចម្លង​ដោយ​ស្វ័យប្រវត្តិ​ទៅ​ឧបករណ៍​របស់​អ្នក។
+
+គណនី​ខ្លះ​អាច​ចម្លង​ដោយ​ស្វ័យប្រវត្តិ​ទៅ​វិប​ផងដែរ​នូវ​ការកែប្រែ​ទាំងឡាយ​ណា​ដែល​អ្នក​ធ្វើ​លើ​ឧបករណ៍។
+
+ដើម្បី​ជ្រើស​ព័ត៌មាន​អ្វី​ត្រូវ​ធ្វើ​សមកាល​សម្រាប់​គណនី​នីមួយៗ សូម​ចូលទៅ ការកំណត់ > គណនី។"</string>
+    <string name="sync_dialog_message_disable">នេះ​នឹង​បន្ថយ​ការប្រើប្រាស់​ទិន្នន័យ និង សំចៃ​ថាមពល​ថ្ម ប៉ុន្តែ​អ្នក​ត្រូវ​ធ្វើ​សមកាល​គណនី​ដោយ​ដៃ ដើម្បី​ប្រមូល​ព័ត៌មាន​ថ្មីៗ​បំផុត។ ខណៈពេល​បាន​បើកប្រើ​វា អ្នក​នឹង​មិន​អាច​ទទួល​ការជូនដំណឹង​អំពី​អាប់ដេត​ឡើយ។</string>
+    <string name="mobile_data_text">ទិន្នន័យ​ចល័ត</string>
+    <string name="mobile_data_vzw">បិទ​ទិន្នន័យ​ចល័ត</string>
+    <string name="mobile_data_disable_popup_all">"លុះត្រាតែ​អ្នក​ប្រើ Wi-Fi បើ​ពុំ​នោះ អ្នក​នឹង​លែង​អាច​ប្រើ​អ៊ីនធឺណិត, អ៊ីមែល ឬ កម្មវិធី​ផ្សេងទៀត ដែល​ត្រូវការ​ការភ្ជាប់​ទិន្នន័យ ទៀត​ហើយ។
+
+នឹង​បិទ​ទិន្នន័យ​ចល័ត។"</string>
+    <string name="mobile_data_warning_toast_airplane_mode">មិន​អាច​ភ្ជាប់​ទៅ​បណ្ដាញ​ចល័ត​ទេ ខណៈពេល​បាន​បើកប្រើ​ទម្រង់​យន្តហោះ។ បិទ​ទម្រង់​យន្តហោះ ហើយ​សាកល្បង​ម្ដងទៀត។</string>
+    <string name="mobile_data_warning_toast_disable_during_volte">Unable to turn Mobile data on or off while Advanced calling enabled.</string>
+    <string name="mobile_data_disable_popup_kor_skt_kt">"លុះត្រាតែ​អ្នក​ប្រើ Wi-Fi បើ​ពុំ​នោះ អ្នក​នឹង​លែង​អាច​ប្រើ​អ៊ីនធឺណិត, អ៊ីមែល ឬ កម្មវិធី​ផ្សេងទៀត ដែល​ត្រូវការ​ការភ្ជាប់​ទិន្នន័យ ទៀត​ហើយ។
+
+នឹង​បិទ​ទិន្នន័យ​ចល័ត។"</string>
+    <string name="mobile_data_disable_popup_kor_lgt">"លុះត្រាតែ​អ្នក​ប្រើ Wi-Fi បើ​ពុំ​នោះ អ្នក​នឹង​លែង​អាច​ប្រើ​អ៊ីនធឺណិត, អ៊ីមែល ឬ កម្មវិធី​ផ្សេងទៀត ដែល​ត្រូវការ​ការភ្ជាប់​ទិន្នន័យ ទៀត​ហើយ។
+
+នឹង​បិទ​ទិន្នន័យ​ចល័ត។"</string>
+    <string name="mobile_data_enable_popup_kor_skt_kt">នឹង​បើក​ទិន្នន័យ​ចល័ត។ ការភ្ជាប់​ទៅ​បណ្ដាញ​ចល័ត អាច​នាំ​ឲ្យ​គិត​ថ្លៃ​បន្ថែម អាស្រ័យ​លើ​គម្រោង​បង់ប្រាក់​របស់​អ្នក។</string>
+    <string name="mobile_data_enable_popup_kor_lgt">នឹង​បើក​ទិន្នន័យ​ចល័ត។ ការភ្ជាប់​ទៅ​បណ្ដាញ​ចល័ត អាច​នាំ​ឲ្យ​គិត​ថ្លៃ​បន្ថែម អាស្រ័យ​លើ​គម្រោង​បង់ប្រាក់​របស់​អ្នក។</string>
+    <string name="mobile_data_disable_popup_vzw">"Unless you use Wi-Fi, you will not be able to use the Internet, Email, or other apps that require a data connection.
+
+Turn off Mobile data?"</string>
+    <string name="mobile_data_disable_popup_vzw_volte">"Unless you use Wi-Fi, you will not be able to use Internet, Email, or other apps that require a data connection. Your phone will not be able to use Video Calling while Mobile data is off.
+Turn off Mobile data?"</string>
+    <string name="mobile_data_disable_dialog_text">ការផ្ដាច់​បណ្ដាញ​ចល័ត​នឹង​កំហិត​ការប្រើ​សេវា MMS និង ទិន្នន័យ 3G។ ផ្ដាច់?</string>
+    <string name="mobile_data_roaming_dialog">រ៉ូមីង​ទិន្នន័យ​អាច​គិត​ថ្លៃ​បន្ថែម​លើ​គម្រោង​អត្រា​ថេរ​ក្នុង​ស្រុក​របស់​អ្នក។ ស្វ័យ​អាប់ដេត​ចំពោះ​អ៊ីមែល ឬ កម្មវិធី​ក៏​អាច​គិត​ថ្លៃ​បន្ថែម​ដែរ។ ការប្រើ​សេវា​ទិន្នន័យ​ធំ ដូចជា​វីដេអូ ឬ អ៊ីមែល​អាច​គិត​ថ្លៃ​លើស​ពី 20,000 វ៉ុន ក្នុង​មួយ​នាទី។</string>
+    <string name="mobile_data_roaming_disable_toast_lgt">បាន​បិទ​រ៉ូមីង​ទិន្នន័យ</string>
+    <string name="personal_mode_popup_diable_msg_while_moving_item">មិន​អាច​បិទ​ទម្រង់​ឯកជន ខណៈពេល​កំពុង​ផ្លាស់ទី​ធាតុ​ទៅ ឯកជន។</string>
+    <string name="personal_mode_text">ទម្រង់​ឯកជន</string>
+    <string name="rotation_lock_toast">ស្វ័យបង្វិល</string>
+    <string name="rotation_lock_mobile_keyboard_msg">ដើម្បី​បើកប្រើ %s សូម​ដោះ​គម្រប​ក្ដារចុច​ពី​ឧបករណ៍។</string>
+    <string name="aod_toast_unavailable_with_at_same_time">%1$s និង %2$s មិន​អាច​បើកប្រើ​ក្នុង​ពេល​តែ​មួយ​ឡើយ។</string>
+    <string name="aod_toast_unavailable_with_mobile_keyboard">ដើម្បី​បើកប្រើ %s សូម​ដោះ​គម្រប​ក្ដារចុច​ពី​ឧបករណ៍។</string>
+    <string name="aod_disable_popup_title">បើកប្រើ %s</string>
+    <string name="aod_disable_popup_unavailable_with_at_same_time">%1$s និង %2$s មិន​អាច​បើកប្រើ​ក្នុង​ពេល​តែ​មួយ​ឡើយ។ នឹង​បិទ %3$s។</string>
+    <string name="aod_disable_popup_description">%s និង ជម្រើស​ខាងក្រោម មិន​អាច​បើកប្រើ​ក្នុង​ពេល​តែ​មួយ​ឡើយ។ នឹង​បិទ​ជម្រើស​ខាងក្រោម។</string>
+    <string name="aod_title">Always On Display</string>
+    <string name="aod_power_saving_mode">ទម្រង់​សំចៃ​ថាមពល</string>
+    <string name="aod_voice_assistant_title">Voice Assistant</string>
+    <string name="aod_magnification">ការពង្រីក</string>
+    <string name="aod_magnifier_window">វីនដូវ​កែវពង្រីក</string>
+    <string name="aod_assistant_menu_magnifier">វីនដូវ​កែវពង្រីក</string>
+    <string name="aod_talkback">TalkBack</string>
+    <string name="notification_block">ខ្ទប់</string>
+    <string name="dialog_title_block_notification">ខ្ទប់​ការប្រាប់ដំណឹង​កម្មវិធី</string>
+    <string name="dialog_msg_block_notification">ការប្រាប់ដំណឹង​ពី​កម្មវិធី​នេះ រួមទាំង​ការជូនដំណឹង, សំឡេង និង រំញ័រ នឹង​ត្រូវ​បាន​ខ្ទប់។</string>
+    <string name="toast_msg_unblock_notification">ដើម្បី​ឈប់ខ្ទប់​ការជូនដំណឹង​ពី​កម្មវិធី​នេះ​នៅ​ពេលក្រោយ សូម​ចូលទៅ ការកំណត់ > សំឡេង និង ការជូនដំណឹង រួច​ជ្រើស ការជូនដំណឹង​កម្មវិធី។</string>
+    <string name="mobile_hotspot_dialog_nosim_warning_title">ហត់ស្ពត់​ចល័ត</string>
+    <string name="mobile_hotspot_dialog_nosim_warning">បញ្ចូល​កាត SIM ដើម្បី​ប្រើ​ហត់ស្ពត់​ចល័ត និង មុខងារ​ចំណង​ផ្សេងទៀត។</string>
+    <string name="mobile_hotspot_dialog_nosim_warning_title_jpn">ចំណង Wi-Fi</string>
+    <string name="mobile_hotspot_dialog_nosim_warning_jpn">Insert a SIM card to use Wi-Fi tethering and other tethering functions.</string>
+    <string name="mobile_hotspot_dialog_nosim_warning_dcm">Insert a SIM card to use Wi-Fi tethering.</string>
+    <string name="do_not_show_again">កុំ​បង្ហាញ​ម្តងទៀត</string>
+    <string name="disable">បិទ</string>
+    <string name="airplane_mode_plmn">ទម្រង់​យន្តហោះ</string>
+    <string name="airplane_mode_dialog_title">បើកប្រើ​ទម្រង់​យន្តហោះ</string>
+    <string name="airplane_mode_dialog_title_vzw">Turn on Airplane mode</string>
+    <string name="airplane_mode_dialog_message">ទម្រង់​យន្តហោះ​អនុញ្ញាត​ឲ្យ​អ្នក​បិទ​មុខងារ​ហៅ​ទូរសព្ទ, កម្មវិធី​សារ និង បណ្ដាញ​ទិន្នន័យ។ វា​ក៏​បិទ​មុខងារ​ភ្ជាប់ ដូចជា Wi-Fi និង Bluetooth ផង​ដែរ។ ដើម្បី​ប្រើ Wi-Fi និង Bluetooth សូម​បិទ​ពួកវា​ក្នុង​ការកំណត់ ឬ លើ​ផ្ទាំង​ជូនដំណឹង។</string>
+    <string name="airplane_mode_dialog_message_without_bluetooth">ទម្រង់​យន្តហោះ​អនុញ្ញាត​ឲ្យ​អ្នក​បិទ​មុខងារ​បណ្ដាញ រួមទាំង Wi-Fi។ ដើម្បី​ប្រើ Wi-Fi សូម​បើក​វា​ក្នុង​ការកំណត់ ឬ ផ្ទាំង​ជូនដំណឹង។</string>
+    <string name="airplane_mode_dialog_message_wifi">ទម្រង់​យន្តហោះ​អនុញ្ញាត​ឲ្យ​អ្នក​បិទ​មុខងារ​បណ្ដាញ រួមទាំង Wi-Fi និង Blutooth។ ដើម្បី​ប្រើ Wi-Fi និង Bluetooth សូម​បើក​ពួកវា​ក្នុង​ការកំណត់ ឬ ផ្ទាំង​ជូនដំណឹង។</string>
+    <string name="airplane_mode_dialog_message_cmcc">Flight mode allows you to turn off calling, messaging and data network features. It also turns off connectivity features such as WLAN and Bluetooth. To use WLAN and Bluetooth, turn them on in Settings or on the notification panel.</string>
+    <string name="airplane_mode_dialog_message_vzw">"Unless you use Wi-Fi, you will not be able to use the Internet, Email, or other apps that require a data connection.
+Turn on Airplane mode?"</string>
+    <string name="airplane_mode_dialog_message_vzw_volte">"Unless you use Wi-Fi, you will not be able to use Internet, Email, Wi-Fi Calling or other apps that require a data connection.
+Turn on Airplane mode?"</string>
+    <string name="airplane_mode_msg_safelock">មិន​អាច​បើកប្រើ​ទម្រង់​យន្តហោះ នៅពេល​បាន​បើកប្រើ ខ្ទប់​ការបិទ​ថាមពល ខណៈពេល​ជាប់សោ។ សាកល្បង​ម្ដងទៀត បន្ទាប់​ពី​ដោះសោ​អេក្រង់។</string>
+    <string name="airplane_mode_disabled_on_demo_devices">ទម្រង់​យន្តហោះ​ត្រូវ​បាន​បិទ​លើ​ឧបករណ៍​បង្ហាញ។</string>
+    <string name="torch_light_notification_title">បាន​បើក​ពិល</string>
+    <string name="torch_light_notification_message">បិទ</string>
+    <string name="torch_light_disabled_by_low_battery">មិន​អាច​បើក​ពិល។ ថាមពល​ថ្ម​ខ្សោយ។</string>
+    <string name="torch_light_turn_off_by_low_battery">ថាមពល​ថ្ម​ខ្សោយ។ នឹង​បិទ​ពិល។</string>
+    <string name="dnd_noti_title">បាន​បើកប្រើ កុំ​រំខាន</string>
+    <string name="dnd_noti_message">បាន​បិទ​សំឡេង​ម៉ោងរោទ៍</string>
+    <string name="dnd_noti_action_disable">បិទ</string>
+    <string name="qs_edit_settings_title">កំណត់​ប៊ូតុង​នៃ​ការកំណត់​រហ័ស</string>
+    <string name="qs_edit_settings_available_button">ប៊ូតុងដែលអាចរកបាន</string>
+    <string name="qs_edit_settings_active_button">ប៊ូតុង​សកម្ម</string>
+    <string name="qs_edit_settings_cancel_button">បោះបង់</string>
+    <string name="qs_edit_settings_done_button">រួចរាល់</string>
+    <string name="qs_edit_setting_button_summary_vzw">Customize which quick setting buttons appear at the top of the notification panel. Touch and hold, then drag the buttons to add, hide, or re-order them.</string>
+    <string name="qs_edit_setting_button_summary">ខណៈពេល​បង្ហាញ​ផ្ទាំង​ការកំណត់​រហ័ស សូម​អូស​មក​ឆ្វេង ឬ ទៅ​ស្ដាំ ដើម្បី​បង្ហាញ​ប៊ូតុង​ទាំងអស់​ដែល​បាន​បង្ហាញ​ក្នុង​ប្រអប់​ខាងលើ។</string>
+    <string name="qs_edit_setting_edit_button">កែ</string>
+    <string name="qs_edit_setting_option_text">បង្ហាញ​មុខងារ​នេះ​ខាងលើ​ផ្ទាំង​ជូនដំណឹង។</string>
+    <string name="qs_edit_setting_available_area_dropped">Button not added to quick settings panel.</string>
+    <string name="qs_edit_setting_active_area_dropped">Button added to quick settings panel.</string>
+    <string name="qs_edit_setting_active_area_tapped">In quick settings panel.</string>
+    <string name="qs_edit_setting_available_area_tapped">Not in quick settings panel.</string>
+    <string name="quick_connect_button">ភ្ជាប់​រហ័ស</string>
+    <string name="tap_to_connect">ប៉ះ​ទីនេះ ដើម្បី​ភ្ជាប់​ឧបករណ៍</string>
+    <string name="sound_path_button">ផ្លូវ​អូឌីយ៉ូ</string>
+    <string name="wired_device">ឧបករណ៍​អូឌីយ៉ូ​មាន​ខ្សែ</string>
+    <string name="speaker">ឧបល័រ</string>
+    <string name="headset">កាស</string>
+    <string name="headphones">កាស</string>
+    <string name="car_system">ប្រព័ន្ធ​ឡាន</string>
+    <string name="hdmi_mhl">ឧបករណ៍ HDMI/MHL</string>
+    <string name="status_bar_recent_launch_task_manager_title">កម្មវិធី​គ្រប់គ្រង​កិច្ចការ</string>
+    <string name="status_bar_recent_remove_all_button">បិទ​ទាំងអស់</string>
+    <string name="recent_multiwindow_guide_text">ជ្រើស​កម្មវិធី​ពីរ ដើម្បី​បើក​ក្នុង​ទិដ្ឋភាព​បំបែក​អេក្រង់។</string>
+    <string name="recent_multiwindow_empty_message">គ្មាន​កម្មវិធី​ដែល​បាន​ប្រើ​ថ្មីៗ ដែល​គាំទ្រ​ទិដ្ឋភាព​បំបែក​អេក្រង់</string>
+    <string name="recent_cannot_open_popup_toast_1">មិន​អាច​បើក %s ក្នុង​ទិដ្ឋភាព​ផ្ទាំងផុស។</string>
+    <string name="recent_cannot_open_popup_toast_2">មិន​អាច​បើក​កម្មវិធី​ក្នុង​ទិដ្ឋភាព​ផ្ទាំងផុស។</string>
+    <string name="tw_recents_lock_to_app_button_label">ខ្ទាស់​កម្មវិធី</string>
+    <string name="tw_lock_to_app_title">បើកប្រើ វីនដូវ​ខ្ទាស់</string>
+    <string name="tw_lock_to_app_description_1">មុខងារ​នេះ​អនុញ្ញាត​ឲ្យ​អ្នក​ខ្ទាស់​កម្មវិធី​មួយ​លើ​អេក្រង់​ឧបករណ៍​របស់​អ្នក ដូច្នេះ​អ្នក​មិន​អាច​រុករក​ចេញ​ពី​កម្មវិធី​នោះ​ឡើយ។</string>
+    <string name="tw_lock_to_app_description_2">ខណៈពេល​បាន​ខ្ទាស់​កម្មវិធី​មួយ ការជូនដំណឹង​ពី​កម្មវិធី​ផ្សេងទៀត នឹង​ត្រូវ​បាន​ខ្ទប់ ហើយ​មុខងារ​ផ្សេងទៀត ដូចជា​ការហៅ និង កម្មវិធី​សារ ប្រហែល​ជា​មិន​អាច​ប្រើ​បាន​ឡើយ។</string>
+    <string name="tw_lock_to_app_description_tablet_wifi">ខណៈពេល​បាន​ខ្ទាស់​កម្មវិធី​មួយ ការជូនដំណឹង​នឹង​ត្រូវ​បាន​ខ្ទប់ ហើយ​មុខងារ​ផ្សេងទៀត ប្រហែល​ជា​មិន​អាច​ប្រើ​បាន​ឡើយ។</string>
+    <string name="tw_lock_to_app_description_recents_and_back">ដើម្បី​ឈប់​ខ្ទាស់​កម្មវិធី​មួយ សូម​ចុច​ឲ្យ​ជាប់​លើ​គ្រាប់ចុច​ថ្មីៗ និង គ្រាប់ចុច​ថយ ក្នុង​ពេល​តែមួយ។</string>
+    <string name="tw_lock_to_app_description_menu_and_back">ដើម្បី​ឈប់​ខ្ទាស់​កម្មវិធី​នេះ សូម​ចុច​ឲ្យ​ជាប់​លើ​គ្រាប់ចុច​ម៉ឺនុយ និង គ្រាប់ចុច​ថយ ក្នុង​ពេល​តែមួយ។</string>
+    <string name="tw_lock_to_app_description_recents_and_back_accessible">ដើម្បី​ឈប់​ខ្ទាស់​កម្មវិធី សូម​ចុច​ឲ្យ​ជាប់​លើ​គ្រាប់ចុច​ថ្មីៗ។</string>
+    <string name="tw_lock_to_app_description_menu_and_back_accessible">ដើម្បី​ឈប់​ខ្ទាស់​កម្មវិធី សូម​ចុច​ឲ្យ​ជាប់​លើ​គ្រាប់ចុច​ម៉ឺនុយ។</string>
+    <string name="tw_unable_to_pin_title">មិន​អាច​ខ្ទាស់ %s</string>
+    <string name="tw_unable_to_pin_description">កម្មវិធី​នេះ​មិន​គាំទ្រ​វីនដូវ​ខ្ទាស់។</string>
+    <string name="tw_unable_to_pin_description_toast">មិន​អាច​ខ្ទាស់​កម្មវិធី។ បាន​បិទ %s។ កំហុស​មិនស្គាល់​បាន​កើតឡើង។</string>
+    <string name="tw_screen_pinning_positive">ចាប់ផ្តើម</string>
+    <string name="accessibility_recents_item_pin">ខ្ទាស់</string>
+    <string name="accessibility_recents_item_unpin">ឈប់ខ្ទាស់</string>
+    <string name="recents_help_split_buttton">ដើម្បី​បើក​កម្មវិធី​ក្នុង​ទិដ្ឋភាព​បំបែក​អេក្រង់ សូម​ប៉ះ %s លើ​របារ​ចំណងជើង​នៃ​វីនដូវ​កម្មវិធី។ អាយខុន​នេះ​បង្ហាញ​ឡើង នៅពេល​កម្មវិធី​គាំទ្រ​ទិដ្ឋភាព​បំបែក​អេក្រង់។</string>
+    <string name="recents_help_split_buttton_description">ដើម្បី​បើក​កម្មវិធី​ក្នុង​ទិដ្ឋភាព​បំបែក​អេក្រង់ សូម​ប៉ះ​អាយខុន​បំបែក​អេក្រង់​លើ​របារ​ចំណងជើង​នៃ​វីនដូវ​កម្មវិធី។ អាយខុន​នេះ​បង្ហាញ​ឡើង នៅពេល​កម្មវិធី​គាំទ្រ​ទិដ្ឋភាព​បំបែក​អេក្រង់។</string>
+    <string name="recents_help_long_press">ចុច​ឲ្យ​ជាប់​លើ​គ្រាប់ចុច​ថ្មីៗ ដើម្បី​បើក​កម្មវិធី​នានា ក្នុង​ទិដ្ឋភាព​បំបែក​អេក្រង់។</string>
+    <string name="recent_multi_window">បើក​ក្នុង​ទិដ្ឋភាព​បំបែក​អេក្រង់</string>
+    <string name="help">ជំនួយ</string>
+    <string name="disable_multi_window_dialog_title">បិទ​ពហុវីនដូវ</string>
+    <string name="disable_multi_window_dialog_text">ពហុវីនដូវ​នឹង​ត្រូវ​បាន​បិទ ហើយ​កម្មវិធី​ទាំងអស់​ដែល​បាន​បើក​ក្នុង​វីនដូវ​ផុស នឹង​ត្រូវ​បាន​បិទ។</string>
+    <string name="unable_to_capture_screen_drm_proteced_image">មិន​អាច​ថត​អេក្រង់។ រូប​បាន​ការពារ​ដោយ DRM។</string>
+    <string name="unable_to_save_cropped_image">មិន​អាច​រក្សាទុក​រូប​ដែល​បាន​ច្រឹប។</string>
+    <string name="center_bar_window_switch_windows">ប្ដូរ​វីនដូវ</string>
+    <string name="center_bar_window_drag_and_drop_content">អូស និង ទម្លាក់​ខ្លឹមព័ត៌មាន</string>
+    <string name="center_bar_window_select_contents">អូស​រូប ឬ កថាខណ្ឌ​នៃ​អត្ថបទ​ពី​អេក្រង់​បំបែក ឬ វីនដូវ​ទិដ្ឋភាព​ផុស ហើយ​ទម្លាក់​វា​ទៅ​លើ​វីនដូវ​ផ្សេង។</string>
+    <string name="center_bar_window_do_not_show_again">កុំ​បង្ហាញ​ម្តងទៀត</string>
+    <string name="keyguard_high_voltage_plugged_in">សាក​លឿន៖ %d%%</string>
+    <string name="keyguard_charging_in_wireless">កំពុង​សាក​ដោយ​ឥតខ្សែ៖ %d%%</string>
+    <string name="keyguard_fast_charging_in_wireless">កំពុង​សាក​លឿន​ឥតខ្សែ៖ %d%%</string>
+    <string name="keyguard_charging_remaining_time">(ប្រហែល %s ទើប​សាក​ពេញ)</string>
+    <string name="lockscreen_charging_remaining_time">"កំពុង​សាក៖ %1$d%%
+(%2$s ទើប​ពេញ)"</string>
+    <string name="lockscreen_charging_in_wireless_remaining_time">"Charging wirelessly: %1$d%%
+(%2$s until full)"</string>
+    <string name="lockscreen_fast_charging_in_wireless_remaining_time">"Fast charging wirelessly: %1$d%%
+(%2$s until full)"</string>
+    <string name="keyguard_high_voltage_plugged_in_remaining_time">"Fast charging: %1$d%%
+(%2$s until full)"</string>
+    <string name="keyguard_skt_usim_unregistered">មិន​អាច​ប្រើ​កាត USIM។ ទាញយក​ព័ត៌មាន​កាត USIM។</string>
+    <string name="keyguard_usim_not_used">មិន​អាច​ប្រើ​កាត USIM។ បាន​វាយបញ្ចូល​កូដ​ដោះសោ PIN (PUK) មិន​ត្រឹមត្រូវ %d ដង។ ទិញ​កាត USIM ថ្មី។</string>
+    <string name="lockscreen_nosim_text_kor_only">"ចាប់​មិន​បាន​កាត USIM
+ការហៅ​អាសន្ន​ប៉ុណ្ណោះ"</string>
+    <string name="noti_setting_button_text">ការកំណត់​ការជូនដំណឹង</string>
+    <string name="name_slot1">រន្ធ 1</string>
+    <string name="name_slot2">រន្ធ 2</string>
+    <string name="app_locked">App locked</string>
+    <string name="applocked_pinning_window_disable">មិន​អាច​ខ្ទាស់​កម្មវិធី។ បាន​ចាក់សោ​កម្មវិធី។</string>
+    <string name="cover_quick_setting_warning_message">បើក​គម្រប ដើម្បី​ប្រើ​ប៊ូតុង​ការកំណត់​រហ័ស។</string>
+    <string name="cover_device_locked_message">បាន​ចាក់​សោ​ឧបករណ៍។ បើក​គម្រប។</string>
+    <string name="accessibility_noti_setting_button">ការកំណត់​ការជូនដំណឹង</string>
+    <string name="switched_to_onephone_mode">បាន​ប្ដូរ​ទម្រង់​ទៅ​ទម្រង់​មួយ​លេខ។</string>
+    <string name="switched_to_twophone_mode">បាន​ប្ដូរ​ទម្រង់​ទៅ​ទម្រង់​ពីរ​លេខ។</string>
+    <string name="accessibility_recents_item_lock">សោ</string>
+    <string name="accessibility_recents_item_unlock">ដោះសោ</string>
+    <string name="quick_panel_data_usage">Data usage</string>
+    <string name="qs_multisim_voice_preffered_btn_title">ការហៅ​សំឡេង</string>
+    <string name="qs_multisim_sms_preffered_btn_title">សារ​អត្ថបទ</string>
+    <string name="qs_multisim_data_preffered_btn_title">ទិន្នន័យ​ចល័ត</string>
+    <string name="qs_multisim_voice_ask_always">សួរ​ជានិច្ច</string>
+    <string name="qs_multisim_data_turned_off">បាន​បិទ</string>
+    <string name="wifi_fail_to_scan">មិន​អាច​វិភាគ​រក​បណ្ដាញ</string>
+    <string name="wifi_security_none">គ្មាន</string>
+    <string name="wifi_remembered">បាន​រក្សាទុក</string>
+    <string name="wifi_disabled_generic">បាន​បិទ</string>
+    <string name="wifi_disabled_network_failure">ការ​កំណត់​រចនាសម្ព័ន្ធ IP បរាជ័យ</string>
+    <string name="wifi_disabled_wifi_failure">ការ​ភ្ជាប់​ WiFi បរាជ័យ</string>
+    <string name="wifi_disabled_password_failure">បញ្ហា​ក្នុង​ការ​ផ្ទៀងផ្ទាត់</string>
+    <string name="wifi_not_in_range">នៅ​ក្រៅ​តំបន់</string>
+    <string name="wifi_no_internet">រក​មិន​ឃើញ​ការ​ចូល​ដំណើរការ​អ៊ីនធឺណិត, នឹង​មិន​ភ្ជាប់​ឡើង​វិញ​ដោយ​ស្វ័យ​ប្រវត្តិ​ទេ។</string>
+    <string name="saved_network">បានរក្សាទុកដោយ %1$s</string>
+    <string name="connected_via_wfa">បានភ្ជាប់តាមរយៈជំនួយការ Wi‑Fi</string>
+    <string name="connected_via_passpoint">បានភ្ជាប់តាមរយៈ %1$s</string>
+    <string name="available_via_passpoint">មានតាមរយៈ %1$s</string>
+    <string name="wifi_connected_no_internet">បានភ្ជាប់ ប៉ុន្តែគ្មានអ៊ីនធឺណិតទេ</string>
+    <string name="bluetooth_disconnected">បាន​ផ្ដាច់</string>
+    <string name="bluetooth_disconnecting">កំពុង​ផ្ដាច់…</string>
+    <string name="bluetooth_connecting">កំពុង​ត​ភ្ជាប់​…</string>
+    <string name="bluetooth_connected">បាន​តភ្ជាប់</string>
+    <string name="bluetooth_pairing">កំពុង​ផ្គូ…</string>
+    <string name="bluetooth_connected_no_headset">បាន​តភ្ជាប់ (គ្មាន​ទូរស័ព្ទ)</string>
+    <string name="bluetooth_connected_no_a2dp">បាន​តភ្ជាប់ (គ្មាន​មេឌៀ)</string>
+    <string name="bluetooth_connected_no_map">បាន​ភ្ជាប់ (គ្មាន​ការ​ចូល​ដំណើរការ​សារ)</string>
+    <string name="bluetooth_connected_no_headset_no_a2dp">បាន​តភ្ជាប់ (គ្មាន​ទូរស័ព្ទ ឬ​មេឌៀ)</string>
+    <string name="bluetooth_profile_a2dp">អូឌីយ៉ូ​មេឌៀ</string>
+    <string name="bluetooth_profile_headset">អូឌីយ៉ូ​ហៅ</string>
+    <string name="bluetooth_profile_opp">ផ្ទេរ​ឯកសារ</string>
+    <string name="bluetooth_profile_hid">ឧបករណ៍​បញ្ចូល</string>
+    <string name="bluetooth_profile_textinput">ការបញ្ចូល​អត្ថបទ</string>
+    <string name="bluetooth_profile_pan">ការចូលប្រើ​អ៊ីនធឺណិត</string>
+    <string name="bluetooth_profile_pbap">ការ​ចែករំលែក​​ទំនាក់ទំនង</string>
+    <string name="bluetooth_profile_pan_nap">ចែករំលែក​ការ​តភ្ជាប់​អ៊ីនធឺណិត</string>
+    <string name="bluetooth_profile_map">​​ចូល​ដំណើរការ​សារ</string>
+    <string name="bluetooth_profile_sap">ការចូលដំណើរការស៊ីម</string>
+    <string name="bluetooth_profile_pbap_summary">ប្រើ​សម្រាប់​ការ​ចែករំលែក​ទំនាក់ទំនង</string>
+    <string name="bluetooth_a2dp_profile_summary_connected">បាន​ភ្ជាប់​សម្រាប់​អូឌីយ៉ូ​មេឌៀ</string>
+    <string name="bluetooth_headset_profile_summary_connected">បាន​ភ្ជាប់​សម្រាប់​អូឌីយ៉ូ​ហៅ</string>
+    <string name="bluetooth_opp_profile_summary_connected">បាន​តភ្ជាប់​ទៅ​ម៉ាស៊ីន​មេ​ផ្ទេរ​ឯកសារ</string>
+    <string name="bluetooth_map_profile_summary_connected">បាន​ភ្ជាប់​ទៅ​​​ផែនទី</string>
+    <string name="bluetooth_sap_profile_summary_connected">បានភ្ជាប់ទៅ SAP</string>
+    <string name="bluetooth_opp_profile_summary_not_connected">មិន​បាន​តភ្ជាប់​ទៅ​ម៉ាស៊ីន​មេ​ផ្ទេរ​ឯកសារ</string>
+    <string name="bluetooth_hid_profile_summary_connected">បាន​ភ្ជាប់​ជា​ឧបករណ៍​បញ្ចូល</string>
+    <string name="bluetooth_pan_user_profile_summary_connected">បាន​ភ្ជាប់​ទៅ​ឧបករណ៍​សម្រាប់​ការចូលប្រើ​អ៊ីនធឺណិត។</string>
+    <string name="bluetooth_pan_nap_profile_summary_connected">ចែករំលែក​ការ​តភ្ជាប់​អ៊ីនធឺណិត​មូលដ្ឋាន​ជា​មួយ​ឧបករណ៍</string>
+    <string name="bluetooth_summary_connected_to_a2dp_headset">បាន​ភ្ជាប់​សម្រាប់​ការហៅ និង អូឌីយ៉ូ​មេឌៀ</string>
+    <string name="bluetooth_pan_nap_connected">បាន​ភ្ជាប់ ដើម្បី​ផ្ដល់​ការភ្ជាប់​អ៊ីនធឺណិត</string>
+    <string name="bluetooth_pan_panu_connected">បាន​ភ្ជាប់ ដើម្បី​ចូលប្រើ​ការភ្ជាប់​អ៊ីនធឺណិត</string>
+    <string name="bluetooth_pan_profile_summary_use_for">ប្រើ​សម្រាប់​ការចូលប្រើ​អ៊ីនធឺណិត។</string>
+    <string name="bluetooth_map_profile_summary_use_for">ប្រើ​សម្រាប់​ផែនទី</string>
+    <string name="bluetooth_sap_profile_summary_use_for">ប្រើសម្រាប់ចូលដំណើរការស៊ីម</string>
+    <string name="bluetooth_a2dp_profile_summary_use_for">ប្រើ​សម្រាប់​សំឡេង​មេឌៀ</string>
+    <string name="bluetooth_headset_profile_summary_use_for">ប្រើ​សម្រាប់​​អូឌីយ៉ូ​ទូរស័ព្ទ</string>
+    <string name="bluetooth_opp_profile_summary_use_for">ប្រើ​សម្រាប់​ផ្ទេរ​ឯកសារ</string>
+    <string name="bluetooth_hid_profile_summary_use_for">ប្រើ​សម្រាប់​បញ្ចូល</string>
+    <string name="bluetooth_pairing_accept">ផ្គូផ្គង</string>
+    <string name="bluetooth_pairing_accept_all_caps">ផ្គូផ្គង</string>
+    <string name="bluetooth_pairing_decline">បោះ​បង់​</string>
+    <string name="bluetooth_pairing_will_share_phonebook">ការ​ផ្គូផ្គង​ដើម្បី​ចូល​ដំណើរការ​ទំនាក់ទំនង និង​ប្រវត្តិ​ហៅ​របស់​អ្នក ពេល​បាន​តភ្ជាប់។</string>
+    <string name="bluetooth_pairing_error_message">មិន​អាច​ផ្គូផ្គង​ជា​មួយ %1$s ។</string>
+    <string name="bluetooth_pairing_pin_error_message">មិន​អាច​ផ្គូ​ជាមួយ %1$s។ ត្រូវ​ប្រាកដ​ថា %2$s រួចរាល់ ដើម្បី​ផ្គូ។</string>
+    <string name="bluetooth_pairing_device_down_error_message">មិន​អាច​ទាក់ទង​ជា​មួយ %1$s ។</string>
+    <string name="bluetooth_pairing_rejected_error_message">ការ​ផ្គូផ្គង​បាន​បដិសេធ​ដោយ %1$s ។</string>
+    <string name="bluetooth_hid_connection_error_message">មិន​អាច​ភ្ជាប់​ឧបករណ៍​ទៅ​ឧបករណ៍​បញ្ចូល Bluetooth ខណៈពេល​ប្រើ​វា​ជា​ឧបករណ៍​បញ្ចូល Bluetooth។</string>
+</resources>

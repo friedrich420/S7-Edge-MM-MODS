@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="help_popup_picker_bg">false</item>
+    <item type="drawable" name="help_popup_picker_bg_w_01">false</item>
+    <item type="drawable" name="step_bubble_02">false</item>
+    <item type="drawable" name="step_bubble_sample">false</item>
+    <item type="drawable" name="abc_btn_switch_to_on_mtrl_00001">false</item>
+    <item type="drawable" name="abc_btn_switch_to_on_mtrl_00012">false</item>
+    <item type="drawable" name="abc_spinner_mtrl_am_alpha">false</item>
+    <item type="drawable" name="abc_switch_track_mtrl_alpha">false</item>
+    <item type="drawable" name="abc_tab_indicator_mtrl_alpha">false</item>
+</resources>

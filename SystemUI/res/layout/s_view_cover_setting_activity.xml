@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_gravity="start" android:orientation="vertical" android:layout_width="@dimen/sview_cover_pager_width" android:layout_height="@dimen/sview_cover_height" android:layout_marginStart="@dimen/sview_cover_margin" android:layout_marginEnd="@dimen/sview_cover_margin"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/s_view_cover_setting_root_pattern" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <FrameLayout android:layout_width="fill_parent" android:layout_height="@dimen/sview_cover_titlebar_height">
+            <LinearLayout android:gravity="center|left" android:orientation="horizontal" android:background="@color/sview_cover_titlebar_bg_color" android:paddingLeft="@dimen/sview_cover_titlebar_padding_left" android:paddingTop="@dimen/sview_cover_titlebar_padding_top" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <ImageView android:gravity="center" android:id="@id/s_view_cover_setting_close_button" android:background="@drawable/ripple_effect_back_drawable" android:padding="16.0dip" android:focusable="true" android:layout_width="@dimen/sview_cover_titlebar_button_width" android:layout_height="@dimen/sview_cover_titlebar_button_width" android:src="@drawable/tw_ic_ab_back_mtrl" android:contentDescription="@string/back" />
+                <TextView android:textSize="@dimen/sview_cover_titlebar_text_size" android:textColor="@color/sview_cover_titlebar_text_color" android:gravity="center_vertical" android:id="@id/setting_item_text" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/s_view_cover_shortcuts_settings_text" android:singleLine="true" android:fontFamily="sans-serif" />
+            </LinearLayout>
+        </FrameLayout>
+        <ListView android:id="@id/setting_activity_list" android:layout_width="fill_parent" android:layout_height="fill_parent" android:listSelector="@drawable/list_item_selector" android:divider="@drawable/noti_list_divider" android:dividerHeight="1.0dip" />
+    </LinearLayout>
+</FrameLayout>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.systemui.qs.QSContainer android:id="@id/quick_settings_container" android:background="@drawable/qs_background_primary" android:layout_width="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <HorizontalScrollView android:theme="@style/QsScrollViewTheme" android:id="@id/quicksetting_scroller" android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="wrap_content" android:overScrollMode="ifContentScrolls">
+            <com.android.systemui.qs.QSPanel android:id="@id/quick_settings_panel" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        </HorizontalScrollView>
+        <include layout="@layout/quick_settings_summary" />
+        <include layout="@layout/quick_settings_quick_connect_sound_path" />
+        <include layout="@layout/sec_quick_settings_brightness_dialog" />
+        <include layout="@layout/data_usage_view_layout" />
+    </FrameLayout>
+</com.android.systemui.qs.QSContainer>

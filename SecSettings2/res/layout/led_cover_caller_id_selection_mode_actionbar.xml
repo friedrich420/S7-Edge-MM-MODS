@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:id="@id/sellect_all" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_alignParentStart="true">
+        <LinearLayout android:layout_gravity="center_vertical" android:orientation="vertical" android:id="@id/select_all_wrapper" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <CheckBox android:id="@id/toggle_selection_check" android:focusable="true" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentLeft="true" android:buttonTint="#fffafafa" />
+            <TextView android:textSize="12.0dip" android:textColor="@color/actionbar_text_color" android:gravity="center" android:id="@id/number_selected_all" android:clickable="true" android:layout_width="fill_parent" android:layout_height="14.0dip" android:layout_marginTop="-2.0dip" android:text="@string/filter_apps_all" android:singleLine="true" />
+        </LinearLayout>
+        <TextView android:textSize="20.0dip" android:textColor="@color/actionbar_text_color" android:layout_gravity="center|left" android:id="@id/number_selected_text" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:layout_toLeftOf="@id/select_all_wrapper" android:paddingStart="16.0dip" style="@style/Custom_Button_Text" />
+    </LinearLayout>
+</RelativeLayout>

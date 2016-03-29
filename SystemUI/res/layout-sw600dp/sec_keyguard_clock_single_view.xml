@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.keyguard.status.SecKeyguardClockSingleView android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/keyguard_sec_clock_single_view" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:gravity="center" android:id="@id/keyguard_sec_clock_single_background" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="center" />
+    <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/keyguard_sec_clock_single_clock_date_wrapper" android:focusable="true" android:clickable="true" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <com.android.keyguard.status.KeyguardTextClock android:textSize="@dimen/kg_singleclock_time_text_size_normal" android:textColor="@color/theme_textclock_color" android:gravity="center" android:id="@id/keyguard_single_clock_time" android:focusable="false" android:clickable="false" android:layout_width="300.0dip" android:layout_height="wrap_content" android:fontFamily="clock2016" android:format12Hour="@string/status_view_12_hours_format" android:format24Hour="@string/status_view_24_hours_format" style="@style/keyguard_clock_weather_text_shadow" />
+        <com.android.keyguard.status.KeyguardDateView android:textSize="@dimen/kg_singleclock_date_text_size" android:textColor="@color/theme_clock_date_color" android:id="@id/keyguard_single_clock_date" android:focusable="false" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:fontFamily="roboto-regular" style="@style/keyguard_clock_weather_text_shadow" />
+    </LinearLayout>
+</com.android.keyguard.status.SecKeyguardClockSingleView>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.keyguard.status.SecKeyguardClockView android:gravity="center" android:orientation="vertical" android:id="@id/keyguard_sec_clock_view" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:layout_gravity="center_horizontal" android:id="@id/keyguard_sec_clock_holder" android:focusable="false" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <FrameLayout android:orientation="vertical" android:id="@id/keyguard_sec_clock_bottom" android:focusable="false" android:clickable="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginStart="@dimen/kg_owner_text_margin_start" android:layout_marginEnd="@dimen/kg_owner_text_margin_end">
+        <com.android.keyguard.status.KeyguardTextView android:textSize="@dimen/kg_owner_text_size" android:textColor="@color/theme_textclock_color" android:ellipsize="marquee" android:gravity="center" android:layout_gravity="center" android:id="@id/keyguard_owner_info" android:padding="1.0dip" android:focusable="true" android:visibility="gone" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:fontFamily="roboto-regular" style="@style/keyguard_clock_weather_text_shadow" />
+    </FrameLayout>
+</com.android.keyguard.status.SecKeyguardClockView>

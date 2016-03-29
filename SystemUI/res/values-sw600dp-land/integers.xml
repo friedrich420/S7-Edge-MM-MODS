@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="quick_settings_num_columns">7</integer>
+    <integer name="keyguard_max_notification_count">3</integer>
+    <integer name="applist_view_pager_num_columns">3</integer>
+</resources>

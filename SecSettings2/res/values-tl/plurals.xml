@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">May %d (na) hakbang na lang bago ka maging isang developer.</item>
+        <item quantity="one">1 hakbang ka na lang bago ka maging developer.</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">Pag-set up ng %1$d na fingerprint</item>
+        <item quantity="one">Pag-set up ng %1$d fingerprint</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Dapat maglaman ng kahit %d titik ang password.</item>
+        <item quantity="one">Dapat maglaman ng kahit 1 titik ang password.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Dapat maglaman ng kahit %d maliit na titik ang password.</item>
+        <item quantity="one">Dapat maglaman ng kahit 1 maliit na titik ang password.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Dapat maglaman ng kahit %d malaking titik ang password.</item>
+        <item quantity="one">Dapat maglaman ng kahit 1 malaking titik ang password.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Dapat maglaman ng kahit %d numero ang password.</item>
+        <item quantity="one">Dapat maglaman ng kahit 1 numero ang password.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Dapat maglaman ng kahit %d simbolo ang password.</item>
+        <item quantity="one">Dapat maglaman ng kahit 1 simbolo ang password.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Dapat maglaman ng kahit %d numero o simbolo ang password.</item>
+        <item quantity="one">Dapat maglaman ng kahit 1 numero o simbolo ang password.</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Maling SIM PIN code, %d subok na lang bago ka makipag-ugnayan sa carrier mo upang i-unlock ang device.</item>
+        <item quantity="one">Maling SIM PIN code, %d subok na lang bago ka makipag-ugnayan sa carrier mo upang i-unlock ang device.</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">Nakakabasa ang %d (na) application ng mga notification.</item>
+        <item quantity="one">%d application ang pinayagang magbasa ng mga notification.</item>
+    </plurals>
+    <plurals name="manage_condition_providers_summary_nonzero">
+        <item quantity="other">%d (na) application na naka-install na nagkakaloob ng mga kundisyon para sa function na ito</item>
+        <item quantity="one">%d app provides conditions</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">Gawing mag-a-alarm lang sa loob ng %1$d na minuto (hanggang %2$s)</item>
+        <item quantity="one">Gawing mag-a-alarm lang sa loob ng %1$d minuto (hanggang %2$s)</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">Gawing mag-a-alarm lang sa loob ng %1$d na oras hanggang %2$s</item>
+        <item quantity="one">Gawing mag-a-alarm lang sa loob ng %1$d oras hanggang %2$s</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">%d na pahintulot ang ibinigay</item>
+        <item quantity="one">%d pahintulot ang ibinigay</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">%1$d ng %2$d na pahintulot ang ibinigay</item>
+        <item quantity="one">%1$d ng %2$d pahintulot ang ibinigay</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">%d pang pahintulot</item>
+        <item quantity="one">%d pang pahintulot</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">%d apps can open their supported links</item>
+        <item quantity="zero">Mabubuksan ng %d app ang mga sinusuportahang link ng mga ito</item>
+        <item quantity="one">Mabubuksan ng %d (na) app ang mga sinusuportahang link ng mga ito</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">%d na app ang pinayagang balewalain ang pag-optimize ng baterya</item>
+        <item quantity="one">%d app ang pinayagang balewalain ang pag-optimize ng baterya</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">%1$d na app ang gumamit ng memory sa nakaraang %2$s</item>
+        <item quantity="one">%1$d app ang gumamit ng memory sa nakaraang %2$s</item>
+    </plurals>
+    <plurals name="lock_timeout_hours">
+        <item quantity="other">%d (na) oras</item>
+        <item quantity="one">1 oras</item>
+    </plurals>
+    <plurals name="lock_timeout_minutes">
+        <item quantity="other">%d (na) minuto</item>
+        <item quantity="one">1 minuto</item>
+    </plurals>
+    <plurals name="lock_timeout_seconds">
+        <item quantity="other">%d (na) segundo</item>
+        <item quantity="one">1 segundo</item>
+    </plurals>
+</resources>

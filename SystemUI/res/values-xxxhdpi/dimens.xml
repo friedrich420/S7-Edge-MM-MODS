@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="sview_cover_height">322.0dip</dimen>
+    <dimen name="sview_cover_pager_width">321.0dip</dimen>
+    <dimen name="sview_cover_margin">19.5dip</dimen>
+    <dimen name="sview_cover_popup_height">288.0dip</dimen>
+    <dimen name="sview_cover_bottom_button_height">62.0dip</dimen>
+    <dimen name="sview_cover_unlock_area_unlock_circle_size">224.0dip</dimen>
+    <dimen name="sview_cover_unlock_area_unlock_circle_bottom_margin">-59.0dip</dimen>
+    <dimen name="sview_cover_unlock_area_unlock_circle_side_margin">-59.0dip</dimen>
+    <dimen name="sview_cover_unlock_area_margin">19.0dip</dimen>
+    <dimen name="sview_cover_unlock_area_margin_width">19.0dip</dimen>
+    <dimen name="sview_cover_battery_state_view_bottom_margin">18.0dip</dimen>
+    <dimen name="sview_cover_unlock_area_unlock_circle_button_size">48.0dip</dimen>
+</resources>

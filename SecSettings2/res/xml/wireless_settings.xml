@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/radio_controls_title"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <PreferenceScreen android:title="@string/rcs_settings_title" android:key="rcs_settings">
+        <intent android:targetPackage="com.samsung.rcs" android:action="com.samsung.rcs.config.VIEW_SETTINGS" android:targetClass="com.samsung.rcs.configs.ServicesSwitch" />
+    </PreferenceScreen>
+    <PreferenceScreen android:title="@string/rcs_settings_title_when_partial_branded" android:key="rcs_settings_partial_branded">
+        <intent android:targetPackage="com.samsung.rcs" android:action="com.samsung.rcs.config.VIEW_SETTINGS_PARTIAL_BRANDED" android:targetClass="com.samsung.rcs.configs.PartialBrandedServicesSwitch" />
+    </PreferenceScreen>
+    <PreferenceScreen android:title="@string/nearby_scanning_title" android:key="nearby_scanning_setting_category" android:fragment="com.android.settings.nearbyscan.NearbyScanning" />
+    <PreferenceScreen android:title="@string/wifi_calling_settings_title" android:key="wifi_calling_settings" android:fragment="com.android.settings.WifiCallingSettings" settings:keywords="@string/keywords_wifi_calling" />
+    <PreferenceScreen android:persistent="false" android:title="@string/wifi_tether_checkbox_text" android:key="wifi_ap_settings" android:fragment="com.android.settings.wifi.mobileap.WifiApSettings">
+        <intent android:targetPackage="com.android.settings" android:action="android.intent.action.MAIN" android:targetClass="com.android.settings.wifi.mobileap.WifiApSettings" />
+    </PreferenceScreen>
+    <PreferenceScreen android:title="@string/tether_settings_title_usb_bluetooth" android:key="tether_settings" android:fragment="com.android.settings.TetherSettings" />
+    <PreferenceScreen android:title="@string/print_settings" android:key="print_settings" android:fragment="com.android.settings.print.PrintSettingsFragment" />
+    <PreferenceScreen android:title="@string/mirror_link_title" android:key="mirror_link_settings" android:summary="@string/mirror_link_summary" android:fragment="com.android.settings.mirrorlink.MirrorLink" />
+    <PreferenceScreen android:title="@string/smart_bonding" android:key="smart_bonding_settings" android:fragment="com.android.settings.smartbonding.SmartBondingSettings" />
+    <PreferenceScreen android:title="@string/multi_path_title" android:key="multi_path" android:fragment="com.android.settings.GigaMultiPath" />
+    <PreferenceScreen android:title="@string/vpn_settings_title" android:key="vpn_settings" android:summary="@string/vpn_settings_summary" android:fragment="com.android.settings.vpn2.VpnSettings" />
+    <PreferenceScreen android:title="@string/vpn_settings_title" android:key="vpn_settings_for_att" android:summary="@string/vpn_settings_summary" android:fragment="com.android.settings.vpn2.VpnSettingsForATT" />
+    <PreferenceScreen android:title="@string/reset_network_settings" android:key="network_reset" android:fragment="com.android.settings.ResetNetwork" />
+    <PreferenceScreen android:title="@string/eth_radio_ctrl_title" android:key="ethernet_settings" android:fragment="com.android.settings.ethernet.EthernetSettings" />
+    <PreferenceScreen android:title="@string/network_settings_title" android:key="mobile_network_settings" settings:keywords="@string/keywords_more_mobile_networks">
+        <intent android:targetPackage="com.android.phone" android:action="android.intent.action.MAIN" android:targetClass="com.android.phone.MobileNetworkSettings" />
+    </PreferenceScreen>
+    <PreferenceCategory android:title="@string/media_share_title" android:key="media_share_category_vzw">
+        <PreferenceScreen android:title="@string/allshare_nearby" android:key="nearby_setting_vzw" android:summary="@string/allshare_title_summary" android:fragment="com.android.settings.nearby.NearbySettings" />
+    </PreferenceCategory>
+    <Preference android:persistent="false" android:key="wfc_settings_holder_key" />
+</PreferenceScreen>

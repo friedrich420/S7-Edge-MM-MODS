@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Сиз азыр иштеп чыгуучу болуудан %d кадам алыс турасыз</item>
+        <item quantity="one">Иштеп чыгуучу болооруңузга 1 гана кадам калды</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">%1$d манжа изин коюу</item>
+        <item quantity="one">%1$d манжа изин коюу</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Сырсөздө кеминде %d тамгалар болушу керек</item>
+        <item quantity="one">Сырсөздө кеминде 1 тамга болушу керек</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Сырсөздө кеминде %d кичинекей тамгалар болушу керек</item>
+        <item quantity="one">Сырсөздө кеминде 1 кичинекей тамга болушу керек</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Сырсөздө кеминде %d баш тамгалар болушу керек</item>
+        <item quantity="one">Сырсөздө кеминде 1 баш тамга болушу керек</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Сырсөздө жок дегенде %d сандар болушу керек</item>
+        <item quantity="one">Сырсөздө кеминде 1 сан болушу керек</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Сырсөздө кеминде %d символдор болушу керек</item>
+        <item quantity="one">Сырсөздө кеминде 1 символ болушу керек</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Сырсөздө кеминде %d сандар же символдор болушу керек</item>
+        <item quantity="one">Сырсөздө кеминде 1 сан же символ болушу керек</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">SIM PIN-коду туура эмес, түзмөк кулпусун ачуу үчүн операторуңузга кайрылуудан мурун %d аракет калды.</item>
+        <item quantity="one">SIM PIN-коду туура эмес, сизде %d аракет калды.</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d сунуучу билдирүүлөрдү окуй алат.</item>
+        <item quantity="one">%d сунуучуда, билдирүүлөрдү окуу уруксаты бар.</item>
+    </plurals>
+    <plurals name="manage_condition_providers_summary_nonzero">
+        <item quantity="other">Бул функциянын шарттарын камсыз кылган %d колдонмо орнотулду</item>
+        <item quantity="one">%d app provides conditions</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">%2$s чейин бир мүнөткө ойготкучтар гана режимине өзгөртүү</item>
+        <item quantity="one">%1$d мүнөткө ойготкучтар гана режимине өзгөртүү (%2$s чейин)</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">%2$s чейин бир саатка ойготкучтар гана режимине өзгөртүү</item>
+        <item quantity="one">%2$s чейин %1$d саатка ойготкучтар гана режимине өзгөртүү</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">%d уруксат берилди</item>
+        <item quantity="one">%d уруксат берилди</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">%1$d ичинен %2$d уруксат берилди</item>
+        <item quantity="one">%1$d ичинен %2$d уруксат берилди</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">Дагы %d уруксат</item>
+        <item quantity="one">Дагы %d уруксат</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">%d apps can open their supported links</item>
+        <item quantity="zero">%d колдонмо колдоого алынган шилтемелерин ача алат</item>
+        <item quantity="one">Бир колдонмо колдоого алынган шилтемелерин ача алат</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">1 колдонмо батареянын кубатын көп керектейт</item>
+        <item quantity="one">%d колдонмо батареянын кубатын көп керектейт</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">Акыркы %2$s эстутумду 1 колдонмо керектеди</item>
+        <item quantity="one">Акыркы %2$s эстутумду %1$d колдонмо керектеди</item>
+    </plurals>
+    <plurals name="lock_timeout_hours">
+        <item quantity="other">%d саат</item>
+        <item quantity="one">1 саат</item>
+    </plurals>
+    <plurals name="lock_timeout_minutes">
+        <item quantity="other">%d минут</item>
+        <item quantity="one">1 минут</item>
+    </plurals>
+    <plurals name="lock_timeout_seconds">
+        <item quantity="other">%d секунда</item>
+        <item quantity="one">1 секунда</item>
+    </plurals>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="cover_notification_panel_width">963</integer>
+    <integer name="cover_notification_panel_height">966</integer>
+    <integer name="sview_cover_notification_on_cover_statusbar_margin">111</integer>
+</resources>

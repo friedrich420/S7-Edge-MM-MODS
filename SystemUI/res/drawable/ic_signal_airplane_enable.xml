@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:name="root" android:height="48.0dip" android:width="48.0dip" android:alpha="0.3"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:name="ic_signal_airplane">
+        <group android:name="ic_signal_airplane_pivot">
+            <clip-path android:name="mask" />
+            <group android:name="cross">
+                <path android:name="cross_1" />
+            </group>
+            <group android:name="plane">
+                <path android:name="plane_1" />
+            </group>
+        </group>
+    </group>
+</vector>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="48.0dip" android:width="48.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:name="icon">
+        <group android:name="icon_pivot">
+            <group android:name="arrows">
+                <group android:name="arrows_pivot">
+                    <path android:name="arrow_top" />
+                    <path android:name="arrow_bottom" />
+                </group>
+            </group>
+            <group android:name="device">
+                <path android:name="device_1" />
+            </group>
+        </group>
+    </group>
+</vector>

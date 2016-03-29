@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset android:insetLeft="2.5dip" android:insetRight="2.5dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <vector android:height="17.0dip" android:width="17.0dip">
+        <path />
+    </vector>
+</inset>

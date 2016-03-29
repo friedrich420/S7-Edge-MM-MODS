@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:name="lockscreen_fingerprint_error_state_to_fp" android:height="32.0dip" android:width="32.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:name="white_fingerprint_ridges" android:rotation="200.66753">
+        <group android:name="white_fingerprint_ridges_pivot">
+            <group android:name="ridge_5">
+                <path android:name="ridge_5_path" />
+            </group>
+            <group android:name="ridge_4">
+                <path android:name="ridge_7_path" />
+            </group>
+            <group android:name="ridge_3">
+                <path android:name="ridge_6_path" />
+            </group>
+            <group android:name="ridge_2">
+                <path android:name="ridge_2_path" />
+            </group>
+            <group android:name="ridge_1">
+                <path android:name="ridge_1_path" />
+            </group>
+        </group>
+    </group>
+    <group android:name="exclamation">
+        <group android:name="group_2">
+            <path android:name="path_2" />
+            <path android:name="path_1" />
+        </group>
+    </group>
+    <group android:name="circle_outline">
+        <group android:name="group_1" android:scaleX="1.12734" android:scaleY="1.12734" android:rotation="430.0">
+            <path android:name="path_3" />
+        </group>
+    </group>
+</vector>

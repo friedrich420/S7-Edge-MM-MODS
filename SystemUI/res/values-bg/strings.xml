@@ -1,0 +1,1249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="clear_cover_wday_day">E</string>
+    <string name="clear_cover_month_day_no_year">MMM d</string>
+    <string name="clear_cover_day_month_no_year">d MMM</string>
+    <string name="save">Запази</string>
+    <string name="cancel">Отказ</string>
+    <string name="close">Затвори</string>
+    <string name="ok">OK</string>
+    <string name="back">Назад</string>
+    <string name="set">Настрой</string>
+    <string name="s_view_cover_set_wallpaper">Задаване като тапет</string>
+    <string name="clearcover_no_missed_event">Нямате пропуснати събития.</string>
+    <string name="clearcover_1_missed_call">Имате 1 пропуснато повикване.</string>
+    <string name="clearcover_1_unread_message">Имате 1 непрочетено съобщение.</string>
+    <string name="clearcover_n_missed_calls">Имате %d пропуснати повиквания.</string>
+    <string name="clearcover_n_unread_messages">Имате %1$d непрочетени съобщения.</string>
+    <string name="clearcover_calls_and_messages">Имате %1$d пропуснати повиквания и %2$d непрочетени съобщения.</string>
+    <string name="zzz_tts_temp_celsius">Целзий</string>
+    <string name="zzz_tts_temp_fahrenheit">Фаренхайт</string>
+    <string name="zzz_tts_temperature">Градуси</string>
+    <string name="volumepanel_notification">Уведомяване</string>
+    <string name="s_view_cover_shortcuts_title_text">Бърз достъп</string>
+    <string name="s_view_cover_shortcuts_camera_text">Камера</string>
+    <string name="s_view_cover_shortcuts_settings_text">Настройки</string>
+    <string name="s_view_cover_shortcuts_favorite_text">Любими контакти</string>
+    <string name="s_view_cover_shortcuts_light_text">Фенерче</string>
+    <string name="s_view_cover_shortcuts_heart_text">Сърдечен ритъм</string>
+    <string name="s_view_cover_shortcuts_quick_memo_text">Динамична бележка</string>
+    <string name="select_background_color">Зад. тапет за проз. на S View</string>
+    <string name="select_background_color_title">Задаване на тапет</string>
+    <string name="s_view_stylized_clock_theme">Задаване стилен часовник</string>
+    <string name="s_view_window_theme">Тапет на проз. на S View</string>
+    <string name="s_view_info_cover">Избер. елем. за показване</string>
+    <string name="s_view_screen_roaming">Роуминг</string>
+    <string name="s_view_screen_home">Дом</string>
+    <string name="battery_charging_percent">Зареждане: %d%%</string>
+    <string name="battery_wireless_charging_percent">Безжично зареждане: %d%%</string>
+    <string name="battery_wireless_fast_charging_percent">Бързо зареждане безжично: %d%%</string>
+    <string name="battery_charged">Зареден</string>
+    <string name="s_view_cover_transport_prev_description">Предишен</string>
+    <string name="s_view_cover_transport_next_description">Следващ</string>
+    <string name="s_view_cover_transport_pause_description">Пауза</string>
+    <string name="s_view_cover_transport_play_description">Изпълняване</string>
+    <string name="s_view_cover_transport_stop_description">Спри</string>
+    <string name="s_view_cover_transport_volume_description">Сила звук</string>
+    <string name="s_view_cover_transport_playlist_description">Плейлиста</string>
+    <string name="s_view_cover_missed_event_secured_popup">Устройството е заключено. Отворете капака, за да видите още подробности.</string>
+    <string name="s_view_cover_open_cover_popup">Отворете капака, за да зададете тапет.</string>
+    <string name="s_view_cover_open_cover_popup_view_detail">Отворете капака, за да видите подробности.</string>
+    <string name="s_view_cover_open_cover_popup_for_detail_message">Отворете корицата, за да видите подробности за съобщението.</string>
+    <string name="s_view_cover_open_cover_popup_for_detail_call">Отворете капака, за да видите подробности за повикването.</string>
+    <string name="s_view_cover_missed_event_button_accessibiliy">Плъзнете с два пръста, за да се придвижите до страницата с пропуснато събитие.</string>
+    <string name="s_view_cover_settings_button_accessibiliy">Плъзнете с два пръста, за да отидете в Настройки.</string>
+    <string name="s_view_cover_camera_button_accessibiliy">Чукнете двукратно и плъзнете, за да отворите Камера.</string>
+    <string name="s_view_cover_favourite_button_accessibiliy">Докоснете двукратно и плъзнете, за да отворите Любимите контакти.</string>
+    <string name="accessibility_battery_level">%d процента батерия</string>
+    <string name="s_view_cover_open_popup_favorite">Устройството е заключено. Отворете капака, за да видите любимите контакти.</string>
+    <string name="mini_view_cover_settings_description">Отворете капака, за да отидете в настройки на S View Cover.</string>
+    <string name="s_view_cover_warn_popup_stylized_clock">Тапети, информация за Крачкомер и информация за времето не може да се покажат, когато стилен часовник е показан в прозореца на S View.</string>
+    <string name="s_view_wallpaper_selected_tts">Тапет %1$d от %2$d</string>
+    <string name="popup_do_not_show_gain">Не показвай отново</string>
+    <string name="pinwindowcover_warning_content">За да използвате закаченото приложение, отворете капака.</string>
+    <string name="battery_fast_charging_percent">Бързо зареждане: %d%%</string>
+    <string name="app_name">Keyguard</string>
+    <string name="keyguard_password_enter_pin_code">Въведете ПИН кода</string>
+    <string name="keyguard_password_enter_puk_code">Въведете PUK за SIM картата и новия ПИН код</string>
+    <string name="keyguard_password_enter_puk_prompt">PUK код за SIM картата</string>
+    <string name="keyguard_password_enter_pin_prompt">Нов ПИН код за SIM картата</string>
+    <string name="keyguard_password_entry_touch_hint"><font size="17">Докоснете и въведете парола</font></string>
+    <string name="keyguard_password_enter_password_code">Въведете парола, за да отключите</string>
+    <string name="keyguard_password_enter_pin_password_code">Въведете ПИН, за да отключите</string>
+    <string name="keyguard_password_wrong_pin_code">Неправилен ПИН код.</string>
+    <string name="keyguard_charged">Напълно заредено</string>
+    <string name="keyguard_plugged_in">Зареждане: %d%%</string>
+    <string name="keyguard_low_battery">Свържете своето зарядно.</string>
+    <string name="keyguard_connect_charger">Свържете зарядно устройство</string>
+    <string name="keyguard_instructions_when_pattern_disabled">Натиснете иконата за меню, за да отключите.</string>
+    <string name="keyguard_network_locked_message">Мрежата е заключена</string>
+    <string name="kg_missing_sim_message_short">Няма SIM карта</string>
+    <string name="keyguard_missing_sim_message_short">Няма SIM карта</string>
+    <string name="keyguard_missing_sim_message">Поставете USIM картата, след което рестартирайте устройството</string>
+    <string name="keyguard_missing_sim_instructions">Поставете SIM карта.</string>
+    <string name="keyguard_missing_sim_instructions_long">SIM картата липсва или е нечетима. Поставете SIM карта.</string>
+    <string name="keyguard_permanent_disabled_sim_message_short">Неизползваема SIM карта.</string>
+    <string name="keyguard_permanent_disabled_sim_instructions">"SIM картата ви е деактивирана за постоянно.
+За да получите друга, се свържете с доставчика на безжичната си услуга."</string>
+    <string name="keyguard_sim_locked_message">SIM картата е заключена.</string>
+    <string name="keyguard_sim_puk_locked_message">SIM картата е заключена с PUK код.</string>
+    <string name="keyguard_sim_unlock_progress_dialog_message">SIM картата се отключва…</string>
+    <string name="keyguard_accessibility_pattern_unlock">Отключване с фигура.</string>
+    <string name="keyguard_accessibility_pin_unlock">Отключване с ПИН код.</string>
+    <string name="keyguard_accessibility_password_unlock">Отключване с парола.</string>
+    <string name="keyguard_accessibility_pattern_area">Област на фигурата.</string>
+    <string name="keyguard_accessibility_slide_area">Област на плъзгане.</string>
+    <string name="keyguard_accessibility_pin_area">Област за ПИН кода</string>
+    <string name="keyguard_accessibility_sim_pin_area">Област за ПИН кода на SIM картата</string>
+    <string name="keyguard_accessibility_sim_puk_area">Област за PUK кода на SIM картата</string>
+    <string name="keyguard_accessibility_next_alarm">Следващият будилник е зададен за %1$s</string>
+    <string name="keyboardview_keycode_delete">ИЗТРИВАНЕ</string>
+    <string name="keyboardview_keycode_enter">Влез</string>
+    <string name="kg_forgot_pattern_button_text">Забравена фигура</string>
+    <string name="kg_wrong_pattern">Нарисуван е неправилен шаблон</string>
+    <string name="kg_wrong_password">Въведена е неправилна парола</string>
+    <string name="kg_wrong_pin">Въведен е неправилен PIN</string>
+    <string name="kg_n_attempts_remaining">(%d оставащи опита)</string>
+    <string name="kg_1_attempt_remaining">(1 оставащ опит)</string>
+    <string name="kg_too_many_failed_attempts_countdown">Опитайте пак след %d сек.</string>
+    <string name="kg_too_many_failed_attempts_countdown_min">Опитайте пак след 1 минута</string>
+    <string name="kg_too_many_failed_attempts_countdown_mins">Опитайте пак след %d минути</string>
+    <string name="kg_pattern_bouncer_instructions">Нарисувайте шаблон за отключване, за да отворите</string>
+    <string name="kg_pin_bouncer_instructions">Въведете PIN, за да отворите</string>
+    <string name="kg_password_bouncer_instructions">Въведете парола, за да отворите</string>
+    <string name="kg_pattern_instructions">Начертайте шаблона за отключване</string>
+    <string name="kg_sim_pin_instructions">Въведете ПИН кода за SIM картата</string>
+    <string name="kg_unlock_sim_pin_instructions">Въведете PIN кода за отключване на SIM картата.</string>
+    <string name="kg_sim_puk_instructions">SIM закл. Въвед. PUK. Свържете се с доставчика за подробн.</string>
+    <string name="kg_sim_pin_instructions_multi">Въведете ПИН кода на SIM картата за „%1$s“</string>
+    <string name="kg_pin_instructions">Въведете PIN</string>
+    <string name="kg_backup_pin_instructions">Въведете резервния PIN код</string>
+    <string name="kg_backup_password_instructions">Въвед. паролата за архив.</string>
+    <string name="kg_password_instructions">Въведете парола</string>
+    <string name="kg_puk_enter_puk_hint">SIM картата вече е деактивирана. Въведете PUK кода, за да продължите. Свържете се с оператора за подробности.</string>
+    <string name="kg_puk_enter_puk_hint_multi">SIM картата „%1$s“ вече е деактивирана. Въведете PUK код, за да продължите. За подробности се свържете с оператора си.</string>
+    <string name="kg_puk_enter_pin_hint">Въведете нов PIN код за SIM картата.</string>
+    <string name="kg_enter_confirm_pin_hint">Въведете отново новия PIN на SIM картата, за да го потвърдите.</string>
+    <string name="kg_sim_unlock_progress_dialog_message">Отключване на SIM картата…</string>
+    <string name="kg_invalid_sim_pin_hint">Въведете ПИН код с четири до осем цифри.</string>
+    <string name="kg_invalid_sim_puk_hint">PUK кодът трябва да е с 8 или повече цифри.</string>
+    <string name="kg_invalid_puk">Въведете отново правилния PUK код. Многократните опити ще деактивират за постоянно SIM картата.</string>
+    <string name="kg_invalid_confirm_pin_hint">ПИН кодовете не съвпадат</string>
+    <string name="kg_login_too_many_attempts">Опитите за фигурата са твърде много</string>
+    <string name="kg_login_username_hint">Потребителско име (адрес за електронна поща)</string>
+    <string name="kg_login_password_hint">Парола</string>
+    <string name="kg_login_submit_button">Влизане</string>
+    <string name="kg_login_invalid_input">Невалидно име на потребител или парола.</string>
+    <string name="no_network_connection">Няма връзка с мрежата</string>
+    <string name="kg_forgot_spass_button_text">Samsung акаунт</string>
+    <string name="kg_login_checking_password">Акаунтът се проверява…</string>
+    <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"Въведохте неправилно ПИН кода си %d пъти. 
+
+Опитайте отново след %d секунди."</string>
+    <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Въведохте неправилно паролата си %d пъти. 
+
+Опитайте отново след %d секунди."</string>
+    <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Начертахте неправилно фигурата си за отключване %d пъти. 
+
+Опитайте отново след %d секунди."</string>
+    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Неправилно опитахте да отключите телефона %d пъти. След още %d неуспешни опита той ще бъде нулиран, при което ще се изтрият всичките му данни.</string>
+    <string name="kg_failed_attempts_now_wiping">Неправилно опитахте да отключите телефона %d пъти. Той ще бъде нулиран, при което ще се изтрият всичките му данни.</string>
+    <string name="kg_failed_attempts_almost_at_erase_user" formatted="false">Неправилно опитахте да отключите телефона %d пъти. След още %d неуспешни опита този потребител ще бъде премахнат, при което ще се изтрият всички данни за него.</string>
+    <string name="kg_failed_attempts_now_erasing_user">Неправилно опитахте да отключите телефона %d пъти. Този потребител ще бъде премахнат, при което ще се изтрият всички данни за него.</string>
+    <string name="kg_failed_attempts_almost_at_erase_profile" formatted="false">Неправилно опитахте да отключите телефона %d пъти. След още %d неуспешни опита служебният потребителски профил ще бъде премахнат, при което ще се изтрият всички данни за него.</string>
+    <string name="kg_failed_attempts_now_erasing_profile">Неправилно опитахте да отключите телефона %d пъти. Служебният потребителски профил ще бъде премахнат, при което ще се изтрият всички данни за него.</string>
+    <string name="kg_sec_1_failed_attempt_almost_at_wipe">Направен е опит да се отключи устройството. Имате още %d опита, преди устройството да се нулира към фабричните настройки по подразбиране и всички данни да се изтрият, включително файлове и изтеглените приложения.</string>
+    <string name="kg_sec_failed_attempts_almost_at_wipe">Направен е опит да се отключи устройството %1$d пъти. Имате още %2$d опита, преди устройството да се нулира към фабричните настройки по подразбиране и всички данни да се изтрият, включително файлове и изтеглените приложения.</string>
+    <string name="kg_sec_1_remaing_count_almost_at_wipe">Направен е опит да се отключи устройството %d пъти. Имате още 1 опит, преди устройството да се нулира към фабричните настройки по подразбиране и всички данни да се изтрият, включително файлове и изтеглените приложения.</string>
+    <string name="kg_sec_1_failed_attempt_almost_at_erase_user">Направен е опит да се отключи устройството. Остават ви %d опита, преди вашият профил да бъде изтрит заедно с всички негови изтеглени приложения и сродни данни.</string>
+    <string name="kg_sec_failed_attempts_almost_at_erase_user">Направен е опит да се отключи устройството %1$d пъти. Остават ви %2$d опита, преди вашият профил да бъде изтрит заедно с всички негови изтеглени приложения и сродни данни.</string>
+    <string name="kg_sec_1_remaing_count_almost_at_erase_user">Направен е опит да се отключи устройството %d пъти. Остава ви 1 опит, преди вашият профил да бъде изтрит заедно с всички негови изтеглени приложения и сродни данни.</string>
+    <string name="kg_sec_failed_attempts_now_erasing_user">Направен е опит да се отключи устройството %d пъти. Вашият профил ще бъде изтрит заедно с всички негови изтеглени приложения и сродни данни. Тези данни не може да се възстановят.</string>
+    <string name="kg_sec_1_failed_attempt_almost_at_erase_profile">Направен е опит да се отключи устройството. Остават ви %d опита, преди вашият работен профил да бъде изтрит заедно с всички негови изтеглени приложения и сродни данни.</string>
+    <string name="kg_sec_failed_attempts_almost_at_erase_profile">Направен е опит да се отключи устройството %1$d пъти. Остават ви %2$d опита, преди вашият работен профил да бъде изтрит заедно с всички негови изтеглени приложения и сродни данни.</string>
+    <string name="kg_sec_1_remaing_count_almost_at_erase_profile">Направен е опит да се отключи устройството %d пъти. Остава ви 1 опит, преди вашият работен профил да бъде изтрит заедно с всички негови изтеглени приложения и сродни данни.</string>
+    <string name="kg_sec_failed_attempts_now_erasing_profile">Направен е опит да се отключи устройството %d пъти. Вашият работен профил ще бъде изтрит заедно с всички негови изтеглени приложения и сродни данни. Тези данни не може да се възстановят.</string>
+    <string name="kg_failed_attempts_almost_at_login" formatted="false">"Начертахте неправилно фигурата си за отключване %d пъти. След още %d неуспешни опита ще бъдете помолени да отключите телефона посредством имейл адрес.
+
+ Опитайте отново след %d секунди."</string>
+    <string name="kg_password_wrong_pin_code_pukked">Неправилен ПИН код за SIM картата – сега трябва да се свържете с оператора си, за да отключите устройството.</string>
+    <string name="kg_password_wrong_pin_code_one">Въведен е неправилен PIN за SIM карта. Остава ви още 1 опит.</string>
+    <string name="kg_password_wrong_pin_code_other">Въведен е неправилен PIN за SIM карта. Остават ви още %d опита.</string>
+    <string name="kg_password_wrong_puk_code_dead">SIM картата е неизползваема. Свържете се с оператора си.</string>
+    <string name="kg_password_pin_failed">Операцията с ПИН кода за SIM картата не бе успешна!</string>
+    <string name="kg_password_puk_failed">Операцията с PUK кода за SIM картата не бе успешна!</string>
+    <string name="kg_pin_accepted">Кодът е приет!</string>
+    <string name="keyguard_carrier_default">Няма покритие.</string>
+    <string name="accessibility_ime_switch_button">Бутон за превключване на метода на въвеждане.</string>
+    <string name="airplane_mode">Режим полет</string>
+    <string name="kg_prompt_reason_restart_pattern">При рестартиране на устройството ви се изисква фигура.</string>
+    <string name="kg_prompt_reason_restart_pin">При рестартиране на устройството ви се изисква ПИН код.</string>
+    <string name="kg_prompt_reason_restart_password">При рестартиране на устройството ви се изисква парола.</string>
+    <string name="kg_strong_auth_prompt_reason_timeout_pattern">Начертайте шаблон, вместо да използвате разпознаване на пръстови отпечатъци, след като устройството не е използвано за повече от 24 часа, за да защитите пръстовите отпечатъци</string>
+    <string name="kg_strong_auth_prompt_reason_timeout_pin">Въведете PIN, вместо да използвате разпознаване на пръстови отпечатъци, след като устройството не е използвано за повече от 24 часа, за да защитите пръстовите отпечатъци</string>
+    <string name="kg_strong_auth_prompt_reason_timeout_password">Въведете парола, вместо да използвате разпознаване на пръстови отпечатъци, след като устройството не е използвано за повече от 24 часа, за да защитите пръстовите отпечатъци</string>
+    <string name="kg_prompt_reason_switch_profiles_pattern">При превключване между потребителските профили се изисква фигура.</string>
+    <string name="kg_prompt_reason_switch_profiles_pin">При превключване между потребителските профили се изисква ПИН код.</string>
+    <string name="kg_prompt_reason_switch_profiles_password">При превключване между потребителските профили се изисква парола.</string>
+    <string name="fingerprint_not_recognized">Не е разпознато</string>
+    <string name="fingerprint_no_match">Няма съвпадения</string>
+    <string name="keyguard_perso_locked_message">Block other USIM</string>
+    <string name="keyguard_pin_locked_message">Въвеждане на PIN код</string>
+    <string name="keyguard_puk_locked_message">Въвеждане на PUK код</string>
+    <string name="keyguard_dualclock_home">Дом</string>
+    <string name="keyguard_dualclock_roaming">Роуминг</string>
+    <string name="keyguard_dualclock_home_Seoul">Сеул</string>
+    <string name="keyguard_dualclock_roaming_Korea">Роуминг</string>
+    <string name="keyguard_progress_erasing_all">Изтриване на всички данни…</string>
+    <string name="keyguard_recovery_instructions">Въведете паролата за възстановяване, за да отключите.</string>
+    <string name="kg_sim_pin_remaining_1_attempt">Остава ви 1 опит.</string>
+    <string name="kg_sim_pin_remaining_attempts">Остават ви %d опита.</string>
+    <string name="kg_sim_puk_remaining_1_attempt">Ако въведете грешен PUK още 1 път, SIM ще бъде заключена.</string>
+    <string name="kg_sim_puk_remaining_attempts">Ако въведете грешен PUK още %d пъти, SIM ще бъде заключена.</string>
+    <string name="kg_kor_password_wrong_pin_code">Въведен е неправилен PIN код. Остават ви %d опита. Свържете се с услуги за клиенти.</string>
+    <string name="kg_kor_sim_unlock_progress_dialog_message">Отключване на SIM картата</string>
+    <string name="kg_kor_sim_puk_instructions">Въведете PUK кода.</string>
+    <string name="kg_kor_invalid_sim_puk_hint">Въведете 8-цифрения код за отключване на PIN (PUK)</string>
+    <string name="kg_kor_empty_sim_puk_hint">Не е въведен код за отключване. Въведете кода за отключване на PIN (PUK).</string>
+    <string name="kg_kor_puk_enter_pin_hint">"Създайте нов PIN код на USIM картата.
+PIN кодът трябва да бъде дълъг между 4 и 8 цифри."</string>
+    <string name="kg_kor_enter_confirm_pin_hint">Въведете отново PIN кода на USIM картата, за да го потвърдите.</string>
+    <string name="kg_kor_invalid_confirm_pin_hint">Новите PIN кодове не съвпадат.</string>
+    <string name="kg_kor_wrong_puk_code">Грешка при във. код за откл.</string>
+    <string name="kg_kor_sim_puk_remaining_attempts">"Неправилен PUK код е въведен %1$d пъти. Ако неправилен PUK код бъде въведен още %2$d пъти, USIM картата ще бъде блокирана за постоянно.
+
+Ако не знаете своя PUK код, посетете център за обслужване на клиенти."</string>
+    <string name="kg_kor_success_pin_message">Новата парола (PIN) е запаметена успешно.</string>
+    <string name="kg_ktt_sim_perso_instructions">Въведете парола с 4 до 8 цифри (PIN)</string>
+    <string name="kg_empty_sim_perso_hint">Няма въведена парола. Въведете парола (PIN).</string>
+    <string name="kg_password_perso_failed">Incorrect PIN. Check PIN and try again.</string>
+    <string name="kg_password_perso_max_failed">Incorrect PIN entered for USIM card lock. Maximum number of retries reached. Restart device or visit CS centre.</string>
+    <string name="keyguard_fmm_phone_locked_title">Заключен телефон.</string>
+    <string name="keyguard_fmm_owner_phone">Номер на собственика</string>
+    <string name="kg_wrong_universal_lock">Начертана е неправилна посока</string>
+    <string name="kg_universal_lock_instructions_normal_mode">Начертайте серия от посоки, за да отключите екрана</string>
+    <string name="keyguard_accessibility_universal_lock_unlock">Заключване на посока</string>
+    <string name="kg_wrong_universal_lock_vzw">Incorrect directions (%d attempts remaining)</string>
+    <string name="universal_lock_too_many_failed_attempts_countdown">Опитайте пак след %d сек.</string>
+    <string name="kg_too_many_failed_attempt_countdown">Опитайте пак след 1 секунда</string>
+    <string name="kg_lockscreen_backup_pin_button_text">Резервен PIN</string>
+    <string name="kg_lockscreen_emergency_call_button_text">Спешно повикване</string>
+    <string name="kg_sim_lock_accepted">Кодът е приет.</string>
+    <string name="kg_fingerprints_pattern_instructions">Използвайте пръстов отпечатък или начертайте шаблон за отключване</string>
+    <string name="kg_fingerprints_pin_instructions">Използвайте пръстов отпечатък или въведете PIN код</string>
+    <string name="kg_fingerprints_password_instructions">Използвайте пръстов отпечатък или въведете парола</string>
+    <string name="kg_fingerprints_pattern_bouncer_instructions">Използвайте пръстов отпечатък или начертайте шаблон, за да отворите</string>
+    <string name="kg_fingerprints_pin_bouncer_instructions">Използвайте пръстов отпечатък или въведете PIN код, за да отворите</string>
+    <string name="kg_fingerprints_password_bouncer_instructions">Използвайте пръстов отпечатък или въведете парола, за да отворите</string>
+    <string name="kg_fingerprints_pattern_unabled_instructions">Начертайте шаблон, вместо да използвате разпознаване на пръстови отпечатъци, след като рестартирате устройството, за да защитите пръстовите отпечатъци</string>
+    <string name="kg_fingerprints_pin_unabled_instructions">Въведете PIN, вместо да използвате разпознаване на пръстови отпечатъци, след като рестартирате устройството, за да защитите пръстовите отпечатъци</string>
+    <string name="kg_fingerprints_password_unabled_instructions">Въведете парола, вместо да използвате разпознаване на пръстови отпечатъци, след като рестартирате устройството, за да защитите пръстовите отпечатъци</string>
+    <string name="kg_finger_print_not_responding_error_message">Сензорът за пръстови отпечатъци не отговаря. Опитайте отново по-късно.</string>
+    <string name="kg_finger_print_database_error_message">Данните за пръстов отпечатък са повредени. Нулирайте „Пръстов отпечатък“ като тип заключване на екрана, след което добавете отново пръстовите си отпечатъци или променете типа заключване на екрана.</string>
+    <string name="kg_finger_print_sensor_with_recalibration_error_message">Уверете се, че клавишът за начало е чист и сух, след което опитайте отново.</string>
+    <string name="kg_finger_print_sensor_changed_error_message">Сензорът за пръстови отпечатъци не е променен правилно. Свържете се с услугите за клиенти.</string>
+    <string name="kg_fingerprints_upgrade_popup_title">Актуал. на политика за защита за пръст.отпеч.</string>
+    <string name="kg_fingerprints_upgrade_instructions">"Трябва да актуализирате политиката за защита, за да защитите пръстовите си отпечатъци.
+
+За да използвате пръстов отпечатък като тип заключване на екрана, докоснете НАПРЕД, за да създадете PIN код, шаблон или парола, които да използвате като метод за двойно потвърждаване.
+
+Двойно потвърждаване се използва вместо разпознаване на пръстови отпечатъци в следните ситуации:
+
+Когато устройството е рестартирано
+Когато устройството не е било използвано за повече от %s часа
+Когато типът на заключване на екрана или настройките за пръстов отпечатък са променени"</string>
+    <string name="keyguard_accessibility_one_hand_operation_left_handed">За лява ръка</string>
+    <string name="keyguard_accessibility_one_hand_operation_right_handed">За дясна ръка</string>
+    <string name="kg_too_many_failed_attempts_countdown_hours_with_auto_wipe">"Направен е опит да се отключи устройството %1$d пъти. Остават ви още %2$d опита, преди устройството да се нулира до фабричните настройки по подразбиране и всички данни да бъдат изтрити.
+
+Опитайте отново след %3$d часа."</string>
+    <string name="kg_too_many_failed_attempts_countdown_1_hour_with_auto_wipe">"Направен е опит да се отключи устройството %1$d пъти. Остават ви още %2$d опита, преди устройството да се нулира до фабричните настройки по подразбиране и всички данни да бъдат изтрити.
+
+Опитайте отново след 1 час."</string>
+    <string name="kg_remained_1_attempts_with_auto_wipe">You only have 1 attempt left to unlock your phone before it is reset to factory mode. This will delete all data, including files and downloaded apps.</string>
+    <string name="kg_remained_1_attempts_with_auto_wipe_subuser">You only have 1 attempt left to unlock your tablet before your account is removed. This will delete all data on your account, including files, and downloaded apps.</string>
+    <string name="kg_too_many_failed_attempts_countdown_mins_with_auto_wipe">"Направен е опит да се отключи устройството %1$d пъти. Остават ви още %2$d опита, преди устройството да се нулира до фабричните настройки по подразбиране и всички данни да бъдат изтрити.
+
+Опитайте отново след %3$d минути"</string>
+    <string name="kg_too_many_failed_attempts_countdown_secs_with_auto_wipe">"Направен е опит да се отключи устройството %1$d пъти. Остават ви още %2$d опита, преди устройството да се нулира до фабричните настройки по подразбиране и всички данни да бъдат изтрити.
+
+Опитайте отново след %3$d секунди"</string>
+    <string name="kg_too_many_failed_attempts_countdown_1_min_with_auto_wipe">"Направен е опит да се отключи устройството %1$d пъти. Остават ви още %2$d опита, преди устройството да се нулира до фабричните настройки по подразбиране и всички данни да бъдат изтрити.
+
+Опитайте отново след 1 минута"</string>
+    <string name="kg_too_many_failed_attempts_countdown_1_sec_with_auto_wipe">"Направен е опит да се отключи устройството %1$d пъти. Остават ви още %2$d опита, преди устройството да се нулира до фабричните настройки по подразбиране и всички данни да бъдат изтрити.
+
+Опитайте отново след 1 секунда"</string>
+    <string name="kg_remained_1_attempt_countdown_mins_with_auto_wipe">"Направен е опит да се отключи устройството %1$d пъти. Остава ви още 1 опит, преди устройството да се нулира до фабричните настройки по подразбиране и всички данни да бъдат изтрити.
+
+Опитайте отново след %2$d минути"</string>
+    <string name="kg_remained_1_attempt_countdown_secs_with_auto_wipe">"Направен е опит да се отключи устройството %1$d пъти. Остава ви още 1 опит, преди устройството да се нулира до фабричните настройки по подразбиране и всички данни да бъдат изтрити.
+
+Опитайте отново след %2$d секунди"</string>
+    <string name="kg_remained_1_attempt_countdown_1_min_with_auto_wipe">"Направен е опит да се отключи устройството %d пъти. Остава ви още 1 опит, преди устройството да се нулира до фабричните настройки по подразбиране и всички данни да бъдат изтрити.
+
+Опитайте отново след 1 минута"</string>
+    <string name="kg_remained_1_attempt_countdown_1_sec_with_auto_wipe">"Направен е опит да се отключи устройството %d пъти. Остава ви още 1 опит, преди устройството да се нулира до фабричните настройки по подразбиране и всички данни да бъдат изтрити.
+
+Опитайте отново след 1 секунда"</string>
+    <string name="kg_too_many_failed_attempts_remaining_with_auto_wipe">%d оставащи опита</string>
+    <string name="kg_too_many_failed_1_attempt_remaining_with_auto_wipe">1 оставащ опит</string>
+    <string name="kg_too_many_failed_countdown_mins_with_auto_wipe">Опитайте пак след %d минути</string>
+    <string name="kg_too_many_failed_countdown_1_min_with_auto_wipe">Опитайте пак след 1 минута</string>
+    <string name="kg_too_many_failed_countdown_secs_with_auto_wipe">Опитайте пак след %d секунди</string>
+    <string name="kg_too_many_failed_countdown_1_sec_with_auto_wipe">Опитайте пак след 1 секунда</string>
+    <string name="kg_too_many_failed_attempts_remaining_with_auto_wipe_mobile_keyboard">Остават ви още %d опита, преди устройството да се нулира до фабричните настройки и всички данни да се изтрият.</string>
+    <string name="kg_too_many_failed_1_attempt_remaining_with_auto_wipe_mobile_keyboard">Остава ви още 1 опит, преди устройството да се нулира до фабричните настройки по подразбиране и всички данни да се изтрият.</string>
+    <string name="kg_tts_shortcut_phone">Докоснете двукратно и плъзнете, за да отворите телефона.</string>
+    <string name="kg_tts_shortcut_camera">Чукнете двукратно и плъзнете, за да отворите Камера.</string>
+    <string name="kg_tts_shortcut_app">Докоснете двукратно и плъзнете, за да отворите %s.</string>
+    <string name="kg_dcm_sim_puk_instructions">PIN кодът е блокиран. Въведете PUK кода, за да продължите.</string>
+    <string name="kg_liveweather_delete_main_text">Тапетът за реално време не се поддържа от тази версия на ОС. Докоснете НАСТРОЙКИ НА ТАПЕТ, за да промените тапета на заключения екран.</string>
+    <string name="kg_liveweather_delete_title_text">Тапет заключен екран</string>
+    <string name="kg_liveweather_delete_buttion_text">Настройки на тапета</string>
+    <string name="kg_default_carrier_text_searching">Търсене</string>
+    <string name="flight_mode">Режим полет</string>
+    <string name="status_bar_date_formatter">"%2$s
+%1$s"</string>
+    <string name="app_label">Системен ПИ</string>
+    <string name="status_bar_clear_all_button">Изчиств.</string>
+    <string name="status_bar_recent_remove_item_title">Премахване от списъка</string>
+    <string name="status_bar_recent_inspect_item_title">Информация за приложението</string>
+    <string name="status_bar_no_recent_apps">Скорошните ви екрани се показват тук</string>
+    <string name="status_bar_accessibility_dismiss_recents">Отхвърляне на скорошните приложения</string>
+    <string name="status_bar_no_notifications_title">Няма известия</string>
+    <string name="status_bar_ongoing_events_title">В момента</string>
+    <string name="status_bar_latest_events_title">Известия</string>
+    <string name="battery_low_title">Батерията е изтощена</string>
+    <string name="battery_low_percent_format">Остава/т %s</string>
+    <string name="battery_low_percent_format_saver_started">Остава/т %s. Включен е режимът за запазване на батерията.</string>
+    <string name="invalid_charger">"Не се поддържа зареждане през USB.
+Използвайте само доставеното зарядно устройство."</string>
+    <string name="invalid_charger_title">Зареждането през USB не се поддържа.</string>
+    <string name="invalid_charger_text">Използвайте само предоставеното зарядно устройство.</string>
+    <string name="battery_low_why">Настройки</string>
+    <string name="battery_saver_confirmation_title">Да се включи ли режимът за запазване на батерията?</string>
+    <string name="battery_saver_confirmation_ok">Включване</string>
+    <string name="battery_saver_start_action">Включване на режима за запазване на батерията</string>
+    <string name="status_bar_settings_settings_button">Настройки</string>
+    <string name="status_bar_settings_wifi_button">Wi-Fi</string>
+    <string name="status_bar_settings_auto_rotation">Авт. завъртане на екрана</string>
+    <string name="status_bar_settings_mute_label">БЕЗ</string>
+    <string name="status_bar_settings_auto_brightness_label">Авто</string>
+    <string name="brightness_controller_label_text">Авто</string>
+    <string name="status_bar_settings_notifications">Известия</string>
+    <string name="bluetooth_tethered">Bluetooth има връзка с тетъринг</string>
+    <string name="status_bar_input_method_settings_configure_input_methods">Методи на въвеждане: Настройка</string>
+    <string name="status_bar_use_physical_keyboard">Физическа клавиатура</string>
+    <string name="usb_device_permission_prompt">Да се разреши ли на приложението %1$s достъп до USB устройството?</string>
+    <string name="usb_accessory_permission_prompt">Да се разреши ли на приложението %1$s достъп до аксесоара за USB?</string>
+    <string name="usb_device_confirm_prompt">Да се отвори ли %1$s, когато това USB устройство е свързано?</string>
+    <string name="usb_accessory_confirm_prompt">Да се отвори ли %1$s, когато този аксесоар за USB е свързан?</string>
+    <string name="usb_accessory_uri_prompt">Инстал. приложения не работят с този аксесоар за USB. Научете повече на адрес %1$s</string>
+    <string name="title_usb_accessory">Аксесоар за USB</string>
+    <string name="label_view">Преглед</string>
+    <string name="always_use_device">Използване по подразб. за това USB устройство</string>
+    <string name="always_use_accessory">Използване по подразб. за този аксесоар за USB</string>
+    <string name="usb_debugging_title">Да се разреши ли отстраняването на грешки през USB?</string>
+    <string name="usb_debugging_message">"Отпечатъкът на RSA ключа на компютъра е:
+%1$s"</string>
+    <string name="usb_debugging_always">Винаги да се разрешава от този компютър</string>
+    <string name="usb_debugging_secondary_user_title">Отстраняването на грешки през USB не е разрешено</string>
+    <string name="usb_debugging_secondary_user_message">Потребителят, който понастоящем е влязъл в това устройство, не може да включи функцията за отстраняване на грешки през USB. За да я използвате, превключете към основния потребител „%s“.</string>
+    <string name="compat_mode_on">Мащаб – запълва екрана</string>
+    <string name="compat_mode_off">Разпъване – запълва екрана</string>
+    <string name="screenshot_saving_ticker">Екранната снимка се запазва...</string>
+    <string name="screenshot_saving_title">Екранната снимка се запазва...</string>
+    <string name="screenshot_saving_text">Екранната снимка се запазва.</string>
+    <string name="screenshot_saved_title">Сним. на екр. е заснета</string>
+    <string name="screenshot_saved_text">Чукнете, за да видите снимката на екрана.</string>
+    <string name="screenshot_failed_title">Неуспешно заснемане на екрана</string>
+    <string name="screenshot_failed_text">Не може да се направи екр. снимка поради недостиг на място или забрана от прилож. или организацията ви.</string>
+    <string name="screenshot_failed_text_due_to_security_policy">Политиката за защита може да не позволява на екрана да бъде заснет.</string>
+    <string name="screen_capture_fail_for_storage_capacity">Няма достатъчно място в паметта на устройството. Изтрийте някои файлове и опитайте отново.</string>
+    <string name="screen_capture_fail_for_security_policy">Не може да се заснеме снимка на екрана. Предотвратено е от политиката за защита.</string>
+    <string name="no_such_item">Елементът не може да бъде намерен.</string>
+    <string name="one_item_will_be_deleted">1 елемент ще бъде изтрит.</string>
+    <string name="screen_capture_edit">Редакт.</string>
+    <string name="screen_capture_share">Споделям</string>
+    <string name="screen_capture_delete">Изтриване</string>
+    <string name="share_via">Споделяне чрез</string>
+    <string name="usb_preference_title">Опции за пренос на файлове чрез USB</string>
+    <string name="use_mtp_button_title">Свързване като медиен плейър (MTP)</string>
+    <string name="use_ptp_button_title">Свързване като камера (PTP)</string>
+    <string name="installer_cd_button_title">Инсталиране на Android File Transfer за Mac</string>
+    <string name="accessibility_back">Назад</string>
+    <string name="accessibility_home">Начало</string>
+    <string name="accessibility_menu">Меню</string>
+    <string name="accessibility_recent">Общ преглед</string>
+    <string name="accessibility_search_light">Търсене</string>
+    <string name="accessibility_camera_button">Камера</string>
+    <string name="accessibility_phone_button">Телефон</string>
+    <string name="accessibility_voice_assist_button">Гласова помощ</string>
+    <string name="accessibility_unlock_button">Отключване</string>
+    <string name="accessibility_unlock_button_fingerprint">Бутон за отключване – изчаква се отпечатък</string>
+    <string name="accessibility_unlock_without_fingerprint">Отключете, без да използвате отпечатъка си</string>
+    <string name="unlock_label">отключване</string>
+    <string name="phone_label">отваряне на телефона</string>
+    <string name="voice_assist_label">отваряне на гласовата помощ</string>
+    <string name="camera_label">отваряне на камерата</string>
+    <string name="recents_caption_resize">Избиране на ново оформление за задачите</string>
+    <string name="accessibility_compatibility_zoom_button">Бутон за промяна на мащаба с цел съвместимост.</string>
+    <string name="accessibility_compatibility_zoom_example">Промяна на мащаба на екрана от по-малък до по-голям.</string>
+    <string name="accessibility_bluetooth_connected">Bluetooth е включен.</string>
+    <string name="accessibility_bluetooth_disconnected">Bluetooth е изключен.</string>
+    <string name="accessibility_no_battery">Няма батерия.</string>
+    <string name="accessibility_battery_one_bar">Батерията е с една чертичка.</string>
+    <string name="accessibility_battery_two_bars">Батерията е с две чертички.</string>
+    <string name="accessibility_battery_three_bars">Батерията е с три чертички.</string>
+    <string name="accessibility_battery_full">Батерията е пълна.</string>
+    <string name="accessibility_no_phone">Няма телефон.</string>
+    <string name="accessibility_phone_one_bar">Телефонът е с една чертичка.</string>
+    <string name="accessibility_phone_two_bars">Телефонът е с две чертички.</string>
+    <string name="accessibility_phone_three_bars">Телефонът е с три чертички.</string>
+    <string name="accessibility_phone_signal_full">Сигналът за телефона е пълен.</string>
+    <string name="accessibility_no_data">Няма данни.</string>
+    <string name="accessibility_data_one_bar">Данните са с една чертичка.</string>
+    <string name="accessibility_data_two_bars">Данните са с две чертички.</string>
+    <string name="accessibility_data_three_bars">Данните са с три чертички.</string>
+    <string name="accessibility_data_signal_full">Сигналът за данни е пълен.</string>
+    <string name="accessibility_wifi_name">Има връзка с %s.</string>
+    <string name="accessibility_bluetooth_name">Има връзка с %s.</string>
+    <string name="accessibility_wifi_signal_full">Wi-Fi сигнал е пълен.</string>
+    <string name="accessibility_wifi_three_bars">Три ленти Wi-Fi сигнал</string>
+    <string name="accessibility_wifi_two_bars">Две ленти Wi-Fi сигнал</string>
+    <string name="accessibility_wifi_one_bar">Една лента Wi-Fi сигнал</string>
+    <string name="accessibility_no_wifi">Няма Wi-Fi сигнал</string>
+    <string name="accessibility_no_wimax">Няма WiMAX.</string>
+    <string name="accessibility_wimax_one_bar">WiMAX е с една чертичка.</string>
+    <string name="accessibility_wimax_two_bars">WiMAX е с две чертички.</string>
+    <string name="accessibility_wimax_three_bars">WiMAX е с три чертички.</string>
+    <string name="accessibility_wimax_signal_full">Сигналът за WiMAX е пълен.</string>
+    <string name="accessibility_ethernet_disconnected">Връзката с Ethernet е прекратена.</string>
+    <string name="accessibility_ethernet_connected">Установена е връзка с Ethernet.</string>
+    <string name="accessibility_no_signal">Няма сигнал.</string>
+    <string name="accessibility_not_connected">Няма връзка.</string>
+    <string name="accessibility_zero_bars">Нула чертички.</string>
+    <string name="accessibility_one_bar">Една чертичка.</string>
+    <string name="accessibility_two_bars">Две чертички.</string>
+    <string name="accessibility_three_bars">Три чертички.</string>
+    <string name="accessibility_signal_full">Сигналът е пълен.</string>
+    <string name="accessibility_desc_on">Вкл.</string>
+    <string name="accessibility_desc_off">Изкл.</string>
+    <string name="accessibility_desc_connected">Има връзка.</string>
+    <string name="accessibility_desc_connecting">Установява се връзка.</string>
+    <string name="accessibility_data_connection_gprs">GPRS</string>
+    <string name="accessibility_data_connection_1x">1 X</string>
+    <string name="accessibility_data_connection_hspa">HSPA</string>
+    <string name="accessibility_data_connection_3g">3G</string>
+    <string name="accessibility_data_connection_3.5g">3.5G</string>
+    <string name="accessibility_data_connection_4g">4G</string>
+    <string name="accessibility_data_connection_lte">LTE</string>
+    <string name="accessibility_data_connection_cdma">CDMA</string>
+    <string name="accessibility_data_connection_roaming">Роуминг</string>
+    <string name="accessibility_data_connection_edge">Edge</string>
+    <string name="accessibility_data_connection_wifi">Wi-Fi</string>
+    <string name="accessibility_no_sim">Няма SIM карта.</string>
+    <string name="accessibility_bluetooth_tether">Тетъринг през Bluetooth.</string>
+    <string name="accessibility_airplane_mode">Самолетен режим.</string>
+    <string name="accessibility_no_sims">Няма SIM карта.</string>
+    <string name="accessibility_carrier_network_change_mode">Промяна на мрежата на оператора.</string>
+    <string name="accessibility_settings_button">Системни настройки.</string>
+    <string name="accessibility_notifications_button">Известия.</string>
+    <string name="accessibility_remove_notification">Изчистване на известието.</string>
+    <string name="accessibility_gps_enabled">GPS е активиран.</string>
+    <string name="accessibility_gps_acquiring">GPS се придобива.</string>
+    <string name="accessibility_tty_enabled">TeleTypewriter бе активиран.</string>
+    <string name="accessibility_ringer_vibrate">Вибрира при звънене.</string>
+    <string name="accessibility_ringer_silent">Звънът е заглушен.</string>
+    <string name="accessibility_recents_item_will_be_dismissed">Отхвърляне на %s.</string>
+    <string name="accessibility_recents_item_dismissed">Приложението %s е отхвърлено.</string>
+    <string name="accessibility_recents_item_closed">%s затворен.</string>
+    <string name="accessibility_recents_all_items_dismissed">Всички скорошни приложения са отхвърлени.</string>
+    <string name="accessibility_recents_item_launched">%s се стартира.</string>
+    <string name="accessibility_recents_task_header">%1$s %2$s</string>
+    <string name="accessibility_notification_dismissed">Известието е отхвърлено.</string>
+    <string name="accessibility_desc_notification_shade">Падащ панел с известия.</string>
+    <string name="accessibility_desc_quick_settings">Бързи настройки.</string>
+    <string name="accessibility_desc_lock_screen">Заключване на екрана.</string>
+    <string name="accessibility_desc_settings">Настройки</string>
+    <string name="accessibility_desc_recent_apps">Последни приложения</string>
+    <string name="accessibility_desc_close">Затваряне</string>
+    <string name="accessibility_quick_settings_user">Потребител: %s.</string>
+    <string name="accessibility_quick_settings_wifi">%1$s.</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">Функцията за Wi-Fi се изключи.</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">Функцията за Wi-Fi се включи.</string>
+    <string name="accessibility_quick_settings_mobile">Мобилно устройство: %1$s. %2$s. %3$s.</string>
+    <string name="accessibility_quick_settings_battery">Батерия: %s.</string>
+    <string name="accessibility_quick_settings_airplane_off">Самолетният режим е изключен.</string>
+    <string name="accessibility_quick_settings_airplane_on">Самолетният режим е включен.</string>
+    <string name="accessibility_quick_settings_airplane_changed_off">Самолетният режим се изключи.</string>
+    <string name="accessibility_quick_settings_airplane_changed_on">Самолетният режим се включи.</string>
+    <string name="accessibility_quick_settings_dnd_priority_on">Настройката „Не безпокойте“ е включена – само с приоритет.</string>
+    <string name="accessibility_quick_settings_dnd_none_on">Настройката „Не безпокойте“ е включена в режим за пълна тишина.</string>
+    <string name="accessibility_quick_settings_dnd_alarms_on">Настройката „Не безпокойте“ е включена в режим само с будилници.</string>
+    <string name="accessibility_quick_settings_dnd_off">Настройката „Не безпокойте“ е изключена.</string>
+    <string name="accessibility_quick_settings_dnd_changed_off">Настройката „Не безпокойте“ е изключена.</string>
+    <string name="accessibility_quick_settings_dnd_changed_on">Настройката „Не безпокойте“ е включена.</string>
+    <string name="accessibility_quick_settings_bluetooth_off">Функцията за Bluetooth е изключена.</string>
+    <string name="accessibility_quick_settings_bluetooth_on">Функцията за Bluetooth е включена.</string>
+    <string name="accessibility_quick_settings_bluetooth_connecting">Установява се връзка през Bluetooth.</string>
+    <string name="accessibility_quick_settings_bluetooth_connected">Установена е връзка през Bluetooth.</string>
+    <string name="accessibility_quick_settings_bluetooth_changed_off">Функцията за Bluetooth се изключи.</string>
+    <string name="accessibility_quick_settings_bluetooth_changed_on">Функцията за Bluetooth се включи.</string>
+    <string name="accessibility_quick_settings_location_off">Функцията „Отчитане на местоположението“ е изключена.</string>
+    <string name="accessibility_quick_settings_location_on">Функцията „Отчитане на местоположението“ е включена.</string>
+    <string name="accessibility_quick_settings_location_changed_off">Функцията „Отчитане на местоположението“ се изключи.</string>
+    <string name="accessibility_quick_settings_location_changed_on">Функцията „Отчитане на местоположението“ се включи.</string>
+    <string name="accessibility_quick_settings_alarm">Будилникът е навит за %s.</string>
+    <string name="accessibility_quick_settings_close">Затваряне на панела.</string>
+    <string name="accessibility_quick_settings_more_time">Повече време.</string>
+    <string name="accessibility_quick_settings_less_time">По-малко време.</string>
+    <string name="accessibility_quick_settings_flashlight_off">Фенерчето е изключено.</string>
+    <string name="accessibility_quick_settings_flashlight_on">Фенерчето е включено.</string>
+    <string name="accessibility_quick_settings_flashlight_changed_off">Фенерчето е изключено.</string>
+    <string name="accessibility_quick_settings_flashlight_changed_on">Фенерчето е включено.</string>
+    <string name="accessibility_quick_settings_color_inversion_changed_off">Функцията за инвертиране на цветовете се изключи.</string>
+    <string name="accessibility_quick_settings_color_inversion_changed_on">Функцията за инвертиране на цветовете се включи.</string>
+    <string name="accessibility_quick_settings_hotspot_changed_off">Мобилната точка за достъп се изключи.</string>
+    <string name="accessibility_quick_settings_hotspot_changed_on">Мобилната точка за достъп се включи.</string>
+    <string name="accessibility_casting_turned_off">Предаването на съдържанието от екрана спря.</string>
+    <string name="accessibility_brightness">Яркост на екрана</string>
+    <string name="quick_settings_brightness_controller_hbm">Максимизирано за най-добро виждане на слънце</string>
+    <string name="quick_settings_brightness_controller_outdoor_mode_label">На откр.</string>
+    <string name="quick_settings_brightness_controller_outdoor_mode_title">Режим на открито</string>
+    <string name="quick_settings_brightness_controller_outdoor_message_vzw">Outdoor mode will maximize screen brightness for best viewing in sunlight. If the screen is not in use, screen brightness will return to the previous setting in 15 minutes.</string>
+    <string name="quick_settings_brightness_controller_outdoor_message">Увеличете яркостта на екрана за %1$d минути. Ако екранът е включен, когато %2$d минути изтекат, Режим на открито ще остане активиран, докато екранът не се изключи.</string>
+    <string name="data_usage_disabled_dialog_3g_title">Данните от 2G – 3G са поставени на пауза</string>
+    <string name="data_usage_disabled_dialog_4g_title">Данните от 4G са поставени на пауза</string>
+    <string name="data_usage_disabled_dialog_mobile_title">Мобилните данни са поставени на пауза</string>
+    <string name="data_usage_disabled_dialog_title">Данните са поставени на пауза</string>
+    <string name="data_usage_disabled_dialog">"Тъй като зададеното от вас ограничение за данни бе достигнато, устройството постави преноса им на пауза за остатъка от този цикъл.
+
+Възобновяването може да доведе до таксуване от оператора ви."</string>
+    <string name="data_usage_disabled_dialog_enable">Възобновяване</string>
+    <string name="data_usage_disabled_dialog_limit_title">Мобилни данни деактивирани</string>
+    <string name="data_usage_disabled_dialog_limit_title_vzw">Mobile data is now off</string>
+    <string name="data_usage_disabled_dialog_limit">Достигнато е указаното ограничение за използване на данни. Допълнителното използване на данни може да начисли такси от доставчика на услуги.</string>
+    <string name="data_usage_disabled_dialog_limit_vzw">"You've reached your specified data usage limit, so mobile data has been turned off.
+
+If you turn mobile data back on, you may be charged for data usage by your carrier."</string>
+    <string name="data_usage_disabled_dialog_limit_enable">Вкл. на Моб. данни</string>
+    <string name="data_usage_disabled_dialog_limit_enable_vzw">Turn on data</string>
+    <string name="status_bar_settings_signal_meter_disconnected">Няма връзка с интернет</string>
+    <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi: Има връзка</string>
+    <string name="gps_notification_searching_text">Търси се GPS</string>
+    <string name="gps_notification_found_text">Местоположението е зададено от GPS</string>
+    <string name="gps_notification_searching_text_vzw">Finding location</string>
+    <string name="gps_notification_found_text_vzw">Location found</string>
+    <string name="accessibility_location_active">Активни заявки за местоположение</string>
+    <string name="accessibility_clear_all">Изчистване на всички известия.</string>
+    <string name="status_bar_notification_inspect_item_title">Настройки за известия</string>
+    <string name="status_bar_notification_app_settings_title">Настройки за %s</string>
+    <string name="accessibility_rotation_lock_off">Екранът ще се завърта автоматично.</string>
+    <string name="accessibility_rotation_lock_on_landscape">Екранът е заключен в хоризонтална ориентация.</string>
+    <string name="accessibility_rotation_lock_on_portrait">Екранът е заключен във вертикална ориентация.</string>
+    <string name="accessibility_rotation_lock_off_changed">Екранът ще се завърта автоматично.</string>
+    <string name="accessibility_rotation_lock_on_landscape_changed">Екранът е заключен в хоризонтална ориентация.</string>
+    <string name="accessibility_rotation_lock_on_portrait_changed">Екранът е заключен във вертикална ориентация.</string>
+    <string name="dessert_case">Витрина с десерти</string>
+    <string name="start_dreams">Мечта</string>
+    <string name="ethernet_label">Ethernet</string>
+    <string name="it_policy_not_allow_wifi">Политиката за защита пречи на използването на Wi-Fi.</string>
+    <string name="it_policy_not_allow_wifiap">Правилата за защита ограничават използването на споделяне на Интернет.</string>
+    <string name="wifi_in_airplane_mode">В режим Полет</string>
+    <string name="wifi_authentication_succeed">Удостоверен.</string>
+    <string name="wifi_authentication_failed">Неуспешно удостоверяване.</string>
+    <string name="wifi_authentication_succeed_kt">Wi-Fi ТД е удостоверена.</string>
+    <string name="wifi_authentication_failed_kt">Неуспешно удостоверяване на Wi-Fi ТД.</string>
+    <string name="wifi_authentication_not_subscribed">Неуспешно свързване към мрежа %s. Абонирайте се за услуга, след което опитайте отново.</string>
+    <string name="wifi_authentication_no_response">Неуспешно свързване към точка за достъп до Wi-Fi.</string>
+    <string name="wifi_authentication_invalid_value">Неуспешно идентифициране. Проверете ID и парола.</string>
+    <string name="wifi_setup_title_connected_network">Свързано към Wi-Fi мрежа %s.</string>
+    <string name="wifi_disconnected">Прекъсната Wi-Fi връзка.</string>
+    <string name="quick_settings_dnd_label">"Не
+безпокойте"</string>
+    <string name="quick_settings_dnd_priority_label">Само с приоритет</string>
+    <string name="quick_settings_dnd_alarms_label">Само будилници</string>
+    <string name="quick_settings_dnd_none_label">Пълна тишина</string>
+    <string name="quick_settings_dormant_mode_label">"Не
+безпокойте"</string>
+    <string name="quick_settings_bluetooth_label">Bluetooth</string>
+    <string name="quick_settings_bluetooth_multiple_devices_label">Bluetooth (%d устройства)</string>
+    <string name="quick_settings_bluetooth_off_label">Bluetooth е изключен</string>
+    <string name="quick_settings_bluetooth_detail_empty_text">Няма налични сдвоени устройства</string>
+    <string name="quick_settings_brightness_label">Яркост</string>
+    <string name="quick_settings_rotation_unlocked_label">"Авто
+въртене"</string>
+    <string name="quick_settings_rotation_locked_label">Ориентацията е заключена</string>
+    <string name="quick_settings_rotation_locked_portrait_label">Портрет</string>
+    <string name="quick_settings_rotation_locked_landscape_label">Хоризонтален режим</string>
+    <string name="quick_settings_ime_label">Метод на въвеждане</string>
+    <string name="quick_settings_location_label">Местоположение</string>
+    <string name="quick_settings_location_off_label">Местоположението е изключено</string>
+    <string name="quick_settings_media_device_label">Мултимедийно устройство</string>
+    <string name="quick_settings_rssi_label">Индикатор за силата на получения сигнал (RSSI)</string>
+    <string name="quick_settings_rssi_emergency_only">Само спешни обаждания</string>
+    <string name="quick_settings_settings_label">Настройки</string>
+    <string name="quick_settings_time_label">Време</string>
+    <string name="quick_settings_user_label">Аз</string>
+    <string name="quick_settings_user_title">Потребител</string>
+    <string name="quick_settings_user_new_user">Нов потребител</string>
+    <string name="quick_settings_airplane_mode_label">"Режим
+полет"</string>
+    <string name="quick_settings_silent_mode_sound">Звук</string>
+    <string name="quick_settings_silent_mode_vibrate">Вибрация</string>
+    <string name="quick_settings_silent_mode_mute">Заглуш.</string>
+    <string name="quick_settings_sfinder_text">S Finder</string>
+    <string name="quick_settings_sync_text">Синхр.</string>
+    <string name="quick_settings_wificalling_text">"Wi-Fi
+Calling"</string>
+    <string name="quick_settings_wifi_hotspot_label">"Mobile
+hotspot"</string>
+    <string name="quick_settings_wifi_hotspot_label_vzw">"Mobile
+hotspot"</string>
+    <string name="quick_settings_wifi_hotspot_label_jpn">"Wi-Fi
+тетъринг"</string>
+    <string name="quick_settings_touch_sensitivity_label">"Чувств.
+на допир"</string>
+    <string name="quick_settings_smart_stay_label">"Умно
+оставане"</string>
+    <string name="quick_settings_quick_connect_label">"Бързо
+свърз."</string>
+    <string name="quick_settings_ultra_power_saving_label">"Ултра
+пест. ен."</string>
+    <string name="quick_settings_location_text">Място</string>
+    <string name="quick_settings_gps_text">GPS</string>
+    <string name="quick_settings_reading_mode_label">"Реж. на
+четене"</string>
+    <string name="quick_settings_mobile_data_label">"Мобилни
+данни"</string>
+    <string name="quick_settings_data_roaming_label">"Data
+roaming"</string>
+    <string name="quick_settings_personal_mode_label">"Личен
+режим"</string>
+    <string name="quick_settings_power_saving_label">"Пест. на
+енерг."</string>
+    <string name="quick_settings_network_power_saving_label">"Мреж.пест
+енергия"</string>
+    <string name="quick_settings_nfc_card_mode_label">"Режим NFC
+карта"</string>
+    <string name="quick_settings_nfc_p2p_label">"Ч/П
+P2P"</string>
+    <string name="quick_settings_nfc_jpn_label">"NFC/Osaifu-
+Keitai"</string>
+    <string name="quick_settings_torch_label">Фенерче</string>
+    <string name="quick_settings_screen_capture_label">"Capture
+screen"</string>
+    <string name="quick_settings_aod_label">"Always On
+Display"</string>
+    <string name="quick_settings_wifi_label">Wi-Fi</string>
+    <string name="quick_settings_wifi_not_connected">Няма връзка</string>
+    <string name="quick_settings_wifi_no_network">Няма мрежа</string>
+    <string name="quick_settings_wifi_off_label">Wi-Fi е изключен</string>
+    <string name="quick_settings_wifi_detail_empty_text">Няма налични Wi-Fi мрежи</string>
+    <string name="quick_settings_screen_mirroring_label">"Screen
+Mirroring"</string>
+    <string name="quick_settings_cast_title">Предаване</string>
+    <string name="quick_settings_casting">Предава се</string>
+    <string name="quick_settings_cast_device_default_name">Устройство без име</string>
+    <string name="quick_settings_cast_device_default_description">Готово за предаване</string>
+    <string name="quick_settings_cast_detail_empty_text">Няма налични устройства</string>
+    <string name="quick_settings_brightness_dialog_title">Яркост</string>
+    <string name="quick_settings_brightness_dialog_auto_brightness_label">АВТ.</string>
+    <string name="quick_settings_inversion_label">Обръщане на цветовете</string>
+    <string name="quick_settings_color_space_label">Режим на коригиране на цветовете</string>
+    <string name="quick_settings_more_settings">НАСТРОЙКИ</string>
+    <string name="quick_settings_done">Готово</string>
+    <string name="quick_settings_connected">Установена е връзка</string>
+    <string name="quick_settings_connecting">Установява се връзка...</string>
+    <string name="quick_settings_tethering_label">Тетъринг</string>
+    <string name="quick_settings_hotspot_label">Точка за достъп</string>
+    <string name="quick_settings_notifications_label">Известия</string>
+    <string name="quick_settings_flashlight_label">Фенерче</string>
+    <string name="quick_settings_cellular_detail_title">Мобилни данни</string>
+    <string name="quick_settings_cellular_detail_data_usage">Пренос на данни</string>
+    <string name="quick_settings_cellular_detail_remaining_data">Оставащи данни</string>
+    <string name="quick_settings_cellular_detail_over_limit">Над ограничението</string>
+    <string name="quick_settings_cellular_detail_data_used">Използвано: %s</string>
+    <string name="quick_settings_cellular_detail_data_limit">Ограничение от %s</string>
+    <string name="quick_settings_cellular_detail_data_warning">Предупреждение: %s</string>
+    <string name="quickpanel_content_description_led_on">%s е активиран.</string>
+    <string name="quickpanel_content_description_led_off">%s е деактивиран.</string>
+    <string name="quickpanel_content_description_led_dim">%s не може да се активира.</string>
+    <string name="quickpanel_content_description_expand_button">Разгъване на панела с бързи настройки</string>
+    <string name="quickpanel_content_description_collapse_button">Свиване на панела с бързи настройки</string>
+    <string name="quickpanel_long_preesed_description">Чукнете и задръжте бутон за бърза настройка, за да отидете на съответните настройки.</string>
+    <string name="recents_empty_message">Няма използвани наскоро приложения</string>
+    <string name="recents_app_info_button_label">Информация за приложението</string>
+    <string name="recents_lock_to_app_button_label">фиксиране на екрана</string>
+    <string name="recents_search_bar_label">търсене</string>
+    <string name="recents_launch_error_message">%s не можа да стартира.</string>
+    <string name="recents_dismiss_all_message">Отхвърляне на всички приложения</string>
+    <string name="recents_multistack_add_stack_dialog_split_horizontal">Хоризонтално разделяне</string>
+    <string name="recents_multistack_add_stack_dialog_split_vertical">Вертикално разделяне</string>
+    <string name="recents_multistack_add_stack_dialog_split_custom">Персонализирано разделяне</string>
+    <string name="expanded_header_battery_charged">Заредена</string>
+    <string name="expanded_header_battery_charging">Зарежда се</string>
+    <string name="expanded_header_battery_charging_with_time">%s до пълно зареждане</string>
+    <string name="expanded_header_battery_not_charging">Не се зарежда</string>
+    <string name="ssl_ca_cert_warning">"Мрежата може
+да се наблюдава"</string>
+    <string name="description_target_search">Търсене</string>
+    <string name="description_direction_up">Плъзнете нагоре за %s.</string>
+    <string name="description_direction_left">Плъзнете наляво за %s.</string>
+    <string name="zen_priority_introduction">Няма да бъдете обезпокоявани от звуци и вибрирания, различни от будилници, напомняния, събития и обаждания от посочени от вас контакти.</string>
+    <string name="zen_priority_customize_button">Персонализиране</string>
+    <string name="zen_silence_introduction_voice">Този режим блокира ВСИЧКИ звуци и вибрирания, включително от будилници, музика, видеоклипове и игри. Пак ще можете да извършвате телефонни обаждания.</string>
+    <string name="zen_silence_introduction">Този режим блокира ВСИЧКИ звуци и вибрирания, включително от будилници, музика, видеоклипове и игри.</string>
+    <string name="keyguard_more_overflow_text">+%d</string>
+    <string name="speed_bump_explanation">Ппоказване на по-малко спешните известия по-долу</string>
+    <string name="notification_tap_again">Докоснете отново за отваряне</string>
+    <string name="keyguard_unlock">Плъзнете екрана, за да отключите</string>
+    <string name="lockscreen_unlock_guide_text">Плъзнете екрана, за да отключите</string>
+    <string name="lockscreen_unlock_guide_text_voice_assistant">Плъзнете с два пръста, за да отключите екрана.</string>
+    <string name="kg_fingerprints_unlock_instructions">Изп. пръстов отпеч. за откл.</string>
+    <string name="kg_fingerprints_bouncer_instructions">Използвайте пръстов отпечатък за отваряне</string>
+    <string name="kg_swipe_bouncer_instructions">Плъзнете екрана, за да отворите</string>
+    <string name="kg_swipe_bouncer_instructions_voice_assistant">Плъзнете екрана с два пръста, за да отворите.</string>
+    <string name="phone_hint">Плъзнете с пръст от иконата, за да използвате телефона</string>
+    <string name="voice_hint">Прекарайте пръст от иконата, за да получите гласова помощ</string>
+    <string name="camera_hint">Плъзнете с пръст от иконата, за да включите камерата</string>
+    <string name="interruption_level_none_with_warning">Пълна тишина. Това ще заглуши и екранните четци.</string>
+    <string name="interruption_level_none">Пълна тишина</string>
+    <string name="interruption_level_priority">Само с приоритет</string>
+    <string name="interruption_level_alarms">Само будилници</string>
+    <string name="interruption_level_none_twoline">"Пълна
+тишина"</string>
+    <string name="interruption_level_priority_twoline">"Само
+с приоритет"</string>
+    <string name="interruption_level_alarms_twoline">"Само
+будилници"</string>
+    <string name="keyguard_indication_charging_time">Зарежда се (%s до пълно зареждане)</string>
+    <string name="accessibility_multi_user_switch_switcher">Превключване между потребителите</string>
+    <string name="accessibility_multi_user_switch_switcher_with_current">Превключване на потребителя – текущият е %s</string>
+    <string name="accessibility_multi_user_switch_inactive">Текущ потребител – %s</string>
+    <string name="accessibility_multi_user_switch_quick_contact">Показване на потребителския профил</string>
+    <string name="user_add_user">Добавяне на потребител</string>
+    <string name="user_new_user_name">Нов потребител</string>
+    <string name="guest_nickname">Гост</string>
+    <string name="guest_new_guest">Добавяне на гост</string>
+    <string name="guest_exit_guest">Изтриване на гост</string>
+    <string name="guest_exit_guest_dialog_title">Изтриване на профил на гост</string>
+    <string name="guest_exit_guest_dialog_message">Този профил ще бъде изтрит заедно с всички изтеглени приложения и сродни данни. Тези данни не може да се възстановят.</string>
+    <string name="guest_exit_guest_dialog_remove">Изтрий</string>
+    <string name="guest_wipe_session_title">Добре дошли отново в сесията като гост!</string>
+    <string name="guest_wipe_session_message">Искате ли да продължите сесията си?</string>
+    <string name="guest_wipe_session_wipe">Започване отначало</string>
+    <string name="guest_wipe_session_dontwipe">Да, продължавам</string>
+    <string name="guest_notification_title">Гост</string>
+    <string name="guest_notification_text">Премахнете госта, за да се изтрият приложенията и данните</string>
+    <string name="guest_notification_remove_action">ПРЕМАХВАНЕ НА ГОСТА</string>
+    <string name="user_add_user_title">Добавяне на потребител</string>
+    <string name="user_add_user_message_short">"Когато добавите нов потребител, този потребител трябва да настрои свое собствено място.
+
+Всеки потребител може да актуализира приложения за всички други потребители."</string>
+    <string name="unable_to_switch_user">Не може да се смени потребителският профил по време на разговори.</string>
+    <string name="battery_saver_notification_title">Режимът за запазване на батерията е включен</string>
+    <string name="battery_saver_notification_text">Намалява ефективността и данните на заден план</string>
+    <string name="battery_saver_notification_action_text">Изключване на режима за запазване на батерията</string>
+    <string name="notification_hidden_text">Скрито съдържание</string>
+    <string name="sanitized_content_text">Чукнете тук, за да влезете в %s.</string>
+    <string name="media_projection_dialog_text">%s ще започне да заснема всичко, което се показва на екрана ви.</string>
+    <string name="media_projection_remember_text">Да не се показва отново</string>
+    <string name="clear_all_notifications_text">Изчистване на всички</string>
+    <string name="media_projection_action_text">Стартиране сега</string>
+    <string name="empty_shade_text">Няма известия</string>
+    <string name="device_owned_footer">Устройството може да се наблюдава</string>
+    <string name="profile_owned_footer">Възможно е потребителският профил да се наблюдава</string>
+    <string name="vpn_footer">Мрежата може да се наблюдава</string>
+    <string name="monitoring_title_device_owned">Наблюдение на устройството</string>
+    <string name="monitoring_title_profile_owned">Наблюдаване на потр. профил</string>
+    <string name="monitoring_title">Наблюдение на мрежата</string>
+    <string name="disable_vpn">Деактивиране на VPN</string>
+    <string name="disconnect_vpn">Прекратяване на връзката с VPN</string>
+    <string name="monitoring_description_device_owned">"Устройството ви се управлява от %1$s.
+
+Администраторът ви може да наблюдава и управлява настройките, корпоративния достъп, приложенията и данните, свързани с устройството ви, включително информацията за местоположението му. За още подробности се свържете с администратора си."</string>
+    <string name="monitoring_description_vpn">"Разрешихте на приложение да настрои връзка с виртуална частна мрежа (VPN).
+
+Това приложение може да наблюдава активността ви на устройството и в мрежата, включително имейли, приложения и уебсайтове."</string>
+    <string name="monitoring_description_vpn_device_owned">"Устройството ви се управлява от %1$s.
+
+Администраторът ви може да наблюдава и управлява настройките, корпоративния достъп, приложенията и данните, свързани с устройството ви, включително информацията за местоположението му.
+
+Свързани сте с виртуална частна мрежа (VPN) и активността ви в нея може да се наблюдава, включително имейли, приложения и уебсайтове.
+
+За още информация се свържете с администратора си."</string>
+    <string name="monitoring_description_vpn_profile_owned">"Служебният ви потребителски профил се управлява от %1$s.
+
+Администраторът ви може да наблюдава активността ви в мрежата, включително имейли, приложения и уебсайтове.
+
+За още информация се свържете с администратора си.
+
+Също така е установена връзка с виртуална частна мрежа (VPN) и активността ви в нея може да се наблюдава."</string>
+    <string name="legacy_vpn_name">VPN</string>
+    <string name="monitoring_description_app">Установена е връзка с приложението %1$s, което може да наблюдава активността ви в мрежата, включително имейли, приложения и уебсайтове.</string>
+    <string name="monitoring_description_app_personal">Установена е връзка с приложението %1$s, което може да наблюдава личната ви активност в мрежата, включително имейли, приложения и уебсайтове.</string>
+    <string name="monitoring_description_app_work">"Служебният ви потребителски профил се управлява от %1$s. Той е свързан с приложението %2$s, което може да наблюдава служебната ви активност в мрежата, включително имейли, приложения и уебсайтове.
+
+За още информация се свържете с администратора си."</string>
+    <string name="monitoring_description_app_personal_work">"Служебният ви потребителски профил се управлява от %1$s. Той е свързан с приложението %2$s, което може да наблюдава служебната ви активност в мрежата, включително имейли, приложения и уебсайтове.
+
+Установена е връзка и с приложението %3$s, което може да наблюдава личната ви активност в мрежата."</string>
+    <string name="monitoring_description_vpn_app_device_owned">"Устройството ви се управлява от %1$s.
+
+Администраторът ви може да наблюдава и управлява настройките, корпоративния достъп, приложенията и данните, свързани с устройството ви, включително информацията за местоположението му.
+
+Установена е връзка с приложението %2$s, което може да наблюдава активността ви в мрежата, включително имейли, приложения и уебсайтове.
+
+За още информация се свържете с администратора си."</string>
+    <string name="keyguard_indication_trust_disabled">Устройството ще остане заключено, докато не го отключите ръчно</string>
+    <string name="hidden_notifications_title">Получавайте известия по-бързо</string>
+    <string name="hidden_notifications_text">Вижте известията, преди да отключите</string>
+    <string name="hidden_notifications_cancel">Няма нужда</string>
+    <string name="hidden_notifications_setup">Настройване</string>
+    <string name="notification_expand_button_text">Преглед на всичко</string>
+    <string name="notification_collapse_button_text">Скриване на всичко</string>
+    <string name="zen_mode_and_condition">%1$s. %2$s</string>
+    <string name="volume_zen_end_now">Прекратяване сега</string>
+    <string name="accessibility_volume_expand">Разгъни</string>
+    <string name="accessibility_volume_collapse">Свиване</string>
+    <string name="screen_pinning_title">Екранът е фиксиран</string>
+    <string name="screen_pinning_description">Така екранът ще се показва, докато не го освободите. За да направите това, докоснете и задръжте бутона за връщане назад и този за общ преглед едновременно.</string>
+    <string name="screen_pinning_description_accessible">Така екранът ще се показва, докато не го освободите. За да направите това, докоснете и задръжте бутона за общ преглед.</string>
+    <string name="screen_pinning_positive">Разбрах</string>
+    <string name="screen_pinning_negative">Не, благодаря</string>
+    <string name="quick_settings_reset_confirmation_title">Да се скрие ли „%1$s“?</string>
+    <string name="quick_settings_reset_confirmation_message">Бързите настройки ще се покажат отново следващия път, когато ги включите от „Настройки“.</string>
+    <string name="quick_settings_reset_confirmation_button">Скриване</string>
+    <string name="volumeui_prompt_message">%1$s иска да изпълнява ролята на диалоговия прозорец за силата на звука.</string>
+    <string name="volumeui_prompt_allow">Разрешаване</string>
+    <string name="volumeui_prompt_deny">Отказване</string>
+    <string name="volumeui_notification_title">%1$s изпълнява ролята на диалоговия прозорец за силата на звука</string>
+    <string name="volumeui_notification_text">Докоснете, за да възстановите оригинала.</string>
+    <string name="managed_profile_foreground_toast">Използвате служебния си потребителски профил</string>
+    <string name="tw_safe_media_volume_warning">Слушането с висока сила на звука дълго време може да увреди слуха ви. Докоснете OK, за да позволите на звука да се увеличи над безопасните нива.</string>
+    <string name="tw_cover_volume_warning_message">Слушането с висока сила на звука за дълго време може да увреди слуха ви. За да увеличите звука, отворете капака.</string>
+    <string name="tw_safe_media_volume_warning_kids_mode">Силата на звука не може да надвишава препоръчания безопасен лимит (%s), докато в режим Деца са свързани слушалки.</string>
+    <string name="yes">OK</string>
+    <string name="no">Отмени</string>
+    <string name="system_ui_tuner">Тунер на системния потребителски интерфейс</string>
+    <string name="show_battery_percentage">Показване на процента на вградената батерия</string>
+    <string name="show_battery_percentage_summary">Показване на процента на нивото на батерията в иконата на лентата на състоянието, когато не се зарежда</string>
+    <string name="quick_settings">Бързи настройки</string>
+    <string name="status_bar">Лента на състоянието</string>
+    <string name="demo_mode">Демонстрационен режим</string>
+    <string name="enable_demo_mode">Активиране на демонстрационния режим</string>
+    <string name="show_demo_mode">Показване на демонстрационния режим</string>
+    <string name="status_bar_ethernet">Ethernet</string>
+    <string name="status_bar_alarm">Будилник</string>
+    <string name="status_bar_work">Потребителски профил в Work</string>
+    <string name="status_bar_airplane">Самолетен режим</string>
+    <string name="add_tile">Добавяне на плочка</string>
+    <string name="broadcast_tile">Плочка за излъчване</string>
+    <string name="mobile_hotspot_wifi_off_warning">Активирането на Mobile hotspot ще изключи Wi-Fi.</string>
+    <string name="mobile_hotspot_wifi_off_warning_china">Enabling Mobile hotspot will turn off WLAN.</string>
+    <string name="mobile_hotspot_wifi_off_warning_jpn">Enabling Wi-Fi tethering will turn off Wi-Fi.</string>
+    <string name="tethering_attention_title">Внимание</string>
+    <string name="mobile_data_enable_toast_text">Не може да се свърже към мобилни мрежи, когато е активиран режим Полет. Деактивирайте режим Полет и опитайте отново.</string>
+    <string name="wifi_ap_wifi_p2p_off_warn">Активирането на Mobile hotspot ще изключи всички устройства, които в момента са свързани чрез Wi-Fi Direct.</string>
+    <string name="wifi_ap_wifi_p2p_off_warn_china">Enabling Portable WLAN hotspot will disconnect device connected via WLAN Direct.</string>
+    <string name="dialog_battery_data_warning">Mobile hotspot ще бъде активирана. Това ще увеличи консумацията на батерията и потреблението на данни.</string>
+    <string name="zen_alarm_warning_indef">Няма да чуете следващия си будилник в %1$s, освен ако не изключите настройката преди това</string>
+    <string name="zen_alarm_warning">Няма да чуете следващия си будилник в %1$s</string>
+    <string name="alarm_template">в %1$s</string>
+    <string name="alarm_template_far">в/ъв %1$s</string>
+    <string name="accessibility_quick_settings_detail">Бързи настройки (%s).</string>
+    <string name="accessibility_status_bar_hotspot">Точка за достъп</string>
+    <string name="accessibility_managed_profile">Потребителски профил в Work</string>
+    <string name="tuner_warning_title">Забавно – но не за всички</string>
+    <string name="tuner_warning">Тунерът на системния потребителски интерфейс ви предоставя допълнителни възможности за прецизиране и персонализиране на практическата работа с Android. Тези експериментални функции може да се променят, повредят или да изчезнат в бъдещите версии. Действайте внимателно.</string>
+    <string name="tuner_persistent_warning">Тези експериментални функции може да се променят, повредят или да изчезнат в бъдещите версии. Действайте внимателно.</string>
+    <string name="got_it">Разбрах</string>
+    <string name="tuner_toast">Поздравления! Тунерът на системния потребителски интерфейс е добавен към „Настройки“</string>
+    <string name="remove_from_settings">Премахване от „Настройки“</string>
+    <string name="remove_from_settings_prompt">Да се премахне ли от „Настройки“ тунерът на системния потребителски интерфейс и да се спре ли използването на всичките му функции?</string>
+    <string name="accessibility_qs_edit_button">Бутон Редактиране</string>
+    <string name="accessibility_button">Бутон</string>
+    <string name="no_sim_notification_title">Няма SIM</string>
+    <string name="no_sim_notification_title_tmo">Не е поставена SIM карта</string>
+    <string name="no_sim_notification_title_vzw">No SIM found</string>
+    <string name="no_sim_notification_text">Поставете SIM карта.</string>
+    <string name="no_sim_notification_text_vzw">Tap for more information.</string>
+    <string name="full_battery_title">Инфо</string>
+    <string name="full_battery_noti_text">Батерията e напълно заредена</string>
+    <string name="charging_interruption_title">Не може да се зареди</string>
+    <string name="charging_interruption_by_terminal_open_text">Устройството ви не може да се зареди. Уверете се, че използвате съвместима със Samsung батерия и зарядно и че устройството ви е правилно свързано към зарядното.</string>
+    <string name="charging_interruption_by_terminal_open_galaxy_text">Unable to charge your device. Make sure you are using a Galaxy compatible battery and charger and that your device is properly connected to the charger.</string>
+    <string name="charging_interruption_by_too_high_temperature_text">Зареждането е в пауза. Температурата на батерията е твърде висока.</string>
+    <string name="charging_interruption_by_too_low_temperature_text">Зареждането е в пауза. Температурата на батерията е твърде ниска.</string>
+    <string name="charging_interruption_by_limit_high_temperature_text">"Устройството спря да се зарежда. Температурата на батерията е твърде висока. Бъдете внимателни, когато изключвате зарядното устройство. Може да е много горещо.
+
+Изключването и повторното включване на зарядното устройство може да позволи зареждането да продължи нормално. Ако прегряването продължава, се обърнете към обслужване на клиенти, тъй като може да има риск от пожар или нараняване."</string>
+    <string name="highvoltage_charger_notification_title">Бързо зареждане</string>
+    <string name="highvoltage_charger_notification_text">Бързото зарядно е свързано.</string>
+    <string name="cable_charging_title">Зареждане с кабел</string>
+    <string name="wireless_charging_title">Безжично зареждане</string>
+    <string name="fast_wireless_charging_title">Бързо безжично зареждане</string>
+    <string name="slow_charging_title">Устр. се зарежда бавно</string>
+    <string name="slow_charging_notification_text">За да зареждате по-бързо, използвайте оригиналното зарядно.</string>
+    <string name="charging_noti_text_another">"Зареждане: %1$d%%
+(Приблизително %2$s до пълно зареждане)"</string>
+    <string name="quick_settings_battery_charging_label">Зареждане: %d%%</string>
+    <string name="time_format_hour_minute">%1$d ч и %2$d м</string>
+    <string name="time_format_hour">%d ч</string>
+    <string name="time_format_minute">%d м</string>
+    <string name="wireless_charging_disconnect_text">Безжичното зареждане е паузирано.</string>
+    <string name="slow_charging_toast_text_for_tablet">To charge faster, use the charger and cable that were provided with this tablet.</string>
+    <string name="wireless_charger_misalign_help_text">За да заредите устройството най-ефективно, го поставете на безжично зарядно устройство, като се уверите, че правилните части са изравнени.</string>
+    <string name="wireless_charger_info_text">Make sure there are no metallic objects, such as metallic stickers, paper clips, or straps between the charging pad and mobile device.</string>
+    <string name="battery_saver_notification_title_sec">Активиран е режим на пестене енергия</string>
+    <string name="battery_saver_notification_text_sec">Производителността на устройството и данните във фонов режим са ограничени</string>
+    <string name="battery_saver_notification_action_text_sec">Изключване</string>
+    <string name="battery_npsm_notification_title">Режим мрежово пестене на енергия е активиран</string>
+    <string name="battery_npsm_notification_text">Производителността на устройството е ограничена, данните във фонов режим са ограничени и Мобилни данни и Wi-Fi са изключени, докато екранът е изключен</string>
+    <string name="wireless_charging_from_wireless_to_cable_text">Превключване от безжично зареждане към кабелно зареждане</string>
+    <string name="wireless_charging_from_cable_to_wireless_text">Превключване от кабелно зареждане към безжично зареждане</string>
+    <string name="incompatible_charger_title">Не зарежда.</string>
+    <string name="incompatible_charger_dialog_text">The connected charger is incompatible with this phone. To prevent damage to your phone, charging has been stopped. To continue charging, use the original charger and cable that were provided with this phone.</string>
+    <string name="incompatible_charger_notification_text">Unable to charge. Use the original charger.</string>
+    <string name="incompatible_charger_ticker">Не се зарежда.</string>
+    <string name="warning_alert_check">Не показвай повече</string>
+    <string name="critical_low_battery_title">Батерията е изтощена докрай</string>
+    <string name="low_battery_title">Батерията е изтощена</string>
+    <string name="battery_low_hun_remaining_battery_level_format">В устройството остават %d%% заряд на батерията. Свържете устройството към зарядно.</string>
+    <string name="button_close">Затвори</string>
+    <string name="cooling_title">Устройството прегрява</string>
+    <string name="cooling_noti_text">Чукнете тук, за да видите подробностите.</string>
+    <string name="cooling_body">"Устройството ви прегрява. Ще бъдат предприети стъпки за охлаждането му.
+
+Все още можете да използвате устройството си, но
+- екранът може да се затъмни.
+- работата на устройството може да се забави.
+- зареждането може да паузира.
+
+Затварянето на текущото приложение ще спомогне за охлаждането на устройството ви.
+
+След като устройството се охлади, производителността автоматично ще се върне към нормалното."</string>
+    <string name="colling_high_level_noti_text">Приложенията не могат да се отворят. Можете да използвате само приложенията Телефон и Контакти.</string>
+    <string name="cooling_title_vzw">Cooling down</string>
+    <string name="cooling_noti_text_vzw">Чукнете тук, за да научите повече.</string>
+    <string name="cooling_body_vzw">"Your phone is getting too hot, so it's taking steps to cool itself down.
+
+You can still use your phone, but you may notice:
+The screen might dim.
+The phone might slow down.
+Charging might pause.
+
+After the phone cools down, performance will automatically go back to normal."</string>
+    <string name="cooling_body_tablet_vzw">"Your tablet is getting too hot, so it’s taking steps to cool itself down.
+
+You can still use your tablet, but you may notice:
+The screen might dim.
+The tablet might slow down.
+Charging might pause.
+
+After the tablet cools down, performance willAutomatically go back to normal."</string>
+    <string name="overheat_shutdown_warning_title">Too hot - Turning off</string>
+    <string name="overheat_shutdown_warning_text">Your phone is getting too hot. It will now turn off to cool down.</string>
+    <string name="overheat_shutdown_warning_text_tablet">Your tablet is getting too hot. It will now turn off to cool down.</string>
+    <string name="overheat_shutdown_warning_button_text">"Don't turn off"</string>
+    <string name="overheat_shutdown_notice_title">Why did my phone turn off by itself?</string>
+    <string name="overheat_shutdown_notice_title_tablet">Why did my tablet turn off by itself?</string>
+    <string name="overheat_shutdown_notice_text">"Your phone got too hot. It turned off to prevent damage to the phone.
+
+Overheating can be caused by:
+Using graphics intensive apps like video games and navigation apps for long periods of time.
+Downloading or uploading large files.
+Using your phone in a very hot location."</string>
+    <string name="overheat_shutdown_notice_text_tablet">"Your tablet got too hot. It turned off to prevent damage to the tablet.
+
+Overheating can be caused by:
+Using graphics intensive apps like video games and navigation apps for long periods of time.
+Downloading or uploading large files.
+Using your tablet in a very hot location."</string>
+    <string name="overheat_poweroff_warning_title">Изключете устройството</string>
+    <string name="overheat_poweroff_warning_text">Устройството ви прегрява и затова ще се изключи, за да се охлади.</string>
+    <string name="overheat_poweroff_warning_button_text">Не изключвайте</string>
+    <string name="overheat_poweroff_notice_title">Устройството е изключено автоматично</string>
+    <string name="overheat_poweroff_notice_text">"Устройството ви прегря и се изключи, за да се предотврати повреда.
+
+Прегряването може да е причинено от:
+Използване на графични програми, като игри, или навигационни програми за дълъг период от време.
+Прехвърляне на големи файлове.
+Използване на устройството при висока температура."</string>
+    <string name="safe_mode_noti_title">Безоп. режим е активиран</string>
+    <string name="safe_mode_noti_body">Чукн. тук за деакт. Безоп. реж.</string>
+    <string name="safe_mode_alert_title">Рестартир. устройството</string>
+    <string name="safe_mode_alert_body">За да се деактивира Безопасен режим, устройството ви ще се рестартира.</string>
+    <string name="safe_mode_alert_positive_button">Рестартиране сега</string>
+    <string name="safe_mode_noti_title_vzw">Safe Mode Is On</string>
+    <string name="safe_mode_noti_body_vzw">Tap to turn off Safe Mode.</string>
+    <string name="safe_mode_alert_title_vzw">Turn Off Safe Mode</string>
+    <string name="safe_mode_alert_body_vzw">Do you want to restart your phone to turn off Safe Mode? All of your apps will be restored.</string>
+    <string name="safe_mode_alert_positive_button_vzw">Turn Off Safe Mode</string>
+    <string name="insert_sim_card">Поставете SIM карта</string>
+    <string name="insert_sim_card_message">Поставете SIM картата, за да получите достъп до услуги на мрежата.</string>
+    <string name="volte_enable_toast_text_about_no_support_sim">VoLTE не се поддържа от текущата версия на софтуера. Свържете се с обслужването на клиенти за повече информация.</string>
+    <string name="volte_enable_message">За да използвате услугата VoLTE, се абонирайте за VoLTE. Свържете се с доставчика си на услуги за подробности.</string>
+    <string name="volte_disable_is_impossible_during_volte_call">Не може да се забрани „Използване на VoLTE, когато е достъпно“ по време на VoLTE повикване.</string>
+    <string name="location_consent_title">Съгласие от потребителя</string>
+    <string name="location_consent_detail">GPS местоположението и използването на вашите данни за местоположение се контролират от приложенията, които използвате.</string>
+    <string name="location_agree">Съгласен</string>
+    <string name="location_disagree">Несъгласен</string>
+    <string name="location_masterswitch_dialogtitle">Съгласие за местоположение</string>
+    <string name="location_masterswitch_dialogtext">"Your phone can share its approximate location with apps and services like maps, shopping and weather.
+
+Apps and services that use your location should inform you. Read the privacy policy of any app or service provider you are considering to understand how they collect, use and share your location information before you use them.
+
+Determining your location will use the mobile network. Data usage will apply."</string>
+    <string name="location_masterswitch_dialogtext_tablet">"Your tablet can share its approximate location with apps and services like maps, shopping and weather.
+
+Apps and services that use your location should inform you. Read the privacy policy of any app or service provider you’re considering to understand how they collect, use and share your location information before you use them.
+
+Determining your location will use the mobile network. Data usage will apply."</string>
+    <string name="agree">Съгласен</string>
+    <string name="disagree">Несъгласен</string>
+    <string name="location_turn_off_vowifi_disabled">Turning off GPS, the VoWiFi function will be automatically disabled.</string>
+    <string name="sync_dialog_title_enable">Активиране автоматично синхронизиране</string>
+    <string name="sync_dialog_title_disable">Деактивиране на автоматично синхронизиране</string>
+    <string name="sync_dialog_message_enable">"Всякакви промени, които извършите във вашите акаунти в уеб, ще бъдат автоматично копирани в устройството.
+
+Някои акаунти, като акаунти за Google, може също автоматично да копират всички промени, които правите в устройството, в уеб.
+
+За да изберете каква информация да синхронизирате за всеки акаунт, отидете в Настройки > Акаунти."</string>
+    <string name="sync_dialog_message_enable_vzw">"Any changes you make to your accounts on the web will be automatically copied to your phone.
+
+Some accounts, such as Google accounts, may also automatically copy any changes you make on the phone to the web.
+
+To select what information to sync for each account, go to Settings > Accounts."</string>
+    <string name="sync_dialog_message_enable_chn">"Всякакви промени, които извършите във вашите акаунти в уеб, ще бъдат автоматично копирани в устройството.
+
+Някои акаунти може също автоматично да копират всички промени, които правите в устройството, в уеб.
+
+За да изберете каква информация да синхронизирате за всеки акаунт, отидете в Настройки > Акаунти."</string>
+    <string name="sync_dialog_message_disable">Това ще намали използването на данни и ще пести мощността на батерията, но трябва да синхронизирате акаунтите ръчно, за да събирате най-актуалната информация. Докато това е активирано, няма да получавате известия за актуализации.</string>
+    <string name="mobile_data_text">Моб. данни</string>
+    <string name="mobile_data_vzw">Изключване на Мобилни данни</string>
+    <string name="mobile_data_disable_popup_all">"Освен ако не използвате Wi-Fi, повече няма да можете да използвате „Интернет“, „Имейл“ или други приложения, които изискват връзка за данни.
+
+Мобилните данни ще бъдат изключени."</string>
+    <string name="mobile_data_warning_toast_airplane_mode">Не може да се свърже към мобилни мрежи, когато е активиран режим Полет. Деактивирайте режим Полет и опитайте отново.</string>
+    <string name="mobile_data_warning_toast_disable_during_volte">Unable to turn Mobile data on or off while Advanced calling enabled.</string>
+    <string name="mobile_data_disable_popup_kor_skt_kt">"Освен ако не използвате Wi-Fi, повече няма да можете да използвате „Интернет“, „Имейл“ или други приложения, които изискват връзка за данни.
+
+Мобилните данни ще бъдат изключени."</string>
+    <string name="mobile_data_disable_popup_kor_lgt">"Освен ако не използвате Wi-Fi, повече няма да можете да използвате „Интернет“, „Имейл“ или други приложения, които изискват връзка за данни.
+
+Мобилните данни ще бъдат изключени."</string>
+    <string name="mobile_data_enable_popup_kor_skt_kt">„Мобилни данни“ ще се включи. Свързването към мобилни мрежи може да доведе до допълнителни такси в зависимост от плана ви на плащане.</string>
+    <string name="mobile_data_enable_popup_kor_lgt">„Мобилни данни“ ще се включи. Свързването към мобилни мрежи може да доведе до допълнителни такси в зависимост от плана ви на плащане.</string>
+    <string name="mobile_data_disable_popup_vzw">"Unless you use Wi-Fi, you will not be able to use the Internet, Email, or other apps that require a data connection.
+
+Turn off Mobile data?"</string>
+    <string name="mobile_data_disable_popup_vzw_volte">"Unless you use Wi-Fi, you will not be able to use Internet, Email, or other apps that require a data connection. Your phone will not be able to use Video Calling while Mobile data is off.
+Turn off Mobile data?"</string>
+    <string name="mobile_data_disable_dialog_text">Изключването на мобилната мрежа ще ограничи използването на MMS и 3G услуги за данни. Изключване?</string>
+    <string name="mobile_data_roaming_dialog">Data roaming may incur additional charges in addition to your domestic flat rate plan. Automatic updates for email or applications may also incur additional charges. Using large-data services such as video or email may incur charges over 20,000 won per minute.</string>
+    <string name="mobile_data_roaming_disable_toast_lgt">Данните в роуминг са деактивирани.</string>
+    <string name="personal_mode_popup_diable_msg_while_moving_item">Не може са деактивира Личен режим, докато премествате елементи в Лично.</string>
+    <string name="personal_mode_text">Личен режим</string>
+    <string name="rotation_lock_toast">Автомат. завъртане</string>
+    <string name="rotation_lock_mobile_keyboard_msg">За да активирате %s, откачете капака с клавиатура от устройството.</string>
+    <string name="aod_toast_unavailable_with_at_same_time">%1$s и %2$s не може да са активирани едновременно.</string>
+    <string name="aod_toast_unavailable_with_mobile_keyboard">За да активирате %s, откачете капака с клавиатура от устройството.</string>
+    <string name="aod_disable_popup_title">Активиране на %s</string>
+    <string name="aod_disable_popup_unavailable_with_at_same_time">%1$s и %2$s не може да са активирани едновременно. %3$s ще бъде деактивирано.</string>
+    <string name="aod_disable_popup_description">%s и опциите по-долу не може да са активирани по едно и също време. Опциите по-долу ще бъдат деактивирани.</string>
+    <string name="aod_title">Always On Display</string>
+    <string name="aod_power_saving_mode">Режим на пестене на енергия</string>
+    <string name="aod_voice_assistant_title">Voice Assistant</string>
+    <string name="aod_magnification">Увеличение</string>
+    <string name="aod_magnifier_window">Прозорец на „Лупа“</string>
+    <string name="aod_assistant_menu_magnifier">Прозорец на „Лупа“</string>
+    <string name="aod_talkback">TalkBack</string>
+    <string name="notification_block">Блокир.</string>
+    <string name="dialog_title_block_notification">Известия на блокирано приложение</string>
+    <string name="dialog_msg_block_notification">Известията от това приложение, включително уведомления, звуци и вибрация, ще бъдат блокирани.</string>
+    <string name="toast_msg_unblock_notification">За да отблокирате уведомленията от това приложение по-късно, отидете в Настройки > Звуци и уведомления, след което изберете „Уведомления на приложения“.</string>
+    <string name="mobile_hotspot_dialog_nosim_warning_title">Mobile hotspot</string>
+    <string name="mobile_hotspot_dialog_nosim_warning">Поставете SIM карта, за да използвате Mobile hotspot и други функции на привързване.</string>
+    <string name="mobile_hotspot_dialog_nosim_warning_title_jpn">Wi-Fi привързване</string>
+    <string name="mobile_hotspot_dialog_nosim_warning_jpn">Insert a SIM card to use Wi-Fi tethering and other tethering functions.</string>
+    <string name="mobile_hotspot_dialog_nosim_warning_dcm">Insert a SIM card to use Wi-Fi tethering.</string>
+    <string name="do_not_show_again">Не показвай повече</string>
+    <string name="disable">Забрани</string>
+    <string name="airplane_mode_plmn">Режим полет</string>
+    <string name="airplane_mode_dialog_title">Активиране на режим Полет</string>
+    <string name="airplane_mode_dialog_title_vzw">Turn on Airplane mode</string>
+    <string name="airplane_mode_dialog_message">Режим Полет ви позволява да изключвате повикванията, съобщенията и функциите на мрежата за данни. Той изключва също и функциите за свързване, като Wi-Fi и Bluetooth. За да използвате Wi-Fi и Bluetooth, включете ги в Настройки или в панела за известяване.</string>
+    <string name="airplane_mode_dialog_message_without_bluetooth">Режим Полет ви позволява да изключите мрежовите функции, включително Wi-Fi. За да използвате Wi-Fi, включете я в Настройки или в панела за известяване.</string>
+    <string name="airplane_mode_dialog_message_wifi">Режим Полет ви позволява да изключите мрежовите функции, включително Wi-Fi и Bluetooth. За да използвате Wi-Fi и Bluetooth, включете ги в Настройки или в панела за известяване.</string>
+    <string name="airplane_mode_dialog_message_cmcc">Flight mode allows you to turn off calling, messaging and data network features. It also turns off connectivity features such as WLAN and Bluetooth. To use WLAN and Bluetooth, turn them on in Settings or on the notification panel.</string>
+    <string name="airplane_mode_dialog_message_vzw">"Unless you use Wi-Fi, you will not be able to use the Internet, Email, or other apps that require a data connection.
+Turn on Airplane mode?"</string>
+    <string name="airplane_mode_dialog_message_vzw_volte">"Unless you use Wi-Fi, you will not be able to use Internet, Email, Wi-Fi Calling or other apps that require a data connection.
+Turn on Airplane mode?"</string>
+    <string name="airplane_mode_msg_safelock">Режим Полет не може да се активира, докато „Блокиране на изключване в заключено състояние“ е активирано. Опитайте отново, след като отключите екрана.</string>
+    <string name="airplane_mode_disabled_on_demo_devices">Режим Полет е деактивиран на демо устройства.</string>
+    <string name="torch_light_notification_title">Фенерчето е включено</string>
+    <string name="torch_light_notification_message">Изключване</string>
+    <string name="torch_light_disabled_by_low_battery">Фенерчето не може да се включи. Зарядът на батерията е нисък.</string>
+    <string name="torch_light_turn_off_by_low_battery">Зарядът на батерията е нисък. Фенерчето ще бъде изключено.</string>
+    <string name="dnd_noti_title">„Не безпокойте“ е активиран</string>
+    <string name="dnd_noti_message">Звукът на алармите е спрян</string>
+    <string name="dnd_noti_action_disable">Деактивиране</string>
+    <string name="qs_edit_settings_title">Задайте бутоните за бърза настройка</string>
+    <string name="qs_edit_settings_available_button">Налични бутони</string>
+    <string name="qs_edit_settings_active_button">Активни бутони</string>
+    <string name="qs_edit_settings_cancel_button">ОТКАЗ</string>
+    <string name="qs_edit_settings_done_button">ГОТОВО</string>
+    <string name="qs_edit_setting_button_summary_vzw">Customize which quick setting buttons appear at the top of the notification panel. Touch and hold, then drag the buttons to add, hide, or re-order them.</string>
+    <string name="qs_edit_setting_button_summary">Докато преглеждате панела с бързи настройки, го плъзнете наляво или надясно, за да видите всички бутони, показани в полето по-горе.</string>
+    <string name="qs_edit_setting_edit_button">РЕДАКЦИЯ</string>
+    <string name="qs_edit_setting_option_text">Покажете тази функция над панела за уведомления.</string>
+    <string name="qs_edit_setting_available_area_dropped">Button not added to quick settings panel.</string>
+    <string name="qs_edit_setting_active_area_dropped">Button added to quick settings panel.</string>
+    <string name="qs_edit_setting_active_area_tapped">In quick settings panel.</string>
+    <string name="qs_edit_setting_available_area_tapped">Not in quick settings panel.</string>
+    <string name="quick_connect_button">Бързо свързване</string>
+    <string name="tap_to_connect">Док. тук за свързване устр.</string>
+    <string name="sound_path_button">Аудио път</string>
+    <string name="wired_device">Кабелно аудио устройство</string>
+    <string name="speaker">Високогов.</string>
+    <string name="headset">Слуш. с мик.</string>
+    <string name="headphones">Слушалки</string>
+    <string name="car_system">Автомоб.сист.</string>
+    <string name="hdmi_mhl">HDMI/MHL устройство</string>
+    <string name="status_bar_recent_launch_task_manager_title">Дисп. на зад.</string>
+    <string name="status_bar_recent_remove_all_button">Затвори всички</string>
+    <string name="recent_multiwindow_guide_text">Изберете две приложения, които да отворите в изглед на разделен екран.</string>
+    <string name="recent_multiwindow_empty_message">Няма наскоро използвани приложения, които поддържат изгледа на разделен екран</string>
+    <string name="recent_cannot_open_popup_toast_1">Не може да се отвори %s в изглед на изскачащи прозорци.</string>
+    <string name="recent_cannot_open_popup_toast_2">Приложението не се отваря в изглед на изскачащи прозорци.</string>
+    <string name="tw_recents_lock_to_app_button_label">Закачане на приложение</string>
+    <string name="tw_lock_to_app_title">Активиране на „Закачане на прозорци“</string>
+    <string name="tw_lock_to_app_description_1">Тази функция ви позволява да закачите дадено приложение на екрана на устройството, за да не можете да навигирате извън него.</string>
+    <string name="tw_lock_to_app_description_2">Докато дадено приложение е закачено, уведомленията от други приложения ще бъдат блокирани и други функции, като обаждания и съобщения, може да не са налични.</string>
+    <string name="tw_lock_to_app_description_tablet_wifi">Докато дадено приложение е закачено, уведомленията ще бъдат блокирани и други функции може да не са налични.</string>
+    <string name="tw_lock_to_app_description_recents_and_back">За да откачите приложение, натиснете и задръжте клавишите за скорошни и назад едновременно.</string>
+    <string name="tw_lock_to_app_description_menu_and_back">За да откачите приложение, натиснете и задръжте клавишите за меню и за назад едновременно.</string>
+    <string name="tw_lock_to_app_description_recents_and_back_accessible">За да откачите приложението, натиснете и задръжте клавиша за скорошни.</string>
+    <string name="tw_lock_to_app_description_menu_and_back_accessible">За да откачите приложението, натиснете и задръжте клавиша за меню.</string>
+    <string name="tw_unable_to_pin_title">Не може да се закачи %s</string>
+    <string name="tw_unable_to_pin_description">Това приложение не поддържа „Закачане на прозорци“.</string>
+    <string name="tw_unable_to_pin_description_toast">Не може да се закачи приложението. %s е затворено. Възникна непозната грешка.</string>
+    <string name="tw_screen_pinning_positive">Старт</string>
+    <string name="accessibility_recents_item_pin">Закачане</string>
+    <string name="accessibility_recents_item_unpin">Откачване</string>
+    <string name="recents_help_split_buttton">За да отворите приложения в изглед на разделен екран, докоснете %s в заглавната лента на прозореца на приложението. Тази икона се показва, когато приложението поддържа изглед на разделен екран.</string>
+    <string name="recents_help_split_buttton_description">За да отворите приложения в изглед на разделен екран, докоснете иконата за разделяне на екрана в заглавната лента на прозореца на приложението. Тази икона се показва, когато приложението поддържа изглед на разделен екран.</string>
+    <string name="recents_help_long_press">Натиснете и задръжте клавиша за скорошни, за да отворите приложения в изглед на разделен екран.</string>
+    <string name="recent_multi_window">Отваряне в изглед на разделен екран</string>
+    <string name="help">Помощ</string>
+    <string name="disable_multi_window_dialog_title">Деактивиране на „Много прозорци“</string>
+    <string name="disable_multi_window_dialog_text">„Много прозорци“ ще бъде деактивирано и всички приложения, отворени в изскачащи прозорци, ще се затворят.</string>
+    <string name="unable_to_capture_screen_drm_proteced_image">Неуспешно заснемане на екрана. Защитено с DRM изображение.</string>
+    <string name="unable_to_save_cropped_image">Изрязаното изображение не може да се запамети.</string>
+    <string name="center_bar_window_switch_windows">Превключване на прозорци</string>
+    <string name="center_bar_window_drag_and_drop_content">Плъзнете и пуснете съдържание</string>
+    <string name="center_bar_window_select_contents">Плъзнете изображение или абзац от текст от прозорец на изглед на разделен екран или на изскачащи прозорци и го пуснете в друг прозорец.</string>
+    <string name="center_bar_window_do_not_show_again">Не показвай повече</string>
+    <string name="keyguard_high_voltage_plugged_in">Бързо зареждане: %d%%</string>
+    <string name="keyguard_charging_in_wireless">Безжично зареждане: %d%%</string>
+    <string name="keyguard_fast_charging_in_wireless">Бързо зареждане безжично: %d%%</string>
+    <string name="keyguard_charging_remaining_time">(Прибл. %s до пълното зареждане)</string>
+    <string name="lockscreen_charging_remaining_time">"Зареждане: %1$d%%
+(%2$s до края)"</string>
+    <string name="lockscreen_charging_in_wireless_remaining_time">"Charging wirelessly: %1$d%%
+(%2$s until full)"</string>
+    <string name="lockscreen_fast_charging_in_wireless_remaining_time">"Fast charging wirelessly: %1$d%%
+(%2$s until full)"</string>
+    <string name="keyguard_high_voltage_plugged_in_remaining_time">"Fast charging: %1$d%%
+(%2$s until full)"</string>
+    <string name="keyguard_skt_usim_unregistered">Не може да се използва USIM карта. Изтеглете информация за USIM картата.</string>
+    <string name="keyguard_usim_not_used">Не може да се използва USIM картата. Неправилен PIN код за отключване (PUK код) е въведен %d пъти. Закупете нова USIM карта.</string>
+    <string name="lockscreen_nosim_text_kor_only">"USIM картата не е открита
+Само спешни повиквания"</string>
+    <string name="noti_setting_button_text">Настройки увед.</string>
+    <string name="name_slot1">Слот 1</string>
+    <string name="name_slot2">Слот 2</string>
+    <string name="app_locked">App locked</string>
+    <string name="applocked_pinning_window_disable">Неуспешно закачане на приложение. Приложението е заключено.</string>
+    <string name="cover_quick_setting_warning_message">Отворете капака, за да използвате бутоните за бърза настройка.</string>
+    <string name="cover_device_locked_message">Устройството е заключено. Отворете капака.</string>
+    <string name="accessibility_noti_setting_button">Настройки за уведомления</string>
+    <string name="switched_to_onephone_mode">Режимът е превключен на Режим на един номер.</string>
+    <string name="switched_to_twophone_mode">Режимът е превключен на Режим на два номера.</string>
+    <string name="accessibility_recents_item_lock">Заключване</string>
+    <string name="accessibility_recents_item_unlock">Отключване</string>
+    <string name="quick_panel_data_usage">Data usage</string>
+    <string name="qs_multisim_voice_preffered_btn_title">Гласово повикване</string>
+    <string name="qs_multisim_sms_preffered_btn_title">Текстови съобщения</string>
+    <string name="qs_multisim_data_preffered_btn_title">Мобилни данни</string>
+    <string name="qs_multisim_voice_ask_always">Питай винаги</string>
+    <string name="qs_multisim_data_turned_off">Изключено</string>
+    <string name="wifi_fail_to_scan">Не може да се сканира за мрежи</string>
+    <string name="wifi_security_none">Няма</string>
+    <string name="wifi_remembered">Запазено</string>
+    <string name="wifi_disabled_generic">Деактивирани</string>
+    <string name="wifi_disabled_network_failure">Неуспешно конфигуриране на IP адреса</string>
+    <string name="wifi_disabled_wifi_failure">Неуспешна връзка с Wi-Fi</string>
+    <string name="wifi_disabled_password_failure">Проблем при удостоверяването</string>
+    <string name="wifi_not_in_range">Извън обхват</string>
+    <string name="wifi_no_internet">Не е открит достъп до интернет. Няма да се свърже отново автоматично.</string>
+    <string name="saved_network">Запазено от %1$s</string>
+    <string name="connected_via_wfa">Установена е връзка чрез помощника за Wi-Fi</string>
+    <string name="connected_via_passpoint">Установена е връзка през „%1$s“</string>
+    <string name="available_via_passpoint">Мрежата е достъпна през „%1$s“</string>
+    <string name="wifi_connected_no_internet">Установена е връзка – няма достъп до интернет</string>
+    <string name="bluetooth_disconnected">Изкл.</string>
+    <string name="bluetooth_disconnecting">Изключва се...</string>
+    <string name="bluetooth_connecting">Установява се връзка…</string>
+    <string name="bluetooth_connected">Установена е връзка</string>
+    <string name="bluetooth_pairing">Свързване…</string>
+    <string name="bluetooth_connected_no_headset">Свързано (без телефона)</string>
+    <string name="bluetooth_connected_no_a2dp">Свързано (без мултимедията)</string>
+    <string name="bluetooth_connected_no_map">Има връзка (няма достъп до съобщенията)</string>
+    <string name="bluetooth_connected_no_headset_no_a2dp">Свързано (без телефона или мултимедията)</string>
+    <string name="bluetooth_profile_a2dp">Мулти. звук</string>
+    <string name="bluetooth_profile_headset">Аудио на разговори</string>
+    <string name="bluetooth_profile_opp">Прехвърляне на файл</string>
+    <string name="bluetooth_profile_hid">Входно устройство</string>
+    <string name="bluetooth_profile_textinput">Въвеждане на текст</string>
+    <string name="bluetooth_profile_pan">Интернет достъп</string>
+    <string name="bluetooth_profile_pbap">Споделяне на контакти</string>
+    <string name="bluetooth_profile_pan_nap">Споделяне на връзката с интернет</string>
+    <string name="bluetooth_profile_map">Достъп до съобщенията</string>
+    <string name="bluetooth_profile_sap">Достъп до SIM картата</string>
+    <string name="bluetooth_profile_pbap_summary">Използване за споделяне на контакти</string>
+    <string name="bluetooth_a2dp_profile_summary_connected">Свързано за аудио на мултимедия</string>
+    <string name="bluetooth_headset_profile_summary_connected">Свързано за аудио на повикване</string>
+    <string name="bluetooth_opp_profile_summary_connected">Установена е връзка със сървър за трансфер на файлове</string>
+    <string name="bluetooth_map_profile_summary_connected">Има връзка с MAP</string>
+    <string name="bluetooth_sap_profile_summary_connected">Установена е връзка със SAP</string>
+    <string name="bluetooth_opp_profile_summary_not_connected">Няма връзка със сървър за трансфер на файлове</string>
+    <string name="bluetooth_hid_profile_summary_connected">Свързано като устройство за въвеждане</string>
+    <string name="bluetooth_pan_user_profile_summary_connected">Свързано към устройство за достъп до Интернет.</string>
+    <string name="bluetooth_pan_nap_profile_summary_connected">Лок. връзка с интернет се споделя с у-вото</string>
+    <string name="bluetooth_summary_connected_to_a2dp_headset">Свързано за аудио на мултим. и повикв.</string>
+    <string name="bluetooth_pan_nap_connected">Свързано за предоставяне на интернет връзка</string>
+    <string name="bluetooth_pan_panu_connected">Свързано за достъп до интернет връзка</string>
+    <string name="bluetooth_pan_profile_summary_use_for">Използване за Интернет връзка</string>
+    <string name="bluetooth_map_profile_summary_use_for">Да се използва за MAP</string>
+    <string name="bluetooth_sap_profile_summary_use_for">Използване за достъп до SIM картата</string>
+    <string name="bluetooth_a2dp_profile_summary_use_for">Употреба за медийно аудио</string>
+    <string name="bluetooth_headset_profile_summary_use_for">Използване на телефон за аудио</string>
+    <string name="bluetooth_opp_profile_summary_use_for">Използване на за пренос на файлове</string>
+    <string name="bluetooth_hid_profile_summary_use_for">Да се използва за въвеждане</string>
+    <string name="bluetooth_pairing_accept">Сдвояване</string>
+    <string name="bluetooth_pairing_accept_all_caps">СДВОЯВАНЕ</string>
+    <string name="bluetooth_pairing_decline">Отказ</string>
+    <string name="bluetooth_pairing_will_share_phonebook">При свързване сдвояването предоставя достъп до вашите контакти и история на обажданията.</string>
+    <string name="bluetooth_pairing_error_message">Не можа да се сдвои с/ъс %1$s.</string>
+    <string name="bluetooth_pairing_pin_error_message">Неуспешно сдвояване с %1$s. Уверете се, че %2$s е в готовност за сдвояване.</string>
+    <string name="bluetooth_pairing_device_down_error_message">Не може да се свърже с/ъс %1$s.</string>
+    <string name="bluetooth_pairing_rejected_error_message">Сдвояването е отхвърлено от %1$s.</string>
+    <string name="bluetooth_hid_connection_error_message">Устройството не може да се свърже към Bluetooth входно устройство, докато го използва като Bluetooth входно устройство.</string>
+</resources>

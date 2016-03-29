@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.sec.android.cover.sviewcover.SViewCoverView android:id="@id/s_view_cover_view" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="@dimen/sview_cover_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.sec.android.cover.widget.CoverHideEffectView android:id="@id/s_view_cover_hide_effect" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <ImageView android:background="#ff000000" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <com.sec.android.cover.sviewcover.SViewCoverWallpaperView android:layout_gravity="left" android:id="@id/s_view_cover_wallpaper" android:layout_width="@dimen/sview_cover_pager_width" android:layout_height="@dimen/sview_cover_height" android:layout_marginLeft="@dimen/sview_cover_margin" />
+    <FrameLayout android:id="@id/content_root_normal" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <FrameLayout android:layout_gravity="left" android:orientation="vertical" android:id="@id/sview_cover_root" android:layout_width="@dimen/sview_cover_pager_width" android:layout_height="@dimen/sview_cover_height" android:layout_marginLeft="@dimen/sview_cover_margin" android:layout_marginRight="@dimen/sview_cover_margin">
+            <FrameLayout android:layout_width="fill_parent" android:layout_height="@dimen/sview_cover_height">
+                <com.sec.android.cover.sviewcover.SViewCoverPager android:layout_gravity="center" android:id="@id/s_view_cover_pager" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+            </FrameLayout>
+            <com.sec.android.cover.sviewcover.SViewCoverPagerNavigation android:gravity="center" android:layout_gravity="bottom" android:id="@id/s_view_cover_page_navigation" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="34.0dip" />
+        </FrameLayout>
+        <com.sec.android.cover.widget.RemoteViewContainerView android:layout_gravity="left" android:id="@id/voice_recorder_dialog_contatiner" android:layout_width="@dimen/sview_cover_pager_width" android:layout_height="@dimen/sview_cover_height" android:layout_marginLeft="@dimen/sview_cover_margin" android:layout_marginRight="@dimen/sview_cover_margin" />
+    </FrameLayout>
+    <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/content_root_pin_window" android:paddingLeft="29.0dip" android:paddingTop="109.0dip" android:paddingRight="29.0dip" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="@dimen/sview_cover_height">
+        <ImageView android:layout_width="59.0dip" android:layout_height="59.0dip" android:src="@drawable/sview_ic_pin" />
+        <TextView android:textSize="17.0dip" android:textColor="@color/sview_cover_titlebar_text_color" android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="21.0dip" android:text="@string/pinwindowcover_warning_content" />
+    </LinearLayout>
+</com.sec.android.cover.sviewcover.SViewCoverView>

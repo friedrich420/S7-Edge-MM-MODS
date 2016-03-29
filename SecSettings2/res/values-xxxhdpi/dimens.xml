@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="list_divider_height">2.0px</dimen>
+    <dimen name="brightness_icon_inner_circle_size">25.299988px</dimen>
+    <item type="dimen" name="personal_vibration_big_o_val_offset">168.0</item>
+    <item type="dimen" name="personal_vibration_small_o_val_offset">118.0</item>
+    <item type="dimen" name="personal_vibration_thickness">100.0</item>
+    <item type="dimen" name="personal_vibration_niddle_width">2.0</item>
+    <dimen name="wifi_ap_dialog_edit_margin_left">-3.0dip</dimen>
+    <dimen name="lock_app_shortcut_item_width">79.0dip</dimen>
+    <dimen name="lock_app_shortcut_item_higth">110.0dip</dimen>
+    <dimen name="lock_app_shortcut_item_image_widht">53.0dip</dimen>
+    <dimen name="lock_app_shortcut_item_image_hight">53.0dip</dimen>
+    <dimen name="lock_app_shortcut_item_image_top_margin">15.0dip</dimen>
+    <dimen name="lock_app_shortcut_item_image_bottom_margin">8.0dip</dimen>
+    <dimen name="lock_app_shortcut_item_text_size">14.0dip</dimen>
+    <dimen name="two_line_preference_hight">68.0dip</dimen>
+</resources>

@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Көшірілуде…</item>
+        <item>Байланысуда…</item>
+        <item>Расталуда…</item>
+        <item>IP мекенжайы алынуда…</item>
+        <item>Қосылды</item>
+        <item>Ұстаулы</item>
+        <item>Ажырату</item>
+        <item>Ажыратылды</item>
+        <item>Сәтсіз</item>
+        <item>Бұғатталған</item>
+        <item>Интернет қосылымыңыздың сапасы тексерілуде…</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Көшірілуде…</item>
+        <item>%s-ге қосылуда…</item>
+        <item>%s арқылы расталуда…</item>
+        <item>IP мекенжайы %s құрамынан алынуда…</item>
+        <item>%1$s қосылған</item>
+        <item>Ұстаулы</item>
+        <item>%s… ажырату</item>
+        <item>Ажыратылды</item>
+        <item>Сәтсіз</item>
+        <item>Бұғатталған</item>
+        <item>Интернет қосылымыңыздың сапасы тексерілуде…</item>
+    </string-array>
+    <string-array name="screen_timeout_entries">
+        <item>15 секунд</item>
+        <item>30 секунд</item>
+        <item>1 минут</item>
+        <item>2 минут</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>30 минут</item>
+    </string-array>
+    <string-array name="screen_timeout_for_device_lock_entries">
+        <item>15 секунд</item>
+        <item>30 секунд</item>
+        <item>1 минут</item>
+        <item>3 минут</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>15 минут</item>
+        <item>30 минут</item>
+    </string-array>
+    <string-array name="device_lock_timeout_entries">
+        <item>Дереу қуат пернесімен немесе экран уақыты біткен кезде</item>
+        <item>15 секунд</item>
+        <item>30 секунд</item>
+        <item>1 минут</item>
+        <item>3 минут</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>15 минут</item>
+        <item>30 минут</item>
+        <item>1 сағат</item>
+    </string-array>
+    <string-array name="lock_after_timeout_entries">
+        <item>Дереу</item>
+        <item>5 секунд</item>
+        <item>15 секунд</item>
+        <item>30 секунд</item>
+        <item>1 минут</item>
+        <item>2 минут</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>30 минут</item>
+    </string-array>
+    <string-array name="entries_font_size">
+        <item>Ұсақ</item>
+        <item>Кіші</item>
+        <item>Қалыпты</item>
+        <item>Үлкен</item>
+        <item>Ірі</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>Өте баяу</item>
+        <item>Баяу</item>
+        <item>Қалыпты</item>
+        <item>Жылдам</item>
+        <item>жылдамырақ</item>
+        <item>Едәуір жылдамырақ</item>
+        <item>Тез</item>
+        <item>Өте тез</item>
+        <item>Ең жылдам</item>
+    </string-array>
+    <string-array name="wifi_ap_security_testmode">
+        <item>Ашу</item>
+        <item>WPA2 PSK</item>
+    </string-array>
+    <string-array name="wifi_eap_method">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD (басу жұмысының жолы)</item>
+        <item>SIM</item>
+        <item>AKA</item>
+        <item>"AKA'"</item>
+    </string-array>
+    <string-array name="wifi_p2p_status">
+        <item>Қосылды</item>
+        <item>Шақырылған</item>
+        <item>Қосылмады</item>
+        <item>Қосылу үшін мына жерді түртіңіз.</item>
+        <item>Диапазоннан тыс</item>
+        <item>Басқа құрылғымен қосылды</item>
+    </string-array>
+    <string-array name="wifi_ap_wifi_sharing">
+        <item>Wi-Fi бөлісуді қосу</item>
+        <item>Wi-Fi бөлісуді өшіру</item>
+    </string-array>
+    <string-array name="wifi_ap_timeout">
+        <item>Ешқашан уақытын өткізбеңіз</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>20 минут</item>
+        <item>30 минут</item>
+        <item>60 минут</item>
+    </string-array>
+    <string-array name="wifi_ap_connection_mode">
+        <item>Барл құрыл. рұқ. ету</item>
+        <item>Тек рұқсат етілген құрылғылар</item>
+    </string-array>
+    <string-array name="wifi_ap_channel">
+        <item>Авто</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+    </string-array>
+    <string-array name="wifi_share_profile_access_timeout">
+        <item>6 cағат</item>
+        <item>12 сағат</item>
+        <item>24 сағат</item>
+        <item>Уақыт шектеулері жоқ</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>Әлсіз</item>
+        <item>Ашық</item>
+        <item>Жақсы</item>
+        <item>Күшті</item>
+        <item>Өте күшті</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries">
+        <item>"Әрқашан
+(Батарея қуатын тұтынуды арттырады)"</item>
+        <item>Зарядталып жатқанда</item>
+        <item>"Ешқашан
+(деректер пайдалануды арттырады)"</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries_wifi_only">
+        <item>"Әрқашан
+(Батарея қуатын тұтынуды арттырады)"</item>
+        <item>Зарядталып жатқанда</item>
+        <item>Ешқашан</item>
+    </string-array>
+    <string-array name="wifi_frequency_band_entries">
+        <item>Автоматты түрде</item>
+        <item>Тек 5 ГГц</item>
+        <item>Тек 2.4 ГГц</item>
+    </string-array>
+    <string-array name="wifi_frequency_band_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="usage_stats_display_order_types">
+        <item>Пайдалану уақыты</item>
+        <item>Соңғы пайдаланылған уақыты</item>
+        <item>Бағдарлама атауы</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries">
+        <item>Жоқ</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>Жоқ</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>Статикалық</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>Жоқ</item>
+        <item>Қолмен</item>
+        <item>Авто конфигурациялау</item>
+    </string-array>
+    <string-array name="wifi_iwlan_settings">
+        <item>Қосылған</item>
+        <item>Өшірілген</item>
+    </string-array>
+    <string-array name="apn_auth_entries">
+        <item>Жоқ</item>
+        <item>PAP</item>
+        <item>CHAP</item>
+        <item>PAP немесе CHAP</item>
+    </string-array>
+    <string-array name="apn_protocol_entries">
+        <item>IPv4</item>
+        <item>IPv6</item>
+        <item>IPv4/IPv6</item>
+    </string-array>
+    <string-array name="bearer_entries">
+        <item>Анықталмаған</item>
+        <item>LTE</item>
+        <item>HSPAP</item>
+        <item>HSPA</item>
+        <item>HSUPA</item>
+        <item>HSDPA</item>
+        <item>UMTS</item>
+        <item>EDGE</item>
+        <item>GPRS</item>
+        <item>eHRPD</item>
+        <item>EVDO_B</item>
+        <item>EVDO_A</item>
+        <item>EVDO_0</item>
+        <item>1xRTT</item>
+        <item>IS95B</item>
+        <item>IS95A</item>
+    </string-array>
+    <string-array name="mvno_type_entries">
+        <item>Жоқ</item>
+        <item>SPN</item>
+        <item>IMSI</item>
+        <item>GID</item>
+    </string-array>
+    <string-array name="app_install_location_entries">
+        <item>Ішкі құрылғыға сақтау</item>
+        <item>Алынбалы SD картасы</item>
+        <item>Жүйені өзі шешсін</item>
+    </string-array>
+    <string-array name="app_ops_categories">
+        <item>Орналасу орны</item>
+        <item>Жеке</item>
+        <item>Хабарлама</item>
+        <item>Ақпарат</item>
+        <item>Құрылғы</item>
+        <item>Автоматты іске қосу</item>
+    </string-array>
+    <string-array name="app_ops_summaries">
+        <item>өңделмеген аймақ</item>
+        <item>өңделген аймақ</item>
+        <item>GPS</item>
+        <item>Дірілдеу</item>
+        <item>Контактілерді оқу</item>
+        <item>Контактілерді өзгерту</item>
+        <item>Қоңыраулар журналын оқу</item>
+        <item>Қоңыраулар журналын жазу</item>
+        <item>Күнтізбені оқу</item>
+        <item>Күнтізбені басқару</item>
+        <item>Wi-Fi желілерін тексеру</item>
+        <item>Хабарландыру</item>
+        <item>Қарап шығу ұяшықтары</item>
+        <item>Телефон қоңырауларын шалу</item>
+        <item>Мәтіндік хабарларды оқу</item>
+        <item>Мәтіндік хабарларды жазу</item>
+        <item>Мәтіндік хабарлар алу</item>
+        <item>Төтенше мәтіндік хабарларды алу</item>
+        <item>Мультимедиа хабарларын алу</item>
+        <item>WAP push хабарларын алу</item>
+        <item>Мәтіндік хабарларды жіберу</item>
+        <item>SIM картадағы мәтіндік хабарларды оқу</item>
+        <item>SIM картаға мәтіндік хабарларды жазу</item>
+        <item>Параметрлерді өзгерту</item>
+        <item>Бағдарлама интерфейсін қабаттастыру</item>
+        <item>Кіру мәлімдемелері</item>
+        <item>Камера</item>
+        <item>Аудионы жазу</item>
+        <item>Аудио файлдарды ойнату</item>
+        <item>Буфер деректерін оқу</item>
+        <item>Буфер деректерін басқару</item>
+        <item>Мультимедианы басқару</item>
+        <item>Аудио фокусты басқару</item>
+        <item>Негізгі дыбыс деңгейін реттеу</item>
+        <item>Қоңырау ішіндегі дыбыс деңгейін реттеу</item>
+        <item>Рингтонның дыбыс қаттылығын реттеу</item>
+        <item>Медиа дыбысы деңгейін реттеу</item>
+        <item>Оятар дыбысы дңгейін реттеу</item>
+        <item>Ескертудің дыбыс қаттылығын реттеу</item>
+        <item>Bluetooth құрылғылары арқылы ойнатылатын дыбыс қаттылығы деңгейін реттеу</item>
+        <item>Экранды қосулы сақтау</item>
+        <item>Орын туралы ақпаратты бақылау</item>
+        <item>Ең нақты орын туралы ақпаратты бақылау</item>
+        <item>Құрылғыны пайдалану статистикасын оқу</item>
+        <item>Микрофонды қосу және өшіру</item>
+        <item>Тост қалқымаларын көрсету</item>
+        <item>Мультимедианы түсіру</item>
+        <item>VPN іске қосу</item>
+        <item>Wi-Fi қосу/өшіру</item>
+        <item>Bluetooth қосу/өшіру</item>
+        <item>Мультим-қ хабарлар жіберу</item>
+        <item>Мультимедия хабарла-н оқу</item>
+        <item>Мультимедия хабар-н жазу</item>
+        <item>Автоматты іске қосу</item>
+        <item>NFC қосу/өшіру</item>
+        <item>Мәтіндік хабаларды жою</item>
+        <item>Мультимедия хабарларын жою</item>
+        <item>Контактілерді жою</item>
+        <item>Delete call log</item>
+        <item>Ұялы дерек-ді қосу/өшіру</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Орналасу орны</item>
+        <item>Орналасу орны</item>
+        <item>Орналасу орны</item>
+        <item>Дірілдеу</item>
+        <item>Контактілерді оқу</item>
+        <item>Контактілерді өзгерту</item>
+        <item>Қоңыраулар журналын оқу</item>
+        <item>Қоңыраулар журналын жазу</item>
+        <item>Күнтізбені оқу</item>
+        <item>Күнтізбені басқару</item>
+        <item>Орналасу орны</item>
+        <item>Хабарландыруларды көрсету</item>
+        <item>Орналасу орны</item>
+        <item>Телефон қоңырауларын шалу</item>
+        <item>Мәтіндік хабарларды оқу</item>
+        <item>Мәтіндік хабарларды жазу</item>
+        <item>Мәтіндік хабарлар алу</item>
+        <item>Төтенше мәтіндік хабарларды алу</item>
+        <item>Мультимедиа хабарларын алу</item>
+        <item>WAP push хабарларын алу</item>
+        <item>Мәтіндік хабарларды жіберу</item>
+        <item>SIM картадағы мәтіндік хабарларды оқу</item>
+        <item>SIM картаға мәтіндік хабарларды жазу</item>
+        <item>Параметрлерді өзгерту</item>
+        <item>Бағдарлама интерфейсін қабаттастыру</item>
+        <item>Кіру мәлімдемелері</item>
+        <item>Камера</item>
+        <item>Аудионы жазу</item>
+        <item>Аудио файлдарды ойнату</item>
+        <item>Буфер деректерін оқу</item>
+        <item>Буфер деректерін басқару</item>
+        <item>Мультимедианы басқару</item>
+        <item>Аудио фокусты басқару</item>
+        <item>Негізгі дыбыс деңгейін реттеу</item>
+        <item>Қоңырау ішіндегі дыбыс деңгейін реттеу</item>
+        <item>Рингтонның дыбыс қаттылығын реттеу</item>
+        <item>Медиа дыбысы деңгейін реттеу</item>
+        <item>Оятар дыбысы дңгейін реттеу</item>
+        <item>Ескертудің дыбыс қаттылығын реттеу</item>
+        <item>Bluetooth құрылғылары арқылы ойнатылатын дыбыс қаттылығы деңгейін реттеу</item>
+        <item>Экранды қосулы сақтау</item>
+        <item>Орналасу орны</item>
+        <item>Орналасу орны</item>
+        <item>Құрылғыны пайдалану статистикасын оқу</item>
+        <item>Микрофонды қосу және өшіру</item>
+        <item>Тост қалқымаларын көрсету</item>
+        <item>Мультимедианы түсіру</item>
+        <item>VPN іске қосу</item>
+        <item>Wi-Fi қосу/өшіру</item>
+        <item>Bluetooth қосу/өшіру</item>
+        <item>Мультим-қ хабарлар жіберу</item>
+        <item>Мультимедия хабарла-н оқу</item>
+        <item>Мультимедия хабар-н жазу</item>
+        <item>Автоматты іске қосу</item>
+        <item>NFC қосу/өшіру</item>
+        <item>Мәтіндік хабаларды жою</item>
+        <item>Мультимедия хабарларын жою</item>
+        <item>Контактілерді жою</item>
+        <item>delete call log</item>
+        <item>Ұялы дерек-ді қосу/өшіру</item>
+    </string-array>
+    <string-array name="long_press_timeout_selector_titles">
+        <item>Қысқа</item>
+        <item>Орташа</item>
+        <item>Ұзын</item>
+    </string-array>
+    <string-array name="captioning_typeface_selector_titles">
+        <item>Өздігінен</item>
+        <item>Sans Serif</item>
+        <item>Sans Serif қоюланған</item>
+        <item>Sans serif monospace</item>
+        <item>Serif</item>
+        <item>Serif monospace</item>
+        <item>Әдеттегі</item>
+        <item>Қиғаш</item>
+        <item>Кішкентай әріптер</item>
+    </string-array>
+    <string-array name="captioning_font_size_selector_titles">
+        <item>Өте кішкентай</item>
+        <item>Кіші</item>
+        <item>Қалыпты</item>
+        <item>Үлкен</item>
+        <item>Өте үлкен</item>
+    </string-array>
+    <string-array name="captioning_edge_type_selector_titles">
+        <item>Өздігінен</item>
+        <item>Жоқ</item>
+        <item>Контур</item>
+        <item>Тамшылы көлеңке</item>
+        <item>Көтеріңкі</item>
+        <item>Басыңқы</item>
+    </string-array>
+    <string-array name="captioning_opacity_selector_titles">
+        <item>25%</item>
+        <item>50%</item>
+        <item>75%</item>
+        <item>100%</item>
+    </string-array>
+    <string-array name="captioning_preset_selector_titles">
+        <item>Әдепкі</item>
+        <item>Қарадағы ақ</item>
+        <item>Ақтағы қара</item>
+        <item>Қарадағы сары</item>
+        <item>Көктегі сары</item>
+        <item>Таңдамалы</item>
+    </string-array>
+    <string-array name="select_logd_size_titles">
+        <item>64 КБ</item>
+        <item>256 КБ</item>
+        <item>1 МБ</item>
+        <item>4 МБ</item>
+        <item>16 МБ</item>
+    </string-array>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>64 КБ</item>
+        <item>256 КБ</item>
+        <item>1 МБ</item>
+    </string-array>
+    <string-array name="select_logd_size_summaries">
+        <item>64 KB әр лог буферіне</item>
+        <item>256 KB әр лог буферіне</item>
+        <item>1 MB әр лог буферіне</item>
+        <item>4 MB әр лог буферіне</item>
+        <item>16 MB әр лог буферіне</item>
+    </string-array>
+    <string-array name="hdcp_checking_titles">
+        <item>Ешқашан тесермеңіз</item>
+        <item>Тек DRM мазмұнын тексеріңіз</item>
+        <item>Әрқашан тексеріңіз</item>
+    </string-array>
+    <string-array name="hdcp_checking_summaries">
+        <item>Ешқашан HDCP тексеруді пайдаланбаңыз</item>
+        <item>Тек DRM мазмұны үшін HDCP тексеруін пайдаланыңыз</item>
+        <item>Әрдайым HDCP тексеруін пайдалану</item>
+    </string-array>
+    <string-array name="window_animation_scale_entries">
+        <item>Анимация өшірулі.</item>
+        <item>Анимациялық шкала 0.5x</item>
+        <item>Анимациялық шкала 1x</item>
+        <item>Анимациялық шкала 1.5x</item>
+        <item>Анимациялық шкала 2x</item>
+        <item>Анимациялық шкала 5x</item>
+        <item>Анимациялық шкала 10x</item>
+    </string-array>
+    <string-array name="transition_animation_scale_entries">
+        <item>Анимация өшірулі.</item>
+        <item>Анимациялық шкала 0.5x</item>
+        <item>Анимациялық шкала 1x</item>
+        <item>Анимациялық шкала 1.5x</item>
+        <item>Анимациялық шкала 2x</item>
+        <item>Анимациялық шкала 5x</item>
+        <item>Анимациялық шкала 10x</item>
+    </string-array>
+    <string-array name="animator_duration_scale_entries">
+        <item>Анимация өшірулі.</item>
+        <item>Анимациялық шкала 0.5x</item>
+        <item>Анимациялық шкала 1x</item>
+        <item>Анимациялық шкала 1.5x</item>
+        <item>Анимациялық шкала 2x</item>
+        <item>Анимациялық шкала 5x</item>
+        <item>Анимациялық шкала 10x</item>
+    </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>Жоқ</item>
+        <item>480p</item>
+        <item>720 x 480 mdpi (қауіпсіз)</item>
+        <item>720p</item>
+        <item>1280 x 720 tvdpi (қауіпсіз)</item>
+        <item>1080p</item>
+        <item>1920 x 1080 xhdpi (қауіпсіз)</item>
+        <item>1280 x 720 tvdpi және 1920 x 1080 xhdpi</item>
+        <item>4K (қауіпсіз)</item>
+        <item>4K (жоғары сапалы)</item>
+        <item>4K (жоғары сапалы, қауіпсіз)</item>
+        <item>720p, 1080p (қос экранды)</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>Жоқ</item>
+        <item>Logcat</item>
+        <item>Systrace (графиктер)</item>
+        <item>glGetError қоңырау жинағы</item>
+    </string-array>
+    <string-array name="show_non_rect_clip_entries">
+        <item>Өшірілген</item>
+        <item>Көк түстегі тікбұрышты емес қысқыштардың бетін ерекшелеу</item>
+        <item>Жасыл түстегі тексерілген сызба командаларын ерекшелеу</item>
+    </string-array>
+    <string-array name="track_frame_time_entries">
+        <item>Өшірілген</item>
+        <item>Тақталар ретінде экранда көрсету</item>
+        <item>Adb shell dumpsys gfxinfo пәрменінде көрсету</item>
+    </string-array>
+    <string-array name="debug_hw_overdraw_entries">
+        <item>Өшірілген</item>
+        <item>Шектен шығу аумақтарын көрсету</item>
+        <item>Пайдаланушылар үшін дейтераномалиямен аумақтар көрсету</item>
+    </string-array>
+    <string-array name="app_process_limit_entries">
+        <item>Стандартты шек</item>
+        <item>Фондық процестер жоқ</item>
+        <item>Көбінде 1 процесс</item>
+        <item>Көбінде 2 процесс</item>
+        <item>Көбінде 3 процесс</item>
+        <item>Көбінде 4 процесс</item>
+    </string-array>
+    <string-array name="vpn_states">
+        <item>Ажыратылды</item>
+        <item>Инизиализациалу</item>
+        <item>Байланысуда…</item>
+        <item>Қосылды</item>
+        <item>Уақыты аяқталды</item>
+        <item>Сәтсіз</item>
+    </string-array>
+    <string-array name="ram_states">
+        <item>Қалыпты</item>
+        <item>Орташа</item>
+        <item>Төмен</item>
+        <item>Критикалық</item>
+        <item>\?</item>
+    </string-array>
+    <string-array name="long_press_timeout_titles_selector">
+        <item>Қысқа (0.5 секунд)</item>
+        <item>Орташа (1.0 секунд)</item>
+        <item>Ұзын (1.5 секунд)</item>
+        <item>Таңдамалы</item>
+    </string-array>
+    <string-array name="time_interval_entries">
+        <item>3 минут</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>30 минут</item>
+        <item>1 сағат</item>
+    </string-array>
+    <string-array name="time_interval_entries_selectable">
+        <item>15 секунд</item>
+        <item>30 секунд</item>
+        <item>1 минут</item>
+        <item>3 минут</item>
+        <item>5 минут</item>
+    </string-array>
+    <string-array name="time_interval_entries_selectable_22">
+        <item>1 минут</item>
+        <item>3 минут</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>15 минут</item>
+    </string-array>
+    <string-array name="proc_stats_memory_states">
+        <item>Қалыпты</item>
+        <item>Орташа</item>
+        <item>Төмен</item>
+        <item>Маңызды</item>
+    </string-array>
+    <string-array name="proc_stats_process_states">
+        <item>Тұрақты</item>
+        <item>Негізгі әрекет</item>
+        <item>Маңызды (алдыңғы көрініс)</item>
+        <item>Маңызды (фон)</item>
+        <item>Сақтық көшірме</item>
+        <item>Ауыр салмақ</item>
+        <item>Қызмет (орындалуда)</item>
+        <item>Қызмет (қайта қосылуда)</item>
+        <item>Қабылдаушы</item>
+        <item>Үй парағы</item>
+        <item>Соңғы әрекет</item>
+        <item>Кэштелген (белсенді)</item>
+        <item>Кэштелген (белсенді клиент)</item>
+        <item>Кэштелген (бос)</item>
+    </string-array>
+    <string-array name="wifi_connect_entries">
+        <item>Автоматты түрде</item>
+        <item>Қолдан</item>
+        <item>Әрқашан сұрау</item>
+    </string-array>
+    <string-array name="data_usage_display_unit">
+        <item>MB/GB (auto change)</item>
+        <item>MB only</item>
+        <item>GB only</item>
+    </string-array>
+    <string-array name="color_picker">
+        <item>Көгілдір</item>
+        <item>Көк</item>
+        <item>Индиго түсі</item>
+        <item>Қызылкүрең</item>
+        <item>Қызғылт</item>
+        <item>Қызыл</item>
+    </string-array>
+    <string-array name="touch_key_light_entries">
+        <item>1.5 секунд</item>
+        <item>6 секунд</item>
+        <item>Әрқашан өшірулі</item>
+        <item>Әрқашан қосылған</item>
+    </string-array>
+    <string-array name="key_backlight_entries">
+        <item>Әрқашан өшірулі</item>
+        <item>1 секунд</item>
+        <item>3 секунд</item>
+        <item>5 секунд</item>
+        <item>10 секунд</item>
+        <item>15 секунд</item>
+    </string-array>
+    <string-array name="usb_configuration_titles">
+        <item>@string/usb_use_charging_only</item>
+        <item>MTP (Media Transfer Protocol)</item>
+        <item>PTP (Picture Transfer Protocol)</item>
+        <item>RNDIS (USB Ethernet)</item>
+        <item>Аудио қор көзі</item>
+        <item>MIDI</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_choices">
+        <item>Wi-Fi ұсынылған</item>
+        <item>Ұялы байланыс ұсынылған</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_values">
+        <item>2</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="audio_output_entries">
+        <item>Стерео</item>
+        <item>Көлемді дыбыс</item>
+    </string-array>
+</resources>

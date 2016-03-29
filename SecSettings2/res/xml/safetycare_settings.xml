@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/privacy_and_safety_settings_title" android:key="privacy_and_safety_settings"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings"
+  xmlns:touchwiz="http://schemas.android.com/apk/res/touchwiz">
+    <PreferenceCategory android:title="@string/label_privacy" android:key="key_privacy" />
+    <PreferenceScreen android:title="@string/location_settings_title" android:key="key_location" android:fragment="com.android.settings.location.LocationSettings" />
+    <PreferenceScreen android:title="@string/app_permissions" android:key="key_app_permissions" android:summary="@string/app_permissions_summary_inform" />
+    <PreferenceScreen android:title="@string/personal_page" android:key="key_private_mode" android:summary="@string/switch_off_text" android:fragment="com.android.settings.personalpage.PersonalPageSettings" />
+    <PreferenceScreen android:title="@string/personal_page" android:key="key_private_box" android:summary="@string/switch_off_text" android:fragment="com.android.settings.privatebox.PrivateBoxSettings" />
+    <PreferenceScreen android:title="@string/applock_app_name" android:key="key_applock" android:summary="@string/applock_switch_off_text">
+        <intent android:targetPackage="com.android.settings" android:action="android.intent.action.VIEW" android:targetClass="com.android.settings.applock.AppLockSettingsActivity" />
+    </PreferenceScreen>
+    <PreferenceScreen android:title="@string/label_diagnostics_info" android:key="key_report_diagnostics_info" android:fragment="com.android.settings.safetycare.ReportDiagnosticinfo" settings:dbMatchingName="samsung_errorlog_agree" settings:dbMatchingTable="system" />
+    <PreferenceCategory android:title="@string/label_Safety" android:key="key_safety" />
+    <PreferenceScreen android:title="@string/safetycare_send_emergency_message_title" android:key="key_safety_assistance">
+        <intent android:targetPackage="com.sec.android.app.safetyassurance" android:action="android.intent.action.MAIN" android:targetClass="com.sec.android.app.safetyassurance.settings.SafetyAssuranceSetting" />
+    </PreferenceScreen>
+    <PreferenceScreen android:title="@string/emergency_mode_title" android:key="safetycare_help" android:summary="@string/switch_off_text" android:fragment="com.android.settings.safetycare.SafetyCareEmergencyMode" />
+    <PreferenceScreen android:title="@string/vzw_emergency_alert_title" android:key="key_vzw_emergency_alert">
+        <intent android:targetPackage="com.sec.android.app.cmas" android:action="android.intent.action.MAIN" android:targetClass="com.sec.android.app.cmas.CmasListActivity" />
+    </PreferenceScreen>
+</PreferenceScreen>

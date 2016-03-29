@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="@dimen/notification_bottom_decor_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textAppearance="@android:style/TextAppearance.Material.Notification.Title" android:gravity="center" android:layout_gravity="center|top" android:id="@id/notification_expand_button" android:background="@null" android:layout_width="wrap_content" android:layout_height="@dimen/notification_bottom_decor_height" android:text="@string/notification_expand_button_text" android:drawablePadding="1.0dip" android:drawableEnd="@drawable/ic_expand_children" />
+    <com.android.systemui.statusbar.AlphaOptimizedView android:layout_gravity="center|top" android:id="@id/notification_expand_divider" android:background="@android:drawable/notification_template_divider" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+</FrameLayout>

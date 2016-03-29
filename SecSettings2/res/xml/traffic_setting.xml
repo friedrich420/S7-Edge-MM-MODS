@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceScreen android:title="@string/set_limit" android:key="set_data_limit" />
+    <ListPreference android:entries="@array/entries_warning_choose" android:title="@string/set_data_warning_percentage" android:key="data_warning_set" android:defaultValue="off" android:dialogTitle="@string/data_warning_title" android:entryValues="@array/entriesvalues_warning_choose" />
+    <SwitchPreference android:title="@string/restrict_data" android:key="restrict_data_check_box" android:summary="@string/restrict_data_summary" android:defaultValue="false" />
+    <PreferenceScreen android:title="@string/set_start_date" android:key="set_package_start_date" />
+    <PreferenceScreen android:title="@string/set_limit" android:key="set_data_limit_1" />
+    <ListPreference android:entries="@array/entries_warning_choose" android:title="@string/set_data_warning_percentage" android:key="data_warning_set_1" android:defaultValue="off" android:dialogTitle="@string/data_warning_title" android:entryValues="@array/entriesvalues_warning_choose" />
+    <SwitchPreference android:title="@string/restrict_data" android:key="restrict_data_check_box_1" android:summary="@string/restrict_data_summary" android:defaultValue="false" />
+    <PreferenceScreen android:title="@string/set_start_date" android:key="set_package_start_date_1" />
+</PreferenceScreen>

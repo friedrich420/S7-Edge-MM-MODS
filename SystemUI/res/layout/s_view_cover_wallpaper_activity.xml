@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:id="@id/s_view_cover_wallpaper_root" android:background="#ff000000" android:layout_width="fill_parent" android:layout_height="@dimen/sview_cover_height" android:paddingStart="@dimen/sview_cover_margin" android:paddingEnd="@dimen/sview_cover_margin"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/s_view_cover_wallpaper_root_pattern" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <FrameLayout android:orientation="vertical" android:id="@id/s_view_cover_color_picker_background" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <LinearLayout android:gravity="center|left" android:orientation="horizontal" android:background="@color/sview_cover_titlebar_bg_color" android:paddingLeft="@dimen/sview_cover_titlebar_padding_left" android:paddingTop="@dimen/sview_cover_titlebar_padding_top" android:paddingRight="0.0dip" android:layout_width="fill_parent" android:layout_height="@dimen/sview_cover_titlebar_height">
+                <ImageView android:gravity="center" android:id="@id/s_view_color_wallpaper_back_button" android:background="@drawable/ripple_effect_back_drawable" android:padding="16.0dip" android:focusable="true" android:layout_width="@dimen/sview_cover_titlebar_button_width" android:layout_height="@dimen/sview_cover_titlebar_button_width" android:src="@drawable/tw_ic_ab_back_mtrl" android:contentDescription="@string/back" />
+                <TextView android:textSize="@dimen/sview_cover_titlebar_text_size" android:textColor="@color/sview_cover_titlebar_text_color" android:gravity="center_vertical" android:id="@id/select_background_color_text" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/select_background_color_title" android:singleLine="true" android:fontFamily="sans-serif" />
+            </LinearLayout>
+            <FrameLayout android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+                <LinearLayout android:layout_gravity="center" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                    <ImageView android:id="@id/wallpaper_thumnail01" android:background="@drawable/settings_color_chip_01" android:layout_width="@dimen/wallpaper_item_width" android:layout_height="@dimen/wallpaper_item_height" android:layout_marginRight="@dimen/wallpaper_item_margin" />
+                    <ImageView android:id="@id/wallpaper_thumnail02" android:background="@drawable/settings_color_chip_02" android:layout_width="@dimen/wallpaper_item_width" android:layout_height="@dimen/wallpaper_item_height" android:layout_marginRight="@dimen/wallpaper_item_margin" />
+                    <ImageView android:id="@id/wallpaper_thumnail03" android:background="@drawable/settings_color_chip_03" android:layout_width="@dimen/wallpaper_item_width" android:layout_height="@dimen/wallpaper_item_height" android:layout_marginRight="@dimen/wallpaper_item_margin" />
+                    <RelativeLayout android:background="#88000000" android:layout_width="@dimen/wallpaper_item_width" android:layout_height="@dimen/wallpaper_item_height">
+                        <ImageView android:id="@id/wallpaper_thumnail_gallery" android:background="@drawable/settings_bg_add" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+                    </RelativeLayout>
+                </LinearLayout>
+            </FrameLayout>
+            <LinearLayout android:layout_gravity="bottom|center" android:orientation="horizontal" android:background="#4d000000" android:layout_width="fill_parent" android:layout_height="@dimen/sview_cover_bottom_button_height">
+                <Button android:textSize="17.0dip" android:textColor="#fffafafa" android:gravity="center|top" android:layout_gravity="top" android:id="@id/s_view_cover_wallpaper_set_button" android:background="@drawable/ripple_effect_back_drawable" android:paddingTop="10.0dip" android:layout_width="0.0dip" android:layout_height="@dimen/sview_cover_bottom_button_height" android:text="@string/s_view_cover_set_wallpaper" android:layout_weight="1.0" android:fontFamily="sans-serif" />
+            </LinearLayout>
+        </LinearLayout>
+    </FrameLayout>
+    <LinearLayout android:orientation="vertical" android:id="@id/s_view_cover_open_gallery_popup" android:padding="0.0dip" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="0.0dip" android:layout_marginTop="100.0dip" android:layout_marginRight="0.0dip" />
+</RelativeLayout>

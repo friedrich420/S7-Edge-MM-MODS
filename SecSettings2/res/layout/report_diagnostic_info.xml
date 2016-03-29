@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ScrollView android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <LinearLayout android:orientation="vertical" android:paddingTop="@dimen/body_text_top_padding" android:paddingBottom="@dimen/body_text_top_padding" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/body_text_side_padding" android:paddingEnd="@dimen/body_text_side_padding">
+            <TextView android:id="@id/diagnostics_info_message" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/personal_page_secretbox_disclaimer_message" style="@style/crypt_keeper_description" />
+        </LinearLayout>
+    </ScrollView>
+    <LinearLayout android:orientation="horizontal" style="@style/SecurityPreferenceButtonContainer">
+        <com.android.settings.widget.BottomBarButton android:id="@id/cancel_button" android:text="@string/button_no_thanks" style="@style/SecurityPreferenceButton" />
+        <com.android.settings.widget.BottomBarButton android:id="@id/next_button" android:text="@string/button_yes" style="@style/SecurityPreferenceButton" />
+    </LinearLayout>
+</LinearLayout>

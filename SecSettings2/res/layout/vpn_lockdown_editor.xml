@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:id="@id/scroll_view" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/linear_layout" android:layout_width="wrap_content" android:layout_height="wrap_content"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+        <TextView android:paddingTop="@dimen/dialog_bottom_button_padding_left_right" android:paddingBottom="@dimen/list_dialog_padding_bottom" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/vpn_lockdown_summary" android:paddingStart="@dimen/alert_dialog_padding_left_right" android:paddingEnd="@dimen/alert_dialog_padding_left_right" style="@style/dialog_body_text_style" />
+        <ListView android:id="@android:id/list" android:paddingLeft="@dimen/list_dialog_padding_left_right" android:paddingRight="@dimen/list_dialog_padding_left_right" android:paddingBottom="@dimen/list_dialog_padding_bottom" android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" />
+    </LinearLayout>
+</ScrollView>

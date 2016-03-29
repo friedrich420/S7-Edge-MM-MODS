@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>स्कॅन करीत आहे…</item>
+        <item>जोडला जात आहे…</item>
+        <item>प्रमाणीकरण चालू…</item>
+        <item>IP पत्ते मिळवत आहे…</item>
+        <item>जोडले</item>
+        <item>निलंबित</item>
+        <item>खंडीत करत आहे…</item>
+        <item>खंडित केले</item>
+        <item>अयशस्वी</item>
+        <item>अवरोधित केलेले</item>
+        <item>आपल्‍या इंटरनेट कनेक्‍शनची गुणवत्‍ता तपासत आहे…</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>स्कॅन करीत आहे…</item>
+        <item>%s ला जोडत आहे…</item>
+        <item>%s-बरोबर अधिप्रमाणित करत आहे…</item>
+        <item>%s कडून IP पत्ता मिळवीत आहे…</item>
+        <item>%1$s ला जोडले.</item>
+        <item>निलंबित</item>
+        <item>%s पासून खंडित करत आहे?…</item>
+        <item>खंडित केले</item>
+        <item>अयशस्वी</item>
+        <item>अवरोधित केलेले</item>
+        <item>आपल्‍या इंटरनेट कनेक्‍शनची गुणवत्‍ता तपासत आहे…</item>
+    </string-array>
+    <string-array name="screen_timeout_entries">
+        <item>15 सेकंद</item>
+        <item>30 सेकंद</item>
+        <item>1 मिनिट</item>
+        <item>2 मिनिट</item>
+        <item>5 मिनिट</item>
+        <item>10 मिनिट</item>
+        <item>30 मिनिट</item>
+    </string-array>
+    <string-array name="screen_timeout_for_device_lock_entries">
+        <item>15 सेकंद</item>
+        <item>30 सेकंद</item>
+        <item>1 मिनिट</item>
+        <item>3 मिनिट</item>
+        <item>5 मिनिट</item>
+        <item>10 मिनिट</item>
+        <item>15 मिनिटे</item>
+        <item>30 मिनिट</item>
+    </string-array>
+    <string-array name="device_lock_timeout_entries">
+        <item>पॉवर कीसह तात्काळ किंवा जेव्हा स्क्रीन वेळ संपते.</item>
+        <item>15 सेकंद</item>
+        <item>30 सेकंद</item>
+        <item>1 मिनिट</item>
+        <item>3 मिनिट</item>
+        <item>5 मिनिट</item>
+        <item>10 मिनिट</item>
+        <item>15 मिनिटे</item>
+        <item>30 मिनिट</item>
+        <item>1 तास</item>
+    </string-array>
+    <string-array name="lock_after_timeout_entries">
+        <item>तत्काळ</item>
+        <item>5 सेकंदे</item>
+        <item>15 सेकंद</item>
+        <item>30 सेकंद</item>
+        <item>1 मिनिट</item>
+        <item>2 मिनिट</item>
+        <item>5 मिनिट</item>
+        <item>10 मिनिट</item>
+        <item>30 मिनिट</item>
+    </string-array>
+    <string-array name="entries_font_size">
+        <item>सूक्ष्म</item>
+        <item>लहान</item>
+        <item>सामान्य</item>
+        <item>मोठे</item>
+        <item>प्रचंड</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>खूपच हळू</item>
+        <item>हळू</item>
+        <item>सामान्य</item>
+        <item>जलद</item>
+        <item>लवकर</item>
+        <item>जास्‍त जलद</item>
+        <item>शीघ्र</item>
+        <item>अतिशीघ्र</item>
+        <item>अधिक जलद</item>
+    </string-array>
+    <string-array name="wifi_ap_security_testmode">
+        <item>उघडा</item>
+        <item>WPA2 PSK</item>
+    </string-array>
+    <string-array name="wifi_eap_method">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+        <item>सिम</item>
+        <item>AKA</item>
+        <item>"AKA'"</item>
+    </string-array>
+    <string-array name="wifi_p2p_status">
+        <item>कनेक्ट केले</item>
+        <item>आमंत्रित.</item>
+        <item>कनेक्शन अयशस्वी</item>
+        <item>कनेक्ट करण्यासाठी येथे टॅप करा.</item>
+        <item>मर्यादेच्या बाहेर.</item>
+        <item>अन्य उपकरणला कनेक्ट केले</item>
+    </string-array>
+    <string-array name="wifi_ap_wifi_sharing">
+        <item>Wi-Fi सामायिक करणे सक्षम करा</item>
+        <item>Wi-Fi सामायिक करणे अक्षम करा</item>
+    </string-array>
+    <string-array name="wifi_ap_timeout">
+        <item>कधीही मुदतबाह्य नाही.</item>
+        <item>5 मिनिट</item>
+        <item>10 मिनिट</item>
+        <item>20 मिनिट</item>
+        <item>30 मिनिट</item>
+        <item>60 मिनिट</item>
+    </string-array>
+    <string-array name="wifi_ap_connection_mode">
+        <item>सर्व उपकरणांना अनुमत करा</item>
+        <item>केवळ अनुमती असलेली उपकरणे</item>
+    </string-array>
+    <string-array name="wifi_ap_channel">
+        <item>स्वंय</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+    </string-array>
+    <string-array name="wifi_share_profile_access_timeout">
+        <item>6 तास</item>
+        <item>12 तास</item>
+        <item>24 तास</item>
+        <item>वेळ मर्यादा नाही</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>कमजोर</item>
+        <item>फेयर</item>
+        <item>उत्तम</item>
+        <item>मजबूत</item>
+        <item>खूपच मजबूत</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries">
+        <item>"नेहमी
+(बॅटरी खपत वाढवते)"</item>
+        <item>चार्ज करताना</item>
+        <item>"कधीही
+(डेटा वापर वाढवू नका)"</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries_wifi_only">
+        <item>"नेहमी
+(बॅटरी खपत वाढवते)"</item>
+        <item>चार्ज करताना</item>
+        <item>कधी नाही</item>
+    </string-array>
+    <string-array name="wifi_frequency_band_entries">
+        <item>स्वयंचलित</item>
+        <item>केवळ 5 GHz.</item>
+        <item>केवळ 2.4 GHz.</item>
+    </string-array>
+    <string-array name="wifi_frequency_band_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="usage_stats_display_order_types">
+        <item>वापराची वेळ</item>
+        <item>अंतिम वेळी वापरलेले</item>
+        <item>ऍप नाव</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries">
+        <item>काहीही नाही</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>काहीही नाही</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>स्थिर</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>काहीही नाही</item>
+        <item>मॅन्यूअल</item>
+        <item>स्‍वयं-कॉन्फिग</item>
+    </string-array>
+    <string-array name="wifi_iwlan_settings">
+        <item>चालू</item>
+        <item>बंद</item>
+    </string-array>
+    <string-array name="apn_auth_entries">
+        <item>काहीही नाही</item>
+        <item>PAP</item>
+        <item>CHAP</item>
+        <item>PAP किंवा CHAP</item>
+    </string-array>
+    <string-array name="apn_protocol_entries">
+        <item>IPv4</item>
+        <item>IPv6</item>
+        <item>IPv4/IPv6</item>
+    </string-array>
+    <string-array name="bearer_entries">
+        <item>निर्दिष्ट न केलेले</item>
+        <item>LTE</item>
+        <item>HSPAP</item>
+        <item>HSPA</item>
+        <item>HSUPA</item>
+        <item>HSDPA</item>
+        <item>UMTS</item>
+        <item>EDGE</item>
+        <item>GPRS</item>
+        <item>eHRPD</item>
+        <item>EVDO_B</item>
+        <item>EVDO_A</item>
+        <item>EVDO_0</item>
+        <item>1xRTT</item>
+        <item>IS95B</item>
+        <item>IS95A</item>
+    </string-array>
+    <string-array name="mvno_type_entries">
+        <item>काहीही नाही</item>
+        <item>SPN</item>
+        <item>IMSI</item>
+        <item>GID</item>
+    </string-array>
+    <string-array name="app_install_location_entries">
+        <item>अंतर्गत उपकरण साठवण</item>
+        <item>काढण्यायोग्य SD कार्ड</item>
+        <item>सिस्टम ला ठरवू द्या</item>
+    </string-array>
+    <string-array name="app_ops_categories">
+        <item>स्थान</item>
+        <item>व्यक्तिगत</item>
+        <item>मेसेजिंग</item>
+        <item>मीडिया</item>
+        <item>उपकरण</item>
+        <item>ऑटो रन</item>
+    </string-array>
+    <string-array name="app_ops_summaries">
+        <item>खडबडीत स्थान</item>
+        <item>उत्कृष्ट स्थान</item>
+        <item>GPS</item>
+        <item>कंपन</item>
+        <item>संपर्क वाचा</item>
+        <item>संपर्क संपादित करा</item>
+        <item>कॉल लॉग वाचा.</item>
+        <item>कॉल लॉग लिहा.</item>
+        <item>दिनदर्शिका वाचा</item>
+        <item>दिनदर्शिका व्‍यवस्‍थापित करा</item>
+        <item>Wi-Fi नेटवर्क्‍ससाठी स्कॅन करा</item>
+        <item>अधिसूचना</item>
+        <item>कक्ष स्कॅन करा</item>
+        <item>फोन कॉल्‍स करा</item>
+        <item>मजकूर संदेश वाचा</item>
+        <item>मजकूर संदेश लिहा</item>
+        <item>मजकूर संदेश प्राप्‍त करा</item>
+        <item>आपात्‍कालीन मजकूर संदेश प्राप्‍त करा</item>
+        <item>मल्टिमिडिया संदेश प्राप्‍त करा</item>
+        <item>WAP पुश संदेश प्राप्‍त करा</item>
+        <item>मजकूर संदेश पाठवा</item>
+        <item>SIM कार्डवरील मजूकर संदेश वाचा</item>
+        <item>SIM कार्डवर मजकूर संदेश लिहा</item>
+        <item>सेटिंग्‍स सुधारा</item>
+        <item>अनुप्रयोग इंटरफेस ओव्‍हरले करा</item>
+        <item>अधिसूचनांना ऍक्‍सेस करा</item>
+        <item>कॅमेरा</item>
+        <item>ऑडियो रेकॉर्ड करा.</item>
+        <item>ऑडिओ फाइल्‍स प्‍ले करा</item>
+        <item>क्लिपबोर्ड डेटा वाचा</item>
+        <item>क्लिपबोर्ड डेटा व्‍यवस्‍थापित करा</item>
+        <item>मिडिया नियंत्रित करा</item>
+        <item>ऑडिओ फोकस नियंत्रित करा</item>
+        <item>मास्‍टर आवाज समा‍योजित करा</item>
+        <item>इन-कॉल आवाज समायोजित करा</item>
+        <item>रिंगटोन आवाज समायोजित करा</item>
+        <item>मीडिया आवाज समायोजित करा</item>
+        <item>अलार्म आवाज समायोजित करा</item>
+        <item>सतर्क आवाज समायोजित करा</item>
+        <item>ब्लुटूथ उपकरणांद्वारे प्ले केलेल्या ध्वनीचा आवाज समायोजित करा</item>
+        <item>स्क्रीन चालू ठेवा</item>
+        <item>स्थान माहिती मॉनिटर करा</item>
+        <item>अतिशय अचूक स्थान माहिती मॉनिटर करा</item>
+        <item>उपकरण वापर आकडेवारी वाचा</item>
+        <item>मायक्रोफोन चालू आणि बंद करा</item>
+        <item>टोस्‍ट पॉप-अप्‍स दर्शवा</item>
+        <item>मिडिया कॅप्चर करा</item>
+        <item>VPN सक्षम करा</item>
+        <item>Wi-Fi चालू/बंद करा</item>
+        <item>ब्लुटूथ चालू/बंद करा</item>
+        <item>मल्टिमीडिया संदेश पाठवा</item>
+        <item>मल्टिमिडिया संदेश वाचा</item>
+        <item>मल्टिमिडिया संदेश लिहा</item>
+        <item>ऑटो रन</item>
+        <item>NFC चालू/बंद करा</item>
+        <item>मजकूर संदेश हटवा</item>
+        <item>मल्टिमिडिया संदेश हटवा</item>
+        <item>संपर्क हटवा</item>
+        <item>Delete call log</item>
+        <item>मोबाईल डेटा चालू/बंद करा</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>स्थान</item>
+        <item>स्थान</item>
+        <item>स्थान</item>
+        <item>कंपन</item>
+        <item>संपर्क वाचा</item>
+        <item>संपर्क संपादित करा</item>
+        <item>कॉल लॉग वाचा.</item>
+        <item>कॉल लॉग लिहा.</item>
+        <item>दिनदर्शिका वाचा</item>
+        <item>दिनदर्शिका व्‍यवस्‍थापित करा</item>
+        <item>स्थान</item>
+        <item>अधिसूचना दर्शवा</item>
+        <item>स्थान</item>
+        <item>फोन कॉल्‍स करा</item>
+        <item>मजकूर संदेश वाचा</item>
+        <item>मजकूर संदेश लिहा</item>
+        <item>मजकूर संदेश प्राप्‍त करा</item>
+        <item>आपात्‍कालीन मजकूर संदेश प्राप्‍त करा</item>
+        <item>मल्टिमिडिया संदेश प्राप्‍त करा</item>
+        <item>WAP पुश संदेश प्राप्‍त करा</item>
+        <item>मजकूर संदेश पाठवा</item>
+        <item>SIM कार्डवरील मजूकर संदेश वाचा</item>
+        <item>SIM कार्डवर मजकूर संदेश लिहा</item>
+        <item>सेटिंग्‍स सुधारा</item>
+        <item>अनुप्रयोग इंटरफेस ओव्‍हरले करा</item>
+        <item>अधिसूचनांना ऍक्‍सेस करा</item>
+        <item>कॅमेरा</item>
+        <item>ऑडियो रेकॉर्ड करा.</item>
+        <item>ऑडिओ फाइल्‍स प्‍ले करा</item>
+        <item>क्लिपबोर्ड डेटा वाचा</item>
+        <item>क्लिपबोर्ड डेटा व्‍यवस्‍थापित करा</item>
+        <item>मिडिया नियंत्रित करा</item>
+        <item>ऑडिओ फोकस नियंत्रित करा</item>
+        <item>मास्‍टर आवाज समा‍योजित करा</item>
+        <item>इन-कॉल आवाज समायोजित करा</item>
+        <item>रिंगटोन आवाज समायोजित करा</item>
+        <item>मीडिया आवाज समायोजित करा</item>
+        <item>अलार्म आवाज समायोजित करा</item>
+        <item>सतर्क आवाज समायोजित करा</item>
+        <item>ब्लुटूथ उपकरणांद्वारे प्ले केलेल्या ध्वनीचा आवाज समायोजित करा</item>
+        <item>स्क्रीन चालू ठेवा</item>
+        <item>स्थान</item>
+        <item>स्थान</item>
+        <item>उपकरण वापर आकडेवारी वाचा</item>
+        <item>मायक्रोफोन चालू आणि बंद करा</item>
+        <item>टोस्‍ट पॉप-अप्‍स दर्शवा</item>
+        <item>मिडिया कॅप्चर करा</item>
+        <item>VPN सक्षम करा</item>
+        <item>Wi-Fi चालू/बंद करा</item>
+        <item>ब्लुटूथ चालू/बंद करा</item>
+        <item>मल्टिमीडिया संदेश पाठवा</item>
+        <item>मल्टिमिडिया संदेश वाचा</item>
+        <item>मल्टिमिडिया संदेश लिहा</item>
+        <item>ऑटो रन</item>
+        <item>NFC चालू/बंद करा</item>
+        <item>मजकूर संदेश हटवा</item>
+        <item>मल्टिमिडिया संदेश हटवा</item>
+        <item>संपर्क हटवा</item>
+        <item>delete call log</item>
+        <item>मोबाईल डेटा चालू/बंद करा</item>
+    </string-array>
+    <string-array name="long_press_timeout_selector_titles">
+        <item>लहान</item>
+        <item>माध्यम</item>
+        <item>लांब</item>
+    </string-array>
+    <string-array name="captioning_typeface_selector_titles">
+        <item>डिफॉल्ट</item>
+        <item>सांस शेरीफ</item>
+        <item>सान्स सेरीफ कोंडेन्स्ड</item>
+        <item>सान्स सेरीफ मोनोस्पेस</item>
+        <item>सेरीफ</item>
+        <item>सेरिफ मोनोस्पेस</item>
+        <item>कॅज्युअल</item>
+        <item>कर्सिव्ह</item>
+        <item>स्‍मॉल कॅप्‍स</item>
+    </string-array>
+    <string-array name="captioning_font_size_selector_titles">
+        <item>खूपच लहान</item>
+        <item>लहान</item>
+        <item>सर्वसाधारण</item>
+        <item>मोठे</item>
+        <item>खूपच मोठे</item>
+    </string-array>
+    <string-array name="captioning_edge_type_selector_titles">
+        <item>डिफॉल्ट</item>
+        <item>काहीही नाही</item>
+        <item>रूपरेषा</item>
+        <item>सावली ड्रॉप करा</item>
+        <item>वाढवलेले</item>
+        <item>उदासीन</item>
+    </string-array>
+    <string-array name="captioning_opacity_selector_titles">
+        <item>25%</item>
+        <item>50%</item>
+        <item>75%</item>
+        <item>100%</item>
+    </string-array>
+    <string-array name="captioning_preset_selector_titles">
+        <item>डिफॉल्ट</item>
+        <item>काळ्यावर सफेद</item>
+        <item>पांढर्‍यावर काळा</item>
+        <item>काळ्यावर पिवळा</item>
+        <item>पिवळ्यावर निळा</item>
+        <item>सानुकूल</item>
+    </string-array>
+    <string-array name="select_logd_size_titles">
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>16M</item>
+    </string-array>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+    </string-array>
+    <string-array name="select_logd_size_summaries">
+        <item>64 KB प्रति लॉग बफर</item>
+        <item>256 KB प्रति लॉग बफर</item>
+        <item>1 MB प्रति लॉग बफर</item>
+        <item>4 MB प्रति लॉग बफर</item>
+        <item>16 MB प्रति लॉग बफर</item>
+    </string-array>
+    <string-array name="hdcp_checking_titles">
+        <item>कधीही तपासू नये.</item>
+        <item>केवळ DRM सामग्रीसाठी तपासा</item>
+        <item>नेहमी तपासा</item>
+    </string-array>
+    <string-array name="hdcp_checking_summaries">
+        <item>कधीही HDCP तपासणी वापरू नये.</item>
+        <item>DRM सामग्रीसाठी केवळ HDCP तपासणी वापरा.</item>
+        <item>नेहमी HDCP तपासणी वापरा.</item>
+    </string-array>
+    <string-array name="window_animation_scale_entries">
+        <item>एनिमेशन बंद आहे.</item>
+        <item>एनिमेशन स्केल 0.5x</item>
+        <item>एनिमेशन स्केल 1x</item>
+        <item>एनिमेशन स्केल 1.5x</item>
+        <item>एनिमेशन स्केल 2x</item>
+        <item>एनिमेशन स्केल 5x</item>
+        <item>एनिमेशन स्केल 10x</item>
+    </string-array>
+    <string-array name="transition_animation_scale_entries">
+        <item>एनिमेशन बंद आहे.</item>
+        <item>एनिमेशन स्केल 0.5x</item>
+        <item>एनिमेशन स्केल 1x</item>
+        <item>एनिमेशन स्केल 1.5x</item>
+        <item>एनिमेशन स्केल 2x</item>
+        <item>एनिमेशन स्केल 5x</item>
+        <item>एनिमेशन स्केल 10x</item>
+    </string-array>
+    <string-array name="animator_duration_scale_entries">
+        <item>एनिमेशन बंद आहे.</item>
+        <item>एनिमेशन स्केल 0.5x</item>
+        <item>एनिमेशन स्केल 1x</item>
+        <item>एनिमेशन स्केल 1.5x</item>
+        <item>एनिमेशन स्केल 2x</item>
+        <item>एनिमेशन स्केल 5x</item>
+        <item>एनिमेशन स्केल 10x</item>
+    </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>काहीही नाही</item>
+        <item>480p</item>
+        <item>720 x 480 mdpi (सुरक्षित)</item>
+        <item>720p</item>
+        <item>1280 x 720 tvdpi (सुरक्षित)</item>
+        <item>1080p</item>
+        <item>1920 x 1080 xhdpi (सुरक्षित)</item>
+        <item>1280 x 720 tvdpi आणि 1920 x 1080 xhdpi</item>
+        <item>4K (सुरक्षित)</item>
+        <item>4K (अपस्केल केलेले)</item>
+        <item>4K (अपस्केल केलेले, सुरक्षित)</item>
+        <item>720p, 1080p (दुहेरी स्क्रीन)</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>काहीही नाही</item>
+        <item>Logcat</item>
+        <item>Systrace (ग्राफिक्‍स)</item>
+        <item>glGetError वर कॉल स्टॅक</item>
+    </string-array>
+    <string-array name="show_non_rect_clip_entries">
+        <item>बंद</item>
+        <item>विना-आयताकार क्लिप्‍सचा पृष्‍ठभाग निळ्या मध्‍ये ठळक करा</item>
+        <item>तपासणी केलेंडर ड्रॉईंग आज्ञा हिरव्‍या मध्‍ये ठळक करा</item>
+    </string-array>
+    <string-array name="track_frame_time_entries">
+        <item>बंद</item>
+        <item>बार्ससारखे स्‍क्रीनवर दर्शवा</item>
+        <item>adb shell dumpsys gfxinfo मध्‍ये दर्शवा</item>
+    </string-array>
+    <string-array name="debug_hw_overdraw_entries">
+        <item>बंद</item>
+        <item>ओव्‍हरड्रॉ क्षेत्रे दर्शवा</item>
+        <item>हरित रंगाधळेपणा असलेल्‍यांना क्षेत्रे दर्शवा</item>
+    </string-array>
+    <string-array name="app_process_limit_entries">
+        <item>मानक मर्यादा</item>
+        <item>पार्श्वभूमी प्रक्रिया नाहीत</item>
+        <item>जास्तीत जास्त 1 प्रक्रिया</item>
+        <item>जास्तीत जास्त 2 प्रक्रिया</item>
+        <item>जास्तीत जास्त 3 प्रक्रिया</item>
+        <item>जास्तीत जास्त 4 प्रक्रिया</item>
+    </string-array>
+    <string-array name="vpn_states">
+        <item>खंडित केले</item>
+        <item>प्रारंभिकरण…</item>
+        <item>जोडला जात आहे…</item>
+        <item>कनेक्ट केले</item>
+        <item>वेळ संपली</item>
+        <item>अयशस्वी</item>
+    </string-array>
+    <string-array name="ram_states">
+        <item>सर्वसाधारण</item>
+        <item>मर्यादित</item>
+        <item>निम्न</item>
+        <item>गंभीर</item>
+        <item>\?</item>
+    </string-array>
+    <string-array name="long_press_timeout_titles_selector">
+        <item>संक्षिप्‍त (0.5 सेकंद)</item>
+        <item>मध्‍यम (1.0 सेकंद)</item>
+        <item>लांब (1.5 सेकंद)</item>
+        <item>सानुकूल</item>
+    </string-array>
+    <string-array name="time_interval_entries">
+        <item>3 मिनिट</item>
+        <item>5 मिनिट</item>
+        <item>10 मिनिट</item>
+        <item>30 मिनिट</item>
+        <item>1 तास</item>
+    </string-array>
+    <string-array name="time_interval_entries_selectable">
+        <item>15 सेकंद</item>
+        <item>30 सेकंद</item>
+        <item>1 मिनिट</item>
+        <item>3 मिनिट</item>
+        <item>5 मिनिट</item>
+    </string-array>
+    <string-array name="time_interval_entries_selectable_22">
+        <item>1 मिनिट</item>
+        <item>3 मिनिट</item>
+        <item>5 मिनिट</item>
+        <item>10 मिनिट</item>
+        <item>15 मिनिट</item>
+    </string-array>
+    <string-array name="proc_stats_memory_states">
+        <item>सामान्य</item>
+        <item>मर्यादित</item>
+        <item>निम्न</item>
+        <item>जटिल</item>
+    </string-array>
+    <string-array name="proc_stats_process_states">
+        <item>सतत</item>
+        <item>शीर्ष क्रिया</item>
+        <item>महत्‍त्‍वाचे (फोरग्राउंड)</item>
+        <item>महत्‍त्वाचे (पार्श्‍वभूमी)</item>
+        <item>बॅकअप</item>
+        <item>अति वजन</item>
+        <item>सेवा (चालू करणे)</item>
+        <item>सेवा (पुनरारंभ करणे)</item>
+        <item>प्राप्तकर्ता</item>
+        <item>निवास</item>
+        <item>अंतिम क्रिया</item>
+        <item>कॅशेड (क्रिया)</item>
+        <item>कॅशेड (क्रिया क्‍लायंट)</item>
+        <item>कॅशेड (रिक्‍त)</item>
+    </string-array>
+    <string-array name="wifi_connect_entries">
+        <item>स्वयंचलित</item>
+        <item>मॅन्यूअली</item>
+        <item>नेहमी विचारा</item>
+    </string-array>
+    <string-array name="data_usage_display_unit">
+        <item>MB/GB (auto change)</item>
+        <item>MB only</item>
+        <item>GB only</item>
+    </string-array>
+    <string-array name="color_picker">
+        <item>हिरवट निळा</item>
+        <item>निळा</item>
+        <item>नीळ</item>
+        <item>जांभळा</item>
+        <item>गुलाबी</item>
+        <item>लाल</item>
+    </string-array>
+    <string-array name="touch_key_light_entries">
+        <item>1.5 सेकंद</item>
+        <item>6 सेकंद</item>
+        <item>नेहमी बंद</item>
+        <item>नेहमी चालू</item>
+    </string-array>
+    <string-array name="key_backlight_entries">
+        <item>नेहमी बंद</item>
+        <item>1 सेकंद</item>
+        <item>3 सेकंद</item>
+        <item>5 सेकंदे</item>
+        <item>10 सेकंद</item>
+        <item>15 सेकंद</item>
+    </string-array>
+    <string-array name="usb_configuration_titles">
+        <item>@string/usb_use_charging_only</item>
+        <item>MTP (Media Transfer Protocol)</item>
+        <item>PTP (Picture Transfer Protocol)</item>
+        <item>RNDIS (USB Ethernet)</item>
+        <item>ऑडिओ स्‍त्रोत</item>
+        <item>MIDI</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_choices">
+        <item>वाय-फाय प्राधान्यकृत</item>
+        <item>सेल्युलर प्राधान्यकृत</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_values">
+        <item>2</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="audio_output_entries">
+        <item>स्टिरियो</item>
+        <item>सराउंड</item>
+    </string-array>
+</resources>

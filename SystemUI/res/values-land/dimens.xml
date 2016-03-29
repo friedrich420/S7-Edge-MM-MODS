@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="status_bar_recents_right_glow_margin">0.0dip</dimen>
+    <dimen name="status_bar_recents_thumbnail_left_margin">0.0dip</dimen>
+    <dimen name="status_bar_recents_text_description_padding">8.0dip</dimen>
+    <dimen name="status_bar_recents_app_label_width">156.0dip</dimen>
+    <dimen name="status_bar_recents_app_label_left_margin">12.0dip</dimen>
+    <dimen name="status_bar_recents_item_padding">2.0dip</dimen>
+    <dimen name="status_bar_recents_app_icon_left_margin">8.0dip</dimen>
+    <dimen name="status_bar_recents_app_icon_top_margin">8.0dip</dimen>
+    <item type="dimen" name="navigation_bar_size">@android:dimen/navigation_bar_width</item>
+    <dimen name="carrier_and_clear_height">25.0dip</dimen>
+    <dimen name="carrier_and_clear_height_with_plmn">25.0dip</dimen>
+    <dimen name="status_bar_header_height">42.0dip</dimen>
+    <dimen name="qs_tile_startend_padding">13.0dip</dimen>
+    <dimen name="qs_tile_vertical_tile_gap">0.0dip</dimen>
+    <dimen name="qs_tile_vertical_tile_bottom_padding">0.0dip</dimen>
+    <dimen name="qs_tile_vertical_tile_bottom_padding_quick_off">0.0dip</dimen>
+    <dimen name="qs_bottom_area_end_padding">18.0dip</dimen>
+    <dimen name="qs_bottom_area_start_padding">18.0dip</dimen>
+    <dimen name="qs_summary_height">36.0dip</dimen>
+    <item type="dimen" name="recents_stack_width_padding_percentage">0.26</item>
+    <dimen name="recents_stack_height_additional_margin">3.0dip</dimen>
+    <dimen name="recents_upper_bound_position_to_higher">281.0dip</dimen>
+    <dimen name="qs_time_expanded_size">22.0dip</dimen>
+    <dimen name="qs_edit_button_text_size">14.0dip</dimen>
+    <item type="dimen" name="qs_edit_panel_status_bar_header_height">@dimen/status_bar_header_height</item>
+    <dimen name="qs_edit_panel_height">341.0dip</dimen>
+    <dimen name="qs_edit_panel_height_default_gap">15.0dip</dimen>
+    <item type="dimen" name="qs_edit_panel_tile_vertical_gap">@dimen/qs_tile_vertical_tile_gap</item>
+    <dimen name="qs_edit_panel_active_padding_top">0.0dip</dimen>
+    <dimen name="qs_edit_panel_active_padding_bottom">0.0dip</dimen>
+    <dimen name="qs_edit_panel_available_padding_top">0.0dip</dimen>
+    <dimen name="qs_edit_panel_active_margin_bottom">3.0dip</dimen>
+    <dimen name="qs_edit_panel_available_margin_bottom">6.0dip</dimen>
+    <dimen name="qs_edit_panel_done_margin_right">16.0dip</dimen>
+    <dimen name="qs_edit_panel_edit_margin_right">16.0dip</dimen>
+    <dimen name="qs_edit_panel_button_container_margin">0.0dip</dimen>
+    <dimen name="qs_edit_panel_summary_text_margin">20.0dip</dimen>
+    <dimen name="qs_edit_panel_summary_text_padding_right">0.0dip</dimen>
+    <dimen name="qs_edit_panel_summary_switch_end_margin">7.0dip</dimen>
+    <dimen name="qs_edit_panel_button_container_parent_margin">13.0dip</dimen>
+    <dimen name="qs_edit_panel_summary_margin_top">0.0dip</dimen>
+    <dimen name="qs_edit_panel_summary_group_height">46.0dip</dimen>
+    <dimen name="qs_edit_panel_connect_group_margin_top">1.0dip</dimen>
+    <dimen name="qs_edit_panel_quick_connectswitch_top_padding">6.0dip</dimen>
+    <dimen name="qs_edit_panel_done_top_padding">8.0dip</dimen>
+    <dimen name="qs_edit_panel_done_height">37.0dip</dimen>
+    <dimen name="brightness_controller_height">43.0dip</dimen>
+    <dimen name="brightness_controller_icon_margin_start">22.0dip</dimen>
+    <dimen name="brightness_controller_slider_padding_end">20.0dip</dimen>
+    <dimen name="brightness_controller_toggle_group_margin_end">23.0dip</dimen>
+    <dimen name="brightness_controller_toggle_margin_top">0.0dip</dimen>
+    <dimen name="brightness_controller_label_margin_top">26.0dip</dimen>
+    <dimen name="tw_status_bar_recents_button_divider_height">48.0dip</dimen>
+    <dimen name="recents_close_all_button_width">293.0dip</dimen>
+    <dimen name="view_pager_padding_left">7.0dip</dimen>
+    <dimen name="view_pager_padding_top">62.0dip</dimen>
+    <dimen name="applist_gridview_verticalSpacing">15.0dip</dimen>
+    <dimen name="applist_gridview_horizontalSpacing">2.0dip</dimen>
+    <dimen name="applist_view_pager_item_width">75.0dip</dimen>
+    <dimen name="qs_multisim_preffered_slot_height">46.0dip</dimen>
+    <dimen name="notification_panel_carrier_label_height">0.0dip</dimen>
+    <dimen name="headerview_button_container_end_margin">16.0dip</dimen>
+    <dimen name="headerview_date_timeView_start_padding">22.0dip</dimen>
+    <dimen name="headerview_button_margin">14.0dip</dimen>
+    <dimen name="noti_setting_and_clear_show_button_bg_inset">2.0dip</dimen>
+    <dimen name="status_bar_recents_thumbnail_top_margin">28.0dip</dimen>
+    <dimen name="qs_edit_panel_button_vertical_gap">0.0dip</dimen>
+</resources>

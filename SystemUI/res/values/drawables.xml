@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="autumn_particle_01" />
+    <item type="drawable" name="autumn_particle_02" />
+    <item type="drawable" name="autumn_particle_03" />
+    <item type="drawable" name="autumn_particle_04" />
+    <item type="drawable" name="clear_ic_pin" />
+    <item type="drawable" name="festival_unlock_effect_01" />
+    <item type="drawable" name="festival_unlock_effect_02" />
+    <item type="drawable" name="festival_unlock_effect_03" />
+    <item type="drawable" name="festival_unlock_touch_01" />
+    <item type="drawable" name="festival_unlock_touch_02" />
+    <item type="drawable" name="flower_01" />
+    <item type="drawable" name="flower_02" />
+    <item type="drawable" name="flower_03" />
+    <item type="drawable" name="ic_call_lock_normal" />
+    <item type="drawable" name="ic_call_lock_pressed" />
+    <item type="drawable" name="ic_d_camera_lock_normal" />
+    <item type="drawable" name="ic_d_camera_lock_pressed" />
+    <item type="drawable" name="ic_d_mic_lock_normal" />
+    <item type="drawable" name="ic_d_mic_lock_pressed" />
+    <item type="drawable" name="ic_dialog_dialer" />
+    <item type="drawable" name="ic_done_wht" />
+    <item type="drawable" name="ic_email_lock_normal" />
+    <item type="drawable" name="ic_email_lock_pressed" />
+    <item type="drawable" name="ic_lock_lock_normal" />
+    <item type="drawable" name="ic_lock_lock_pressed" />
+    <item type="drawable" name="ic_lockscreen_cmas" />
+    <item type="drawable" name="ic_lockscreen_emergencycall" />
+    <item type="drawable" name="ic_smartlock_lock_normal" />
+    <item type="drawable" name="ic_smartlock_lock_pressed" />
+    <item type="drawable" name="ic_unlock_lock_normal" />
+    <item type="drawable" name="ic_unlock_lock_pressed" />
+    <item type="drawable" name="keyguard_fmm_btn_default" />
+    <item type="drawable" name="keyguard_fmm_btn_pressed" />
+    <item type="drawable" name="keyguard_fmm_ic_call" />
+    <item type="drawable" name="keyguard_onehand_arrow_left" />
+    <item type="drawable" name="keyguard_onehand_arrow_right" />
+    <item type="drawable" name="leaf_01" />
+    <item type="drawable" name="leaf_02" />
+    <item type="drawable" name="leaf_03" />
+    <item type="drawable" name="leaf_04" />
+    <item type="drawable" name="lock_btn_shortcut_arrow" />
+    <item type="drawable" name="lock_ic_home" />
+    <item type="drawable" name="lock_ic_password_sip" />
+    <item type="drawable" name="lock_ic_pin_attempt_sim" />
+    <item type="drawable" name="lock_ic_pin_attempt_sim_01" />
+    <item type="drawable" name="lock_ic_pin_attempt_sim_02" />
+    <item type="drawable" name="pin_lock_btn_back" />
+    <item type="drawable" name="rainline" />
+    <item type="drawable" name="spring_particle_01" />
+    <item type="drawable" name="spring_particle_02" />
+    <item type="drawable" name="spring_particle_03" />
+    <item type="drawable" name="spring_particle_04" />
+    <item type="drawable" name="stat_notify_image" />
+    <item type="drawable" name="summer_particle_01" />
+    <item type="drawable" name="summer_particle_02" />
+    <item type="drawable" name="summer_particle_03" />
+    <item type="drawable" name="sview_ic_pin" />
+    <item type="drawable" name="unlock_autumn_particle_01" />
+    <item type="drawable" name="unlock_autumn_particle_02" />
+    <item type="drawable" name="unlock_autumn_particle_03" />
+    <item type="drawable" name="unlock_autumn_particle_04" />
+    <item type="drawable" name="unlock_autumn_particle_05" />
+    <item type="drawable" name="unlock_spring_particle_01" />
+    <item type="drawable" name="unlock_spring_particle_02" />
+    <item type="drawable" name="unlock_spring_particle_03" />
+    <item type="drawable" name="unlock_spring_particle_04" />
+    <item type="drawable" name="unlock_spring_touch_01" />
+    <item type="drawable" name="unlock_spring_touch_02" />
+    <item type="drawable" name="unlock_summer_particle_01" />
+    <item type="drawable" name="unlock_summer_particle_02" />
+    <item type="drawable" name="unlock_summer_particle_03" />
+    <item type="drawable" name="unlock_summer_particle_04" />
+    <item type="drawable" name="unlock_summer_particle_05" />
+    <item type="drawable" name="unlock_summer_particle_06" />
+    <item type="drawable" name="unlock_summer_touch_01" />
+    <item type="drawable" name="unlock_summer_touch_02" />
+    <item type="drawable" name="unlock_summer_touch_03" />
+    <item type="drawable" name="winter_particle_01" />
+    <item type="drawable" name="winter_particle_02" />
+    <item type="drawable" name="winter_particle_03" />
+    <item type="drawable" name="winter_particle_04" />
+    <item type="drawable" name="sviewcover_wallpaper">@drawable/wallpaper_default_01</item>
+    <item type="drawable" name="lock_circle_ic_missed_events" />
+    <item type="drawable" name="fest_birthday" />
+    <item type="drawable" name="fest2_birthday" />
+    <item type="drawable" name="fest_cnew_year" />
+    <item type="drawable" name="fest2_cnew_year" />
+    <item type="drawable" name="fest_new_year" />
+    <item type="drawable" name="fest2_new_year" />
+    <item type="drawable" name="fest_lantern" />
+    <item type="drawable" name="fest2_lantern" />
+    <item type="drawable" name="fest_cvalentine" />
+    <item type="drawable" name="fest2_cvalentine" />
+    <item type="drawable" name="fest_valentine" />
+    <item type="drawable" name="fest2_valentine" />
+    <item type="drawable" name="fest_dragonboat" />
+    <item type="drawable" name="fest2_dragonboat" />
+    <item type="drawable" name="fest_mid_autumn" />
+    <item type="drawable" name="fest2_mid_autumn" />
+    <item type="drawable" name="fest_christmas" />
+    <item type="drawable" name="fest2_christmas" />
+    <item type="drawable" name="wallpaper_002_left" />
+    <item type="drawable" name="wallpaper_002_right" />
+    <item type="drawable" name="pin_number_image_0" />
+    <item type="drawable" name="pin_number_image_1" />
+    <item type="drawable" name="pin_number_image_2" />
+    <item type="drawable" name="pin_number_image_3" />
+    <item type="drawable" name="pin_number_image_4" />
+    <item type="drawable" name="pin_number_image_5" />
+    <item type="drawable" name="pin_number_image_6" />
+    <item type="drawable" name="pin_number_image_7" />
+    <item type="drawable" name="pin_number_image_8" />
+    <item type="drawable" name="pin_number_image_9" />
+    <item type="drawable" name="indicator_code_lock_point_area_default_holo" />
+    <item type="drawable" name="indicator_code_lock_point_area_green_holo" />
+    <item type="drawable" name="indicator_code_lock_point_area_red_holo" />
+    <item type="drawable" name="tw_divider_vertical_holo_dark">#4cffffff</item>
+    <item type="drawable" name="notification_number_text_color">#ffffffff</item>
+    <item type="drawable" name="ticker_background_color">#ff1d1d1d</item>
+    <item type="drawable" name="system_bar_background">@color/system_bar_background_opaque</item>
+    <item type="drawable" name="status_bar_recents_app_thumbnail_background">#88000000</item>
+    <item type="drawable" name="status_bar_notification_row_background_color">#ff090909</item>
+    <item type="drawable" name="recents_callout_line">#99ffffff</item>
+    <item type="drawable" name="heads_up_notification_bg_pressed">#ff33b5e5</item>
+    <item type="drawable" name="recents_item_button_background">#b3000000</item>
+    <item type="drawable" name="recents_item_close_button_bg">#73000000</item>
+    <item type="drawable" name="ripple_recents_item_button">#b3888888</item>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="keyguard_carrierlockplus_call_btn_normal">false</item>
+    <item type="drawable" name="keyguard_carrierlockplus_call_btn_pressed">false</item>
+    <item type="drawable" name="keyguard_carrierlockplus_emergency_btn_normal">false</item>
+    <item type="drawable" name="keyguard_carrierlockplus_emergency_btn_pressed">false</item>
+    <item type="drawable" name="keyguard_carrierlockplus_unlock_btn_normal">false</item>
+    <item type="drawable" name="keyguard_carrierlockplus_unlock_btn_pressed">false</item>
+</resources>

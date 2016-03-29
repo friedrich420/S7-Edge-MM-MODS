@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">%d koraka te deli od toga da postaneš projektant.</item>
+        <item quantity="one">1 korak te deli od toga da postaneš projektant.</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">Подешена су %1$d отиска прстију</item>
+        <item quantity="one">Подешен је %1$d отисак прстију</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Lozinka mora da sadrži najmanje %d slova.</item>
+        <item quantity="one">Lozinka mora da sadrži bar 1 slovo.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Lozinka mora da sadrži najmanje %d malih slova.</item>
+        <item quantity="one">Lozinka mora da sadrži bar jedno malo slovo.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Lozinka mora da sadrži najmanje %d velikih slova.</item>
+        <item quantity="one">Lozinka mora da sadrži bar 1 veliko slovo.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Lozinka mora da sadrži najmanje %d brojeva.</item>
+        <item quantity="one">Lozinka mora da sadrži bar jedan broj.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Lozinka mora da sadrži najmanje %d simbola.</item>
+        <item quantity="one">Lozinka mora da sadrži bar jedan simbol.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Lozinka mora da sadrži najmanje %d brojeva ili simbola.</item>
+        <item quantity="one">Lozinka mora da sadrži najmanje jedan broj ili simbol.</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Нетачан SIM PIN кôд. Имате још %d покушаја.</item>
+        <item quantity="one">Нетачан SIM PIN кôд. Имате још %d покушај.</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d aplikacija može da čita obaveštenja.</item>
+        <item quantity="one">%d aplikacija sme da čita obaveštenja.</item>
+    </plurals>
+    <plurals name="manage_condition_providers_summary_nonzero">
+        <item quantity="other">Instaliran je sledeći broj aplikacija koje obezbeđuju uslove za ovu funkciju: %d</item>
+        <item quantity="one">%d app provides conditions</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">Пребацује у режим само са алармима у трајању од %1$d минута (до %2$s)</item>
+        <item quantity="one">Пребацује у режим само са алармима у трајању од %1$d минута (до %2$s)</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">Пребацује у режим само са алармима у трајању од %1$d сата до %2$s</item>
+        <item quantity="one">Пребацује у режим само са алармима у трајању од %1$d сата до %2$s</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">%d дозволе су одобрене</item>
+        <item quantity="one">%d дозвола је одобрена</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">Дате су %1$d од %2$d дозвола</item>
+        <item quantity="one">Дата је %1$d од %2$d дозвола</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">Još %d dozvola</item>
+        <item quantity="one">još %d dozvola</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">%d апликација може да отвара подржане линкове</item>
+        <item quantity="zero">%d апликација може да отвара подржане линкове</item>
+        <item quantity="one">%d апликације могу да отварају подржане линкове</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">Игнорисање оптимизације батерије је дозвољено за %d апликације</item>
+        <item quantity="one">Игнорисање оптимизације батерије је дозвољено за %d апликацију</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">%1$d апликације су користиле меморију у претходном периоду од %2$s</item>
+        <item quantity="one">%1$d апликација је користила меморију у претходном периоду од %2$s</item>
+    </plurals>
+    <plurals name="lock_timeout_hours">
+        <item quantity="other">%d sati</item>
+        <item quantity="one">1 sat</item>
+    </plurals>
+    <plurals name="lock_timeout_minutes">
+        <item quantity="other">%d minuta</item>
+        <item quantity="one">1 minut</item>
+    </plurals>
+    <plurals name="lock_timeout_seconds">
+        <item quantity="other">%d sekundi</item>
+        <item quantity="one">1 sekunda</item>
+    </plurals>
+</resources>

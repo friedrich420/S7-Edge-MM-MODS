@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="btn_effect_default">false</item>
+    <item type="drawable" name="btn_effect_focused">false</item>
+    <item type="drawable" name="btn_effect_pressed">false</item>
+    <item type="drawable" name="btn_effect_selected">false</item>
+    <item type="drawable" name="lock_noticard_badge_bg_tilt">false</item>
+    <item type="drawable" name="noti_list_divider">false</item>
+    <item type="drawable" name="tw_action_item_background_focused_holo_dark">false</item>
+    <item type="drawable" name="tw_action_item_background_pressed_holo_dark">false</item>
+    <item type="drawable" name="tw_action_item_background_selected_holo_dark">false</item>
+    <item type="drawable" name="tw_buttonbarbutton_selector_default_holo_dark">false</item>
+    <item type="drawable" name="tw_buttonbarbutton_selector_disabled_holo_dark">false</item>
+    <item type="drawable" name="tw_buttonbarbutton_selector_focused_holo_dark">false</item>
+    <item type="drawable" name="tw_buttonbarbutton_selector_pressed_holo_dark">false</item>
+    <item type="drawable" name="tw_buttonbarbutton_selector_selected_holo_dark">false</item>
+    <item type="drawable" name="tw_list_section_divider_focused_holo_dark">false</item>
+    <item type="drawable" name="tw_list_section_divider_pressed_holo_dark">false</item>
+    <item type="drawable" name="tw_list_section_divider_selected_holo_dark">false</item>
+    <item type="drawable" name="tw_toast_frame_holo_dark">false</item>
+    <item type="drawable" name="tw_toast_frame_holo_light">false</item>
+    <item type="drawable" name="tw_toast_frame_mtrl">false</item>
+</resources>

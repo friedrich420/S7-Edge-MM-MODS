@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:padding="16.0dip" android:focusableInTouchMode="true" android:descendantFocusability="beforeDescendants" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <Button android:id="@id/place_top" android:background="@drawable/vector_drawable_place_top" android:layout_width="36.0dip" android:layout_height="36.0dip" android:layout_margin="10.0dip" android:layout_weight="1.0" />
+        <Button android:id="@id/place_bottom" android:background="@drawable/vector_drawable_place_bottom" android:layout_width="36.0dip" android:layout_height="36.0dip" android:layout_margin="10.0dip" android:layout_weight="1.0" />
+        <Button android:id="@id/place_top_left" android:background="@drawable/vector_drawable_place_top_left" android:layout_width="36.0dip" android:layout_height="36.0dip" android:layout_margin="10.0dip" android:layout_weight="1.0" />
+        <Button android:id="@id/place_top_right" android:background="@drawable/vector_drawable_place_top_right" android:layout_width="36.0dip" android:layout_height="36.0dip" android:layout_margin="10.0dip" android:layout_weight="1.0" />
+        <Button android:id="@id/place_bottom_left" android:background="@drawable/vector_drawable_place_bottom_left" android:layout_width="36.0dip" android:layout_height="36.0dip" android:layout_margin="10.0dip" android:layout_weight="1.0" />
+        <Button android:id="@id/place_bottom_right" android:background="@drawable/vector_drawable_place_bottom_right" android:layout_width="36.0dip" android:layout_height="36.0dip" android:layout_margin="10.0dip" android:layout_weight="1.0" />
+        <Button android:id="@id/place_full" android:background="@drawable/vector_drawable_place_fullscreen" android:layout_width="36.0dip" android:layout_height="36.0dip" android:layout_margin="10.0dip" android:layout_weight="1.0" />
+    </LinearLayout>
+</LinearLayout>

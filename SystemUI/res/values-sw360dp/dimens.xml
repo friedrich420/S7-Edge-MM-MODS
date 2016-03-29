@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="kg_status_line_font_size">16.0dip</dimen>
+    <dimen name="keyguard_security_height">400.0dip</dimen>
+    <dimen name="kg_singleclock_margin_top_cover">20.0dip</dimen>
+    <dimen name="kg_singleclock_time_height">85.0dip</dimen>
+    <dimen name="kg_singleclock_date_height">22.0dip</dimen>
+    <dimen name="kg_dualclock_margin_top_cover">20.0dip</dimen>
+    <dimen name="kg_owner_text_container_height">22.0dip</dimen>
+    <dimen name="kg_owner_text_size">16.0dip</dimen>
+    <dimen name="keyguard_one_hand_pin_margin">10.0dip</dimen>
+    <dimen name="keyguard_one_hand_pin_view_height">252.0dip</dimen>
+    <dimen name="keyguard_one_hand_pin_view_width">240.0dip</dimen>
+    <dimen name="keyguard_one_hand_pin_keyboard_view_height">49.0dip</dimen>
+    <dimen name="keyguard_one_hand_pattern_margin">19.0dip</dimen>
+    <dimen name="keyguard_one_hand_pattern_view_width">208.0dip</dimen>
+    <dimen name="keyguard_one_hand_pattern_view_height">208.0dip</dimen>
+    <dimen name="keyguard_one_hand_arrow_button_margin">52.0dip</dimen>
+    <dimen name="keyguard_one_hand_security_width">360.0dip</dimen>
+    <dimen name="notification_summary_height">27.0dip</dimen>
+    <dimen name="navigation_key_width">80.0dip</dimen>
+    <dimen name="navigation_extra_key_width">40.0dip</dimen>
+    <dimen name="navigation_side_padding">40.0dip</dimen>
+    <dimen name="carrier_and_clear_height">33.0dip</dimen>
+    <dimen name="carrier_and_clear_height_with_plmn">33.0dip</dimen>
+    <dimen name="qs_tile_padding_below_icon">4.0dip</dimen>
+    <dimen name="qs_tile_vertical_tile_gap">8.0dip</dimen>
+    <dimen name="qs_tile_vertical_tile_bottom_padding_quick_off">-12.0dip</dimen>
+    <item type="dimen" name="recents_stack_initial_card_position">0.79</item>
+    <item type="dimen" name="recents_task_visible_area">0.915</item>
+    <item type="dimen" name="recents_stack_additional_alpha_area">0.045</item>
+    <dimen name="keyguard_affordance_height">48.0dip</dimen>
+    <dimen name="keyguard_affordance_width">48.0dip</dimen>
+    <dimen name="keyguard_secure_icon_height">27.0dip</dimen>
+    <dimen name="keyguard_secure_icon_width">27.0dip</dimen>
+    <dimen name="keyguard_indication_text_height">22.0dip</dimen>
+    <dimen name="notification_top_padding_keyguard_cover">139.0dip</dimen>
+    <dimen name="status_bar_recent_remove_all_button_size">16.0dip</dimen>
+    <item type="dimen" name="scover_clock_widget_scale">0.9</item>
+    <dimen name="sview_cover_witdh">305.0dip</dimen>
+    <dimen name="sview_cover_notification_panel_side_margin">1.0dip</dimen>
+    <dimen name="sview_cover_notification_panel_height">287.0dip</dimen>
+    <dimen name="sview_cover_notification_panel_side_padding">13.0dip</dimen>
+    <dimen name="headerview_button_container_end_margin">13.0dip</dimen>
+    <dimen name="headerview_date_timeView_start_padding">16.0dip</dimen>
+    <dimen name="headerview_date_start_margin">6.0dip</dimen>
+    <dimen name="headerview_button_margin">13.0dip</dimen>
+    <dimen name="keyguard_one_hand_pattern_message_area_margin_bottom">59.0dip</dimen>
+</resources>

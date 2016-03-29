@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Teraz vás delia iba %d kroky od toho, aby z vás bol vývojár.</item>
+        <item quantity="one">Teraz ste iba 1 krok od toho, aby z vás bol vývojár.</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">Nastavenie %1$d odtlačku</item>
+        <item quantity="one">Nastavenie %1$d odtlačkov</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Heslo musí obsahovať aspoň %d písmen.</item>
+        <item quantity="one">Heslo musí obsahovať aspoň 1 písmeno.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Heslo musí obsahovať aspoň %d malých písmen.</item>
+        <item quantity="one">Heslo musí obsahovať aspoň 1 malé písmeno.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Heslo musí obsahovať aspoň %d veľkých písmen.</item>
+        <item quantity="one">Heslo musí obsahovať aspoň 1 veľké písmeno.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Heslo musí obsahovať aspoň %d číslic.</item>
+        <item quantity="one">Heslo musí obsahovať aspoň 1 číslicu.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Heslo musí obsahovať aspoň %d symbolov.</item>
+        <item quantity="one">Heslo musí obsahovať aspoň 1 symbol.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Heslo musí obsahovať aspoň %d číslic alebo symbolov.</item>
+        <item quantity="one">Heslo musí obsahovať aspoň 1 číslicu alebo symbol.</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Nesprávny kód PIN SIM karty. Zostáva vám %d pokusu.</item>
+        <item quantity="one">Nesprávny kód PIN SIM karty. Zostávajú vám %d pokusy.</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">Aplikácie v počte %d môžu čítať oznámenia.</item>
+        <item quantity="one">Aplikácie v počte %d majú povolené čítať oznámenia.</item>
+    </plurals>
+    <plurals name="manage_condition_providers_summary_nonzero">
+        <item quantity="other">Počet nainštalovaných aplikácií poskytujúcich stavy pre túto funkciu: %d</item>
+        <item quantity="one">%d app provides conditions</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">Zmena na možnosť Iba budíky platná %1$d minúty (do %2$s)</item>
+        <item quantity="one">Zmena na možnosť Iba budíky platná %1$d minúty (do %2$s)</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">Zmena na možnosť Iba budíky platná %1$d hodiny do %2$s</item>
+        <item quantity="one">Zmena na možnosť Iba budíky platná %1$d hodiny do %2$s</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">Bolo udeleného %d povolenia</item>
+        <item quantity="one">Boli udelené %d povolenia</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">%1$d udeleného povolenia z %2$d</item>
+        <item quantity="one">%1$d udelené povolenia z %2$d</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">Ďalšie povolenia: %d</item>
+        <item quantity="one">%d ďalšie povolenie</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">%d aplikácií môže otvárať podporované odkazy</item>
+        <item quantity="zero">%d aplikácie môžu otvárať podporované odkazy</item>
+        <item quantity="one">%d aplikácie môže otvárať podporované odkazy</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">%d aplikácie má povolené ignorovať optimalizáciu batérie</item>
+        <item quantity="one">%d aplikácie majú povolené ignorovať optimalizáciu batérie</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">%1$d aplikácie použilo pamäť za obdobie: %2$s</item>
+        <item quantity="one">%1$d aplikácie použili pamäť za obdobie: %2$s</item>
+    </plurals>
+    <plurals name="lock_timeout_hours">
+        <item quantity="other">%d hodín</item>
+        <item quantity="one">1 hodina</item>
+    </plurals>
+    <plurals name="lock_timeout_minutes">
+        <item quantity="other">Počet minút: %d</item>
+        <item quantity="one">1 minúta</item>
+    </plurals>
+    <plurals name="lock_timeout_seconds">
+        <item quantity="other">Počet sekúnd: %d</item>
+        <item quantity="one">1 sekunda</item>
+    </plurals>
+</resources>

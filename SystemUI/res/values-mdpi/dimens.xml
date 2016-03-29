@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="battery_margin_bottom">1.0px</dimen>
+    <dimen name="controller_btn_bg_left_margin">22.0dip</dimen>
+    <dimen name="controller_btn_bg_right_margin">22.0dip</dimen>
+    <dimen name="multiwindow_centerbar_menu_press_width">38.0dip</dimen>
+    <dimen name="multiwindow_centerbar_menu_press_height">38.0dip</dimen>
+    <dimen name="multiwindow_centerbar_menu_press_radius">19.0dip</dimen>
+</resources>

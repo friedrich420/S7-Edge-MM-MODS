@@ -1,0 +1,1249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sview_cover_wday_month_day_no_year">E، d MMMM</string>
+    <string name="sview_cover_wday_day_month_no_year">E، d MMMM</string>
+    <string name="sview_cover_dual_wday_month_day_no_year">E، d MMM</string>
+    <string name="sview_cover_dual_wday_day_month_no_year">E، d MMM</string>
+    <string name="clear_cover_wday_day">E</string>
+    <string name="clear_cover_month_day_no_year">MMM d</string>
+    <string name="clear_cover_day_month_no_year">d MMM</string>
+    <string name="save">حفظ</string>
+    <string name="cancel">إلغاء</string>
+    <string name="close">اغلاق</string>
+    <string name="ok">موافق</string>
+    <string name="back">رجوع</string>
+    <string name="set">ضبط</string>
+    <string name="s_view_cover_set_wallpaper">تعيين كخلفية للشاشة</string>
+    <string name="clearcover_no_missed_event">لا توجد لديك أحداث فائتة.</string>
+    <string name="clearcover_1_missed_call">لديك مكالمة فائتة.</string>
+    <string name="clearcover_1_unread_message">لديك رسالة واحدة غير مقروءة.</string>
+    <string name="clearcover_n_missed_calls">لديك %d مكالمة فائتة.</string>
+    <string name="clearcover_n_unread_messages">لديك %1$d رسائل غير مقروءة.</string>
+    <string name="clearcover_calls_and_messages">لديك %1$d مكالمات فائتة و%2$d رسائل غير مقروءة.</string>
+    <string name="zzz_tts_temp_celsius">مئوية</string>
+    <string name="zzz_tts_temp_fahrenheit">فهرنهايت</string>
+    <string name="zzz_tts_temperature">درجة</string>
+    <string name="volumepanel_notification">الإشعار</string>
+    <string name="s_view_cover_shortcuts_title_text">الاختصارات</string>
+    <string name="s_view_cover_shortcuts_camera_text">الكاميرا</string>
+    <string name="s_view_cover_shortcuts_settings_text">الضبط</string>
+    <string name="s_view_cover_shortcuts_favorite_text">جهات الاتصال المفضلة</string>
+    <string name="s_view_cover_shortcuts_light_text">الكشاف</string>
+    <string name="s_view_cover_shortcuts_heart_text">سرعة ضربات القلب</string>
+    <string name="s_view_cover_shortcuts_quick_memo_text">مذكرة المهام</string>
+    <string name="select_background_color">تعيين خلفية إطار S الشفاف</string>
+    <string name="select_background_color_title">تعيين الخلفية</string>
+    <string name="s_view_stylized_clock_theme">ضبط الساعة العصرية</string>
+    <string name="s_view_window_theme">خلفية إطار S الشفاف</string>
+    <string name="s_view_info_cover">تحديد عناصر للعرض</string>
+    <string name="s_view_screen_roaming">التجوال</string>
+    <string name="s_view_screen_home">منزل</string>
+    <string name="battery_charging_percent">يتم الآن الشحن: %d%%</string>
+    <string name="battery_wireless_charging_percent">جارٍ الشحن لاسلكياً: %d%%</string>
+    <string name="battery_wireless_fast_charging_percent">الشحن السريع لاسلكياً: %d%%</string>
+    <string name="battery_charged">تم الشحن.</string>
+    <string name="s_view_cover_transport_prev_description">سابق</string>
+    <string name="s_view_cover_transport_next_description">التالي</string>
+    <string name="s_view_cover_transport_pause_description">إيقاف مؤقت</string>
+    <string name="s_view_cover_transport_play_description">تشغيل</string>
+    <string name="s_view_cover_transport_stop_description">إيقاف</string>
+    <string name="s_view_cover_transport_volume_description">درجة الصوت</string>
+    <string name="s_view_cover_transport_playlist_description">قوائم التشغيل</string>
+    <string name="s_view_cover_missed_event_secured_popup">تم قفل الجهاز. افتح الغلاف لعرض مزيد من التفاصيل.</string>
+    <string name="s_view_cover_open_cover_popup">افتح الغلاف لتعيين الخلفية.</string>
+    <string name="s_view_cover_open_cover_popup_view_detail">افتح الغلاف لعرض التفاصيل.</string>
+    <string name="s_view_cover_open_cover_popup_for_detail_message">افتح الغلاف لعرض تفاصيل الرسالة.</string>
+    <string name="s_view_cover_open_cover_popup_for_detail_call">افتح الغلاف لعرض تفاصيل المكالمة</string>
+    <string name="s_view_cover_missed_event_button_accessibiliy">اسحب بإصبعين للانتقال إلى صفحة الحدث الفائت.</string>
+    <string name="s_view_cover_settings_button_accessibiliy">اسحب بإصبعين للانتقال إلى الضبط.</string>
+    <string name="s_view_cover_camera_button_accessibiliy">انقر نقرا مزدوجا مع السحب لفتح الكاميرا.</string>
+    <string name="s_view_cover_favourite_button_accessibiliy">انقر نقراً مزدوجاً فوق جهات الاتصال المفضلة ثم اسحبها لفتحها.</string>
+    <string name="accessibility_battery_level">شحن البطارية %d</string>
+    <string name="s_view_cover_open_popup_favorite">تم إقفال الجهاز. افتح الغلاف لعرض جهات الاتصال المفضلة.</string>
+    <string name="mini_view_cover_settings_description">افتح الغلاف للانتقال إلى ضبط غلاف S الشفاف.</string>
+    <string name="s_view_cover_warn_popup_stylized_clock">يتعذر عرض الخلفيات ومعلومات مقياس الخطوات ومعلومات حالة الطقس عندما تكون ساعة عصرية معروضةً على إطار غلاف S الشفاف.</string>
+    <string name="s_view_wallpaper_selected_tts">الخلفية %1$d من %2$d</string>
+    <string name="popup_do_not_show_gain">عدم العرض مرة أخرى</string>
+    <string name="pinwindowcover_warning_content">لاستخدام التطبيق المثبت، افتح الغلاف.</string>
+    <string name="battery_fast_charging_percent">الشحن السريع: %d%%</string>
+    <string name="app_name">Keyguard</string>
+    <string name="keyguard_password_enter_pin_code">‏اكتب رمز رمز PIN</string>
+    <string name="keyguard_password_enter_puk_code">‏أدخل رمز PUK لبطاقة SIM ورمز \"رقم التعريف الشخصي\" الجديد</string>
+    <string name="keyguard_password_enter_puk_prompt">‏رمز PUK لبطاقة SIM</string>
+    <string name="keyguard_password_enter_pin_prompt">‏رمز \"رقم تعريف شخصي\" جديد لبطاقة SIM</string>
+    <string name="keyguard_password_entry_touch_hint"><font size="17">المس لكتابة كلمة المرور</font></string>
+    <string name="keyguard_password_enter_password_code">اكتب كلمة المرور لإلغاء التأمين</string>
+    <string name="keyguard_password_enter_pin_password_code">‏اكتب رمز PIN لإلغاء التأمين</string>
+    <string name="keyguard_password_wrong_pin_code">‏رمز PIN غير صحيح.</string>
+    <string name="keyguard_charged">تم الشحن بالكامل</string>
+    <string name="keyguard_plugged_in">يتم الآن الشحن: %d%%</string>
+    <string name="keyguard_low_battery">توصيل الشاحن</string>
+    <string name="keyguard_connect_charger">توصيل الشاحن</string>
+    <string name="keyguard_instructions_when_pattern_disabled">اضغط على \"القائمة\" لإلغاء القفل.</string>
+    <string name="keyguard_network_locked_message">الشبكة مؤمّنة</string>
+    <string name="kg_missing_sim_message_short">لا توجد بطاقة SIM</string>
+    <string name="keyguard_missing_sim_message_short">‏ليست هناك شريحة SIM</string>
+    <string name="keyguard_missing_sim_message">أدخل بطاقة USIM ثم أعِد تشغيل الجهاز</string>
+    <string name="keyguard_missing_sim_instructions">‏أدخل شريحة SIM.</string>
+    <string name="keyguard_missing_sim_instructions_long">‏شريحة SIM مفقودة أو غير قابلة للقراءة. أدخل شريحة SIM.</string>
+    <string name="keyguard_permanent_disabled_sim_message_short">‏شريحة SIM غير قابلة للاستخدام.</string>
+    <string name="keyguard_permanent_disabled_sim_instructions">"‏تم تعطيل شريحة SIM بشكل دائم.
+ اتصل بمقدم خدمة اللاسلكي للحصول على شريحة SIM أخرى."</string>
+    <string name="keyguard_sim_locked_message">‏شريحة SIM مؤمّنة.</string>
+    <string name="keyguard_sim_puk_locked_message">‏شريحة SIM مؤمّنة بكود PUK.</string>
+    <string name="keyguard_sim_unlock_progress_dialog_message">‏جارٍ إلغاء تأمين شريحة SIM…</string>
+    <string name="keyguard_accessibility_pattern_unlock">إلغاء القفل باستخدام النقش.</string>
+    <string name="keyguard_accessibility_pin_unlock">‏إلغاء القفل باستخدام رمز PIN.</string>
+    <string name="keyguard_accessibility_password_unlock">إلغاء القفل باستخدام كلمة المرور.</string>
+    <string name="keyguard_accessibility_pattern_area">منطقة النقش.</string>
+    <string name="keyguard_accessibility_slide_area">منطقة التمرير.</string>
+    <string name="keyguard_accessibility_pin_area">منطقة رقم التعريف الشخصي</string>
+    <string name="keyguard_accessibility_sim_pin_area">‏منطقة رقم التعريف الشخصي لبطاقة SIM</string>
+    <string name="keyguard_accessibility_sim_puk_area">‏منطقة PUK لبطاقة SIM</string>
+    <string name="keyguard_accessibility_next_alarm">تم ضبط التنبيه التالي على %1$s</string>
+    <string name="keyboardview_keycode_delete">حذف</string>
+    <string name="keyboardview_keycode_enter">إدخال</string>
+    <string name="kg_forgot_pattern_button_text">نسيت النقش</string>
+    <string name="kg_wrong_pattern">تم رسم نقش غير صحيح</string>
+    <string name="kg_wrong_password">تم إدخال كلمة مرور غير صحيحة</string>
+    <string name="kg_wrong_pin">تم إدخال رقم PIN غير صحيح</string>
+    <string name="kg_n_attempts_remaining">(تبقّت %d من المحاولات)</string>
+    <string name="kg_1_attempt_remaining">(تبقّت محاولة واحدة)</string>
+    <string name="kg_too_many_failed_attempts_countdown">أعد المحاولة خلال %d ثوان.</string>
+    <string name="kg_too_many_failed_attempts_countdown_min">حاول مجدداً بعد دقيقة واحدة</string>
+    <string name="kg_too_many_failed_attempts_countdown_mins">حاول مجدداً بعد %d من الدقائق</string>
+    <string name="kg_pattern_bouncer_instructions">رسم نمط إلغاء القفل للفتح</string>
+    <string name="kg_pin_bouncer_instructions">إدخال رقم PIN للفتح</string>
+    <string name="kg_password_bouncer_instructions">إدخال كلمة المرور للفتح</string>
+    <string name="kg_pattern_instructions">ارسم نقش إلغاء القفل</string>
+    <string name="kg_sim_pin_instructions">‏أدخل رمز PIN لبطاقة SIM</string>
+    <string name="kg_unlock_sim_pin_instructions">أدخل بطاقة SIM لإلغاء قفل رمز PIN.</string>
+    <string name="kg_sim_puk_instructions">تم إقفال بطاقة SIM. أدخل رمز PUK. اتصل بمزود الخدمة للحصول على تفاصيل.</string>
+    <string name="kg_sim_pin_instructions_multi">‏إدخال رقم التعريف الشخصي لبطاقة SIM التابعة للمشغل \"%1$s\".</string>
+    <string name="kg_pin_instructions">إدخال رمز PIN</string>
+    <string name="kg_backup_pin_instructions">إدخال رقم PIN الاحتياطي‬</string>
+    <string name="kg_backup_password_instructions">أدخل كلمة مرور النسخ الاحتياطي</string>
+    <string name="kg_password_instructions">إدخال كلمة المرور</string>
+    <string name="kg_puk_enter_puk_hint">‏شريحة SIM معطلة الآن. أدخل رمز PUK للمتابعة. اتصل بمشغل شبكة الجوال للاطلاع على التفاصيل.</string>
+    <string name="kg_puk_enter_puk_hint_multi">‏SIM \"%1$s\" معطلة الآن. أدخل رمز PUK للمتابعة. واتصل بمشغل شبكة الجوال لمعرفة التفاصيل.</string>
+    <string name="kg_puk_enter_pin_hint">أدخل رقم PIN جديد لبطاقة SIM.</string>
+    <string name="kg_enter_confirm_pin_hint">أدخل رقم PIN جديد لبطاقة SIM مجدداً لتأكيده.</string>
+    <string name="kg_sim_unlock_progress_dialog_message">جار إلغاء قفل بطاقة SIM…</string>
+    <string name="kg_invalid_sim_pin_hint">‏اكتب رمز PIN المكون من 4 إلى 8 أرقام.</string>
+    <string name="kg_invalid_sim_puk_hint">‏يجب أن يتضمن رمز PUK‏ 8 أرقام أو أكثر.</string>
+    <string name="kg_invalid_puk">‏أعد إدخال رمز PUK الصحيح. وستؤدي المحاولات المتكررة إلى تعطيل شريحة SIM نهائيًا.</string>
+    <string name="kg_invalid_confirm_pin_hint">‏لا يتطابق رمزا رمز PIN</string>
+    <string name="kg_login_too_many_attempts">محاولات النقش كثيرة جدًا</string>
+    <string name="kg_login_username_hint">اسم المستخدم (بريد إلكتروني)</string>
+    <string name="kg_login_password_hint">كلمة المرور</string>
+    <string name="kg_login_submit_button">تسجيل دخول</string>
+    <string name="kg_login_invalid_input">اسم مستخدم أو كلمة مرور غير صالحة.</string>
+    <string name="no_network_connection">ما من اتصال بالشبكة</string>
+    <string name="kg_forgot_spass_button_text">Samsung account</string>
+    <string name="kg_login_checking_password">جار التحقق من الحساب…</string>
+    <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"‏لقد كتبت رمز PIN بشكل غير صحيح %d مرة. 
+
+أعد المحاولة خلال %d ثانية."</string>
+    <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"لقد كتبت كلمة المرور بشكل غير صحيح %d مرة. 
+
+أعد المحاولة خلال %d ثانية."</string>
+    <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"لقد رسمت نقش إلغاء التأمين بطريقة غير صحيحة %d مرة. 
+
+أعد المحاولة خلال %d ثانية."</string>
+    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">أخطأت في محاولة إلغاء قفل الهاتف %d من المرات. بعد %d من المحاولات غير الناجحة الأخرى، ستتم إعادة تعيين هذا الهاتف والتي بدورها تحذف جميع بياناته.</string>
+    <string name="kg_failed_attempts_now_wiping">أخطأت في محاولة إلغاء قفل الهاتف %d من المرات. ستتم إعادة تعيين هذا الهاتف والتي بدورها تحذف جميع بياناته.</string>
+    <string name="kg_failed_attempts_almost_at_erase_user" formatted="false">أخطأت في محاولة إلغاء قفل الهاتف %d من المرات. بعد %d من المحاولات غير الناجحة الأخرى، ستتم إزالة هذا المستخدم والتي بدورها تحذف جميع بيانات المستخدم.</string>
+    <string name="kg_failed_attempts_now_erasing_user">أخطأت في محاولة إلغاء قفل الهاتف %d من المرات. ستتم إزالة المستخدم والتي بدورها تحذف جميع بياناته.</string>
+    <string name="kg_failed_attempts_almost_at_erase_profile" formatted="false">أخطأت في محاولة إلغاء قفل الهاتف %d من المرات. بعد %d من المحاولات غير الناجحة الأخرى، ستتم إزالة الملف الشخصي للعمل والتي بدورها تحذف جميع بيانات الملف الشخصي.</string>
+    <string name="kg_failed_attempts_now_erasing_profile">أخطأت في محاولة إلغاء قفل الهاتف %d من المرات. ستتم إزالة الملف الشخصي للعمل والتي بدورها تحذف جميع بياناته.</string>
+    <string name="kg_sec_1_failed_attempt_almost_at_wipe">تم إجراء محاولة لإلغاء قفل الجهاز. تبقت لك %d من المحاولات قبل إعادة ضبط الجهاز إلى ضبط المصنع الافتراضي ومحو كل البيانات، بما فيها الملفات والتطبيقات التي تم تنزيلها.</string>
+    <string name="kg_sec_failed_attempts_almost_at_wipe">تم إجراء محاولة لإلغاء قفل الجهاز %1$d من المرات. تبقت لك %2$d من المحاولات قبل إعادة ضبط الجهاز إلى ضبط المصنع الافتراضي ومحو كل البيانات، بما فيها الملفات والتطبيقات التي تم تنزيلها.</string>
+    <string name="kg_sec_1_remaing_count_almost_at_wipe">تم إجراء محاولة لإلغاء قفل الجهاز %d من المرات. تبقّت لك محاولة واحدة قبل إعادة ضبط الجهاز إلى ضبط المصنع ومحو كل البيانات، بما في ذلك الملفات والتطبيقات التي تم تنزيلها.</string>
+    <string name="kg_sec_1_failed_attempt_almost_at_erase_user">تم إجراء محاولة لإلغاء قفل الجهاز. تبقت لك %d من المحاولات قبل حذف ملف تعريفك مع كل التطبيقات التي تم تنزيلها والبيانات ذات الصلة.</string>
+    <string name="kg_sec_failed_attempts_almost_at_erase_user">تم إجراء محاولة لإلغاء قفل الجهاز %1$d من المرات. تبقت لك %2$d من المحاولات قبل حذف ملف تعريفك مع كل التطبيقات التي تم تنزيلها والبيانات ذات الصلة.</string>
+    <string name="kg_sec_1_remaing_count_almost_at_erase_user">تم إجراء محاولة لإلغاء قفل الجهاز %d من المرات. تبقت لك محاولة قبل حذف ملف تعريفك مع كل التطبيقات التي تم تنزيلها والبيانات ذات الصلة.</string>
+    <string name="kg_sec_failed_attempts_now_erasing_user">تم إجراء محاولة لإلغاء قفل الجهاز %d من المرات. سيتم حذف ملف تعريفك، بالإضافة إلى كل التطبيقات التي تم تنزيلها والبيانات ذات الصلة به. تتعذر استعادة هذه البيانات.</string>
+    <string name="kg_sec_1_failed_attempt_almost_at_erase_profile">تم إجراء محاولة لإلغاء قفل الجهاز. تبقت لك %d من المحاولات قبل حذف ملف تعريف عملك مع كل التطبيقات التي تم تنزيلها والبيانات ذات الصلة.</string>
+    <string name="kg_sec_failed_attempts_almost_at_erase_profile">تم إجراء محاولة لإلغاء قفل الجهاز %1$d من المرات. تبقت لك %2$d من المحاولات قبل حذف ملف تعريف عملك مع كل التطبيقات التي تم تنزيلها والبيانات ذات الصلة.</string>
+    <string name="kg_sec_1_remaing_count_almost_at_erase_profile">تم إجراء محاولة لإلغاء قفل الجهاز %d من المرات. تبقت لك محاولة قبل حذف ملف تعريف عملك مع كل التطبيقات التي تم تنزيلها والبيانات ذات الصلة.</string>
+    <string name="kg_sec_failed_attempts_now_erasing_profile">تم إجراء محاولة لإلغاء قفل الجهاز %d من المرات. سيتم حذف ملف تعريف عملك، بالإضافة إلى كل التطبيقات التي تم تنزيلها والبيانات ذات الصلة به. تتعذر استعادة هذه البيانات.</string>
+    <string name="kg_failed_attempts_almost_at_login" formatted="false">"لقد رسمت نقش إلغاء التأمين بشكل غير صحيح %d مرة. بعد إجراء %d من المحاولات غير الناجحة الأخرى، ستُطالب بإلغاء تأمين الهاتف باستخدام حساب بريد إلكتروني لإلغاء تأمين الهاتف.
+
+ أعد المحاولة خلال %d ثانية."</string>
+    <string name="kg_password_wrong_pin_code_pukked">‏رمز \"رقم التعريف الشخصي\" لبطاقة SIM غير صحيح، ويلزمك الاتصال الآن بمشغّل شبكة الجوّال لإلغاء قفل الجهاز.</string>
+    <string name="kg_password_wrong_pin_code_one">تم إدخال رقم PIN غير صحيح لبطاقة SIM. تبقى لك محاولة واحدة.</string>
+    <string name="kg_password_wrong_pin_code_other">تم إدخال رقم PIN غير صحيح لبطاقة SIM. تبقت لك %d من المحاولات.</string>
+    <string name="kg_password_wrong_puk_code_dead">‏شريحة SIM غير صالحة للاستخدام. يُرجى الاتصال بمشغّل شبكة الجوّال.</string>
+    <string name="kg_password_pin_failed">‏أخفقت عملية \"رقم التعريف الشخصي\" لبطاقة SIM!</string>
+    <string name="kg_password_puk_failed">‏أخفقت عملية PUK لبطاقة SIM!</string>
+    <string name="kg_pin_accepted">تم قبول الرمز!</string>
+    <string name="keyguard_carrier_default">لا تتوفر خدمة</string>
+    <string name="accessibility_ime_switch_button">زر تبديل طريقة الإدخال.</string>
+    <string name="airplane_mode">وضع الطيران</string>
+    <string name="kg_prompt_reason_restart_pattern">يجب رسم النقش عند إعادة تشغيل الجهاز.</string>
+    <string name="kg_prompt_reason_restart_pin">يجب إدخال رقم التعريف الشخصي عند إعادة تشغيل الجهاز.</string>
+    <string name="kg_prompt_reason_restart_password">يجب إدخال كلمة المرور عند إعادة تشغيل الجهاز.</string>
+    <string name="kg_strong_auth_prompt_reason_timeout_pattern">ارسم نمطاً بدل استخدام التعرف على البصمات بعد عدم استخدام الجهاز لأكثر من ٢٤ ساعة لحماية البصمات</string>
+    <string name="kg_strong_auth_prompt_reason_timeout_pin">أدخل رقم PIN بدل استخدام التعرف على البصمات بعد عدم استخدام الجهاز لأكثر من ٢٤ ساعة لحماية البصمات</string>
+    <string name="kg_strong_auth_prompt_reason_timeout_password">أدخل كلمة المرور بدل استخدام التعرف على البصمات بعد عدم استخدام الجهاز لأكثر من ٢٤ ساعة لحماية البصمات</string>
+    <string name="kg_prompt_reason_switch_profiles_pattern">يجب رسم النقش عند تبديل الملفات الشخصية.</string>
+    <string name="kg_prompt_reason_switch_profiles_pin">يجب إدخال رقم التعريف الشخصي عند تبديل الملفات الشخصية.</string>
+    <string name="kg_prompt_reason_switch_profiles_password">يجب إدخال كلمة المرور عند تبديل الملفات الشخصية.</string>
+    <string name="fingerprint_not_recognized">لم يتم التعرف عليها</string>
+    <string name="fingerprint_no_match">لا يوجد تطابق</string>
+    <string name="keyguard_perso_locked_message">Block other USIM</string>
+    <string name="keyguard_pin_locked_message">إدخال رمز PIN</string>
+    <string name="keyguard_puk_locked_message">إدخال رمز PUK</string>
+    <string name="keyguard_dualclock_home">منزل</string>
+    <string name="keyguard_dualclock_roaming">التجوال</string>
+    <string name="keyguard_dualclock_home_Seoul">سيول</string>
+    <string name="keyguard_dualclock_roaming_Korea">التجوال</string>
+    <string name="keyguard_progress_erasing_all">جار حذف جميع البيانات…</string>
+    <string name="keyguard_recovery_instructions">أدخل كلمة مرور الاسترداد‬‬ لإلغاء القفل.</string>
+    <string name="kg_sim_pin_remaining_1_attempt">تبقى لك محاولة واحدة.</string>
+    <string name="kg_sim_pin_remaining_attempts">تبقت لك %d من المحاولات.</string>
+    <string name="kg_sim_puk_remaining_1_attempt">إذا قمت بإدخال رمز PUK غير صحيح مرة واحدة إضافية، فسيتم إقفال بطاقة SIM.</string>
+    <string name="kg_sim_puk_remaining_attempts">إذا قمت بإدخال رمز PUK غير صحيح %d من المرات الإضافية، فسيتم إقفال بطاقة SIM.</string>
+    <string name="kg_kor_password_wrong_pin_code">تم إدخال رقم PIN غير صحيح. تبقى %d من المحاولات. اتصل بخدمات العملاء.</string>
+    <string name="kg_kor_sim_unlock_progress_dialog_message">إلغاء تأمين بطاقة SIM</string>
+    <string name="kg_kor_sim_puk_instructions">أدخل رمز PUK.</string>
+    <string name="kg_kor_invalid_sim_puk_hint">أدخل رمز PIN لإلغاء القفل (PUK) يتكون من 8 أرقام</string>
+    <string name="kg_kor_empty_sim_puk_hint">لم يتم إدخال رمز إلغاء القفل. أدخل رمز PIN لإلغاء القفل (PUK).</string>
+    <string name="kg_kor_puk_enter_pin_hint">"أنشئ رقم PIN جديد لبطاقة USIM.
+يجب أن يتراوح طول رقم PIN بين ٤ و٨ أرقام."</string>
+    <string name="kg_kor_enter_confirm_pin_hint">أدخل رقم PIN لبطاقة USIM مجدداً لتأكيده.</string>
+    <string name="kg_kor_invalid_confirm_pin_hint">لا يتطابق رقما PIN الجديدين.</string>
+    <string name="kg_kor_wrong_puk_code">خطأ في إدخال رمز إلغاء القفل</string>
+    <string name="kg_kor_sim_puk_remaining_attempts">"تم إدخال رمز PUK غير صحيح %1$d من المرات. إذا تم إدخال رمز PUK غير صحيح %2$d من المرات الإضافية، فسيتم حظر بطاقة USIM بشكل دائم.
+
+إذا كنت لا تعلم رمز PUK، فيُرجى زيارة مركز خدمة العملاء."</string>
+    <string name="kg_kor_success_pin_message">تم حفظ كلمة المرور الجديدة (PIN) بنجاح.</string>
+    <string name="kg_ktt_sim_perso_instructions">أدخل كلمة مرور (PIN) مكونة من 4 إلى 8 أرقام</string>
+    <string name="kg_empty_sim_perso_hint">لم يتم إدخال كلمة المرور. أدخل كلمة المرور (PIN).</string>
+    <string name="kg_password_perso_failed">Incorrect PIN. Check PIN and try again.</string>
+    <string name="kg_password_perso_max_failed">Incorrect PIN entered for USIM card lock. Maximum number of retries reached. Restart device or visit CS centre.</string>
+    <string name="keyguard_fmm_phone_locked_title">تم إقفال الهاتف.</string>
+    <string name="keyguard_fmm_owner_phone">رقم المالك</string>
+    <string name="kg_wrong_universal_lock">تم رسم اتجاه غير صحيح</string>
+    <string name="kg_universal_lock_instructions_normal_mode">ارسم سلسلة من الاتجاهات لإلغاء قفل الشاشة</string>
+    <string name="keyguard_accessibility_universal_lock_unlock">قفل الاتجاه</string>
+    <string name="kg_wrong_universal_lock_vzw">Incorrect directions (%d attempts remaining)</string>
+    <string name="universal_lock_too_many_failed_attempts_countdown">أعد المحاولة خلال %d ثوان</string>
+    <string name="kg_too_many_failed_attempt_countdown">أعد المحاولة بعد ثانية واحدة</string>
+    <string name="kg_lockscreen_backup_pin_button_text">رقم PIN للنسخ الاحتياطي</string>
+    <string name="kg_lockscreen_emergency_call_button_text">مكالمة الطوارئ</string>
+    <string name="kg_sim_lock_accepted">تم قبول الرمز.</string>
+    <string name="kg_fingerprints_pattern_instructions">استخدام البصمة أو رسم نقش إلغاء القفل</string>
+    <string name="kg_fingerprints_pin_instructions">استخدام البصمة أو إدخال رمز PIN</string>
+    <string name="kg_fingerprints_password_instructions">استخدام البصمة أو إدخال كلمة المرور</string>
+    <string name="kg_fingerprints_pattern_bouncer_instructions">استخدام خيارَي البصمة أو رسم نقش للفتح</string>
+    <string name="kg_fingerprints_pin_bouncer_instructions">استخدام خيارَي البصمة أو إدخال رقم PIN للفتح</string>
+    <string name="kg_fingerprints_password_bouncer_instructions">استخدام خيارَي البصمة أو إدخال كلمة مرور للفتح</string>
+    <string name="kg_fingerprints_pattern_unabled_instructions">ارسم نمطاً بدل استخدام التعرف على البصمات بعد إعادة تشغيل الجهاز لحماية البصمات</string>
+    <string name="kg_fingerprints_pin_unabled_instructions">أدخل رقم PIN بدل استخدام التعرف على البصمات بعد إعادة تشغيل الجهاز لحماية البصمات</string>
+    <string name="kg_fingerprints_password_unabled_instructions">أدخل كلمة المرور بدل استخدام التعرف على البصمات بعد إعادة تشغيل الجهاز لحماية البصمات</string>
+    <string name="kg_finger_print_not_responding_error_message">مستشعر البصمات لا يستجيب. حاول مرة أخرى لاحقًا.</string>
+    <string name="kg_finger_print_database_error_message">تم إتلاف بيانات البصمات. أعد ضبط البصمة كنوع قفل الشاشة، ثم أضف بصماتك مجدداً أو قم بتغيير نوع قفل الشاشة.</string>
+    <string name="kg_finger_print_sensor_with_recalibration_error_message">تأكد من أن مفتاح الشاشة الرئيسية نظيف وجاف، وحاول مرة أخرى.</string>
+    <string name="kg_finger_print_sensor_changed_error_message">لم يتم تغيير مستشعر البصمات بشكل صحيح. اتصل بخدمات العملاء.</string>
+    <string name="kg_fingerprints_upgrade_popup_title">تحديث سياسة الحماية للبصمات</string>
+    <string name="kg_fingerprints_upgrade_instructions">"عليك تحديث سياسة الحماية لحماية بصماتك.
+
+لاستخدام البصمة كنوع قفل شاشتك، انقر فوق ”التالي“ لإنشاء رقم PIN أو نقش أو كلمة مرور لاستخدامها كطريقة تحقق مزدوجة.
+
+يتم استخدام طريقة التحقق المزدوجة بدلاً من التعرف على البصمات في الحالات التالية:
+
+عند إعادة تشغيل الجهاز
+عند عدم استخدام الجهاز لأكثر من %s من الساعات
+عند تغيير ضبط نوع قفل الشاشة أو البصمة"</string>
+    <string name="keyguard_accessibility_one_hand_operation_left_handed">مستخدم اليد اليسرى</string>
+    <string name="keyguard_accessibility_one_hand_operation_right_handed">مستخدم اليد اليمنى</string>
+    <string name="kg_too_many_failed_attempts_countdown_hours_with_auto_wipe">"تم إجراء محاولة لإلغاء قفل الجهاز %1$d من المرات. تبقّت لك %2$d من المحاولات قبل إعادة ضبط الجهاز إلى ضبط المصنع الافتراضي ومحو كل البيانات.
+
+أعد المحاولة بعد %3$d من الساعات."</string>
+    <string name="kg_too_many_failed_attempts_countdown_1_hour_with_auto_wipe">"تم إجراء محاولة لإلغاء قفل الجهاز %1$d من المرات. تبقّت لك %2$d من المحاولات قبل إعادة ضبط الجهاز إلى ضبط المصنع الافتراضي ومحو كل البيانات.
+
+أعد المحاولة بعد ساعة."</string>
+    <string name="kg_remained_1_attempts_with_auto_wipe">You only have 1 attempt left to unlock your phone before it is reset to factory mode. This will delete all data, including files and downloaded apps.</string>
+    <string name="kg_remained_1_attempts_with_auto_wipe_subuser">You only have 1 attempt left to unlock your tablet before your account is removed. This will delete all data on your account, including files, and downloaded apps.</string>
+    <string name="kg_too_many_failed_attempts_countdown_mins_with_auto_wipe">"تم إجراء محاولة لإلغاء قفل الجهاز %1$d من المرات. تبقّت لك %2$d من المحاولات قبل إعادة ضبط الجهاز إلى ضبط المصنع الافتراضي ومسح كل البيانات.
+
+حاول مجدداً بعد %3$d من الدقائق"</string>
+    <string name="kg_too_many_failed_attempts_countdown_secs_with_auto_wipe">"تم إجراء محاولة لإلغاء قفل الجهاز %1$d من المرات. تبقّت لك %2$d من المحاولات قبل إعادة ضبط الجهاز إلى ضبط المصنع الافتراضي ومحو كل البيانات.
+
+حاول مجدداً بعد %3$d من الثواني"</string>
+    <string name="kg_too_many_failed_attempts_countdown_1_min_with_auto_wipe">"تم إجراء محاولة لإلغاء قفل الجهاز %1$d من المرات. تبقّت لك %2$d من المحاولات قبل إعادة ضبط الجهاز إلى ضبط المصنع الافتراضي ومسح كل البيانات.
+
+حاول مجدداً بعد دقيقة واحدة"</string>
+    <string name="kg_too_many_failed_attempts_countdown_1_sec_with_auto_wipe">"تم إجراء محاولة لإلغاء قفل الجهاز %1$d من المرات. تبقّت لك %2$d من المحاولات قبل إعادة ضبط الجهاز إلى ضبط المصنع الافتراضي ومحو كل البيانات.
+
+حاول مجدداً بعد ثانية واحدة"</string>
+    <string name="kg_remained_1_attempt_countdown_mins_with_auto_wipe">"تم إجراء محاولة لإلغاء قفل الجهاز %1$d من المرات. تبقّت لك محاولة واحدة قبل إعادة ضبط الجهاز إلى ضبط المصنع الافتراضي ومسح كل البيانات.
+
+حاول مجدداً بعد %2$d من الدقائق"</string>
+    <string name="kg_remained_1_attempt_countdown_secs_with_auto_wipe">"تم إجراء محاولة لإلغاء قفل الجهاز %1$d من المرات. تبقّت لك محاولة واحدة قبل إعادة ضبط الجهاز إلى ضبط المصنع الافتراضي ومحو كل البيانات.
+
+حاول مجدداً بعد %2$d من الثواني"</string>
+    <string name="kg_remained_1_attempt_countdown_1_min_with_auto_wipe">"تم إجراء محاولة لإلغاء قفل الجهاز %d من المرات. تبقّت لك محاولة واحدة قبل إعادة ضبط الجهاز إلى ضبط المصنع الافتراضي ومسح كل البيانات.
+
+حاول مجدداً بعد دقيقة واحدة"</string>
+    <string name="kg_remained_1_attempt_countdown_1_sec_with_auto_wipe">"تم إجراء محاولة لإلغاء قفل الجهاز %d من المرات. تبقّت لك محاولة واحدة قبل إعادة ضبط الجهاز إلى ضبط المصنع الافتراضي ومحو كل البيانات.
+
+حاول مجدداً بعد ثانية واحدة"</string>
+    <string name="kg_too_many_failed_attempts_remaining_with_auto_wipe">تتبقى %d من المحاولات</string>
+    <string name="kg_too_many_failed_1_attempt_remaining_with_auto_wipe">تتبقى محاولة واحدة</string>
+    <string name="kg_too_many_failed_countdown_mins_with_auto_wipe">حاول مجدداً بعد %d من الدقائق</string>
+    <string name="kg_too_many_failed_countdown_1_min_with_auto_wipe">حاول مجدداً بعد دقيقة واحدة</string>
+    <string name="kg_too_many_failed_countdown_secs_with_auto_wipe">حاول مجدداً بعد %d من الثواني</string>
+    <string name="kg_too_many_failed_countdown_1_sec_with_auto_wipe">أعد المحاولة بعد ثانية واحدة</string>
+    <string name="kg_too_many_failed_attempts_remaining_with_auto_wipe_mobile_keyboard">تبقّت لك %d من المحاولات قبل إعادة ضبط الجهاز إلى ضبط المصنع الافتراضي ومسح كل البيانات.</string>
+    <string name="kg_too_many_failed_1_attempt_remaining_with_auto_wipe_mobile_keyboard">تبقّت لك محاولة واحدة قبل إعادة ضبط الجهاز إلى ضبط المصنع الافتراضي ومسح كل البيانات.</string>
+    <string name="kg_tts_shortcut_phone">انقر نقرا مزدوجاً مع السحب لفتح الهاتف.</string>
+    <string name="kg_tts_shortcut_camera">انقر نقرا مزدوجا مع السحب لفتح الكاميرا.</string>
+    <string name="kg_tts_shortcut_app">انقر نقراً مزدوجاً ثم اسحب لفتح %s.</string>
+    <string name="kg_dcm_sim_puk_instructions">تمّ حظر PIN. أدخل PUK للمتابعة.</string>
+    <string name="kg_liveweather_delete_main_text">ليست خلفية Live weather مدعومة بواسطة إصدار نظام التشغيل هذا. انقر فوق ”ضبط الخلفية“ لتغيير خلفية شاشة القفل لديك.</string>
+    <string name="kg_liveweather_delete_title_text">خلفية شاشة القفل</string>
+    <string name="kg_liveweather_delete_buttion_text">إعدادات الخلفية</string>
+    <string name="kg_default_carrier_text_searching">البحث</string>
+    <string name="flight_mode">وضع الطيران</string>
+    <string name="app_label">واجهة مستخدم النظام</string>
+    <string name="status_bar_clear_all_button">مسح</string>
+    <string name="status_bar_recent_remove_item_title">إزالة من القائمة</string>
+    <string name="status_bar_recent_inspect_item_title">معلومات التطبيق</string>
+    <string name="status_bar_no_recent_apps">تظهر شاشاتك المعروضة مؤخرًا هنا</string>
+    <string name="status_bar_accessibility_dismiss_recents">إزالة التطبيقات الحديثة</string>
+    <string name="status_bar_no_notifications_title">ليس هناك أي اشعارات</string>
+    <string name="status_bar_ongoing_events_title">مستمر</string>
+    <string name="status_bar_latest_events_title">الإشعارات</string>
+    <string name="battery_low_title">البطارية منخفضة</string>
+    <string name="battery_low_percent_format">متبقي %s</string>
+    <string name="battery_low_percent_format_saver_started">متبقي %s. وضع توفير الطاقة قيد التشغيل.</string>
+    <string name="invalid_charger">"‏شحن USB غير معتمد.
+استخدم الشاحن الموفر فقط."</string>
+    <string name="invalid_charger_title">‏لا يمكن إجراء الشحن عبر USB.</string>
+    <string name="invalid_charger_text">لا تستخدم سوى الشاحن المزوّد.</string>
+    <string name="battery_low_why">الإعدادات</string>
+    <string name="battery_saver_confirmation_title">هل تريد تشغيل توفير شحن البطارية؟</string>
+    <string name="battery_saver_confirmation_ok">تشغيل</string>
+    <string name="battery_saver_start_action">تشغيل توفير شحن البطارية</string>
+    <string name="status_bar_settings_settings_button">الإعدادات</string>
+    <string name="status_bar_settings_wifi_button">Wi-Fi</string>
+    <string name="status_bar_settings_auto_rotation">التدوير التلقائي للشاشة</string>
+    <string name="status_bar_settings_mute_label">كتم</string>
+    <string name="status_bar_settings_auto_brightness_label">تلقائي</string>
+    <string name="brightness_controller_label_text">تلقائي</string>
+    <string name="status_bar_settings_notifications">الإشعارات</string>
+    <string name="bluetooth_tethered">تم إنشاء الاتصال بالإنترنت عن طريق البلوتوث.</string>
+    <string name="status_bar_input_method_settings_configure_input_methods">إعداد أسلوب الإدخال</string>
+    <string name="status_bar_use_physical_keyboard">لوحة مفاتيح فعلية</string>
+    <string name="usb_device_permission_prompt">‏هل تريد السماح للتطبيق %1$s بالدخول إلى جهاز USB؟</string>
+    <string name="usb_accessory_permission_prompt">‏هل تريد السماح للتطبيق %1$s بالدخول إلى ملحق USB؟</string>
+    <string name="usb_device_confirm_prompt">‏هل تريد فتح %1$s عند توصيل جهاز USB هذا؟</string>
+    <string name="usb_accessory_confirm_prompt">‏هل تريد فتح %1$s عند توصيل ملحق USB هذا؟</string>
+    <string name="usb_accessory_uri_prompt">‏لا يعمل أي تطبيق مثبت مع ملحق UEB هذا. مزيد من المعلومات عن هذا الملحق على %1$s.</string>
+    <string name="title_usb_accessory">‏ملحق USB</string>
+    <string name="label_view">عرض</string>
+    <string name="always_use_device">‏الاستخدام بشكل افتراضي لجهاز USB هذا</string>
+    <string name="always_use_accessory">‏الاستخدام بشكل افتراضي لملحق USB هذا</string>
+    <string name="usb_debugging_title">‏هل تريد السماح بتصحيح أخطاء USB؟</string>
+    <string name="usb_debugging_message">"‏الملف المرجعي الرئيسي لـ RSA في هذا الكمبيوتر هو:
+%1$s"</string>
+    <string name="usb_debugging_always">السماح دائمًا من هذا الكمبيوتر</string>
+    <string name="usb_debugging_secondary_user_title">‏لا يُسمح بتصحيح أخطاء USB</string>
+    <string name="usb_debugging_secondary_user_message">‏لا يمكن للمستخدم الذي يسجّل دخوله حاليًا إلى هذا الجهاز تشغيل تصحيح أخطاء USB. لاستخدام هذه الميزة، يمكنك التبديل إلى المستخدم الأساسي \"%s\".</string>
+    <string name="compat_mode_on">تكبير/تصغير لملء الشاشة</string>
+    <string name="compat_mode_off">توسيع بملء الشاشة</string>
+    <string name="screenshot_saving_ticker">جارٍ حفظ لقطة الشاشة...</string>
+    <string name="screenshot_saving_title">جارٍ حفظ لقطة الشاشة...</string>
+    <string name="screenshot_saving_text">يتم حفظ لقطة.</string>
+    <string name="screenshot_saved_title">تم التقاط لقطة الشاشة</string>
+    <string name="screenshot_saved_text">انقر لعرض لقطة الشاشة.</string>
+    <string name="screenshot_failed_title">يتعذر التقاط الشاشة</string>
+    <string name="screenshot_failed_text">يتعذر التقاط لقطة شاشة نظرًا لأن مساحة التخزين المتاحة محدودة، أو نظرًا لعدم سماح التطبيق أو المؤسسة بذلك.</string>
+    <string name="screenshot_failed_text_due_to_security_policy">قد تمنع سياسة الحماية التقاط الشاشة.</string>
+    <string name="screen_capture_fail_for_storage_capacity">لا توجد مساحة كافية في وحدة التخزين بالجهاز. احذف بعض الملفات وحاول مرة أخرى.</string>
+    <string name="screen_capture_fail_for_security_policy">يتعذر التقاط لقطة شاشة. تم المنع بواسطة سياسة الحماية.</string>
+    <string name="no_such_item">يتعذر البحث عن العنصر.</string>
+    <string name="one_item_will_be_deleted">سيتم حذف عنصر واحد.</string>
+    <string name="screen_capture_edit">تعديل</string>
+    <string name="screen_capture_share">مشاركة</string>
+    <string name="screen_capture_delete">حذف</string>
+    <string name="share_via">مشاركة عبر</string>
+    <string name="usb_preference_title">‏خيارات نقل الملفات عبر USB</string>
+    <string name="use_mtp_button_title">‏تحميل كمشغل وسائط (MTP)</string>
+    <string name="use_ptp_button_title">‏تحميل ككاميرا (PTP)</string>
+    <string name="installer_cd_button_title">‏تثبيت تطبيق Android File Transfer لـ Mac</string>
+    <string name="accessibility_back">رجوع</string>
+    <string name="accessibility_home">الرئيسية</string>
+    <string name="accessibility_menu">القائمة</string>
+    <string name="accessibility_recent">النظرة عامة</string>
+    <string name="accessibility_search_light">بحث</string>
+    <string name="accessibility_camera_button">الكاميرا</string>
+    <string name="accessibility_phone_button">الهاتف</string>
+    <string name="accessibility_voice_assist_button">المساعد الصوتي</string>
+    <string name="accessibility_unlock_button">إلغاء القفل</string>
+    <string name="accessibility_unlock_button_fingerprint">زر إلغاء القفل، في انتظار بصمة إصبع</string>
+    <string name="accessibility_unlock_without_fingerprint">إلغاء القفل دون استخدام بصمة إصبعك</string>
+    <string name="unlock_label">إلغاء القفل</string>
+    <string name="phone_label">فتح الهاتف</string>
+    <string name="voice_assist_label">فتح المساعد الصوتي</string>
+    <string name="camera_label">فتح الكاميرا</string>
+    <string name="recents_caption_resize">تحديد تنسيق جديد للمهمة</string>
+    <string name="accessibility_compatibility_zoom_button">زر تكبير/تصغير للتوافق.</string>
+    <string name="accessibility_compatibility_zoom_example">استخدام التكبير/التصغير لتحويل شاشة صغيرة إلى شاشة أكبر</string>
+    <string name="accessibility_bluetooth_connected">تم توصيل البلوتوث.</string>
+    <string name="accessibility_bluetooth_disconnected">تم فصل البلوتوث.</string>
+    <string name="accessibility_no_battery">ليست هناك بطارية.</string>
+    <string name="accessibility_battery_one_bar">إشارة البطارية تتكون من شريط واحد.</string>
+    <string name="accessibility_battery_two_bars">إشارة البطارية تتكون من شريطين.</string>
+    <string name="accessibility_battery_three_bars">إشارة البطارية تتكون من ثلاثة أشرطة.</string>
+    <string name="accessibility_battery_full">إشارة البطارية كاملة.</string>
+    <string name="accessibility_no_phone">ليست هناك إشارة بالهاتف.</string>
+    <string name="accessibility_phone_one_bar">إشارة الهاتف تتكون من شريط واحد.</string>
+    <string name="accessibility_phone_two_bars">إشارة الهاتف تتكون من شريطين.</string>
+    <string name="accessibility_phone_three_bars">إشارة الهاتف تتكون من ثلاثة أشرطة.</string>
+    <string name="accessibility_phone_signal_full">إشارة الهاتف كاملة.</string>
+    <string name="accessibility_no_data">لا تتوفر بيانات.</string>
+    <string name="accessibility_data_one_bar">إشارة البيانات تتكون من شريط واحد.</string>
+    <string name="accessibility_data_two_bars">إشارة البيانات تتكون من شريطين.</string>
+    <string name="accessibility_data_three_bars">إشارة البيانات تتكون من ثلاثة أشرطة.</string>
+    <string name="accessibility_data_signal_full">إشارة البيانات كاملة.</string>
+    <string name="accessibility_wifi_name">متصل بـ %s.</string>
+    <string name="accessibility_bluetooth_name">متصل بـ %s.</string>
+    <string name="accessibility_wifi_signal_full">إشارة Wi-Fi مكتملة.</string>
+    <string name="accessibility_wifi_three_bars">ثلاثة أشرطة لإشارة Wi-Fi</string>
+    <string name="accessibility_wifi_two_bars">إشارتان لإشارة Wi-Fi</string>
+    <string name="accessibility_wifi_one_bar">شريط واحد لإشارة Wi-Fi</string>
+    <string name="accessibility_no_wifi">لا توجد إشارة Wi-Fi</string>
+    <string name="accessibility_no_wimax">‏ليس هناك WiMAX.</string>
+    <string name="accessibility_wimax_one_bar">‏شريط WiMAX واحد.</string>
+    <string name="accessibility_wimax_two_bars">‏شريطا WiMAX.</string>
+    <string name="accessibility_wimax_three_bars">‏أشرطة WiMAX الثلاثة.</string>
+    <string name="accessibility_wimax_signal_full">‏إشارة WiMAX كاملة.</string>
+    <string name="accessibility_ethernet_disconnected">‏تم قطع اتصال Ethernet.</string>
+    <string name="accessibility_ethernet_connected">‏تم إنشاء اتصال Ethernet.</string>
+    <string name="accessibility_no_signal">ليست هناك إشارة.</string>
+    <string name="accessibility_not_connected">غير متصل.</string>
+    <string name="accessibility_zero_bars">ليست هناك أشرطة.</string>
+    <string name="accessibility_one_bar">شريط واحد.</string>
+    <string name="accessibility_two_bars">شريطان.</string>
+    <string name="accessibility_three_bars">ثلاثة أشرطة.</string>
+    <string name="accessibility_signal_full">الإشارة كاملة.</string>
+    <string name="accessibility_desc_on">تم التشغيل.</string>
+    <string name="accessibility_desc_off">تم الإيقاف.</string>
+    <string name="accessibility_desc_connected">متصل.</string>
+    <string name="accessibility_desc_connecting">جارٍ الاتصال.</string>
+    <string name="accessibility_data_connection_gprs">GPRS</string>
+    <string name="accessibility_data_connection_1x">1‎ X‎</string>
+    <string name="accessibility_data_connection_hspa">HSPA</string>
+    <string name="accessibility_data_connection_3g">شبكة الجيل الثالث</string>
+    <string name="accessibility_data_connection_3.5g">‏شبكة 3.5G</string>
+    <string name="accessibility_data_connection_4g">شبكة الجيل الرابع</string>
+    <string name="accessibility_data_connection_lte">LTE</string>
+    <string name="accessibility_data_connection_cdma">CDMA</string>
+    <string name="accessibility_data_connection_roaming">تجوال</string>
+    <string name="accessibility_data_connection_edge">Edge</string>
+    <string name="accessibility_data_connection_wifi">Wi-Fi</string>
+    <string name="accessibility_no_sim">‏ليست هناك شريحة SIM.</string>
+    <string name="accessibility_bluetooth_tether">ربط البلوتوث.</string>
+    <string name="accessibility_airplane_mode">وضع الطائرة.</string>
+    <string name="accessibility_no_sims">‏ليس هناك شريحة SIM.</string>
+    <string name="accessibility_carrier_network_change_mode">جارٍ تغيير شبكة مشغِّل شبكة الجوّال.</string>
+    <string name="accessibility_settings_button">إعدادات النظام.</string>
+    <string name="accessibility_notifications_button">الإشعارات.</string>
+    <string name="accessibility_remove_notification">محو الإشعار.</string>
+    <string name="accessibility_gps_enabled">‏تم تمكين GPS.</string>
+    <string name="accessibility_gps_acquiring">‏الحصول على GPS.</string>
+    <string name="accessibility_tty_enabled">تم تمكين المبرقة الكاتبة.</string>
+    <string name="accessibility_ringer_vibrate">رنين مع الاهتزاز.</string>
+    <string name="accessibility_ringer_silent">رنين صامت.</string>
+    <string name="accessibility_recents_item_will_be_dismissed">إزالة %s.</string>
+    <string name="accessibility_recents_item_dismissed">تمت إزالة %s.</string>
+    <string name="accessibility_recents_item_closed">.%s تم إغلاق</string>
+    <string name="accessibility_recents_all_items_dismissed">تم تجاهل كل التطبيقات المستخدمة مؤخرًا.</string>
+    <string name="accessibility_recents_item_launched">جارٍ بدء %s.</string>
+    <string name="accessibility_recents_task_header">%1$s %2$s</string>
+    <string name="accessibility_notification_dismissed">تم تجاهل الإشعار.</string>
+    <string name="accessibility_desc_notification_shade">مركز الإشعارات.</string>
+    <string name="accessibility_desc_quick_settings">الإعدادات السريعة.</string>
+    <string name="accessibility_desc_lock_screen">شاشة التأمين.</string>
+    <string name="accessibility_desc_settings">الإعدادات</string>
+    <string name="accessibility_desc_recent_apps">تطبيقات حديثة</string>
+    <string name="accessibility_desc_close">إغلاق</string>
+    <string name="accessibility_quick_settings_user">المستخدم %s.</string>
+    <string name="accessibility_quick_settings_wifi">%1$s.</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">‏تم إيقاف Wifi.</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">‏تم تشغيل Wifi.</string>
+    <string name="accessibility_quick_settings_mobile">الجوال %1$s. %2$s. %3$s.</string>
+    <string name="accessibility_quick_settings_battery">البطارية %s.</string>
+    <string name="accessibility_quick_settings_airplane_off">إيقاف وضع الطائرة.</string>
+    <string name="accessibility_quick_settings_airplane_on">تشغيل وضع الطائرة.</string>
+    <string name="accessibility_quick_settings_airplane_changed_off">تم إيقاف وضع الطائرة.</string>
+    <string name="accessibility_quick_settings_airplane_changed_on">تم تشغيل وضع الطائرة.</string>
+    <string name="accessibility_quick_settings_dnd_priority_on">تم تشغيل الرجاء عدم الإزعاج، الأولوية فقط.</string>
+    <string name="accessibility_quick_settings_dnd_none_on">تم تشغيل الرجاء عدم الإزعاج، كتم الصوت تمامًا.</string>
+    <string name="accessibility_quick_settings_dnd_alarms_on">تم تشغيل الرجاء عدم الإزعاج، التنبيهات فقط.</string>
+    <string name="accessibility_quick_settings_dnd_off">تم تعطيل \"الرجاء عدم الإزعاج\".</string>
+    <string name="accessibility_quick_settings_dnd_changed_off">تم تعطيل \"الرجاء عدم الإزعاج\".</string>
+    <string name="accessibility_quick_settings_dnd_changed_on">تم تشغيل \"الرجاء عدم الإزعاج\".</string>
+    <string name="accessibility_quick_settings_bluetooth_off">إيقاف البلوتوث.</string>
+    <string name="accessibility_quick_settings_bluetooth_on">تشغيل البلوتوث.</string>
+    <string name="accessibility_quick_settings_bluetooth_connecting">جارٍ توصيل البلوتوث.</string>
+    <string name="accessibility_quick_settings_bluetooth_connected">تم توصيل البلوتوث.</string>
+    <string name="accessibility_quick_settings_bluetooth_changed_off">تم إيقاف البلوتوث.</string>
+    <string name="accessibility_quick_settings_bluetooth_changed_on">تم تشغيل البلوتوث.</string>
+    <string name="accessibility_quick_settings_location_off">إيقاف الإبلاغ عن الموقع.</string>
+    <string name="accessibility_quick_settings_location_on">تشغيل الإبلاغ عن الموقع.</string>
+    <string name="accessibility_quick_settings_location_changed_off">تم إيقاف الإبلاغ عن الموقع.</string>
+    <string name="accessibility_quick_settings_location_changed_on">تم تشغيل الإبلاغ عن الموقع.</string>
+    <string name="accessibility_quick_settings_alarm">تم ضبط المنبه على %s.</string>
+    <string name="accessibility_quick_settings_close">إغلاق اللوحة.</string>
+    <string name="accessibility_quick_settings_more_time">وقت أكثر.</string>
+    <string name="accessibility_quick_settings_less_time">وقت أقل.</string>
+    <string name="accessibility_quick_settings_flashlight_off">إيقاف الفلاش.</string>
+    <string name="accessibility_quick_settings_flashlight_on">تشغيل الفلاش.</string>
+    <string name="accessibility_quick_settings_flashlight_changed_off">تم إيقاف الفلاش.</string>
+    <string name="accessibility_quick_settings_flashlight_changed_on">تم تشغيل الفلاش.</string>
+    <string name="accessibility_quick_settings_color_inversion_changed_off">تم إيقاف انعكاس اللون.</string>
+    <string name="accessibility_quick_settings_color_inversion_changed_on">تم تشغيل انعكاس اللون.</string>
+    <string name="accessibility_quick_settings_hotspot_changed_off">تم إيقاف نقطة اتصال الجوّال.</string>
+    <string name="accessibility_quick_settings_hotspot_changed_on">تم تشغيل نقطة اتصال الجوّال.</string>
+    <string name="accessibility_casting_turned_off">توقف إرسال الشاشة.</string>
+    <string name="accessibility_brightness">سطوع الشاشة</string>
+    <string name="quick_settings_brightness_controller_hbm">تم التكبير للحصول على أفضل عرض في أشعة الشمس</string>
+    <string name="quick_settings_brightness_controller_outdoor_mode_label">وضع الخارج</string>
+    <string name="quick_settings_brightness_controller_outdoor_mode_title">وضع بالخارج</string>
+    <string name="quick_settings_brightness_controller_outdoor_message_vzw">Outdoor mode will maximize screen brightness for best viewing in sunlight. If the screen is not in use, screen brightness will return to the previous setting in 15 minutes.</string>
+    <string name="quick_settings_brightness_controller_outdoor_message">قم بزيادة سطوع الشاشة لـ %1$d من الدقائق. إذا تم تشغيل الشاشة بعد انقضاء مهلة %2$d من الدقائق، فسيبقى وضع بالخارج قيد التفعيل إلى حين إيقاف تشغيل الشاشة.</string>
+    <string name="data_usage_disabled_dialog_3g_title">بيانات شبكات الجيل الثاني والثالث متوقفة مؤقتًا</string>
+    <string name="data_usage_disabled_dialog_4g_title">تم إيقاف بيانات شبكة الجيل الرابع مؤقتًا</string>
+    <string name="data_usage_disabled_dialog_mobile_title">تم إيقاف بيانات شبكة الجوّال مؤقتًا</string>
+    <string name="data_usage_disabled_dialog_title">تم إيقاف البيانات مؤقتًا</string>
+    <string name="data_usage_disabled_dialog">"نظرًا لأنك بلغت الحد الأقصى المحدد للبيانات، فقد أوقف الجهاز استخدام البيانات مؤقتًا في بقية هذه الدورة.
+
+ومن الممكن أن يؤدي الاستئناف إلى تحصيل رسوم من قِبل مشغِّل شبكة الجوّال."</string>
+    <string name="data_usage_disabled_dialog_enable">استئناف</string>
+    <string name="data_usage_disabled_dialog_limit_title">تم إلغاء تفعيل بيانات الهاتف المحمول</string>
+    <string name="data_usage_disabled_dialog_limit_title_vzw">Mobile data is now off</string>
+    <string name="data_usage_disabled_dialog_limit">تم الوصول إلى الحد المعين لاستخدام البيانات. قد يترتب على استخدام بيانات إضافية فرض رسوم من قبل موفر الخدمة.</string>
+    <string name="data_usage_disabled_dialog_limit_vzw">"You've reached your specified data usage limit, so mobile data has been turned off.
+
+If you turn mobile data back on, you may be charged for data usage by your carrier."</string>
+    <string name="data_usage_disabled_dialog_limit_enable">تشغيل بيانات الهاتف المحمول</string>
+    <string name="data_usage_disabled_dialog_limit_enable_vzw">Turn on data</string>
+    <string name="status_bar_settings_signal_meter_disconnected">لا يوجد اتصال إنترنت</string>
+    <string name="status_bar_settings_signal_meter_wifi_nossid">‏Wi-Fi متصل</string>
+    <string name="gps_notification_searching_text">‏جارٍ البحث عن GPS</string>
+    <string name="gps_notification_found_text">‏تم تعيين الموقع بواسطة GPS</string>
+    <string name="gps_notification_searching_text_vzw">Finding location</string>
+    <string name="gps_notification_found_text_vzw">Location found</string>
+    <string name="accessibility_location_active">طلبات الموقع نشطة</string>
+    <string name="accessibility_clear_all">محو جميع الإشعارات.</string>
+    <string name="status_bar_notification_inspect_item_title">إعدادات الإشعارات</string>
+    <string name="status_bar_notification_app_settings_title">إعدادات %s</string>
+    <string name="accessibility_rotation_lock_off">سيتم تدوير الشاشة تلقائيًا.</string>
+    <string name="accessibility_rotation_lock_on_landscape">تم تأمين الشاشة في الاتجاه الأفقي.</string>
+    <string name="accessibility_rotation_lock_on_portrait">تم تأمين الشاشة في الاتجاه العمودي.</string>
+    <string name="accessibility_rotation_lock_off_changed">سيتم الآن تدوير الشاشة تلقائيًا.</string>
+    <string name="accessibility_rotation_lock_on_landscape_changed">تم قفل الشاشة الآن في الاتجاه الأفقي.</string>
+    <string name="accessibility_rotation_lock_on_portrait_changed">تم قفل الشاشة الآن في الاتجاه الرأسي.</string>
+    <string name="dessert_case">حالة الحلويات</string>
+    <string name="start_dreams">حلم اليقظة</string>
+    <string name="ethernet_label">Ethernet</string>
+    <string name="it_policy_not_allow_wifi">يمنع نهج الأمان استخدام Wi-Fi.</string>
+    <string name="it_policy_not_allow_wifiap">سياسة الأمان تقيد استخدام مشاركة الإنترنت.</string>
+    <string name="wifi_in_airplane_mode">في وضع الطيران</string>
+    <string name="wifi_authentication_succeed">تم التوثيق.</string>
+    <string name="wifi_authentication_failed">فشل التوثيق.</string>
+    <string name="wifi_authentication_succeed_kt">تمت مصادقة نقطة وصول Wi-Fi.</string>
+    <string name="wifi_authentication_failed_kt">فشلت مصادقة نقطة وصول Wi-Fi.</string>
+    <string name="wifi_authentication_not_subscribed">يتعذر الاتصال بشبكة %s. اشترك في الخدمة ثم حاول مجدداً.</string>
+    <string name="wifi_authentication_no_response">فشل الاتصال بنقطة وصول شبكة Wi-Fi.</string>
+    <string name="wifi_authentication_invalid_value">فشل التوثيق. تحقق من اسم المستخدم وكلمة المرور.</string>
+    <string name="wifi_setup_title_connected_network">تم الاتصال بشبكة Wi-Fi %s.</string>
+    <string name="wifi_disconnected">تم قطع اتصال Wi-Fi.</string>
+    <string name="quick_settings_dnd_label">"عدم
+الإزعاج"</string>
+    <string name="quick_settings_dnd_priority_label">الأولوية فقط</string>
+    <string name="quick_settings_dnd_alarms_label">التنبيهات فقط</string>
+    <string name="quick_settings_dnd_none_label">كتم الصوت تمامًا</string>
+    <string name="quick_settings_dormant_mode_label">"عدم
+الإزعاج"</string>
+    <string name="quick_settings_bluetooth_label">البلوتوث</string>
+    <string name="quick_settings_bluetooth_multiple_devices_label">بلوتوث (%d من الأجهزة)</string>
+    <string name="quick_settings_bluetooth_off_label">إيقاف البلوتوث</string>
+    <string name="quick_settings_bluetooth_detail_empty_text">لا يتوفر أي أجهزة مقترنة</string>
+    <string name="quick_settings_brightness_label">السطوع</string>
+    <string name="quick_settings_rotation_unlocked_label">"التدوير
+التلقائي"</string>
+    <string name="quick_settings_rotation_locked_label">تم قفل التدوير</string>
+    <string name="quick_settings_rotation_locked_portrait_label">اتجاه عمودي</string>
+    <string name="quick_settings_rotation_locked_landscape_label">أفقي</string>
+    <string name="quick_settings_ime_label">أسلوب الإدخال</string>
+    <string name="quick_settings_location_label">الموقع</string>
+    <string name="quick_settings_location_off_label">الموقع قيد الإيقاف</string>
+    <string name="quick_settings_media_device_label">جهاز الوسائط</string>
+    <string name="quick_settings_rssi_label">RSSI</string>
+    <string name="quick_settings_rssi_emergency_only">مكالمات طوارئ فقط</string>
+    <string name="quick_settings_settings_label">الإعدادات</string>
+    <string name="quick_settings_time_label">الوقت</string>
+    <string name="quick_settings_user_label">أنا</string>
+    <string name="quick_settings_user_title">المستخدم</string>
+    <string name="quick_settings_user_new_user">مستخدم جديد</string>
+    <string name="quick_settings_airplane_mode_label">"وضع
+الطيران"</string>
+    <string name="quick_settings_silent_mode_sound">الصوت</string>
+    <string name="quick_settings_silent_mode_vibrate">اهتزاز</string>
+    <string name="quick_settings_silent_mode_mute">كتم</string>
+    <string name="quick_settings_sfinder_text">مستكشف S</string>
+    <string name="quick_settings_sync_text">مزامنة</string>
+    <string name="quick_settings_wificalling_text">"Wi-Fi
+Calling"</string>
+    <string name="quick_settings_wifi_hotspot_label">"نقطة اتصال
+الهواتف المحمولة"</string>
+    <string name="quick_settings_wifi_hotspot_label_vzw">"نقطة اتصال
+الهواتف المحمولة"</string>
+    <string name="quick_settings_wifi_hotspot_label_jpn">"تقييد
+‏Wi-Fi"</string>
+    <string name="quick_settings_touch_sensitivity_label">حساسية اللمس</string>
+    <string name="quick_settings_smart_stay_label">"سكون
+ذكي"</string>
+    <string name="quick_settings_quick_connect_label">"Quick
+connect"</string>
+    <string name="quick_settings_ultra_power_saving_label">"توفير فائق
+للطاقة"</string>
+    <string name="quick_settings_location_text">الموقع</string>
+    <string name="quick_settings_gps_text">GPS</string>
+    <string name="quick_settings_reading_mode_label">"وضع
+القراءة"</string>
+    <string name="quick_settings_mobile_data_label">"بيانات
+الهاتف"</string>
+    <string name="quick_settings_data_roaming_label">"تجوال
+البيانات"</string>
+    <string name="quick_settings_personal_mode_label">"الوضع
+الخاص"</string>
+    <string name="quick_settings_power_saving_label">"توفير
+الطاقة"</string>
+    <string name="quick_settings_network_power_saving_label">"توفير طاقة
+الشبكة"</string>
+    <string name="quick_settings_nfc_card_mode_label">‏NFCnوضع البطاقة</string>
+    <string name="quick_settings_nfc_p2p_label">"R/W
+P2P"</string>
+    <string name="quick_settings_nfc_jpn_label">"NFC/Osaifu-
+Keitai"</string>
+    <string name="quick_settings_torch_label">الكشاف</string>
+    <string name="quick_settings_screen_capture_label">"التقاط
+الشاشة"</string>
+    <string name="quick_settings_aod_label">"Always On
+Display"</string>
+    <string name="quick_settings_wifi_label">Wi-Fi</string>
+    <string name="quick_settings_wifi_not_connected">ليست متصلة</string>
+    <string name="quick_settings_wifi_no_network">لا تتوفر شبكة</string>
+    <string name="quick_settings_wifi_off_label">‏إيقاف Wi-Fi</string>
+    <string name="quick_settings_wifi_detail_empty_text">‏لا تتوفر أية شبكة Wi-Fi</string>
+    <string name="quick_settings_screen_mirroring_label">"Screen
+Mirroring"</string>
+    <string name="quick_settings_cast_title">إرسال</string>
+    <string name="quick_settings_casting">جارٍ الإرسال</string>
+    <string name="quick_settings_cast_device_default_name">جهاز لا يحمل اسمًا</string>
+    <string name="quick_settings_cast_device_default_description">جاهز للإرسال</string>
+    <string name="quick_settings_cast_detail_empty_text">لا يتوفر أي جهاز</string>
+    <string name="quick_settings_brightness_dialog_title">السطوع</string>
+    <string name="quick_settings_brightness_dialog_auto_brightness_label">تلقائي</string>
+    <string name="quick_settings_inversion_label">قلب الألوان</string>
+    <string name="quick_settings_color_space_label">وضع تصحيح الألوان</string>
+    <string name="quick_settings_more_settings">الضبط</string>
+    <string name="quick_settings_done">تم</string>
+    <string name="quick_settings_connected">متصل</string>
+    <string name="quick_settings_connecting">جارٍ الاتصال...</string>
+    <string name="quick_settings_tethering_label">النطاق</string>
+    <string name="quick_settings_hotspot_label">نقطة اتصال</string>
+    <string name="quick_settings_notifications_label">الإشعارات</string>
+    <string name="quick_settings_flashlight_label">الكشاف</string>
+    <string name="quick_settings_cellular_detail_title">البيانات الخلوية</string>
+    <string name="quick_settings_cellular_detail_data_usage">استخدام البيانات</string>
+    <string name="quick_settings_cellular_detail_remaining_data">البيانات المتبقية</string>
+    <string name="quick_settings_cellular_detail_over_limit">فوق القيد</string>
+    <string name="quick_settings_cellular_detail_data_used">%s مستخدم</string>
+    <string name="quick_settings_cellular_detail_data_limit">قيد %s</string>
+    <string name="quick_settings_cellular_detail_data_warning">تحذير %s</string>
+    <string name="quickpanel_content_description_led_on">تم تفعيل %s.</string>
+    <string name="quickpanel_content_description_led_off">تم إلغاء تفعيل %s.</string>
+    <string name="quickpanel_content_description_led_dim">لا يمكن تفعيل %s.</string>
+    <string name="quickpanel_content_description_expand_button">توسيع لوحة الضبط السريع</string>
+    <string name="quickpanel_content_description_collapse_button">طي لوحة الضبط السريع</string>
+    <string name="quickpanel_long_preesed_description">انقر مع الاستمرار فوق زر الإعداد السريع للانتقال إلى الإعدادات ذات الصلة.</string>
+    <string name="recents_empty_message">ما من تطبيقات مستخدمة مؤخراً</string>
+    <string name="recents_app_info_button_label">معلومات التطبيق</string>
+    <string name="recents_lock_to_app_button_label">تثبيت الشاشة</string>
+    <string name="recents_search_bar_label">بحث</string>
+    <string name="recents_launch_error_message">تعذر بدء %s.</string>
+    <string name="recents_dismiss_all_message">تجاهل كل التطبيقات</string>
+    <string name="recents_multistack_add_stack_dialog_split_horizontal">تقسيم أفقي</string>
+    <string name="recents_multistack_add_stack_dialog_split_vertical">تقسيم رأسي</string>
+    <string name="recents_multistack_add_stack_dialog_split_custom">تقسيم مخصص</string>
+    <string name="expanded_header_battery_charged">تم الشحن</string>
+    <string name="expanded_header_battery_charging">جارٍ الشحن</string>
+    <string name="expanded_header_battery_charging_with_time">%s حتى الاكتمال</string>
+    <string name="expanded_header_battery_not_charging">لا يتم الشحن</string>
+    <string name="ssl_ca_cert_warning">"قد تكون الشبكة
+خاضعة للرقابة"</string>
+    <string name="description_target_search">بحث</string>
+    <string name="description_direction_up">تمرير لأعلى لـ %s.</string>
+    <string name="description_direction_left">تمرير لليسار لـ %s.</string>
+    <string name="zen_priority_introduction">لن يتم إزعاجك بأصوات أو اهتزاز، عدا من التنبيهات والتذكيرات والأحداث والمتصلين الذين تحددهم.</string>
+    <string name="zen_priority_customize_button">تخصيص</string>
+    <string name="zen_silence_introduction_voice">سيؤدي هذا إلى حظر جميع الأصوات والاهتزازات، بما في ذلك ما يرد من التنبيهات والموسيقى والفيديو والألعاب. إلا أنه سيظل بإمكانك إجراء مكالمات هاتفية.</string>
+    <string name="zen_silence_introduction">سيؤدي هذا إلى حظر جميع الأصوات والاهتزازات، بما في ذلك ما يرد من التنبيهات والموسيقى والفيديو والألعاب.</string>
+    <string name="keyguard_more_overflow_text">+%d</string>
+    <string name="speed_bump_explanation">الإشعارات الأقل إلحاحًا أدناه</string>
+    <string name="notification_tap_again">المس مرة أخرى للفتح</string>
+    <string name="keyguard_unlock">اسحب بإصبعك على الشاشة لإلغاء قفلها</string>
+    <string name="lockscreen_unlock_guide_text">اسحب بإصبعك على الشاشة لإلغاء قفلها</string>
+    <string name="lockscreen_unlock_guide_text_voice_assistant">اسحب بإصبعين لفتح الشاشة</string>
+    <string name="kg_fingerprints_unlock_instructions">استخدام البصمة لإلغاء القفل</string>
+    <string name="kg_fingerprints_bouncer_instructions">استخدام بصمة الإصبع للفتح</string>
+    <string name="kg_swipe_bouncer_instructions">سحب الشاشة لفتحها</string>
+    <string name="kg_swipe_bouncer_instructions_voice_assistant">اسحب الشاشة بإصبعين للفتح.</string>
+    <string name="phone_hint">يمكنك التمرير سريعًا من الرمز لتشغيل الهاتف</string>
+    <string name="voice_hint">يمكنك التمرير سريعًا من الرمز لتشغيل المساعد الصوتي</string>
+    <string name="camera_hint">يمكنك التمرير سريعًا من الرمز لتشغيل الكاميرا</string>
+    <string name="interruption_level_none_with_warning">صمت تام. سيؤدي هذا أيضًا إلى كتم صوت تطبيقات قراءة الشاشة.</string>
+    <string name="interruption_level_none">كتم الصوت تمامًا</string>
+    <string name="interruption_level_priority">الأولوية فقط</string>
+    <string name="interruption_level_alarms">التنبيهات فقط</string>
+    <string name="interruption_level_none_twoline">"كتم الصوت
+تمامًا"</string>
+    <string name="interruption_level_priority_twoline">"الأولوية 
+فقط"</string>
+    <string name="interruption_level_alarms_twoline">"التنبيهات
+فقط"</string>
+    <string name="keyguard_indication_charging_time">جارٍ الشحن (%s حتى الامتلاء)</string>
+    <string name="accessibility_multi_user_switch_switcher">تبديل المستخدم</string>
+    <string name="accessibility_multi_user_switch_switcher_with_current">تبديل المستخدم، المستخدم الحالي %s</string>
+    <string name="accessibility_multi_user_switch_inactive">المستخدم الحالي %s</string>
+    <string name="accessibility_multi_user_switch_quick_contact">عرض الملف الشخصي</string>
+    <string name="user_add_user">إضافة مستخدم</string>
+    <string name="user_new_user_name">مستخدم جديد</string>
+    <string name="guest_nickname">الضيف</string>
+    <string name="guest_new_guest">إضافة مدعو</string>
+    <string name="guest_exit_guest">حذف الضيف</string>
+    <string name="guest_exit_guest_dialog_title">حذف ملف تعريف الضيف</string>
+    <string name="guest_exit_guest_dialog_message">سيتم حذف ملف التعريف هذا، بالإضافة إلى التطبيقات كافة التي تم تنزيلها والبيانات ذات الصلة. تتعذر استعادة هذه البيانات.</string>
+    <string name="guest_exit_guest_dialog_remove">حذف</string>
+    <string name="guest_wipe_session_title">مرحبًا بك مجددًا في جلسة الضيف</string>
+    <string name="guest_wipe_session_message">هل تريد متابعة جلستك؟</string>
+    <string name="guest_wipe_session_wipe">البدء من جديد</string>
+    <string name="guest_wipe_session_dontwipe">نعم، متابعة.</string>
+    <string name="guest_notification_title">مستخدم ضيف</string>
+    <string name="guest_notification_text">لحذف التطبيقات والبيانات، عليك إزالة حساب الضيف</string>
+    <string name="guest_notification_remove_action">إزالة الضيف</string>
+    <string name="user_add_user_title">إضافة مستخدم</string>
+    <string name="user_add_user_message_short">"عندما تضيف مستخدماً جديداً، عليه إعداد مساحته الخاصة.
+
+يمكن لأي مستخدم تحديث التطبيقات للمستخدمين الآخرين كافة."</string>
+    <string name="unable_to_switch_user">يتعذر تغيير ملف تعريف المستخدم أثناء إجراء المكالمات.</string>
+    <string name="battery_saver_notification_title">وضع توفير الطاقة قيد التشغيل</string>
+    <string name="battery_saver_notification_text">لخفض مستوى الأداء وبيانات الخلفية</string>
+    <string name="battery_saver_notification_action_text">إيقاف توفير شحن البطارية</string>
+    <string name="notification_hidden_text">المحتويات مخفية</string>
+    <string name="sanitized_content_text">انقر هنا للدخول إلى %s.</string>
+    <string name="media_projection_dialog_text">%s سيبدأ التقاط كل شيء يتم عرضه على الشاشة.</string>
+    <string name="media_projection_remember_text">عدم الإظهار مرة أخرى</string>
+    <string name="clear_all_notifications_text">محو الكل</string>
+    <string name="media_projection_action_text">البدء الآن</string>
+    <string name="empty_shade_text">ليس هناك أي اشعارات</string>
+    <string name="device_owned_footer">ربما تتم مراقبة الجهاز</string>
+    <string name="profile_owned_footer">ربما تتم مراقبة الملف الشخصي</string>
+    <string name="vpn_footer">قد تكون الشبكة خاضعة للمراقبة</string>
+    <string name="monitoring_title_device_owned">مراقبة الأجهزة</string>
+    <string name="monitoring_title_profile_owned">مراقبة الملف الشخصي</string>
+    <string name="monitoring_title">مراقبة الشبكات</string>
+    <string name="disable_vpn">تعطيل الشبكة الظاهرية الخاصة</string>
+    <string name="disconnect_vpn">‏قطع الاتصال بشبكة VPN</string>
+    <string name="monitoring_description_device_owned">"تتم إدارة جهازك عن طريق %1$s.
+
+يمكن للمشرف مراقبة وإدارة كل من الإعدادات والدخول إلى الشركة والتطبيقات والبيانات المرتبطة بجهازك ومعلومات الموقع لجهازك. للمزيد من المعلومات، اتصل بالمشرف."</string>
+    <string name="monitoring_description_vpn">"‏لقد منحت تطبيقًا الإذن لإعداد اتصال شبكة ظاهرية خاصة (VPN).
+
+يمكن لهذا التطبيق مراقبة أنشطتك على الجهاز والشبكة، بما في ذلك الرسائل الإلكترونية والتطبيقات ومواقع الويب."</string>
+    <string name="monitoring_description_vpn_device_owned">"‏تتم إدارة جهازك عن طريق %1$s.
+
+يمكن للمشرف مراقبة وإدارة كل من الإعدادات والدخول إلى الشركة والتطبيقات والبيانات المرتبطة بجهازك ومعلومات الموقع لجهازك.
+
+أنت متصل بشبكة ظاهرية خاصة (VPN)، يمكنها مراقبة أنشطة الشبكة، بما في ذلك الرسائل الإلكترونية والتطبيقات ومواقع الويب.
+
+للمزيد من المعلومات، اتصل بالمشرف."</string>
+    <string name="monitoring_description_vpn_profile_owned">"‏تتم إدارة ملفك الشخصي للعمل عن طريق %1$s.
+
+بإمكان المشرف مراقبة أنشطتك على الشبكة، بما في ذلك الرسائل الإلكترونية والتطبيقات ومواقع الويب.
+
+للمزيد من المعلومات، اتصل بالمشرف.
+
+أنت متصل أيضًا بشبكة ظاهرية خاصة (VPN)، يمكنها مراقبة أنشطتك على الشبكة."</string>
+    <string name="legacy_vpn_name">شبكة ظاهرية خاصة</string>
+    <string name="monitoring_description_app">أنت متصل بـ %1$s، الذي يمكنه مراقبة أنشطتك على الشبكة، بما في ذلك الرسائل الإلكترونية والتطبيقات ومواقع الويب.</string>
+    <string name="monitoring_description_app_personal">أنت متصل بـ %1$s، الذي يمكنه مراقبة أنشطتك الشخصية على الشبكة، بما في ذلك الرسائل الإلكترونية والتطبيقات ومواقع الويب.</string>
+    <string name="monitoring_description_app_work">"تتم إدارة ملفك الشخصي للعمل عن طريق %1$s. وهذا الملف الشخصي للعمل متصل بـ %2$s، الذي يمكنه مراقبة أنشطتك على شبكة العمل، بما في ذلك الرسائل الإلكترونية والتطبيقات ومواقع الويب.
+
+للمزيد من المعلومات، اتصل بالمشرف."</string>
+    <string name="monitoring_description_app_personal_work">"تتم إدارة ملفك الشخصي للعمل عن طريق %1$s. وهذا الملف الشخصي للعمل متصل بـ %2$s، الذي يمكنه مراقبة أنشطتك على شبكة العمل، بما في ذلك الرسائل الإلكترونية والتطبيقات ومواقع الويب.
+
+أنت متصل أيضًا بـ %3$s، الذي يمكنه مراقبة أنشطتك الشخصية على الشبكة."</string>
+    <string name="monitoring_description_vpn_app_device_owned">"تتم إدارة جهازك عن طريق %1$s.
+
+يمكن للمشرف مراقبة وإدارة كل من الإعدادات والوصول إلى الشركة والتطبيقات والبيانات المرتبطة بجهازك ومعلومات الموقع لجهازك.
+
+أنت متصل بـ %2$s، الذي يمكنه مراقبة أنشطتك على الشبكة، بما في ذلك الرسائل الإلكترونية والتطبيقات ومواقع الويب.
+
+للمزيد من المعلومات، اتصل بالمشرف."</string>
+    <string name="keyguard_indication_trust_disabled">سيظل الجهاز مقفلاً إلى أن يتم إلغاء قفله يدويًا</string>
+    <string name="hidden_notifications_title">الحصول على الإشعارات بشكل أسرع</string>
+    <string name="hidden_notifications_text">الاطلاع عليها قبل إلغاء القفل</string>
+    <string name="hidden_notifications_cancel">لا، شكرًا</string>
+    <string name="hidden_notifications_setup">إعداد</string>
+    <string name="notification_expand_button_text">عرض الكل</string>
+    <string name="notification_collapse_button_text">إخفاء الكل</string>
+    <string name="zen_mode_and_condition">%1$s. %2$s</string>
+    <string name="volume_zen_end_now">إنهاء الآن</string>
+    <string name="accessibility_volume_expand">توسيع</string>
+    <string name="accessibility_volume_collapse">طي</string>
+    <string name="screen_pinning_title">تم تثبيت الشاشة</string>
+    <string name="screen_pinning_description">يساعد هذا على استمرار العرض حتى يتم إلغاء التثبيت. ويمكنك لمس \"رجوع\" و\"عرض عام\" مع الاستمرار في وقت واحد لإلغاء التثبيت.</string>
+    <string name="screen_pinning_description_accessible">يساعد هذا على استمرار العرض حتى يتم إلغاء التثبيت. ويمكنك لمس \"عرض عام\" مع الاستمرار في وقت واحد لإلغاء التثبيت.</string>
+    <string name="screen_pinning_positive">حسنًا</string>
+    <string name="screen_pinning_negative">لا، شكرًا</string>
+    <string name="quick_settings_reset_confirmation_title">هل تريد إخفاء %1$s؟</string>
+    <string name="quick_settings_reset_confirmation_message">سيظهر مرة أخرى عند تمكينه في الإعدادات المرة التالية.</string>
+    <string name="quick_settings_reset_confirmation_button">إخفاء</string>
+    <string name="volumeui_prompt_message">يريد %1$s أن يكون مربع حوار مستوى الصوت.</string>
+    <string name="volumeui_prompt_allow">سماح</string>
+    <string name="volumeui_prompt_deny">رفض</string>
+    <string name="volumeui_notification_title">%1$s هو مربع حوار مستوى الصوت</string>
+    <string name="volumeui_notification_text">المس لاستعادة الإعداد الأصلي.</string>
+    <string name="managed_profile_foreground_toast">أنت تستخدم ملفك الشخصي للعمل</string>
+    <string name="tw_safe_media_volume_warning">قد يؤدي الاستماع في مستوى صوت عالٍ لفترة زمنية طويلة إلى الإضرار بحاسة السمع. انقر فوق موافق للسماح بزيادة مستوى الصوت إلى مستوى يتجاوز الحدود الآمنة.</string>
+    <string name="tw_cover_volume_warning_message">قد يؤدي الاستماع إلى الصوت العالي لفترة طويلة إلى الإضرار بحاسة السمع. لرفع مستوى الصوت، افتح الغطاء.</string>
+    <string name="tw_safe_media_volume_warning_kids_mode">لا يمكن أن يتخطى مستوى الصوت حد السلامة الموصى به (%s) أثناء توصيل سماعات الأذن في Kids Mode.</string>
+    <string name="yes">موافق</string>
+    <string name="no">إلغاء</string>
+    <string name="system_ui_tuner">أداة ضبط واجهة مستخدم النظام</string>
+    <string name="show_battery_percentage">عرض نسبة البطارية المدمجة</string>
+    <string name="show_battery_percentage_summary">عرض نسبة مستوى البطارية داخل رمز شريط الحالة أثناء عدم الشحن</string>
+    <string name="quick_settings">الإعدادات السريعة</string>
+    <string name="status_bar">شريط الحالة</string>
+    <string name="demo_mode">الوضع التجريبي</string>
+    <string name="enable_demo_mode">تمكين الوضع التجريبي</string>
+    <string name="show_demo_mode">عرض الوضع التجريبي</string>
+    <string name="status_bar_ethernet">إيثرنت</string>
+    <string name="status_bar_alarm">المنبه</string>
+    <string name="status_bar_work">الملف الشخصي للعمل</string>
+    <string name="status_bar_airplane">وضع الطائرة</string>
+    <string name="add_tile">إضافة فئة</string>
+    <string name="broadcast_tile">إرسال فئة</string>
+    <string name="mobile_hotspot_wifi_off_warning">سيؤدي تفعيل نقطة اتصال الهواتف المحمولة إلى إيقاف تشغيل Wi-Fi.</string>
+    <string name="mobile_hotspot_wifi_off_warning_china">سيؤدي تفعيل نقطة اتصال الهواتف المحمولة إلى إيقاف تشغيل شبكة WLAN.</string>
+    <string name="mobile_hotspot_wifi_off_warning_jpn">Enabling Wi-Fi tethering will turn off Wi-Fi.</string>
+    <string name="tethering_attention_title">انتباه</string>
+    <string name="mobile_data_enable_toast_text">يتعذر الاتصال بشبكات الهاتف المحمول أثناء تفعيل وضع الطيران. قم بإلغاء تفعيل وضع الطيران، ثم أعد المحاولة.</string>
+    <string name="wifi_ap_wifi_p2p_off_warn">سيؤدي تفعيل نقطة اتصال الهواتف المحمولة إلى قطع اتصال أي أجهزة متصلة عبر Wi-Fi مباشر حالياً.</string>
+    <string name="wifi_ap_wifi_p2p_off_warn_china">سيؤدي تفعيل نقطة اتصال شبكة WLAN المحمولة إلى قطع اتصال الجهاز المتصل عبر WLAN مباشر.</string>
+    <string name="dialog_battery_data_warning">سيتم تفعيل نقطة اتصال المحمول. سيؤدي ذلك إلى زيادة استهلاك طاقة البطارية واستخدام البيانات.</string>
+    <string name="zen_alarm_warning_indef">لن تسمع المنبه القادم في %1$s إلا إذا أوقفت هذا قبل الموعد</string>
+    <string name="zen_alarm_warning">لن تسمع المنبه القادم في %1$s</string>
+    <string name="alarm_template">في %1$s</string>
+    <string name="alarm_template_far">يوم %1$s</string>
+    <string name="accessibility_quick_settings_detail">الإعدادات السريعة، %s.</string>
+    <string name="accessibility_status_bar_hotspot">نقطة اتصال</string>
+    <string name="accessibility_managed_profile">الملف الشخصي للعمل</string>
+    <string name="tuner_warning_title">متعة للبعض وليس للجميع</string>
+    <string name="tuner_warning">‏توفر لك أداة ضبط واجهة مستخدم النظام طرقًا إضافية لتعديل واجهة مستخدم Android وتخصيصها. ويمكن أن تطرأ تغييرات على هذه الميزات التجريبية أو يمكن أن تتعطل هذه الميزات أو تختفي في الإصدارات المستقبلية. عليك متابعة الاستخدام مع توخي الحذر.</string>
+    <string name="tuner_persistent_warning">يمكن أن تطرأ تغييرات على هذه الميزات التجريبية أو يمكن أن تتعطل هذه الميزات أو تختفي في الإصدارات المستقبلية. عليك متابعة الاستخدام مع توخي الحذر.</string>
+    <string name="got_it">حسنًا</string>
+    <string name="tuner_toast">تهانينا! تمت إضافة أداة ضبط واجهة مستخدم النظام إلى الإعدادات</string>
+    <string name="remove_from_settings">إزالة من الإعدادات</string>
+    <string name="remove_from_settings_prompt">هل تريد إزالة أداة ضبط واجهة مستخدم النظام من الإعدادات وإيقاف استخدام كل ميزاتها؟</string>
+    <string name="accessibility_qs_edit_button">زر التعديل</string>
+    <string name="accessibility_button">الزر</string>
+    <string name="no_sim_notification_title">لا توجد SIM</string>
+    <string name="no_sim_notification_title_tmo">لم يتم إدخال بطاقة SIM</string>
+    <string name="no_sim_notification_title_vzw">No SIM found</string>
+    <string name="no_sim_notification_text">يرجى إدخال البطاقة.</string>
+    <string name="no_sim_notification_text_vzw">Tap for more information.</string>
+    <string name="full_battery_title">معلومات</string>
+    <string name="full_battery_noti_text">تم شحن البطارية كاملا.</string>
+    <string name="charging_interruption_title">يتعذر الشحن</string>
+    <string name="charging_interruption_by_terminal_open_text">يتعذر شحن جهازك. تأكد من أنك تستخدم بطارية وشاحن متوافقين مع Samsung وأن جهازك متصل بطريقة صحيحة بالشاحن.</string>
+    <string name="charging_interruption_by_terminal_open_galaxy_text">Unable to charge your device. Make sure you are using a Galaxy compatible battery and charger and that your device is properly connected to the charger.</string>
+    <string name="charging_interruption_by_too_high_temperature_text">تم إيقاف الشحن مؤقتا. درجة حرارة البطارية عالية للغاية.</string>
+    <string name="charging_interruption_by_too_low_temperature_text">تم إيقاف الشحن مؤقتا. درجة حرارة البطارية منخفضة للغاية.</string>
+    <string name="charging_interruption_by_limit_high_temperature_text">"توقّف الجهاز عن الشحن. درجة حرارة البطارية مرتفعة للغاية. انتبه عند فصل الشاحن. قد تكون درجة حرارته مرتفعة للغاية.‎
+
+قد يؤدي فصل الشاحن وإعادة توصيله إلى متابعة الشحن بطريقة طبيعية. إذا استمرّ ارتفاع درجة الحرارة، اتصل بخدمات العملاء إذ قد يكون هناك خطر نشوب حريق أو إصابة."</string>
+    <string name="highvoltage_charger_notification_title">الشحن السريع</string>
+    <string name="highvoltage_charger_notification_text">تم توصيل الشاحن السريع.</string>
+    <string name="cable_charging_title">شحن باستخدام الكابل</string>
+    <string name="wireless_charging_title">الشحن اللاسلكي</string>
+    <string name="fast_wireless_charging_title">الشحن اللاسلكي السريع</string>
+    <string name="slow_charging_title">يتم شحن الجهاز ببطء</string>
+    <string name="slow_charging_notification_text">للشحن بسرعة أكبر، استخدم الشاحن الأصلي.</string>
+    <string name="charging_noti_text_another">"جارٍ الشحن: %1$d%%‏
+(تبقت حوالى %2$s حتى يتم شحن البطارية بالكامل)"</string>
+    <string name="quick_settings_battery_charging_label">يتم الآن الشحن: %d%%</string>
+    <string name="time_format_hour_minute">%1$dس %2$dد</string>
+    <string name="time_format_hour">%d س</string>
+    <string name="time_format_minute">%d د</string>
+    <string name="wireless_charging_disconnect_text">تم إيقاف الشحن اللاسلكي مؤقتاً.</string>
+    <string name="slow_charging_toast_text_for_tablet">To charge faster, use the charger and cable that were provided with this tablet.</string>
+    <string name="wireless_charger_misalign_help_text">لشحن الجهاز بشكل أكثر فعالية، ضعه على شاحن لاسلكي، مع التأكد من محاذاة الأجزاء بشكل صحيح.</string>
+    <string name="wireless_charger_info_text">Make sure there are no metallic objects, such as metallic stickers, paper clips, or straps between the charging pad and mobile device.</string>
+    <string name="battery_saver_notification_title_sec">تم تفعيل وضع توفير الطاقة</string>
+    <string name="battery_saver_notification_text_sec">تم حد أداء الجهاز وتقييد بيانات الخلفية</string>
+    <string name="battery_saver_notification_action_text_sec">إيقاف تشغيل</string>
+    <string name="battery_npsm_notification_title">تم تفعيل وضع توفير الطاقة بواسطة الشبكة</string>
+    <string name="battery_npsm_notification_text">يكون أداء الجهاز محدوداً، وبيانات الخلفية مقيدة، وبيانات الهاتف المحمول وWi-Fi قيد إيقاف الشتغيل أثناء إيقاف تشغيل الشاشة</string>
+    <string name="wireless_charging_from_wireless_to_cable_text">يتم الآن التبديل من الشحن اللاسلكي إلى الشحن بالكابل</string>
+    <string name="wireless_charging_from_cable_to_wireless_text">يتم الآن التبديل من الشحن بالكابل إلى الشحن اللاسلكي</string>
+    <string name="incompatible_charger_title">لا يتم الشحن.</string>
+    <string name="incompatible_charger_dialog_text">The connected charger is incompatible with this phone. To prevent damage to your phone, charging has been stopped. To continue charging, use the original charger and cable that were provided with this phone.</string>
+    <string name="incompatible_charger_notification_text">Unable to charge. Use the original charger.</string>
+    <string name="incompatible_charger_ticker">لا يتم الشحن.</string>
+    <string name="warning_alert_check">عدم العرض مرة أخرى</string>
+    <string name="critical_low_battery_title">شحن البطارية ضعيف للغاية</string>
+    <string name="low_battery_title">طاقة البطارية منخفضة</string>
+    <string name="battery_low_hun_remaining_battery_level_format">باقي %d%% من طاقة بطارية جهازك. قم بتوصيل جهازك بشاحن.</string>
+    <string name="button_close">اغلاق</string>
+    <string name="cooling_title">درجة حرارة الجهاز عالية للغاية</string>
+    <string name="cooling_noti_text">انقر هنا للاطلاع على التفاصيل.</string>
+    <string name="cooling_body">"درجة حرارة الجهاز عالية للغاية. سيتم اتخاذ بعض الخطوات لتبريد الجهاز.
+
+لا زال بإمكانك استخدام الجهاز، لكن
+- يمكن لضوء الشاشة أن يصبح باهتا.
+- كما يمكن أن يؤدي ذلك إلى إبطاء الجهاز.
+- قد يتوقف الشحن.
+
+ سيساعد إقفال التطبيق الحالي على تبريد الجهاز.
+
+ بعد تبريد الجهاز، سيعود الأداء إلى طبيعته تلقائيا."</string>
+    <string name="colling_high_level_noti_text">يتعذّر فتح التطبيقات. يمكنك فقط استخدام تطبيقي الهاتف وجهات الاتصال.</string>
+    <string name="cooling_title_vzw">Cooling down</string>
+    <string name="cooling_noti_text_vzw">انقر هنا للتعرف على المزيد.</string>
+    <string name="cooling_body_vzw">"Your phone is getting too hot, so it's taking steps to cool itself down.
+
+You can still use your phone, but you may notice:
+The screen might dim.
+The phone might slow down.
+Charging might pause.
+
+After the phone cools down, performance will automatically go back to normal."</string>
+    <string name="cooling_body_tablet_vzw">"Your tablet is getting too hot, so it’s taking steps to cool itself down.
+
+You can still use your tablet, but you may notice:
+The screen might dim.
+The tablet might slow down.
+Charging might pause.
+
+After the tablet cools down, performance willAutomatically go back to normal."</string>
+    <string name="overheat_shutdown_warning_title">Too hot - Turning off</string>
+    <string name="overheat_shutdown_warning_text">Your phone is getting too hot. It will now turn off to cool down.</string>
+    <string name="overheat_shutdown_warning_text_tablet">Your tablet is getting too hot. It will now turn off to cool down.</string>
+    <string name="overheat_shutdown_warning_button_text">"Don't turn off"</string>
+    <string name="overheat_shutdown_notice_title">Why did my phone turn off by itself?</string>
+    <string name="overheat_shutdown_notice_title_tablet">Why did my tablet turn off by itself?</string>
+    <string name="overheat_shutdown_notice_text">"Your phone got too hot. It turned off to prevent damage to the phone.
+
+Overheating can be caused by:
+Using graphics intensive apps like video games and navigation apps for long periods of time.
+Downloading or uploading large files.
+Using your phone in a very hot location."</string>
+    <string name="overheat_shutdown_notice_text_tablet">"Your tablet got too hot. It turned off to prevent damage to the tablet.
+
+Overheating can be caused by:
+Using graphics intensive apps like video games and navigation apps for long periods of time.
+Downloading or uploading large files.
+Using your tablet in a very hot location."</string>
+    <string name="overheat_poweroff_warning_title">إيقاف تشغيل الجهاز</string>
+    <string name="overheat_poweroff_warning_text">درجة حرارة الجهاز عالية للغاية. سيتوقف الآن عن التشغيل ليبرد.</string>
+    <string name="overheat_poweroff_warning_button_text">لا توقف التشغيل</string>
+    <string name="overheat_poweroff_notice_title">توقف الجهاز عن التشغيل تلقائيًا</string>
+    <string name="overheat_poweroff_notice_text">"إن حرارة الجهاز مرتفعة جدًا. توقف عن التشغيل لتفادي أي ضرر.‎
+
+قد يكون سبب ارتفاع الحرارة:‎
+استخدام تطبيقات ذات رسومات مكثفة لفترات طويلة، مثل الألعاب وتطبيقات التنقل.‎
+نقل ملفات كبيرة.‎
+استخدام الجهاز في بيئة حارة."</string>
+    <string name="safe_mode_noti_title">تم تفعيل الوضع الآمن</string>
+    <string name="safe_mode_noti_body">انقر هنا لإلغاء تفعيل الوضع الآمن.</string>
+    <string name="safe_mode_alert_title">إعادة تشغيل الجهاز</string>
+    <string name="safe_mode_alert_body">لإلغاء تفعيل الوضع الآمن، ستتم إعادة تشغيل الجهاز.</string>
+    <string name="safe_mode_alert_positive_button">إعادة التشغيل الآن</string>
+    <string name="safe_mode_noti_title_vzw">Safe Mode Is On</string>
+    <string name="safe_mode_noti_body_vzw">Tap to turn off Safe Mode.</string>
+    <string name="safe_mode_alert_title_vzw">Turn Off Safe Mode</string>
+    <string name="safe_mode_alert_body_vzw">Do you want to restart your phone to turn off Safe Mode? All of your apps will be restored.</string>
+    <string name="safe_mode_alert_positive_button_vzw">Turn Off Safe Mode</string>
+    <string name="insert_sim_card">أدخل بطاقة SIM</string>
+    <string name="insert_sim_card_message">قم بإدخال البطاقة للنفاذ إلى خدمات الشبكة.</string>
+    <string name="volte_enable_toast_text_about_no_support_sim">لا يدعم إصدار البرنامج الحالي VoLTE. اتصل بخدمات العملاء للحصول على مزيد من التفاصيل.</string>
+    <string name="volte_enable_message">لاستخدام خدمة VoLTE، اشترك في VoLTE. اتصل بمزود الخدمة للحصول على التفاصيل.</string>
+    <string name="volte_disable_is_impossible_during_volte_call">يتعذر إلغاء تفعيل استخدام VoLTE عند توفره أثناء مكالمة VoLTE.</string>
+    <string name="location_consent_title">موافقة المستخدم</string>
+    <string name="location_consent_detail">تتحكم التطبيقات التي تستخدمها في موقع GPS واستخدام بيانات الموقع.</string>
+    <string name="location_agree">موافق</string>
+    <string name="location_disagree">غير موافق</string>
+    <string name="location_masterswitch_dialogtitle">قبول الموقع</string>
+    <string name="location_masterswitch_dialogtext">"Your phone can share its approximate location with apps and services like maps, shopping and weather.
+
+Apps and services that use your location should inform you. Read the privacy policy of any app or service provider you are considering to understand how they collect, use and share your location information before you use them.
+
+Determining your location will use the mobile network. Data usage will apply."</string>
+    <string name="location_masterswitch_dialogtext_tablet">"Your tablet can share its approximate location with apps and services like maps, shopping and weather.
+
+Apps and services that use your location should inform you. Read the privacy policy of any app or service provider you’re considering to understand how they collect, use and share your location information before you use them.
+
+Determining your location will use the mobile network. Data usage will apply."</string>
+    <string name="agree">موافق</string>
+    <string name="disagree">غير موافق</string>
+    <string name="location_turn_off_vowifi_disabled">Turning off GPS, the VoWiFi function will be automatically disabled.</string>
+    <string name="sync_dialog_title_enable">تفعيل المزامنة التلقائية</string>
+    <string name="sync_dialog_title_disable">إلغاء تفعيل المزامنة التلقائية</string>
+    <string name="sync_dialog_message_enable">"سيتم نسخ أي تغييرات تقوم بإجرائها على الحسابات عبر الويب إلى الجهاز بشكل تلقائي.
+
+كذلك، قد تقوم بعض الحسابات، مثل حسابات Google، بنسخ أي تغييرات تقوم بإجرائها على الجهاز إلى الويب بشكل تلقائي.
+
+ولتحديد المعلومات المطلوب مزامنتها مع كل حساب، انتقل إلى الإعدادات > الحسابات."</string>
+    <string name="sync_dialog_message_enable_vzw">"Any changes you make to your accounts on the web will be automatically copied to your phone.
+
+Some accounts, such as Google accounts, may also automatically copy any changes you make on the phone to the web.
+
+To select what information to sync for each account, go to Settings > Accounts."</string>
+    <string name="sync_dialog_message_enable_chn">"سيتم نسخ أي تغييرات تقوم بإجرائها على الحسابات عبر الويب إلى الجهاز بشكل تلقائي.
+
+كذلك، قد تقوم بعض الحسابات بنسخ أي تغييرات تقوم بإجرائها على الجهاز إلى الويب بشكل تلقائي.
+
+ولتحديد المعلومات المطلوب مزامنتها مع كل حساب، انتقل إلى الإعدادات > الحسابات."</string>
+    <string name="sync_dialog_message_disable">سيحد ذلك من استخدام البيانات ويحافظ على البطارية، ولكنك تحتاج لمزامنة الحسابات يدويا لجمع أحدث المعلومات. عند تفعيل ذلك، لن تتلقى إخطارات حول التحديثات.</string>
+    <string name="mobile_data_text">بيانات الهاتف المحمول</string>
+    <string name="mobile_data_vzw">إيقاف تشغيل بيانات الهاتف المحمول</string>
+    <string name="mobile_data_disable_popup_all">"في حال عدم استخدام شبكة Wi-Fi، لن يعود بإمكانك استخدام الإنترنت أو البريد الإلكتروني أو التطبيقات الأخرى التي تتطلّب اتصال بيانات.
+
+سيتم إلغاء تفعيل اتصال بيانات الهاتف المحمول."</string>
+    <string name="mobile_data_warning_toast_airplane_mode">يتعذر الاتصال بشبكات الهاتف المحمول أثناء تفعيل وضع الطيران. قم بإلغاء تفعيل وضع الطيران، ثم أعد المحاولة.</string>
+    <string name="mobile_data_warning_toast_disable_during_volte">Unable to turn Mobile data on or off while Advanced calling enabled.</string>
+    <string name="mobile_data_disable_popup_kor_skt_kt">"في حال عدم استخدام شبكة Wi-Fi، لن يعود بإمكانك استخدام الإنترنت أو البريد الإلكتروني أو التطبيقات الأخرى التي تتطلّب اتصال بيانات.
+
+سيتم إيقاف تشغيل بيانات الهاتف المحمول."</string>
+    <string name="mobile_data_disable_popup_kor_lgt">"في حال عدم استخدام شبكة Wi-Fi، لن يعود بإمكانك استخدام الإنترنت أو البريد الإلكتروني أو التطبيقات الأخرى التي تتطلّب اتصال بيانات.
+
+سيتم إيقاف تشغيل بيانات الهاتف المحمول."</string>
+    <string name="mobile_data_enable_popup_kor_skt_kt">سيتم تشغيل بيانات الهاتف المحمول. قد يترتب على الاتصال بشبكات الهاتف المحمول فرض رسوم إضافية وفقاً لخطة الدفع التي تتبعها.</string>
+    <string name="mobile_data_enable_popup_kor_lgt">سيتم تشغيل بيانات الهاتف المحمول. قد يترتب على الاتصال بشبكات الهاتف المحمول فرض رسوم إضافية وفقاً لخطة الدفع التي تتبعها.</string>
+    <string name="mobile_data_disable_popup_vzw">"Unless you use Wi-Fi, you will not be able to use the Internet, Email, or other apps that require a data connection.
+
+Turn off Mobile data?"</string>
+    <string name="mobile_data_disable_popup_vzw_volte">"Unless you use Wi-Fi, you will not be able to use Internet, Email, or other apps that require a data connection. Your phone will not be able to use Video Calling while Mobile data is off.
+Turn off Mobile data?"</string>
+    <string name="mobile_data_disable_dialog_text">سوف يؤدي قطع الاتصال بشبكة الهاتف المحمول إلى تقييد استخدام رسائل الوسائط المتعددة وخدمات بيانات 3G. هل تريد قطع الاتصال؟</string>
+    <string name="mobile_data_roaming_dialog">Data roaming may incur additional charges in addition to your domestic flat rate plan. Automatic updates for email or applications may also incur additional charges. Using large-data services such as video or email may incur charges over 20,000 won per minute.</string>
+    <string name="mobile_data_roaming_disable_toast_lgt">تم إلغاء تفعيل تجوال البيانات</string>
+    <string name="personal_mode_popup_diable_msg_while_moving_item">يتعذر إلغاء تفعيل الوضع الخاص أثناء نقل العناصر إلى الخاص.</string>
+    <string name="personal_mode_text">الوضع الخاص</string>
+    <string name="rotation_lock_toast">تدوير تلقائي</string>
+    <string name="rotation_lock_mobile_keyboard_msg">لتفعيل %s، قم بإزالة غلاف لوحة المفاتيح عن الجهاز.</string>
+    <string name="aod_toast_unavailable_with_at_same_time">يتعذر تفعيل %1$s و%2$s في الوقت نفسه.</string>
+    <string name="aod_toast_unavailable_with_mobile_keyboard">لتفعيل %s، قم بإزالة غلاف لوحة المفاتيح عن الجهاز.</string>
+    <string name="aod_disable_popup_title">تفعيل %s</string>
+    <string name="aod_disable_popup_unavailable_with_at_same_time">يتعذر تفعيل %1$s و%2$s في الوقت نفسه. سيتم إلغاء تفعيل %3$s.</string>
+    <string name="aod_disable_popup_description">لا يمكن تفعيل %s والخيارات أدناه في الوقت نفسه. سيتم إلغاء تفعيل الخيارات أدناه.</string>
+    <string name="aod_title">Always On Display</string>
+    <string name="aod_power_saving_mode">نمط توفير الطاقة</string>
+    <string name="aod_voice_assistant_title">Voice Assistant</string>
+    <string name="aod_magnification">التكبير</string>
+    <string name="aod_magnifier_window">إطار المكبر</string>
+    <string name="aod_assistant_menu_magnifier">إطار المكبر</string>
+    <string name="aod_talkback">TalkBack</string>
+    <string name="notification_block">حظر</string>
+    <string name="dialog_title_block_notification">حظر تنبيهات التطبيقات</string>
+    <string name="dialog_msg_block_notification">سيتم حظر التنبيهات من هذا التطبيق، بما فيها الإشعارات والأصوات والاهتزاز.</string>
+    <string name="toast_msg_unblock_notification">لإلغاء حظر الإشعارات من هذا التطبيق في وقتٍ لاحق، انتقل إلى الضبط > الصوت والإشعارات، ثم حدد ”إشعارات التطبيق“.</string>
+    <string name="mobile_hotspot_dialog_nosim_warning_title">نقطة اتصال المحمول</string>
+    <string name="mobile_hotspot_dialog_nosim_warning">أدخل بطاقة SIM لاستخدام نقطة اتصال الهواتف المحمولة ووظائف تقييد أخرى.</string>
+    <string name="mobile_hotspot_dialog_nosim_warning_title_jpn">تقييد Wi-Fi</string>
+    <string name="mobile_hotspot_dialog_nosim_warning_jpn">Insert a SIM card to use Wi-Fi tethering and other tethering functions.</string>
+    <string name="mobile_hotspot_dialog_nosim_warning_dcm">Insert a SIM card to use Wi-Fi tethering.</string>
+    <string name="do_not_show_again">عدم العرض مرة أخرى</string>
+    <string name="disable">إلغاء تفعيل</string>
+    <string name="airplane_mode_plmn">وضع الطيران</string>
+    <string name="airplane_mode_dialog_title">تفعيل وضع الطيران</string>
+    <string name="airplane_mode_dialog_title_vzw">Turn on Airplane mode</string>
+    <string name="airplane_mode_dialog_message">يتيح لك وضع الطيران إمكانية إيقاف تشغيل الاتصال والمراسلة وميزات شبكة البيانات. كذلك، فإنه يقوم بإيقاف تشغيل ميزات اتصال مثل Wi-Fi والبلوتوث. لاستخدام Wi-Fi والبلوتوث، قم بتشغيلهم من الإعدادات أو من لوحة الإخطارات.</string>
+    <string name="airplane_mode_dialog_message_without_bluetooth">يتيح لك وضع الطيران إيقاف تشغيل ميزات الشبكة، بما في ذلك Wi-Fi. لاستخدام Wi-Fi، قم بتشغيله من الإعدادات أو لوحة الإخطارات‬.</string>
+    <string name="airplane_mode_dialog_message_wifi">يتيح لك وضع الطيران إيقاف تشغيل ميزات الشبكة، بما في ذلك Wi-Fi والبلوتوث. لاستخدام Wi-Fi والبلوتوث، قم بتشغيلهما من الإعدادات أو لوحة الإخطارات‬.</string>
+    <string name="airplane_mode_dialog_message_cmcc">يتيح لك وضع الطيران إيقاف تشغيل ميزات الاتصال، والمراسلة، وشبكة البيانات. يقوم أيضاً بإيقاف تشغيل ميزات إمكانية الاتصال مثل شبكة WLAN والبلوتوث. لاستخدام شبكة WLAN والبلوتوث، قم بتشغيلهما في الضبط أو على لوحة الإشعارات.</string>
+    <string name="airplane_mode_dialog_message_vzw">"Unless you use Wi-Fi, you will not be able to use the Internet, Email, or other apps that require a data connection.
+Turn on Airplane mode?"</string>
+    <string name="airplane_mode_dialog_message_vzw_volte">"Unless you use Wi-Fi, you will not be able to use Internet, Email, Wi-Fi Calling or other apps that require a data connection.
+Turn on Airplane mode?"</string>
+    <string name="airplane_mode_msg_safelock">يتعذر تفعيل وضع الطيران عندما يكون خيار حظر إيقاف التشغيل أثناء الإقفال قيد التفعيل. حاول مرة أخرى بعد إلغاء قفل الشاشة.</string>
+    <string name="airplane_mode_disabled_on_demo_devices">تم إلغاء تفعيل وضع الطيران على الأجهزة التجريبية.</string>
+    <string name="torch_light_notification_title">تم تشغيل الكشاف</string>
+    <string name="torch_light_notification_message">إيقاف التشغيل</string>
+    <string name="torch_light_disabled_by_low_battery">يتعذر تشغيل الكشاف. إنّ طاقة البطارية منخفضة.</string>
+    <string name="torch_light_turn_off_by_low_battery">إن طاقة البطارية منخفضة. سيتم إيقاف تشغيل الكشاف.</string>
+    <string name="dnd_noti_title">تم تفعيل وضع عدم الإزعاج</string>
+    <string name="dnd_noti_message">تم كتم التنبيهات</string>
+    <string name="dnd_noti_action_disable">إلغاء تفعيل</string>
+    <string name="qs_edit_settings_title">تعيين أزرار الإعداد السريع</string>
+    <string name="qs_edit_settings_available_button">الأزرار المتاحة</string>
+    <string name="qs_edit_settings_active_button">الأزرار النشطة</string>
+    <string name="qs_edit_settings_cancel_button">إلغاء</string>
+    <string name="qs_edit_settings_done_button">تم</string>
+    <string name="qs_edit_setting_button_summary_vzw">Customize which quick setting buttons appear at the top of the notification panel. Touch and hold, then drag the buttons to add, hide, or re-order them.</string>
+    <string name="qs_edit_setting_button_summary">أثناء عرض لوحة الضبط السريع، اسحبها نحو اليسار أو اليمين لعرض كل الأزرار الظاهرة في العلبة أعلاه.</string>
+    <string name="qs_edit_setting_edit_button">تعديل</string>
+    <string name="qs_edit_setting_option_text">يمكنك عرض هذه الوظيفة فوق لوحة الإشعارات.</string>
+    <string name="qs_edit_setting_available_area_dropped">Button not added to quick settings panel.</string>
+    <string name="qs_edit_setting_active_area_dropped">Button added to quick settings panel.</string>
+    <string name="qs_edit_setting_active_area_tapped">In quick settings panel.</string>
+    <string name="qs_edit_setting_available_area_tapped">Not in quick settings panel.</string>
+    <string name="quick_connect_button">الربط السريع</string>
+    <string name="tap_to_connect">انقر هنا لتوصيل الأجهزة</string>
+    <string name="sound_path_button">مسار الصوت</string>
+    <string name="wired_device">جهاز الصوت السلكي</string>
+    <string name="speaker">مكبر الصوت</string>
+    <string name="headset">سماعة الرأس</string>
+    <string name="headphones">سماعات الرأس</string>
+    <string name="car_system">نظام السيارة</string>
+    <string name="hdmi_mhl">جهاز HDMI/MHL</string>
+    <string name="status_bar_recent_launch_task_manager_title">مدير المهام</string>
+    <string name="status_bar_recent_remove_all_button">إغلاق الكل</string>
+    <string name="recent_multiwindow_guide_text">حدد تطبيقين لفتحهما في عرض تقسيم الشاشة.</string>
+    <string name="recent_multiwindow_empty_message">ما من تطبيقات مستخدمة مؤخراً تدعم عرض تقسيم الشاشة</string>
+    <string name="recent_cannot_open_popup_toast_1">يتعذر فتح %s في عرض الإطار المنبثق.</string>
+    <string name="recent_cannot_open_popup_toast_2">يتعذر فتح التطبيق في عرض الإطار المنبثق.</string>
+    <string name="tw_recents_lock_to_app_button_label">تثبيت التطبيق</string>
+    <string name="tw_lock_to_app_title">تفعيل تثبيت الإطارات</string>
+    <string name="tw_lock_to_app_description_1">تتيح لك هذه الوظيفة تثبيت تطبيقٍ على شاشة جهازك بحيث يتعذر عليك التنقل منه.</string>
+    <string name="tw_lock_to_app_description_2">عندما يكون تطبيق ما مثبتاً، سيتم حظر إشعارات من تطبيقات أخرى وقد لا تتوفر وظائف أخرى مثل الاتصال والمراسلة.</string>
+    <string name="tw_lock_to_app_description_tablet_wifi">عندما يكون تطبيق ما مثبتاً، سيتم حظر الإشعارات وقد لا تتوفر وظائف أخرى.</string>
+    <string name="tw_lock_to_app_description_recents_and_back">لإلغاء تثبيت تطبيق، اضغط مع الاستمرار على مفتاحي التطبيقات الأخيرة والرجوع في الوقت نفسه.</string>
+    <string name="tw_lock_to_app_description_menu_and_back">لإلغاء تثبيت تطبيق، اضغط مع الاستمرار على مفتاحي القائمة والرجوع في الوقت نفسه.</string>
+    <string name="tw_lock_to_app_description_recents_and_back_accessible">لإلغاء تثبيت التطبيق، اضغط مع الاستمرار على مفتاح التطبيقات الأخيرة.</string>
+    <string name="tw_lock_to_app_description_menu_and_back_accessible">لإلغاء تثبيت التطبيق، اضغط مع الاستمرار على مفتاح القائمة.</string>
+    <string name="tw_unable_to_pin_title">يتعذر تثبيت %s</string>
+    <string name="tw_unable_to_pin_description">لا يدعم هذا التطبيق خيار تثبيت الإطارات.</string>
+    <string name="tw_unable_to_pin_description_toast">يتعذر تثبيت التطبيق. تم إغلاق %s. حدث خطأ غير معروف.</string>
+    <string name="tw_screen_pinning_positive">بدء</string>
+    <string name="accessibility_recents_item_pin">تثبيت</string>
+    <string name="accessibility_recents_item_unpin">إلغاء تثبيت</string>
+    <string name="recents_help_split_buttton">لفتح التطبيقات في عرض تقسيم الشاشة، انقر فوق %s على شريط العنوان في إطار التطبيق. يظهر هذا الرمز عندما يدعم التطبيق عرض تقسيم الشاشة.</string>
+    <string name="recents_help_split_buttton_description">لفتح التطبيقات في عرض تقسيم الشاشة، انقر فوق رمز تقسيم الشاشة على شريط العنوان في إطار التطبيق. يظهر هذا الرمز عندما يدعم التطبيق عرض تقسيم الشاشة.</string>
+    <string name="recents_help_long_press">اضغط باستمرار على مفتاح التطبيقات الأخيرة لفتح التطبيقات في عرض تقسيم الشاشة.</string>
+    <string name="recent_multi_window">الفتح في عرض تقسيم الشاشة</string>
+    <string name="help">مساعدة</string>
+    <string name="disable_multi_window_dialog_title">إلغاء تفعيل الإطارات المتعددة</string>
+    <string name="disable_multi_window_dialog_text">سيتم إلغاء تفعيل الإطارات المتعددة وإغلاق كل التطبيقات المفتوحة في إطارات منبثقة.</string>
+    <string name="unable_to_capture_screen_drm_proteced_image">يتعذر التقاط الشاشة. الصورة محمية بـ DRM.</string>
+    <string name="unable_to_save_cropped_image">يتعذر حفظ الصورة التي تم اقتصاصها.</string>
+    <string name="center_bar_window_switch_windows">تبديل الإطارات</string>
+    <string name="center_bar_window_drag_and_drop_content">سحب المحتوى وإسقاطه</string>
+    <string name="center_bar_window_select_contents">أدرج صورة أو فقرة نصية من شاشة أخرى أو إطار العرض المنبثق وأسقطها في إطار آخر.</string>
+    <string name="center_bar_window_do_not_show_again">عدم العرض مرة أخرى</string>
+    <string name="keyguard_high_voltage_plugged_in">الشحن السريع: %d%%</string>
+    <string name="keyguard_charging_in_wireless">جارٍ الشحن لاسلكياً: %d%%</string>
+    <string name="keyguard_fast_charging_in_wireless">الشحن السريع لاسلكياً: %d%%</string>
+    <string name="keyguard_charging_remaining_time">(تقريباً %s حتى يتم الشحن بالكامل)</string>
+    <string name="lockscreen_charging_remaining_time">"الشحن: %1$d%%‏
+‏(%2$s حتى الشحن الكامل)"</string>
+    <string name="lockscreen_charging_in_wireless_remaining_time">"Charging wirelessly: %1$d%%
+(%2$s until full)"</string>
+    <string name="lockscreen_fast_charging_in_wireless_remaining_time">"Fast charging wirelessly: %1$d%%
+(%2$s until full)"</string>
+    <string name="keyguard_high_voltage_plugged_in_remaining_time">"Fast charging: %1$d%%
+(%2$s until full)"</string>
+    <string name="keyguard_skt_usim_unregistered">يتعذر استخدام بطاقة USIM. قم بتنزيل معلومات بطاقة USIM.</string>
+    <string name="keyguard_usim_not_used">يتعذر استخدام بطاقة USIM. تم إدخال رقم PIN لإلغاء القفل (PUK) غير صحيح %d من المرات. قم بشراء بطاقة USIM جديدة.</string>
+    <string name="lockscreen_nosim_text_kor_only">"لم يتم اكتشاف بطاقة USIM
+مكالمات الطوارئ فقط"</string>
+    <string name="noti_setting_button_text">ضبط الإشعارات</string>
+    <string name="name_slot1">منفذ 1</string>
+    <string name="name_slot2">منفذ 2</string>
+    <string name="app_locked">تم إقفال التطبيق</string>
+    <string name="applocked_pinning_window_disable">يتعذر تثبيت التطبيق. تم إقفال التطبيق.</string>
+    <string name="cover_quick_setting_warning_message">افتح الغلاف لاستخدام أزرار الضبط السريع.</string>
+    <string name="cover_device_locked_message">تم قفل الجهاز. افتح الغطاء.</string>
+    <string name="accessibility_noti_setting_button">ضبط الإشعارات</string>
+    <string name="switched_to_onephone_mode">تم تبديل الوضع إلى وضع الرقم الواحد.</string>
+    <string name="switched_to_twophone_mode">تم تبديل الوضع إلى وضع الرقمين.</string>
+    <string name="accessibility_recents_item_lock">قفل</string>
+    <string name="accessibility_recents_item_unlock">إلغاء القفل</string>
+    <string name="quick_panel_data_usage">استخدام البيانات</string>
+    <string name="qs_multisim_voice_preffered_btn_title">مكالمة صوتية</string>
+    <string name="qs_multisim_sms_preffered_btn_title">رسائل نصية</string>
+    <string name="qs_multisim_data_preffered_btn_title">بيانات الهاتف المحمول</string>
+    <string name="qs_multisim_voice_ask_always">السؤال دائماً</string>
+    <string name="qs_multisim_data_turned_off">تم إيقاف التشغيل</string>
+    <string name="wifi_fail_to_scan">لا يمكن فحص الشبكات</string>
+    <string name="wifi_security_none">لا شيء</string>
+    <string name="wifi_remembered">تم الحفظ</string>
+    <string name="wifi_disabled_generic">معطلة</string>
+    <string name="wifi_disabled_network_failure">‏أخفقت تهيئة عنوان IP</string>
+    <string name="wifi_disabled_wifi_failure">‏أخفق اتصال WiFi</string>
+    <string name="wifi_disabled_password_failure">حدثت مشكلة في المصادقة</string>
+    <string name="wifi_not_in_range">ليست في النطاق</string>
+    <string name="wifi_no_internet">لم يتم اكتشاف اتصال بالإنترنت.</string>
+    <string name="saved_network">تم الحفظ بواسطة %1$s</string>
+    <string name="connected_via_wfa">‏تم التوصيل عبر مساعد Wi-Fi</string>
+    <string name="connected_via_passpoint">‏تم الاتصال عبر %1$s</string>
+    <string name="available_via_passpoint">‏متوفرة عبر %1$s</string>
+    <string name="wifi_connected_no_internet">متصلة، ولا يتوفر إنترنت</string>
+    <string name="bluetooth_disconnected">غير متصل</string>
+    <string name="bluetooth_disconnecting">جارٍ قطع الاتصال...</string>
+    <string name="bluetooth_connecting">جارٍ الاتصال…</string>
+    <string name="bluetooth_connected">متصل</string>
+    <string name="bluetooth_pairing">جاري الإقتران…</string>
+    <string name="bluetooth_connected_no_headset">متصل (بجهاز غير الهاتف)</string>
+    <string name="bluetooth_connected_no_a2dp">متصل (بجهاز غير الوسائط)</string>
+    <string name="bluetooth_connected_no_map">تم الاتصال (يتعذر الدخول إلى الرسائل)</string>
+    <string name="bluetooth_connected_no_headset_no_a2dp">متصل (بجهاز غير الهاتف أو الوسائط)</string>
+    <string name="bluetooth_profile_a2dp">صوت الوسائط</string>
+    <string name="bluetooth_profile_headset">صوت الاتصال</string>
+    <string name="bluetooth_profile_opp">نقل الملف</string>
+    <string name="bluetooth_profile_hid">جهاز الإرسال</string>
+    <string name="bluetooth_profile_textinput">إدخال النص</string>
+    <string name="bluetooth_profile_pan">الاتصال بالإنترنت</string>
+    <string name="bluetooth_profile_pbap">مشاركة جهة الاتصال</string>
+    <string name="bluetooth_profile_pan_nap">مشاركة اتصال الإنترنت</string>
+    <string name="bluetooth_profile_map">الدخول إلى الرسائل</string>
+    <string name="bluetooth_profile_sap">‏الوصول إلى شريحة SIM</string>
+    <string name="bluetooth_profile_pbap_summary">استخدام مع مشاركة جهة الاتصال</string>
+    <string name="bluetooth_a2dp_profile_summary_connected">متصل لصوت الوسائط</string>
+    <string name="bluetooth_headset_profile_summary_connected">متصل لصوت الاتصال</string>
+    <string name="bluetooth_opp_profile_summary_connected">متصل بخادم نقل الملف</string>
+    <string name="bluetooth_map_profile_summary_connected">تم الاتصال بملف تعريف الدخول إلى الرسائل</string>
+    <string name="bluetooth_sap_profile_summary_connected">‏تم الاتصال بـ SAP</string>
+    <string name="bluetooth_opp_profile_summary_not_connected">غير متصل بخادم نقل الملفات</string>
+    <string name="bluetooth_hid_profile_summary_connected">تم التوصيل كجهاز إدخال</string>
+    <string name="bluetooth_pan_user_profile_summary_connected">تم توصيله بالجهاز للوصول إلى الإنترنت.</string>
+    <string name="bluetooth_pan_nap_profile_summary_connected">مشاركة الاتصال المحلي بالإنترنت مع الجهاز</string>
+    <string name="bluetooth_summary_connected_to_a2dp_headset">متصل لصوت الاتصال والوسائط</string>
+    <string name="bluetooth_pan_nap_connected">تم الاتصال لتوفير اتصال الإنترنت</string>
+    <string name="bluetooth_pan_panu_connected">تم الاتصال للوصول إلى اتصال الإنترنت</string>
+    <string name="bluetooth_pan_profile_summary_use_for">استخدام للاتصال بالإنترنت.</string>
+    <string name="bluetooth_map_profile_summary_use_for">استخدام لملف تعريف الدخول إلى الرسائل</string>
+    <string name="bluetooth_sap_profile_summary_use_for">‏الاستخدام للوصول إلى شريحة SIM</string>
+    <string name="bluetooth_a2dp_profile_summary_use_for">الاستخدام للإعدادات الصوتية للوسائط</string>
+    <string name="bluetooth_headset_profile_summary_use_for">الاستخدام لإعدادات الهاتف الصوتية</string>
+    <string name="bluetooth_opp_profile_summary_use_for">استخدامه لنقل الملفات</string>
+    <string name="bluetooth_hid_profile_summary_use_for">استخدام للإدخال</string>
+    <string name="bluetooth_pairing_accept">اقتران</string>
+    <string name="bluetooth_pairing_accept_all_caps">إقران</string>
+    <string name="bluetooth_pairing_decline">إلغاء</string>
+    <string name="bluetooth_pairing_will_share_phonebook">يضمن لك الإقران إمكانية الدخول إلى جهات اتصالك وسجل المكالمات عند الاتصال.</string>
+    <string name="bluetooth_pairing_error_message">تعذر الإقران مع %1$s.</string>
+    <string name="bluetooth_pairing_pin_error_message">يتعذر الاقتران بـ %1$s. تأكد أن %2$s جاهز للاقتران.</string>
+    <string name="bluetooth_pairing_device_down_error_message">لا يمكن الاتصال بـ %1$s.</string>
+    <string name="bluetooth_pairing_rejected_error_message">تم رفض الاقتران بواسطة %1$s</string>
+    <string name="bluetooth_hid_connection_error_message">يتعذر توصيل الجهاز بجهاز إدخال عبر البلوتوث أثناء استخدامه كجهاز إدخال عبر البلوتوث.</string>
+</resources>

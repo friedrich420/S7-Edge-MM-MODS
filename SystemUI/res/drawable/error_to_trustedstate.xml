@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:name="error_to_trustedstate" android:height="32.0dip" android:width="32.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:name="error_to_trusted_state">
+        <group android:name="error_circle">
+            <path android:name="ellipse_path_1" />
+        </group>
+        <group android:name="middle_ellipse">
+            <path android:name="ellipse_path_2" />
+        </group>
+        <group android:name="lock_right_side" android:scaleX="1.33333" android:scaleY="1.33333">
+            <path android:name="path_1" />
+        </group>
+        <group android:name="lock_left_side" android:scaleX="1.33333" android:scaleY="1.33333">
+            <path android:name="path_2" />
+        </group>
+        <group android:name="lock_top" android:scaleX="0.0" android:scaleY="0.0">
+            <path android:name="path_3" />
+        </group>
+        <group android:name="exclamation_dot">
+            <path android:name="rectangle_path_1" />
+        </group>
+    </group>
+</vector>

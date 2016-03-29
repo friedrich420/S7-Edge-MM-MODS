@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/shortcut_layout" android:paddingLeft="5.0dip" android:paddingRight="5.0dip" android:focusable="true" android:visibility="gone" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/shortcut_icon" android:layout_width="@dimen/tw_status_bar_recents_launch_button_size" android:layout_height="@dimen/tw_status_bar_recents_launch_button_size" android:layout_marginTop="6.0dip" android:layout_marginBottom="6.0dip" />
+    <TextView android:textSize="14.0dip" android:textColor="@color/recents_remove_all_button_text_color" android:ellipsize="marquee" android:gravity="center" android:id="@id/shortcut_label" android:paddingLeft="5.0dip" android:paddingRight="5.0dip" android:fadingEdge="horizontal" android:layout_width="@dimen/tw_status_bar_recents_launch_text_width" android:layout_height="@dimen/tw_status_bar_recents_launch_text_height" android:maxLines="2" android:shadowColor="#7f000000" android:shadowDy="2.0" android:shadowRadius="2.0" />
+</LinearLayout>

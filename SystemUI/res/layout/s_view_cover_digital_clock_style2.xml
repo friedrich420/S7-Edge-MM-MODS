@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="73.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="top" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="55.0dip">
+        <TextView android:textSize="50.0dip" android:textColor="#ffffffff" android:gravity="right" android:id="@id/s_view_cover_digital_clock_time" android:layout_width="138.0dip" android:layout_height="55.0dip" android:layout_marginLeft="30.0dip" android:fontFamily="sans-serif-light" style="@style/sview_text_shadow" />
+        <TextView android:textSize="16.0dip" android:textColor="#ffffffff" android:id="@id/s_view_cover_digital_clock_day" android:layout_width="115.0dip" android:layout_height="fill_parent" android:layout_marginLeft="12.0dip" android:layout_marginTop="21.0dip" android:fontFamily="sans-serif" style="@style/sview_text_shadow" />
+    </LinearLayout>
+</LinearLayout>

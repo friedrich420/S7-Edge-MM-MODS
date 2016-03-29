@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <com.android.settings.applications.LayoutPreference android:layout="@layout/two_buttons_panel" android:selectable="false" android:key="two_buttons" />
+    <PreferenceCategory android:title="@string/controls_subtitle" android:key="controls_parent">
+        <Preference android:layout="@layout/power_usage_detail_margin" android:selectable="false" android:order="-1000" />
+        <Preference android:title="@string/high_power_apps" android:key="high_power" />
+        <Preference android:layout="@layout/power_usage_detail_margin" android:selectable="false" android:order="1000" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/details_subtitle" android:key="details_parent">
+        <Preference android:layout="@layout/power_usage_detail_margin" android:selectable="false" android:order="-1000" />
+        <Preference android:layout="@layout/power_usage_detail_margin" android:selectable="false" android:order="1000" />
+    </PreferenceCategory>
+    <PreferenceCategory android:key="messages_parent">
+        <Preference android:layout="@layout/power_usage_detail_margin" android:selectable="false" android:order="-1000" />
+        <Preference android:layout="@layout/power_usage_detail_margin" android:selectable="false" android:order="1000" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/packages_subtitle" android:key="packages_parent">
+        <Preference android:layout="@layout/power_usage_detail_margin" android:selectable="false" android:order="-1000" />
+        <Preference android:layout="@layout/power_usage_detail_margin" android:selectable="false" android:order="1000" />
+    </PreferenceCategory>
+</PreferenceScreen>

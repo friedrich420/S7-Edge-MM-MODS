@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="save">Ýatda sakla</string>
+    <string name="cancel">Ýatyr</string>
+    <string name="close">Ýap</string>
+    <string name="ok">OK</string>
+    <string name="back">Yza gaýt</string>
+    <string name="set">Sazlama</string>
+    <string name="s_view_cover_set_wallpaper">Diwarsurat hökmünde bellemek</string>
+    <string name="clearcover_no_missed_event">Siziň sypdyran wakalaryňyz ýok.</string>
+    <string name="clearcover_1_missed_call">Sizde 1 goýberilen jaň bar</string>
+    <string name="clearcover_1_unread_message">Siziň bir okalmadyk hatyňyz bar.</string>
+    <string name="clearcover_n_missed_calls">Sizde %d goýberilen jaňlar bar</string>
+    <string name="clearcover_n_unread_messages">Sizde %1$d okalmadyk hat bar</string>
+    <string name="clearcover_calls_and_messages">Sizde %1$d-ça kabul edilmedik jaňyňyz bar we %2$d-ça okalmadyk hatlaryňyz bar</string>
+    <string name="zzz_tts_temp_celsius">Selsiýa</string>
+    <string name="zzz_tts_temp_fahrenheit">Farengeýt</string>
+    <string name="zzz_tts_temperature">Dereje</string>
+    <string name="volumepanel_notification">Duýduryş sesi</string>
+    <string name="s_view_cover_shortcuts_title_text">Salgylanmalar</string>
+    <string name="s_view_cover_shortcuts_camera_text">Kamera</string>
+    <string name="s_view_cover_shortcuts_settings_text">Sazlamalar</string>
+    <string name="s_view_cover_shortcuts_favorite_text">Halanýan kontaktlar</string>
+    <string name="s_view_cover_shortcuts_light_text">Fonarjyk</string>
+    <string name="s_view_cover_shortcuts_heart_text">Ýürek ritmi</string>
+    <string name="s_view_cover_shortcuts_quick_memo_text">Hereket huşy</string>
+    <string name="select_background_color">S View diwar kagyzyny düz</string>
+    <string name="select_background_color_title">Ekran suratyny sazla</string>
+    <string name="s_view_stylized_clock_theme">Stil sagady belle</string>
+    <string name="s_view_window_theme">S View penjiresi diwar kagyzy</string>
+    <string name="s_view_info_cover">Görmek üçin elementleri saýlaň</string>
+    <string name="s_view_screen_roaming">Rouming</string>
+    <string name="s_view_screen_home">Öý</string>
+    <string name="battery_charging_percent">Zarýad alýar: %d%%</string>
+    <string name="battery_wireless_charging_percent">Simsiz zarýad: %d%%</string>
+    <string name="battery_wireless_fast_charging_percent">Simsiz çalt zarýad: %d%%</string>
+    <string name="battery_charged">Zarýadlanan</string>
+    <string name="s_view_cover_transport_prev_description">Öňki</string>
+    <string name="s_view_cover_transport_next_description">Indiki</string>
+    <string name="s_view_cover_transport_pause_description">Sägin</string>
+    <string name="s_view_cover_transport_play_description">Diňle</string>
+    <string name="s_view_cover_transport_stop_description">Sakla</string>
+    <string name="s_view_cover_transport_volume_description">Göwrüm</string>
+    <string name="s_view_cover_transport_playlist_description">Aýtdyrma sanawlary</string>
+    <string name="s_view_cover_missed_event_secured_popup">Enjam gulply. Goşmaça maglumat üçin sahaby açyň.</string>
+    <string name="s_view_cover_open_cover_popup">Diwar kagyzyny kesgitlemek üçin üstüni açyň.</string>
+    <string name="s_view_cover_open_cover_popup_view_detail">Jikme-jiklik üçin gapagy açyň.</string>
+    <string name="s_view_cover_open_cover_popup_for_detail_message">Hat maglumatlaryny görmek üçin gapagy açyň.</string>
+    <string name="s_view_cover_open_cover_popup_for_detail_call">Jaňlar barada jikme-jik maglumaty görmek üçin örtügi açyň.</string>
+    <string name="s_view_cover_missed_event_button_accessibiliy">Sypdyrylan çäreleriň sanawyna geçmek üçin iki barmagyňyz bilen syryň.</string>
+    <string name="s_view_cover_settings_button_accessibiliy">Sazlamalara gitmek üçin iki barmagyňyz bilen syryň.</string>
+    <string name="s_view_cover_camera_button_accessibiliy">Kamerany açmak üçin iki gezek basyň we süýşüriň.</string>
+    <string name="s_view_cover_favourite_button_accessibiliy">Halanýan kontaktlary açmak üçin, iki gezek basyp süýräň.</string>
+    <string name="accessibility_battery_level">%d göterim batareýa</string>
+    <string name="s_view_cover_open_popup_favorite">Enjam gulply. Halanýan kontaktlary görmek üçin, gapagy açyň.</string>
+    <string name="mini_view_cover_settings_description">S View Gapagy sazlamalaryna gitmek üçin gapagy açyň.</string>
+    <string name="s_view_cover_warn_popup_stylized_clock">S View penjiresinde stil sagat görkezilýärkä, diwar kagyzlaryny, pedometr maglumatyny we howa ýagdaýyny görkezip bolmaýar.</string>
+    <string name="s_view_wallpaper_selected_tts">Diwar kagyzy %1$d / %2$d</string>
+    <string name="popup_do_not_show_gain">Indi görkezme</string>
+    <string name="pinwindowcover_warning_content">Berkidilen goýmany ulanmak üçin, gapagy açyň.</string>
+    <string name="battery_fast_charging_percent">Çalt zarýad: %d%%</string>
+    <string name="keyguard_charged">Doly zarýadlandy</string>
+    <string name="keyguard_plugged_in">Zarýad alýar: %d%%</string>
+    <string name="keyguard_low_battery">Enjamy zarýada goýuň</string>
+    <string name="keyguard_connect_charger">Zarýadnigi birikdir</string>
+    <string name="kg_missing_sim_message_short">SIM karta ýok</string>
+    <string name="keyguard_missing_sim_message">USIM karta dakyp, enjamy açyp ýapyň</string>
+    <string name="keyboardview_keycode_delete">AÝYR</string>
+    <string name="keyboardview_keycode_enter">Gir</string>
+    <string name="kg_wrong_pattern">Nädogry şablon çyzyldy</string>
+    <string name="kg_wrong_password">Nädogry parol girizildi</string>
+    <string name="kg_wrong_pin">Nädogry PIN girizildi</string>
+    <string name="kg_n_attempts_remaining">(%d synanyşyk galdy)</string>
+    <string name="kg_1_attempt_remaining">(1 synanyşyk galdy)</string>
+    <string name="kg_too_many_failed_attempts_countdown">Ýene %d sekuntdan synanyş.</string>
+    <string name="kg_too_many_failed_attempts_countdown_min">Ýene 1 minutdan synanyş</string>
+    <string name="kg_too_many_failed_attempts_countdown_mins">Ýene %d minutdan synanyş</string>
+    <string name="kg_pattern_bouncer_instructions">Açmak üçin, şablony çyz</string>
+    <string name="kg_pin_bouncer_instructions">Açmak üçin, PIN-i giriz</string>
+    <string name="kg_password_bouncer_instructions">Açmak üçin, paroly giriz</string>
+    <string name="kg_pattern_instructions">Gulp açýan şablony çyz</string>
+    <string name="kg_unlock_sim_pin_instructions">SIM kartaň beklemesini açmak üçin PIN-ini giriziň</string>
+    <string name="kg_sim_puk_instructions">SIM gulply. PUK giriziň. Jikme-j. ü/n hyzm üpj edj ýüz tut.</string>
+    <string name="kg_pin_instructions">PIN kody giriz</string>
+    <string name="kg_backup_pin_instructions">Ätiýaçlandyryş PIN kody giriz</string>
+    <string name="kg_backup_password_instructions">Ätiýaç paroly giriz</string>
+    <string name="kg_password_instructions">Paroly giriziň</string>
+    <string name="kg_puk_enter_pin_hint">Täze SIM kartanyň PIN-ini giriziň.</string>
+    <string name="kg_enter_confirm_pin_hint">Tassyklamak üçin täze SIM karta PIN-ini täzeden giriziň.</string>
+    <string name="kg_sim_unlock_progress_dialog_message">SIM karta gulpdan açylýar…</string>
+    <string name="kg_login_username_hint">Ulanyjyň ady (E-poçta)</string>
+    <string name="kg_login_password_hint">Parol</string>
+    <string name="kg_login_submit_button">Hasaba gir</string>
+    <string name="kg_login_invalid_input">Nädogry ulanyjynyň ady ýa-da açarsöz</string>
+    <string name="no_network_connection">Tor birikmesi ýok</string>
+    <string name="kg_forgot_spass_button_text">Samsung hasaby</string>
+    <string name="kg_login_checking_password">Hasap barlanýar…</string>
+    <string name="kg_sec_1_failed_attempt_almost_at_wipe">Enjamyň gulpuny açmak üçin, synanyşyk edildi. Ýene %d gezek ýalňyş synanyşsaňyz, enjam standart sazlamalaryna nol ediler we ähli maglumatlar, şol sanda faýllar we göçürilip alnan goýmalar öçüriler.</string>
+    <string name="kg_sec_failed_attempts_almost_at_wipe">Enjamyň gulpuny açmak üçin, %1$d gezek synanyşyk edildi. Ýene %2$d gezek ýalňyş synanyşsaňyz, enjam standart sazlamalaryna nol ediler we ähli maglumatlar, şol sanda faýllar we göçürilip alnan goýmalar öçüriler.</string>
+    <string name="kg_sec_1_remaing_count_almost_at_wipe">Enjamyň gulpuny açmak üçin, %d gezek synanyşyk edildi. Ýene 1 gezek ýalňyş synanyşsaňyz, enjam standart sazlamalaryna nol ediler we ähli maglumatlar, şol sanda faýllar we göçürilip alnan goýmalar öçüriler.</string>
+    <string name="kg_sec_1_failed_attempt_almost_at_erase_user">Enjamyň gulpuny açmak üçin, synanyşyk edildi. Ýene %d synanyşykdan soň, profiliňiz ähli göçürilip alnan goýmalar we ähli dahylly maglumaty bilen bilelikde öçüriler.</string>
+    <string name="kg_sec_failed_attempts_almost_at_erase_user">Enjamyň gulpuny açmak üçin, %1$d gezek synanyşyk edildi. Ýene %2$d synanyşykdan soň, profiliňiz ähli göçürilip alnan goýmalar we ähli dahylly maglumaty bilen bilelikde öçüriler.</string>
+    <string name="kg_sec_1_remaing_count_almost_at_erase_user">Enjamyň gulpuny açmak üçin, %d gezek synanyşyk edildi. Ýene 1 synanyşykdan soň, profiliňiz ähli göçürilip alnan goýmalar we ähli dahylly maglumaty bilen bilelikde öçüriler.</string>
+    <string name="kg_sec_failed_attempts_now_erasing_user">Enjamyň gulpuny açmak üçin, %d gezek synanyşyk edildi. Profiliňiz ähli göçürilip alnan goýmalar we ähli dahylly maglumaty bilen bilelikde öçüriler. Bu maglumaty dikeldip bolmaýar.</string>
+    <string name="kg_sec_1_failed_attempt_almost_at_erase_profile">Enjamyň gulpuny açmak üçin, synanyşyk edildi. Ýene %d synanyşykdan soň, iş profiliňiz ähli göçürilip alnan goýmalar we ähli dahylly maglumaty bilen bilelikde öçüriler.</string>
+    <string name="kg_sec_failed_attempts_almost_at_erase_profile">Enjamyň gulpuny açmak üçin, %1$d gezek synanyşyk edildi. Ýene %2$d synanyşykdan soň, iş profiliňiz ähli göçürilip alnan goýmalar we ähli dahylly maglumaty bilen bilelikde öçüriler.</string>
+    <string name="kg_sec_1_remaing_count_almost_at_erase_profile">Enjamyň gulpuny açmak üçin, %d gezek synanyşyk edildi. Ýene 1 synanyşykdan soň, iş profiliňiz ähli göçürilip alnan goýmalar we ähli dahylly maglumaty bilen bilelikde öçüriler.</string>
+    <string name="kg_sec_failed_attempts_now_erasing_profile">Enjamyň gulpuny açmak üçin, %d gezek synanyşyk edildi. Iş profiliňiz ähli göçürilip alnan goýmalar we ähli dahylly maglumaty bilen bilelikde öçüriler. Bu maglumaty dikeldip bolmaýar.</string>
+    <string name="kg_password_wrong_pin_code_one">Nädogry SIM karta PIN-i girizildi. Ýene 1 sany synanyşygyňyz galdy.</string>
+    <string name="kg_password_wrong_pin_code_other">Nädogry SIM karta PIN-i girizildi. Ýene %d sany synanyşygyňyz galdy.</string>
+    <string name="airplane_mode">Uçuş režimi</string>
+    <string name="kg_strong_auth_prompt_reason_timeout_pattern">Barmak yzlaryny goramak üçin, 24 sagatdan köp wagtlap enjam ulanylmasa, barmak yzyny tanamaga derek şablon çyz</string>
+    <string name="kg_strong_auth_prompt_reason_timeout_pin">Barmak yzlaryny goramak üçin, 24 sagatdan köp wagtlap enjam ulanylmasa, barmak yzyny tanamaga derek PIN giriziň</string>
+    <string name="kg_strong_auth_prompt_reason_timeout_password">Barmak yzlaryny goramak üçin, 24 sagatdan köp wagtlap enjam ulanylmasa, barmak yzyny tanamaga derek parol giriziň</string>
+    <string name="fingerprint_no_match">Gabat gelenler ýok</string>
+    <string name="keyguard_perso_locked_message">Block other USIM</string>
+    <string name="keyguard_pin_locked_message">PIN giriz</string>
+    <string name="keyguard_puk_locked_message">PUK giriz</string>
+    <string name="keyguard_dualclock_home">Öý</string>
+    <string name="keyguard_dualclock_roaming">Rouming</string>
+    <string name="keyguard_dualclock_home_Seoul">Seoul</string>
+    <string name="keyguard_dualclock_roaming_Korea">Roaming</string>
+    <string name="keyguard_progress_erasing_all">Deleting all data…</string>
+    <string name="keyguard_recovery_instructions">Gulpy açmak üçin dikeltme açarsözüni giriziň</string>
+    <string name="kg_sim_pin_remaining_1_attempt">Ýene 1 sany synanyşygyňyz galdy.</string>
+    <string name="kg_sim_pin_remaining_attempts">Ýene %d synanyşygyňyz galdy.</string>
+    <string name="kg_sim_puk_remaining_1_attempt">Ýene 1 gezek nädogry PUK girizseňiz, SIM gulplanar.</string>
+    <string name="kg_sim_puk_remaining_attempts">Ýene %d gezek nädogry PUK girizseňiz, SIM gulplanar.</string>
+    <string name="kg_kor_password_wrong_pin_code">Nädogry PIN girizildi. %d synanyşyk galdy. Müşderi hyzmatlaryna ýüz tutuň.</string>
+    <string name="kg_kor_sim_unlock_progress_dialog_message">SIM kartanyň gulpuny açmak</string>
+    <string name="kg_kor_sim_puk_instructions">PUK-y giriziň.</string>
+    <string name="kg_kor_invalid_sim_puk_hint">Enter 8-digit PIN unlock (PUK) code</string>
+    <string name="kg_kor_empty_sim_puk_hint">Unlock code is not entered. Enter PIN unlock (PUK) code.</string>
+    <string name="kg_kor_puk_enter_pin_hint">"Täze USIM karta PIN-ini dörediň.
+PIN-de 4 - 8 sifr bolmaly."</string>
+    <string name="kg_kor_enter_confirm_pin_hint">Tassyklamak üçin USIM karta PIN-ini täzeden giriziň.</string>
+    <string name="kg_kor_invalid_confirm_pin_hint">Täze PIN-ler deň gelmeýär.</string>
+    <string name="kg_kor_wrong_puk_code">Unlock code input error</string>
+    <string name="kg_kor_sim_puk_remaining_attempts">"%1$d gezek nädogry PUK girizildi. Ýene %2$d gezek nädogry PUK girizseňiz, USIM kart hemişelik gulplanar.
+
+PUK koduňyzy bilmeýän bolsaňyz, müşderi hyzmaty merkezine baryň."</string>
+    <string name="kg_kor_success_pin_message">New password (PIN) saved successfully.</string>
+    <string name="kg_ktt_sim_perso_instructions">Enter 4- to 8-digit password (PIN)</string>
+    <string name="kg_empty_sim_perso_hint">No password entered. Enter password (PIN).</string>
+    <string name="kg_password_perso_failed">Incorrect PIN. Check PIN and try again.</string>
+    <string name="kg_password_perso_max_failed">Incorrect PIN entered for USIM card lock. Maximum number of retries reached. Restart device or visit CS centre.</string>
+    <string name="keyguard_fmm_phone_locked_title">Telefon gulplandy.</string>
+    <string name="keyguard_fmm_owner_phone">Eýesiniň belgisi</string>
+    <string name="kg_wrong_universal_lock">Nädogry ugur çyzyldy</string>
+    <string name="kg_universal_lock_instructions_normal_mode">Ekranyň gulpuny açmak üçin ugur tapgyryny çyz</string>
+    <string name="keyguard_accessibility_universal_lock_unlock">Ugur gulpy</string>
+    <string name="kg_wrong_universal_lock_vzw">Incorrect directions (%d attempts remaining)</string>
+    <string name="universal_lock_too_many_failed_attempts_countdown">%d sekuntdan ýene-de synanş</string>
+    <string name="kg_too_many_failed_attempt_countdown">Ýene 1 sekuntdan synanyş</string>
+    <string name="kg_lockscreen_backup_pin_button_text">PIN-i ätiýaçlaň</string>
+    <string name="kg_lockscreen_emergency_call_button_text">Gyssagly jaň</string>
+    <string name="kg_sim_lock_accepted">Kod kabul edildi</string>
+    <string name="kg_fingerprints_pattern_instructions">Barmak yzy ulan ýa-da gulp açýan şablon çyz</string>
+    <string name="kg_fingerprints_pin_instructions">Barmak yzy ulan ýa-da PIN giriz</string>
+    <string name="kg_fingerprints_password_instructions">Barmak yzy ulan ýa-da parol giriz</string>
+    <string name="kg_fingerprints_pattern_bouncer_instructions">Açmak üçin barmak yzy ulan ýa-da şablon çyz</string>
+    <string name="kg_fingerprints_pin_bouncer_instructions">Açmak üçin barmak yzy ulan ýa-da PIN giriz</string>
+    <string name="kg_fingerprints_password_bouncer_instructions">Açmak üçin barmak yzy ulan ýa-da parol giriz</string>
+    <string name="kg_fingerprints_pattern_unabled_instructions">Barmak yzlaryny goramak üçin, enjam açylyp ýapylansoň, barmak yzyny tanamaga derek şablon çyz</string>
+    <string name="kg_fingerprints_pin_unabled_instructions">Barmak yzlaryny goramak üçin, enjam açylyp ýapylansoň, barmak yzyny tanamaga derek PIN giriziň</string>
+    <string name="kg_fingerprints_password_unabled_instructions">Barmak yzlaryny goramak üçin, enjam açylyp ýapylansoň, barmak yzyny tanamaga derek parol giriziň</string>
+    <string name="kg_finger_print_not_responding_error_message">Barmak yzyň sensory jogap bermeýär. Soňra täzeden synanyşyň.</string>
+    <string name="kg_finger_print_database_error_message">Barmak yzy maglumaty zeperlendi. Ekran gulpy hökmünde Barmak yzyny nol ediň we barmak yzlaryňyzy täzeden goşuň ýa-da ekran gulpuny üýtgediň.</string>
+    <string name="kg_finger_print_sensor_with_recalibration_error_message">Öý düwmesiniň arassa we gurudygyny barlap, täzeden synanyşyň.</string>
+    <string name="kg_finger_print_sensor_changed_error_message">Barmak yzy sensory dogry üýtgedilmedi. Müşderi hyzmatlaryna ýüz tutuň.</string>
+    <string name="kg_fingerprints_upgrade_popup_title">Barmak yzlarynyň howpsuzlyk syýasatyny täzele</string>
+    <string name="kg_fingerprints_upgrade_instructions">"Barmak yzlaryňyzy goramak üçin, siz howpsuzlyk syýasatyny täzelemeli.
+
+Ekran gulp görnüşi hökmünde Barmak yzyny ulanmak üçin, Jübüt tassyklama usuly hökmünde ulanar ýaly PIN, şablon ýa-da parol döretmek üçin INDIKÄ basyň.
+
+Jübüt tassyklama şu ýagdaýlarda barmak yzyny tanamaga derek ulanylýar:
+
+Enjam açylyp ýapylanda
+Enjam %s sagatdan köp wagt ulanylman duranda
+Ekran gulp görnüşi ýa-da barmak yzy sazlamalary üýtgedilende"</string>
+    <string name="keyguard_accessibility_one_hand_operation_left_handed">Çeplik</string>
+    <string name="keyguard_accessibility_one_hand_operation_right_handed">Saglakaý</string>
+    <string name="kg_too_many_failed_attempts_countdown_hours_with_auto_wipe">"Enjamyň gulpuny açmak üçin, %1$d gezek synanyşyk edildi. Ýene %2$d gezek ýalňyş synanyşsaňyz, enjam asyl standardyna nol ediler we ähli maglumatlar öçüriler.
+
+Ýene %3$d sagatdan synanyşyň."</string>
+    <string name="kg_too_many_failed_attempts_countdown_1_hour_with_auto_wipe">"Enjamyň gulpuny açmak üçin, %1$d gezek synanyşyk edildi. Ýene %2$d gezek ýalňyş synanyşsaňyz, enjam asyl standardyna nol ediler we ähli maglumatlar öçüriler.
+
+Ýene 1 sagatdan synanyşyň."</string>
+    <string name="kg_remained_1_attempts_with_auto_wipe">You only have 1 attempt left to unlock your phone before it is reset to factory mode. This will delete all data, including files and downloaded apps.</string>
+    <string name="kg_remained_1_attempts_with_auto_wipe_subuser">You only have 1 attempt left to unlock your tablet before your account is removed. This will delete all data on your account, including files, and downloaded apps.</string>
+    <string name="kg_too_many_failed_attempts_countdown_mins_with_auto_wipe">"Enjamyň gulpuny açmak üçin, %1$d gezek synanyşyk edildi. Ýene %2$d gezek ýalňyş synanyşsaňyz, enjam asyl standardyna nol ediler we ähli maglumatlar öçüriler.
+
+Ýene %3$d minutdan synanyşyň"</string>
+    <string name="kg_too_many_failed_attempts_countdown_secs_with_auto_wipe">"Enjamyň gulpuny açmak üçin, %1$d gezek synanyşyk edildi. Ýene %2$d gezek ýalňyş synanyşsaňyz, enjam asyl standardyna nol ediler we ähli maglumatlar öçüriler.
+
+Ýene %3$d sekuntdan synanyşyň"</string>
+    <string name="kg_too_many_failed_attempts_countdown_1_min_with_auto_wipe">"Enjamyň gulpuny açmak üçin, %1$d gezek synanyşyk edildi. Ýene %2$d gezek ýalňyş synanyşsaňyz, enjam asyl standardyna nol ediler we ähli maglumatlar öçüriler.
+
+Ýene 1 minutdan synanyşyň"</string>
+    <string name="kg_too_many_failed_attempts_countdown_1_sec_with_auto_wipe">"Enjamyň gulpuny açmak üçin, %1$d gezek synanyşyk edildi. Ýene %2$d gezek ýalňyş synanyşsaňyz, enjam asyl standardyna nol ediler we ähli maglumatlar öçüriler.
+
+Ýene 1 sekuntdan synanyşyň"</string>
+    <string name="kg_remained_1_attempt_countdown_mins_with_auto_wipe">"Enjamyň gulpuny açmak üçin, %1$d gezek synanyşyk edildi. Ýene 1 gezek ýalňyş synanyşsaňyz, enjam asyl standardyna nol ediler we ähli maglumatlar öçüriler.
+
+Ýene %2$d minutdan synanyşyň"</string>
+    <string name="kg_remained_1_attempt_countdown_secs_with_auto_wipe">"Enjamyň gulpuny açmak üçin, %1$d gezek synanyşyk edildi. Ýene 1 gezek ýalňyş synanyşsaňyz, enjam asyl standardyna nol ediler we ähli maglumatlar öçüriler.
+
+Ýene %2$d sekuntdan synanyşyň"</string>
+    <string name="kg_remained_1_attempt_countdown_1_min_with_auto_wipe">"Enjamyň gulpuny açmak üçin, %d gezek synanyşyk edildi. Ýene 1 gezek ýalňyş synanyşsaňyz, enjam asyl standardyna nol ediler we ähli maglumatlar öçüriler.
+
+Ýene 1 minutdan synanyşyň"</string>
+    <string name="kg_remained_1_attempt_countdown_1_sec_with_auto_wipe">"Enjamyň gulpuny açmak üçin, %d gezek synanyşyk edildi. Ýene 1 gezek ýalňyş synanyşsaňyz, enjam asyl standardyna nol ediler we ähli maglumatlar öçüriler.
+
+Ýene 1 sekuntdan synanyşyň"</string>
+    <string name="kg_too_many_failed_attempts_remaining_with_auto_wipe">%d synanyşyk galdy</string>
+    <string name="kg_too_many_failed_1_attempt_remaining_with_auto_wipe">1 synanyşyk galdy</string>
+    <string name="kg_too_many_failed_countdown_mins_with_auto_wipe">Ýene %d minutdan synanyş</string>
+    <string name="kg_too_many_failed_countdown_1_min_with_auto_wipe">Ýene 1 minutdan synanyş</string>
+    <string name="kg_too_many_failed_countdown_secs_with_auto_wipe">Ýene %d sekuntdan synanyş</string>
+    <string name="kg_too_many_failed_countdown_1_sec_with_auto_wipe">Ýene 1 sekuntdan synanyş</string>
+    <string name="kg_too_many_failed_attempts_remaining_with_auto_wipe_mobile_keyboard">Ýene %d gezek ýalňyş synanyşsaňyz, enjam asyl standardyna nol ediler we ähli maglumatlar öçüriler.</string>
+    <string name="kg_too_many_failed_1_attempt_remaining_with_auto_wipe_mobile_keyboard">Ýene 1 gezek ýalňyş synanyşsaňyz, enjam asyl standardyna nol ediler we ähli maglumatlar öçüriler.</string>
+    <string name="kg_tts_shortcut_phone">Telefony açmak üçin, iki gezek basyp süýräň.</string>
+    <string name="kg_tts_shortcut_camera">Kamerany açmak üçin iki gezek basyň we süýşüriň.</string>
+    <string name="kg_tts_shortcut_app">%s açmak üçin, iki gezek basyp süýräň.</string>
+    <string name="kg_dcm_sim_puk_instructions">PIN böwetlendi. Dowam etmek üçin ŞGK kodyny giriziň.</string>
+    <string name="kg_liveweather_delete_main_text">Janly howa diwar kagyzyny bu OU wersiýa goldamaýar. Gulply ekran diwar kagyzyňyzy üýtgetmek üçin, DIWAR KAGYZ SAZLAMALARY-na basyň.</string>
+    <string name="kg_liveweather_delete_title_text">Gulp ekr diwar kagyzy</string>
+    <string name="kg_liveweather_delete_buttion_text">Diwar kagyzy sazlamalary</string>
+    <string name="kg_default_carrier_text_searching">Gözlenýär</string>
+    <string name="flight_mode">Uçuş režimi</string>
+    <string name="status_bar_clear_all_button">Arassala</string>
+    <string name="status_bar_settings_auto_brightness_label">Awto</string>
+    <string name="brightness_controller_label_text">Awto</string>
+    <string name="screenshot_saved_title">Ekranyň şekli alyndy</string>
+    <string name="screenshot_saved_text">Ekranyň suratyny görmek üçin basyň.</string>
+    <string name="screenshot_failed_title">Ekrany düşürip bolmaýar</string>
+    <string name="screenshot_failed_text_due_to_security_policy">Belki, howpsuzlyk syýasaty ekranyň düşürilmegine ýol berýän däldir.</string>
+    <string name="screen_capture_fail_for_storage_capacity">Enjamyň toplaýjysynda ýeterlik ýat ýok. Käbir faýllary öçürip, täzeden synanyşyň.</string>
+    <string name="screen_capture_fail_for_security_policy">Skrinşoty düşürip bolmaýar. Howpsuzlyk syýasaty bökdedi.</string>
+    <string name="no_such_item">Elementi tapyp bolanok.</string>
+    <string name="one_item_will_be_deleted">1 zat öçüriler</string>
+    <string name="screen_capture_edit">Düzediliş</string>
+    <string name="screen_capture_share">Paýlaş</string>
+    <string name="screen_capture_delete">Aýyr</string>
+    <string name="share_via">Şu arkaly paýlaş</string>
+    <string name="accessibility_wifi_signal_full">Wi-Fi signal doly.</string>
+    <string name="accessibility_wifi_three_bars">Wi-Fi signalyň üç çyzygy</string>
+    <string name="accessibility_wifi_two_bars">Wi-Fi signalynyň iki çyzygy</string>
+    <string name="accessibility_wifi_one_bar">Wi-Fi signalynyň bir dişi</string>
+    <string name="accessibility_no_wifi">Wi-Fi signaly ýok</string>
+    <string name="accessibility_recents_item_closed">%s ýapyldy.</string>
+    <string name="accessibility_desc_recent_apps">Soňky ulanylan gollanmalar</string>
+    <string name="quick_settings_brightness_controller_hbm">Gün ýagtysynda ajaýyp görüş üçin maksimizirlenen</string>
+    <string name="quick_settings_brightness_controller_outdoor_mode_label">Daşarda</string>
+    <string name="quick_settings_brightness_controller_outdoor_mode_title">Daşarda tertibi</string>
+    <string name="quick_settings_brightness_controller_outdoor_message_vzw">Outdoor mode will maximize screen brightness for best viewing in sunlight. If the screen is not in use, screen brightness will return to the previous setting in 15 minutes.</string>
+    <string name="quick_settings_brightness_controller_outdoor_message">Ekran ýagtylygyny %1$d minut köpeldiň. %2$d minut geçende, ekran açyk bolsa, Daşarda tertibi ekran ýapylýança açyk durar.</string>
+    <string name="data_usage_disabled_dialog_limit_title">Ykjam maglumat ýapyldy</string>
+    <string name="data_usage_disabled_dialog_limit_title_vzw">Mobile data is now off</string>
+    <string name="data_usage_disabled_dialog_limit">Kesgitlenen maglumat ulanşyk çägine ýetildi. Goşmaça maglumatyň ulanşygy hyzmat prowaýderi tarapyndan tölegli bolup biler.</string>
+    <string name="data_usage_disabled_dialog_limit_vzw">"You've reached your specified data usage limit, so mobile data has been turned off.
+
+If you turn mobile data back on, you may be charged for data usage by your carrier."</string>
+    <string name="data_usage_disabled_dialog_limit_enable">Mobil maglumaty aç</string>
+    <string name="data_usage_disabled_dialog_limit_enable_vzw">Turn on data</string>
+    <string name="gps_notification_searching_text_vzw">Finding location</string>
+    <string name="gps_notification_found_text_vzw">Location found</string>
+    <string name="it_policy_not_allow_wifi">Howpsuzlyk syýasaty Wi-Fi-yň ulanylmagyna ýol bermeýär.</string>
+    <string name="it_policy_not_allow_wifiap">Howpsuzlyk düzgün Internetden paýlaşma ulanmagy gadagan edýär.</string>
+    <string name="wifi_in_airplane_mode">Uçuş tertibinde</string>
+    <string name="wifi_authentication_succeed">Ygtyýarlandyryldy.</string>
+    <string name="wifi_authentication_failed">Hasaba durup bolmady</string>
+    <string name="wifi_authentication_succeed_kt">Wi-Fi AP hakykylygy barlandy.</string>
+    <string name="wifi_authentication_failed_kt">Wi-Fi AP hakykylygy barlanmady.</string>
+    <string name="wifi_authentication_not_subscribed">%s toruna birigip bolmaýar. Hyzmata ýazylyp, soňra synanyşyň.</string>
+    <string name="wifi_authentication_no_response">Wi-Fi AP-ä birigip bolmady.</string>
+    <string name="wifi_authentication_invalid_value">Authentication failed. Check ID and password.</string>
+    <string name="wifi_setup_title_connected_network">%s Wi-Fi ulgamyna baglandy</string>
+    <string name="wifi_disconnected">Wi-Fi kesildi.</string>
+    <string name="quick_settings_dnd_label">"Bimaza
+etmäň"</string>
+    <string name="quick_settings_dormant_mode_label">"Bimaza
+etmäň"</string>
+    <string name="quick_settings_bluetooth_label">Bluetooth</string>
+    <string name="quick_settings_rotation_unlocked_label">"Awto
+-aýla"</string>
+    <string name="quick_settings_rotation_locked_portrait_label">Dik</string>
+    <string name="quick_settings_airplane_mode_label">"Uçar 
+režimi"</string>
+    <string name="quick_settings_silent_mode_sound">Sesler</string>
+    <string name="quick_settings_silent_mode_vibrate">Wibrirle</string>
+    <string name="quick_settings_silent_mode_mute">Sessiz</string>
+    <string name="quick_settings_sfinder_text">S Tapyjy</string>
+    <string name="quick_settings_sync_text">Sink</string>
+    <string name="quick_settings_wificalling_text">"Wi-Fi
+Calling"</string>
+    <string name="quick_settings_wifi_hotspot_label">"Mobil
+gçş. nok."</string>
+    <string name="quick_settings_wifi_hotspot_label_vzw">"Mobil
+gçş. nok."</string>
+    <string name="quick_settings_wifi_hotspot_label_jpn">"Wi-Fi
+modem"</string>
+    <string name="quick_settings_touch_sensitivity_label">"Degiş
+duýgurlygy"</string>
+    <string name="quick_settings_smart_stay_label">"Smart
+eyerleşme"</string>
+    <string name="quick_settings_quick_connect_label">"Tiz
+birikme"</string>
+    <string name="quick_settings_ultra_power_saving_label">"U. güýç
+tygşytlama"</string>
+    <string name="quick_settings_location_text">Ýer</string>
+    <string name="quick_settings_gps_text">GPS</string>
+    <string name="quick_settings_reading_mode_label">"Okamak
+režimi"</string>
+    <string name="quick_settings_mobile_data_label">"Mobil
+maglumat"</string>
+    <string name="quick_settings_data_roaming_label">"Maglumat
+rouming"</string>
+    <string name="quick_settings_personal_mode_label">"Gizlin
+tertip"</string>
+    <string name="quick_settings_power_saving_label">"Güýç
+saklanylýar"</string>
+    <string name="quick_settings_network_power_saving_label">"Güýç
+tygş ý."</string>
+    <string name="quick_settings_nfc_card_mode_label">"NFC
+petek rejesi"</string>
+    <string name="quick_settings_nfc_p2p_label">"R/W
+P2P"</string>
+    <string name="quick_settings_nfc_jpn_label">"NFC/Osaifu-
+Keitai"</string>
+    <string name="quick_settings_torch_label">Fonarjyk</string>
+    <string name="quick_settings_screen_capture_label">"Capture
+screen"</string>
+    <string name="quick_settings_aod_label">"Always On
+Display"</string>
+    <string name="quick_settings_wifi_label">Wi-Fi</string>
+    <string name="quick_settings_screen_mirroring_label">"Ekran
+serpikdirmesi"</string>
+    <string name="quick_settings_more_settings">SAZLAMALAR</string>
+    <string name="quick_settings_done">Taýýar</string>
+    <string name="quick_settings_flashlight_label">Fonarjyk</string>
+    <string name="quickpanel_content_description_led_on">%s işledilen.</string>
+    <string name="quickpanel_content_description_led_off">%s işlemeýän edilen.</string>
+    <string name="quickpanel_content_description_led_dim">%s işledip bolmaýar.</string>
+    <string name="quickpanel_content_description_expand_button">Çalt sazlamalar panelini giňelt</string>
+    <string name="quickpanel_content_description_collapse_button">Çalt sazlamalar panelini düýrle</string>
+    <string name="quickpanel_long_preesed_description">Degişli gurnama amallaryna girmek üçin çalt gurnama düwmesini basyň we saklaň</string>
+    <string name="recents_empty_message">Soňky ulanylan goýma ýok</string>
+    <string name="recents_app_info_button_label">Goýma maglumaty</string>
+    <string name="keyguard_unlock">Gulpy açmak üçin ekrany syr</string>
+    <string name="lockscreen_unlock_guide_text">Gulpy açmak üçin ekrany syr</string>
+    <string name="lockscreen_unlock_guide_text_voice_assistant">Ekrany açmak üçin iki barmagyňyz bilen syýryň</string>
+    <string name="kg_fingerprints_unlock_instructions">Gulp aç. üçin barmak yzy ulan</string>
+    <string name="kg_fingerprints_bouncer_instructions">Açmak üçin, barmak yzyny ulan</string>
+    <string name="kg_swipe_bouncer_instructions">Açmak üçin, ekrany syr</string>
+    <string name="kg_swipe_bouncer_instructions_voice_assistant">Açmak üçin, ekrany iki barmak bilen syryň.</string>
+    <string name="guest_nickname">Myhman</string>
+    <string name="guest_exit_guest">Myhmany öçür</string>
+    <string name="guest_exit_guest_dialog_title">Myhman profilini öçür</string>
+    <string name="guest_exit_guest_dialog_message">Bu profil ähli göçürilip alnan goýmalar we dahylly maglumat bilen bilelikde öçüriler. Bu maglumaty dikeldip bolmaýar.</string>
+    <string name="guest_exit_guest_dialog_remove">Aýyr</string>
+    <string name="user_add_user_title">Ulanyjyny goşmak</string>
+    <string name="user_add_user_message_short">"Täze ulanyjy goşanyňyzda, ol öz ýerini sazlamaly bolýar.
+
+Islendik ulanyjy ähli beýleki ulanyjylar üçin goýmalary täzeläp bilýär."</string>
+    <string name="unable_to_switch_user">Jaň wagty ulanyjy profilini üýtgedip bolmaýar.</string>
+    <string name="sanitized_content_text">%s girmek üçin şu ýere barmagyňyzy degriň.</string>
+    <string name="accessibility_volume_expand">Giňelt</string>
+    <string name="accessibility_volume_collapse">Düýrle</string>
+    <string name="tw_safe_media_volume_warning">Uzak wagtlap gaty sesli diňlemek eşidiş ukybyňyza zeper ýetirip biler. Sesi zyýansyz derejeden ýokary galdyrmaga rugsat bermek üçin OK basyň.</string>
+    <string name="tw_cover_volume_warning_message">Uzak wagtlap beýik seslerde diňlemek, eşidişe zyýan ýetirip biler. Sesi ulaltmak üçin, örtügi açyň.</string>
+    <string name="tw_safe_media_volume_warning_kids_mode">Kies Tertibinde gulaksalar bagly mahaly sesiň kesgitlenen howpsuzlyk derejeseinden (%s) beýik bolmagy mümkün däldir.</string>
+    <string name="yes">OK</string>
+    <string name="no">Ýatyr</string>
+    <string name="mobile_hotspot_wifi_off_warning">Mobil giriş nokadynyň işledilmegi Wi-Fi-y öçürer.</string>
+    <string name="mobile_hotspot_wifi_off_warning_china">Enabling Mobile hotspot will turn off WLAN.</string>
+    <string name="mobile_hotspot_wifi_off_warning_jpn">Enabling Wi-Fi tethering will turn off Wi-Fi.</string>
+    <string name="tethering_attention_title">Üns beriň</string>
+    <string name="mobile_data_enable_toast_text">Uçuş tertibi açyk mahaly mobil ulgamlara baglanyp bolanok. Uçuş tertibini ýapyň we gaýtadan synanyşyň.</string>
+    <string name="wifi_ap_wifi_p2p_off_warn">Mobil geçiş nokadyny açmak Göni Wi-Fi üsti bilen açyk bolan ähli enjamlaryň baglanyşygyny kesýär.</string>
+    <string name="wifi_ap_wifi_p2p_off_warn_china">Enabling Portable WLAN hotspot will disconnect device connected via WLAN Direct.</string>
+    <string name="dialog_battery_data_warning">Mobil giriş nokady işlediler. Bu batareýanyň harç edilişini we maglumatyň ulanylyşyny artdyrar.</string>
+    <string name="accessibility_qs_edit_button">Düzet düwmesi</string>
+    <string name="accessibility_button">Düwme</string>
+    <string name="no_sim_notification_title">SIM ýok</string>
+    <string name="no_sim_notification_title_tmo">SIM karta dakylmadyk</string>
+    <string name="no_sim_notification_title_vzw">No SIM found</string>
+    <string name="no_sim_notification_text">SIM kartany giriziň</string>
+    <string name="no_sim_notification_text_vzw">Tap for more information.</string>
+    <string name="full_battery_title">Maglumat</string>
+    <string name="full_battery_noti_text">Batareýa doly zarýadly.</string>
+    <string name="charging_interruption_title">Güýç berip bolanok</string>
+    <string name="charging_interruption_by_terminal_open_text">Enjamyňyzy zarýadlap bolmaýar. Samsung bilen ylalaşykly batareýany we zarýadnigi ulanýandygyňya hem-de enjamyňyzyň zarýad berijä dogry dakylandygyna göz ýetiriň.</string>
+    <string name="charging_interruption_by_terminal_open_galaxy_text">Unable to charge your device. Make sure you are using a Galaxy compatible battery and charger and that your device is properly connected to the charger.</string>
+    <string name="charging_interruption_by_too_high_temperature_text">Zarýadka togtadyldy. Batareýanyň temperaturasy örän ýokary.</string>
+    <string name="charging_interruption_by_too_low_temperature_text">Batareýanyň temperaturasy örän pes.</string>
+    <string name="charging_interruption_by_limit_high_temperature_text">"Enjam zarýadlanmagyny duruzdy. Batareýanyň temperaturasy örän ýokary. Zarýadlandyryjyny soguranyňyzda seresap boluň. Onuň örän gyzgyn bolmagy mümkin.
+
+Zarýadlandyryjyny sogrup gaýtadan çatmak kadaly ýagdaýda zarýadlanmagy dowam etdirip biler. Eger aşa gyzma dowam etse, müşderilere hyzmat ediş gulluklaryna ýüz tutuň, çünki ýangyn döreme ýa-da zeper ýetirme howpy bar."</string>
+    <string name="highvoltage_charger_notification_title">Çalt zarýad beriş</string>
+    <string name="highvoltage_charger_notification_text">Çalt zarýad beriji birikdirildi.</string>
+    <string name="cable_charging_title">Kabel bilen güýjini alyň</string>
+    <string name="wireless_charging_title">Simsiz zarýad bermek</string>
+    <string name="fast_wireless_charging_title">Çalt simsiz zarýad</string>
+    <string name="slow_charging_title">Enjam haýal zarýad alýar</string>
+    <string name="slow_charging_notification_text">Çalt zarýad bermek üçin, asyl zarýadnigi ulanyň.</string>
+    <string name="charging_noti_text_another">"Zarýad: %1$d%%
+(dolýança takmynan %2$s)"</string>
+    <string name="quick_settings_battery_charging_label">Zarýad alýar: %d%%</string>
+    <string name="time_format_hour_minute">%1$ds %2$dm</string>
+    <string name="time_format_hour">%d sag</string>
+    <string name="time_format_minute">%d m</string>
+    <string name="wireless_charging_disconnect_text">Simsiz zarýad sägindi.</string>
+    <string name="slow_charging_toast_text_for_tablet">To charge faster, use the charger and cable that were provided with this tablet.</string>
+    <string name="wireless_charger_misalign_help_text">Enjama has netijeli zarýad bermek üçin, ony simsiz zarýadnige talabalaýyk dakyň.</string>
+    <string name="wireless_charger_info_text">Make sure there are no metallic objects, such as metallic stickers, paper clips, or straps between the charging pad and mobile device.</string>
+    <string name="battery_saver_notification_title_sec">Güýç tygşytlaýyş teribi işledildi</string>
+    <string name="battery_saver_notification_text_sec">Enjam öndürijiligi çäkli we fon maglumat çäklendirilen</string>
+    <string name="battery_saver_notification_action_text_sec">Öçür</string>
+    <string name="battery_npsm_notification_title">Tor güýç tygşytlaýjy tertip işledildi</string>
+    <string name="battery_npsm_notification_text">Ekran ýapyk wagty, enjam öndürijiligi çäkli, fon maglumat çäklendirilen we Mobil maglumat bilen Wi-Fi ýapyk</string>
+    <string name="wireless_charging_from_wireless_to_cable_text">Simsiz zarýad bermekden kabel arkaly zarýad bermeklige geçirmek</string>
+    <string name="wireless_charging_from_cable_to_wireless_text">Kabel arkaly zarýad bermekden simsiz zarýad bermeklige geçirmek</string>
+    <string name="incompatible_charger_title">Zarýadlanmaýar</string>
+    <string name="incompatible_charger_dialog_text">The connected charger is incompatible with this phone. To prevent damage to your phone, charging has been stopped. To continue charging, use the original charger and cable that were provided with this phone.</string>
+    <string name="incompatible_charger_notification_text">Unable to charge. Use the original charger.</string>
+    <string name="incompatible_charger_ticker">Güýç alanok.</string>
+    <string name="warning_alert_check">Indi görkezme</string>
+    <string name="critical_low_battery_title">Batareýanyň güýji gaty az</string>
+    <string name="low_battery_title">Batareýanyň güýji az</string>
+    <string name="battery_low_hun_remaining_battery_level_format">Enjamyňyzda %d %% zarýad galdy. Enjamyňyzy zarýadnige birikdiriň.</string>
+    <string name="button_close">Ýap</string>
+    <string name="cooling_title">Enjam öte gyzýar</string>
+    <string name="cooling_noti_text">Maglumatlary görmek üçin şu ýere basyň.</string>
+    <string name="cooling_body">"Enjamyňyz artyk gyzdyryldy. Ony sowatmak üçin çäreler görüner.
+
+Siz heniz hem enjamyňyzy ulanyp bilersiňiz, ýöne
+- ekran ýagtylygy üýtgäp biler.
+- enjam haýallap biler.
+- zarýad bermeklik togtadylyp biliner.
+
+Häzirki gollary ýapsaňyz enjamyňyzy sowatmagyna ýardam bolar.
+
+Enjam sowanyndan soň işleýiş ukyby awtomatik görnüşde adatdakysyna dolanar."</string>
+    <string name="colling_high_level_noti_text">Gollanmalary açyp bolmaýar. Siz diňe telefon ýa-da kontakt gollanmalaryny ulanyp bilersiňiz.</string>
+    <string name="cooling_title_vzw">Cooling down</string>
+    <string name="cooling_noti_text_vzw">Has giňişleýin maglumat üçin şu ýere barmagyňyzy degriň.</string>
+    <string name="cooling_body_vzw">"Your phone is getting too hot, so it's taking steps to cool itself down.
+
+You can still use your phone, but you may notice:
+The screen might dim.
+The phone might slow down.
+Charging might pause.
+
+After the phone cools down, performance will automatically go back to normal."</string>
+    <string name="cooling_body_tablet_vzw">"Your tablet is getting too hot, so it’s taking steps to cool itself down.
+
+You can still use your tablet, but you may notice:
+The screen might dim.
+The tablet might slow down.
+Charging might pause.
+
+After the tablet cools down, performance willAutomatically go back to normal."</string>
+    <string name="overheat_shutdown_warning_title">Too hot - Turning off</string>
+    <string name="overheat_shutdown_warning_text">Your phone is getting too hot. It will now turn off to cool down.</string>
+    <string name="overheat_shutdown_warning_text_tablet">Your tablet is getting too hot. It will now turn off to cool down.</string>
+    <string name="overheat_shutdown_warning_button_text">"Don't turn off"</string>
+    <string name="overheat_shutdown_notice_title">Why did my phone turn off by itself?</string>
+    <string name="overheat_shutdown_notice_title_tablet">Why did my tablet turn off by itself?</string>
+    <string name="overheat_shutdown_notice_text">"Your phone got too hot. It turned off to prevent damage to the phone.
+
+Overheating can be caused by:
+Using graphics intensive apps like video games and navigation apps for long periods of time.
+Downloading or uploading large files.
+Using your phone in a very hot location."</string>
+    <string name="overheat_shutdown_notice_text_tablet">"Your tablet got too hot. It turned off to prevent damage to the tablet.
+
+Overheating can be caused by:
+Using graphics intensive apps like video games and navigation apps for long periods of time.
+Downloading or uploading large files.
+Using your tablet in a very hot location."</string>
+    <string name="overheat_poweroff_warning_title">Enjamy öçürmek.</string>
+    <string name="overheat_poweroff_warning_text">Siziň enjamyňyz aşa gyzýar. Ony sowatmak üçin ol öçürler.</string>
+    <string name="overheat_poweroff_warning_button_text">Enjamy öçürmäň</string>
+    <string name="overheat_poweroff_notice_title">Enjam awtomatiki ýagdaýda öçürildi.</string>
+    <string name="overheat_poweroff_notice_text">"Siziň enjamyňyz aşa gyzan. Zeper ýetirilmeginiň öňüni almak üçin ol öçürildi. 
+şa gyzma uzak wagtyň dowamynda oýun we nawigasiýa ýaly grafikasy-intensiw goşundylary ulanmak bilen 
+ ýüze çykmagy mümkin. 
+ Uly faýllary geçirmek. 
+ Enjamyňyzy gyzgyn gurşawda ulanmak."</string>
+    <string name="safe_mode_noti_title">Howpsyz tertip açyk</string>
+    <string name="safe_mode_noti_body">Howpsyz tertibi ýapmak üçin şu ýere basyň.</string>
+    <string name="safe_mode_alert_title">Enjamy täzeden işlediň</string>
+    <string name="safe_mode_alert_body">Howpsyz tertibi ýapmak üçin, enjamyňyz gaýtadan başladylar.</string>
+    <string name="safe_mode_alert_positive_button">Şu wagt täzeden başla</string>
+    <string name="safe_mode_noti_title_vzw">Safe Mode Is On</string>
+    <string name="safe_mode_noti_body_vzw">Tap to turn off Safe Mode.</string>
+    <string name="safe_mode_alert_title_vzw">Turn Off Safe Mode</string>
+    <string name="safe_mode_alert_body_vzw">Do you want to restart your phone to turn off Safe Mode? All of your apps will be restored.</string>
+    <string name="safe_mode_alert_positive_button_vzw">Turn Off Safe Mode</string>
+    <string name="insert_sim_card">SIM karta giriziň</string>
+    <string name="insert_sim_card_message">Hyzmatlar toruna girmek üçin SIM karta dakyň</string>
+    <string name="volte_enable_toast_text_about_no_support_sim">VoLTE häzir programma üpjünçiligi wersiýaňyz tarapyndan goldanylmaýar. Goşmaça maglumat üçin müşderi hyzmatlaryna ýüz tutuň.</string>
+    <string name="volte_enable_message">VoLTE hyzmatyny ulanmak üçin, VoLTE-ä ýazylyň. Goşmaça maglumat üçin hyzmat üpjün edijiňize ýüz tutuň.</string>
+    <string name="volte_disable_is_impossible_during_volte_call">VoLTE jaňynda elýeterli bolanda VoLTE ulanmagy ýapyp bolmaýar.</string>
+    <string name="location_consent_title">Ulanyjyň razylygy</string>
+    <string name="location_consent_detail">GPS ýerleşýän ýer we siziň ýerleşýän ýeriňiz hakyndaky maglumatlar siziň ulanýan gollanmalaryňyz tarapyndan dolandyrylýar</string>
+    <string name="location_agree">Ylalaşýaryn</string>
+    <string name="location_disagree">Ylalaşmaýaryn</string>
+    <string name="location_masterswitch_dialogtitle">Ýerleşilýän ýer ylalaşygy</string>
+    <string name="location_masterswitch_dialogtext">"Your phone can share its approximate location with apps and services like maps, shopping and weather.
+
+Apps and services that use your location should inform you. Read the privacy policy of any app or service provider you are considering to understand how they collect, use and share your location information before you use them.
+
+Determining your location will use the mobile network. Data usage will apply."</string>
+    <string name="location_masterswitch_dialogtext_tablet">"Your tablet can share its approximate location with apps and services like maps, shopping and weather.
+
+Apps and services that use your location should inform you. Read the privacy policy of any app or service provider you’re considering to understand how they collect, use and share your location information before you use them.
+
+Determining your location will use the mobile network. Data usage will apply."</string>
+    <string name="agree">Ylalaşýaryn</string>
+    <string name="disagree">Ylalaşmaýaryn</string>
+    <string name="location_turn_off_vowifi_disabled">Turning off GPS, the VoWiFi function will be automatically disabled.</string>
+    <string name="sync_dialog_title_enable">Awto yzysüreliginiň güýje girmesi</string>
+    <string name="sync_dialog_title_disable">Awto yzysüreliginiň güýçden gaçmasy</string>
+    <string name="sync_dialog_message_enable">"Siziň hasabyňyzda edilen islendik üýtgeşme enjamyňyza göçüriler.
+
+Google hasaplary ýaly hasaplar internetde edilen islendik üýtgeşmeleri göçürip bilýär.
+
+ Her hasap üçin nähilidir maglumat gerek bolsa Sazlamalara > Hasaplarabar-a gidiň"</string>
+    <string name="sync_dialog_message_enable_vzw">"Any changes you make to your accounts on the web will be automatically copied to your phone.
+
+Some accounts, such as Google accounts, may also automatically copy any changes you make on the phone to the web.
+
+To select what information to sync for each account, go to Settings > Accounts."</string>
+    <string name="sync_dialog_message_enable_chn">"Any changes you make to your accounts on the web will be automatically copied to your device.
+
+Some accounts may also automatically copy any changes you make on the device to the web.
+
+To select what information to sync for each account, go to Settings > Accounts."</string>
+    <string name="sync_dialog_message_disable">Bu maglumat ulanyşygyny azaldar we batareýanyň güýjüni tygşytlar, ýöne hasaplary sinhronlamak üçin has soňky maglumaty ýygnaň. Bu işjeň mahaly bu hakynda duýduryş almarsyňyz.</string>
+    <string name="mobile_data_text">Mobil magl</string>
+    <string name="mobile_data_vzw">Mobil maglumatyny ýap</string>
+    <string name="mobile_data_disable_popup_all">"Wi-Fi ulanmazdan, indi siz Interneti, E-poçtany ýa-da maglumat birikmesi gerek bolan başga goýmalary ulanyp bilmersiňiz.
+
+Mobil maglumat ýapylar."</string>
+    <string name="mobile_data_warning_toast_airplane_mode">Uçuş tertibi açyk mahaly mobil ulgamlara baglanyp bolanok. Uçuş tertibini ýapyň we gaýtadan synanyşyň.</string>
+    <string name="mobile_data_warning_toast_disable_during_volte">Unable to turn Mobile data on or off while Advanced calling enabled.</string>
+    <string name="mobile_data_disable_popup_kor_skt_kt">"Wi-Fi ulanmazdan, indi siz Interneti, E-poçtany ýa-da maglumat birikmesi gerek bolan başga goýmalary ulanyp bilmersiňiz.
+
+Mobil maglumat ýapylar."</string>
+    <string name="mobile_data_disable_popup_kor_lgt">"Wi-Fi ulanmazdan, indi siz Interneti, E-poçtany ýa-da maglumat birikmesi gerek bolan başga goýmalary ulanyp bilmersiňiz.
+
+Mobil maglumat ýapylar."</string>
+    <string name="mobile_data_enable_popup_kor_skt_kt">Mobil maglumat açylar. Mobil torlara birikmek öz töleg tarifiňize görä goşmaça tölegli bolup biler.</string>
+    <string name="mobile_data_enable_popup_kor_lgt">Mobil maglumat açylar. Mobil torlara birikmek öz töleg tarifiňize görä goşmaça tölegli bolup biler.</string>
+    <string name="mobile_data_disable_popup_vzw">"Unless you use Wi-Fi, you will not be able to use the Internet, Email, or other apps that require a data connection.
+
+Turn off Mobile data?"</string>
+    <string name="mobile_data_disable_popup_vzw_volte">"Unless you use Wi-Fi, you will not be able to use Internet, Email, or other apps that require a data connection. Your phone will not be able to use Video Calling while Mobile data is off.
+Turn off Mobile data?"</string>
+    <string name="mobile_data_disable_dialog_text">Telefon internedini öçürmeklik MMS-yň ulanylmagyny we 3G maglumat hyzmatlaryny çäklendirer. Muňa garamazdan aýyrmalymy?</string>
+    <string name="mobile_data_roaming_dialog">Maglumat roamingde siziň ýerli bitewi tarif meýilnamaňyza goşmaça töleg alynýan bolmagy mümkin. E-poçta ýa-da gollanmalaryň awtomatiki ýagdaýda täzelenmegi, şeýle hem goşmaça töleglere sezewar edip biler. Wideo ýa-da e-poçta ýaly uly möçberde hyzmatlary ulanmak minutda 20.000 wondan köp tölege sezewar etmegi mümkin.</string>
+    <string name="mobile_data_roaming_disable_toast_lgt">Data roaming disabled</string>
+    <string name="personal_mode_popup_diable_msg_while_moving_item">Elementler gizline geçirilýärkä, Gizlin tertibi ýapyp bolmaýar.</string>
+    <string name="personal_mode_text">Gizlin tertip</string>
+    <string name="rotation_lock_toast">Awtomatik öwüriň</string>
+    <string name="rotation_lock_mobile_keyboard_msg">%s işletmek üçin, klawiatura gapagyny enjamdan aýryň.</string>
+    <string name="aod_toast_unavailable_with_at_same_time">%1$s bilen %2$s bilelikde işledip bolmaýar.</string>
+    <string name="aod_toast_unavailable_with_mobile_keyboard">%s işletmek üçin, klawiatura gapagyny enjamdan aýryň.</string>
+    <string name="aod_disable_popup_title">%sny aç</string>
+    <string name="aod_disable_popup_unavailable_with_at_same_time">%1$s bilen %2$s bilelikde işledip bolmaýar. %3$s ýapylar.</string>
+    <string name="aod_disable_popup_description">%s bilen aşakdaky opsiýalary bilelikde işledip bolmaýar. Aşakdaky opsiýalar ýapylar.</string>
+    <string name="aod_title">Always On Display</string>
+    <string name="aod_power_saving_mode">Kuwwatlylygy tygşytlaýyş düzgüni</string>
+    <string name="aod_voice_assistant_title">Voice Assistant</string>
+    <string name="aod_magnification">Ulaltma</string>
+    <string name="aod_magnifier_window">Ulaldyjy penjire</string>
+    <string name="aod_assistant_menu_magnifier">Ulaldyjy penjire</string>
+    <string name="aod_talkback">Ikitaraply aragatnaşyk</string>
+    <string name="notification_block">Bekle</string>
+    <string name="dialog_title_block_notification">Goýma duýduryşlaryny bekle</string>
+    <string name="dialog_msg_block_notification">Şu goýmadan gelýän duýduryşlar, şol sanda habarnamalar, sesler we titremeler bekleniler.</string>
+    <string name="toast_msg_unblock_notification">Soň şu goýmadan gelýän habarnamalary beklemeden aýyrmak üçin, Sazlamalar > Sesler we habarnamalar-a baryp, Goýma habarnamalary-ny saýlaň.</string>
+    <string name="mobile_hotspot_dialog_nosim_warning_title">Mobil gyzgyn nokady</string>
+    <string name="mobile_hotspot_dialog_nosim_warning">Mobil giriş nokadyny we beýleki modem funksiýalaryny ulanmak üçin SIM kartany dakyň.</string>
+    <string name="mobile_hotspot_dialog_nosim_warning_title_jpn">Wi-Fi modem</string>
+    <string name="mobile_hotspot_dialog_nosim_warning_jpn">Insert a SIM card to use Wi-Fi tethering and other tethering functions.</string>
+    <string name="mobile_hotspot_dialog_nosim_warning_dcm">Insert a SIM card to use Wi-Fi tethering.</string>
+    <string name="do_not_show_again">Gaýtadan görkezme</string>
+    <string name="disable">Ýap</string>
+    <string name="airplane_mode_plmn">Uçuş režimi</string>
+    <string name="airplane_mode_dialog_title">Uçuş tertibini işlet</string>
+    <string name="airplane_mode_dialog_title_vzw">Turn on Airplane mode</string>
+    <string name="airplane_mode_dialog_message">Uçuş režimi size jaňy, hat alyşmagy we mobil ulgam alamatlaryny ýapmak mümkinçiligini berýär. Bu şeýle hem Wi-Fi we Bluetooth ýaly baglanyşyklaryny ýapar. Wi-Fi we Bluetooth ulanmak üçin olary Sazlamalardan ýa-da duýduryşlar panelinden açyň.</string>
+    <string name="airplane_mode_dialog_message_without_bluetooth">Uçuş režimi size Wi-Fi-i içine alyp ulgam alamatlaryny ýapmak mümkinçiligi berýär. Wi-Fi-i ulanmak üçin olary Sazlamalardan ýa-da duýduryşlar panelinden açyň.</string>
+    <string name="airplane_mode_dialog_message_wifi">Uçuş režimi size jaň etmek, Wi-Fi-i Bluetooth-u içine alyp ulgam alamatlaryny ýapmak rugsady berýär. Wi-Fi we Bluetooth ulanmak üçin olary Sazlamalardan ýa-da duýduryşlar panelinden açyň.</string>
+    <string name="airplane_mode_dialog_message_cmcc">Flight mode allows you to turn off calling, messaging and data network features. It also turns off connectivity features such as WLAN and Bluetooth. To use WLAN and Bluetooth, turn them on in Settings or on the notification panel.</string>
+    <string name="airplane_mode_dialog_message_vzw">"Unless you use Wi-Fi, you will not be able to use the Internet, Email, or other apps that require a data connection.
+Turn on Airplane mode?"</string>
+    <string name="airplane_mode_dialog_message_vzw_volte">"Unless you use Wi-Fi, you will not be able to use Internet, Email, Wi-Fi Calling or other apps that require a data connection.
+Turn on Airplane mode?"</string>
+    <string name="airplane_mode_msg_safelock">Gulply wagty ýapylmagy beklemek açyk wagty, Uçuş tertibini işledip bolmaýar. Ekranyň gulpuny açyp synanyşyň.</string>
+    <string name="airplane_mode_disabled_on_demo_devices">Demo enjamlarda uçuş tertibi ýapyk.</string>
+    <string name="torch_light_notification_title">Fakel işledildi</string>
+    <string name="torch_light_notification_message">Ýap</string>
+    <string name="torch_light_disabled_by_low_battery">Fonarjygy açyp bolmaýar. Zarýad pes.</string>
+    <string name="torch_light_turn_off_by_low_battery">Zarýad pes. Fonarjyk ýapylar.</string>
+    <string name="dnd_noti_title">“Bimaza etmäň” işledildi</string>
+    <string name="dnd_noti_message">Oýaryjylaryň sesi ýapyldy</string>
+    <string name="dnd_noti_action_disable">Öçür</string>
+    <string name="qs_edit_settings_title">Çalt sazlaýan düwmeleri basyň</string>
+    <string name="qs_edit_settings_available_button">Elýeter düwmeler</string>
+    <string name="qs_edit_settings_active_button">Işjeň düwmeler</string>
+    <string name="qs_edit_settings_cancel_button">ÝATYR</string>
+    <string name="qs_edit_settings_done_button">TAMAM</string>
+    <string name="qs_edit_setting_button_summary_vzw">Customize which quick setting buttons appear at the top of the notification panel. Touch and hold, then drag the buttons to add, hide, or re-order them.</string>
+    <string name="qs_edit_setting_button_summary">Çalt sazlamalar panelini görýärkäňiz, ýokarky gutudaky ähli düwmeleri görmek üçin, ony çepe/saga syryň.</string>
+    <string name="qs_edit_setting_edit_button">DÜZET</string>
+    <string name="qs_edit_setting_option_text">Bu funksiýany habarnama paneliniň üstünde görkez.</string>
+    <string name="qs_edit_setting_available_area_dropped">Button not added to quick settings panel.</string>
+    <string name="qs_edit_setting_active_area_dropped">Button added to quick settings panel.</string>
+    <string name="qs_edit_setting_active_area_tapped">In quick settings panel.</string>
+    <string name="qs_edit_setting_available_area_tapped">Not in quick settings panel.</string>
+    <string name="quick_connect_button">Çalt birikdirme</string>
+    <string name="tap_to_connect">Enjamlar birik üçn şuňa bas</string>
+    <string name="sound_path_button">Audio ýoly</string>
+    <string name="wired_device">Simli audio enjam</string>
+    <string name="speaker">Aýtdyryjy</string>
+    <string name="headset">Garnitura</string>
+    <string name="headphones">Nauşnik</string>
+    <string name="car_system">Ulag ulgamy</string>
+    <string name="hdmi_mhl">HDMI/MHL enjamy</string>
+    <string name="status_bar_recent_launch_task_manager_title">Iş dolandyryjy</string>
+    <string name="status_bar_recent_remove_all_button">Hemmesini ýapmak</string>
+    <string name="recent_multiwindow_guide_text">Bölünen ekranda açmak üçin, iki sany goýma saýlaň.</string>
+    <string name="recent_multiwindow_empty_message">Bölünen ekrany goldaýan soňky ulanylan goýma ýok</string>
+    <string name="recent_cannot_open_popup_toast_1">%s goýmany açylýan penjirede açyp bolmaýar.</string>
+    <string name="recent_cannot_open_popup_toast_2">Goýmany açylýan penjirede açyp bolmaýar.</string>
+    <string name="tw_recents_lock_to_app_button_label">Goýmany berkit</string>
+    <string name="tw_lock_to_app_title">Penjireleri berkitmegi işlet</string>
+    <string name="tw_lock_to_app_description_1">Bu funksiýa goýmany enjamyň ekranyna berkidip, başga ýerlerde gezmäge mümkinçilik berýär.</string>
+    <string name="tw_lock_to_app_description_2">Goýma berkidilen wagty, başga goýmalardan gelýän habarnamalar bekleniler we beýleki funksiýalar (mes. jaňlar we hatlar) elýeterli bolman biler.</string>
+    <string name="tw_lock_to_app_description_tablet_wifi">Goýma berkidilen wagty, habarnamalar bekleniler we beýleki funksiýalar elýeterli bolman biler.</string>
+    <string name="tw_lock_to_app_description_recents_and_back">Goýmany aýyrmak üçin, Soňkular we Yza düwmelerini bilelikde basyp saklaň.</string>
+    <string name="tw_lock_to_app_description_menu_and_back">Goýmany aýyrmak üçin, Menýu we Yza düwmelerini bilelikde basyp saklaň.</string>
+    <string name="tw_lock_to_app_description_recents_and_back_accessible">Goýmany aýyrmak üçin, soňkular düwmesini basyp saklaň.</string>
+    <string name="tw_lock_to_app_description_menu_and_back_accessible">Goýmany aýyrmak üçin, menýu düwmesini basyp saklaň.</string>
+    <string name="tw_unable_to_pin_title">%s berkidip bolmaýar</string>
+    <string name="tw_unable_to_pin_description">Bu goýma berkidilýän penjireleri goldamaýar.</string>
+    <string name="tw_unable_to_pin_description_toast">Goýmany berkidip bolmaýar. %s ýapyldy. Näbelli ýalňyşlyk döredi.</string>
+    <string name="tw_screen_pinning_positive">Başla</string>
+    <string name="accessibility_recents_item_pin">Berkit</string>
+    <string name="accessibility_recents_item_unpin">Berkitmeden aýyr</string>
+    <string name="recents_help_split_buttton">Goýmalary bölünen ekranda açmak üçin, goýma penjiresiniň at setirinde %s basyň. Goýma bölünen ekrany goldaýan wagty, şu şekiljik görkezilýär.</string>
+    <string name="recents_help_split_buttton_description">Goýmalary bölünen ekranda açmak üçin, goýma penjiresiniň at setirinde bölünen ekran şekiljigine basyň. Goýma bölünen ekrany goldaýan wagty, şu şekiljik görkezilýär.</string>
+    <string name="recents_help_long_press">Goýmalary bölünen ekranda açmak üçin, Soňkular düwmesini basyp saklaň.</string>
+    <string name="recent_multi_window">Bölünen ekranda aç</string>
+    <string name="help">Kömek</string>
+    <string name="disable_multi_window_dialog_title">Köp penjiräni ýap</string>
+    <string name="disable_multi_window_dialog_text">Köp-penjire ýapylar we açylýan penjirelerde açyk duran ähli goýmalar ýapylar.</string>
+    <string name="unable_to_capture_screen_drm_proteced_image">Ekrany suraty alyp bolanok. DRM suraty goraýar.</string>
+    <string name="unable_to_save_cropped_image">Kesilen şekili saklap bolanok.</string>
+    <string name="center_bar_window_switch_windows">Penjireleri ýakyň</string>
+    <string name="center_bar_window_drag_and_drop_content">Mazmuny çekip alyň we ýerleşdiriň</string>
+    <string name="center_bar_window_select_contents">Bölünen ekrandan ýa-da açylýan görnüş penjiresinden surat ýa-da bir abzas tekst süýräp, başga bir penjirä taşlaň.</string>
+    <string name="center_bar_window_do_not_show_again">Indi görkezme</string>
+    <string name="keyguard_high_voltage_plugged_in">Çalt zarýad: %d%%</string>
+    <string name="keyguard_charging_in_wireless">Simsiz zarýad: %d%%</string>
+    <string name="keyguard_fast_charging_in_wireless">Simsiz çalt zarýad: %d%%</string>
+    <string name="keyguard_charging_remaining_time">(Takm. %s dolýança)</string>
+    <string name="lockscreen_charging_remaining_time">"Zarýad: %1$d%%
+(dolýança %2$s)"</string>
+    <string name="lockscreen_charging_in_wireless_remaining_time">"Charging wirelessly: %1$d%%
+(%2$s until full)"</string>
+    <string name="lockscreen_fast_charging_in_wireless_remaining_time">"Fast charging wirelessly: %1$d%%
+(%2$s until full)"</string>
+    <string name="keyguard_high_voltage_plugged_in_remaining_time">"Fast charging: %1$d%%
+(%2$s until full)"</string>
+    <string name="keyguard_skt_usim_unregistered">USIM karta ulanyp bolmaýar. USIM karta maglumatyny göçürip alyň.</string>
+    <string name="keyguard_usim_not_used">USIM kartany ulanyp bolmaýar. PIN açýan (PUK) kod %d gezek nädogry girizildi. Täze USIM karta satyn alyň.</string>
+    <string name="lockscreen_nosim_text_kor_only">"USIM karta tapylmady
+Diňe gyssagly jaňlar"</string>
+    <string name="noti_setting_button_text">Habarn. sazlama</string>
+    <string name="name_slot1">Ýer 1</string>
+    <string name="name_slot2">Ýer 2</string>
+    <string name="app_locked">App locked</string>
+    <string name="applocked_pinning_window_disable">Goýmany berkidip bolmaýar. Goýma gulply.</string>
+    <string name="cover_quick_setting_warning_message">Çalt sazlama düwmelerini ulanmak üçin, gapagyň açyň.</string>
+    <string name="cover_device_locked_message">Enjam gulply. Gapagyny açyň.</string>
+    <string name="accessibility_noti_setting_button">Habarnama sazlamalary</string>
+    <string name="switched_to_onephone_mode">Tertip Bir belgili tertibe geçdi.</string>
+    <string name="switched_to_twophone_mode">Iki belgili tertibe geçildi.</string>
+    <string name="accessibility_recents_item_lock">Gulpla</string>
+    <string name="accessibility_recents_item_unlock">Gulpdan aç</string>
+    <string name="quick_panel_data_usage">Data usage</string>
+    <string name="qs_multisim_voice_preffered_btn_title">Ses Jaňlary</string>
+    <string name="qs_multisim_sms_preffered_btn_title">Tekst hatlary</string>
+    <string name="qs_multisim_data_preffered_btn_title">Mobil magl</string>
+    <string name="qs_multisim_voice_ask_always">Hemişe sora</string>
+    <string name="qs_multisim_data_turned_off">Ýapyk</string>
+    <string name="bluetooth_pairing">Jübütleşdirilýär…</string>
+    <string name="bluetooth_profile_a2dp">Media audio</string>
+    <string name="bluetooth_profile_headset">Jaň audio</string>
+    <string name="bluetooth_profile_textinput">Tekst giriziş</string>
+    <string name="bluetooth_profile_pan">Internet girişi</string>
+    <string name="bluetooth_a2dp_profile_summary_connected">Multimedia audiosy üçin birikdi</string>
+    <string name="bluetooth_headset_profile_summary_connected">Jaň audiosy üçin birikdi</string>
+    <string name="bluetooth_hid_profile_summary_connected">Giriziş enjamy hökmünde birikdi</string>
+    <string name="bluetooth_pan_user_profile_summary_connected">Internete giriş üçin enjama baglandy</string>
+    <string name="bluetooth_summary_connected_to_a2dp_headset">Jaň we multimedia audiosy üçin birikdi</string>
+    <string name="bluetooth_pan_nap_connected">Internet birikmesini üpjün etmek üçin birikdi</string>
+    <string name="bluetooth_pan_panu_connected">Internet birikmesine girmek üçin birikdi</string>
+    <string name="bluetooth_pan_profile_summary_use_for">Internete ýetmek üçin ulan</string>
+    <string name="bluetooth_pairing_pin_error_message">%1$s bilen jübütläp bolmaýar. %2$s jübütlemäge taýýar bolsun.</string>
+    <string name="bluetooth_hid_connection_error_message">Enjam Bluetooth giriş enjamy hökmünde ulanylýarka, ony Bluetooth giriş enjamyna birikdirip bolmaýar.</string>
+</resources>

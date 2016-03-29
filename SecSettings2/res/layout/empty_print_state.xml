@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:layout_gravity="top" android:orientation="vertical" android:id="@id/empty_print_state" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/body_text_side_padding" android:layout_marginTop="@dimen/print_settings_top_margin" android:layout_marginRight="@dimen/body_text_side_padding"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:gravity="left" android:layout_gravity="center" android:id="@id/message" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/body_text_style" />
+</LinearLayout>

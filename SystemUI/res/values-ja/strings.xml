@@ -1,0 +1,1251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sview_cover_wday_month_day_no_year">MMMMd日(E)</string>
+    <string name="sview_cover_wday_day_month_no_year">MMMMd日(E)</string>
+    <string name="clear_cover_wday_day">E</string>
+    <string name="clear_cover_month_day_no_year">MMMd日</string>
+    <string name="clear_cover_day_month_no_year">MMMd日</string>
+    <string name="save">保存</string>
+    <string name="cancel">キャンセル</string>
+    <string name="close">閉じる</string>
+    <string name="ok">OK</string>
+    <string name="back">戻る</string>
+    <string name="set">設定</string>
+    <string name="s_view_cover_set_wallpaper">壁紙に設定</string>
+    <string name="clearcover_no_missed_event">未確認イベントはありません。</string>
+    <string name="clearcover_1_missed_call">不在着信が1件あります。</string>
+    <string name="clearcover_1_unread_message">1件の未読メッセージがあります。</string>
+    <string name="clearcover_n_missed_calls">%d件の不在着信があります。</string>
+    <string name="clearcover_n_unread_messages">%1$d件の未読メッセージがあります。</string>
+    <string name="clearcover_calls_and_messages">%1$d件の不在着信と、%2$d件の未読メッセージがあります。</string>
+    <string name="zzz_tts_temp_celsius">摂氏</string>
+    <string name="zzz_tts_temp_fahrenheit">華氏</string>
+    <string name="zzz_tts_temperature">度</string>
+    <string name="volumepanel_notification">通知</string>
+    <string name="s_view_cover_shortcuts_title_text">ショートカット</string>
+    <string name="s_view_cover_shortcuts_camera_text">カメラ</string>
+    <string name="s_view_cover_shortcuts_settings_text">設定</string>
+    <string name="s_view_cover_shortcuts_favorite_text">お気に入りの連絡先</string>
+    <string name="s_view_cover_shortcuts_light_text">トーチ</string>
+    <string name="s_view_cover_shortcuts_heart_text">心拍数</string>
+    <string name="s_view_cover_shortcuts_quick_memo_text">アクションメモ</string>
+    <string name="select_background_color">Sビューウィンドウの壁紙を設定</string>
+    <string name="select_background_color_title">壁紙を設定</string>
+    <string name="s_view_stylized_clock_theme">スタイル時計を設定</string>
+    <string name="s_view_window_theme">Sビューウィンドウの壁紙</string>
+    <string name="s_view_info_cover">表示するアイテムを選択</string>
+    <string name="s_view_screen_roaming">ローミング</string>
+    <string name="s_view_screen_home">ホーム</string>
+    <string name="battery_charging_percent">充電しています：%d%%</string>
+    <string name="battery_wireless_charging_percent">ワイヤレス充電中: %d%%</string>
+    <string name="battery_wireless_fast_charging_percent">急速ワイヤレス充電中: %d%%</string>
+    <string name="battery_charged">充電完了</string>
+    <string name="s_view_cover_transport_prev_description">戻る</string>
+    <string name="s_view_cover_transport_next_description">次へ</string>
+    <string name="s_view_cover_transport_pause_description">一時停止</string>
+    <string name="s_view_cover_transport_play_description">再生</string>
+    <string name="s_view_cover_transport_stop_description">停止</string>
+    <string name="s_view_cover_transport_volume_description">音量</string>
+    <string name="s_view_cover_transport_playlist_description">プレイリスト</string>
+    <string name="s_view_cover_missed_event_secured_popup">端末がロックされています。詳細を表示するには、カバーを開いてください。</string>
+    <string name="s_view_cover_open_cover_popup">壁紙を設定するにはカバーを開いてください。</string>
+    <string name="s_view_cover_open_cover_popup_view_detail">詳細を表示するにはカバーを開いてください。</string>
+    <string name="s_view_cover_open_cover_popup_for_detail_message">メッセージの詳細を表示するには、カバーを開いてください。</string>
+    <string name="s_view_cover_open_cover_popup_for_detail_call">通話の詳細を表示するには、カバーを開いてください。</string>
+    <string name="s_view_cover_missed_event_button_accessibiliy">未確認イベントのページに移動するには、2本の指でスワイプしてください。</string>
+    <string name="s_view_cover_settings_button_accessibiliy">[設定]に移動するには、2本の指でスワイプしてください。</string>
+    <string name="s_view_cover_camera_button_accessibiliy">カメラを起動するには、ダブルタップしてドラッグしてください。</string>
+    <string name="s_view_cover_favourite_button_accessibiliy">お気に入りの連絡先を起動するには、ダブルタップしてドラッグしてください。</string>
+    <string name="accessibility_battery_level">バッテリー残量%dパーセント</string>
+    <string name="s_view_cover_open_popup_favorite">端末がロックされています。お気に入りの連絡先を表示するには、カバーを開いておいてください。</string>
+    <string name="mini_view_cover_settings_description">S View Coverの設定に移動するには、カバーを開いてください。</string>
+    <string name="s_view_cover_warn_popup_stylized_clock">スタイル時計がSビューウィンドウに表示されているときは、壁紙、歩数計情報、気象情報を表示することはできません。</string>
+    <string name="s_view_wallpaper_selected_tts">%2$dページ中%1$dページ目の壁紙</string>
+    <string name="popup_do_not_show_gain">今後表示しない</string>
+    <string name="pinwindowcover_warning_content">ピン留めされたアプリを使用するには、カバーを開けてください。</string>
+    <string name="battery_fast_charging_percent">急速充電中: %d%%</string>
+    <string name="status_view_12_hours_format">K:mm</string>
+    <string name="status_view_24_hours_format">k:mm</string>
+    <string name="app_name">キーガード</string>
+    <string name="keyguard_password_enter_pin_code">PINコードを入力</string>
+    <string name="keyguard_password_enter_puk_code">PUKと新しいPINコードを入力</string>
+    <string name="keyguard_password_enter_puk_prompt">SIM PUKコード</string>
+    <string name="keyguard_password_enter_pin_prompt">新しいSIM PINコード</string>
+    <string name="keyguard_password_entry_touch_hint"><font size="17">タップしてパスワードを入力</font></string>
+    <string name="keyguard_password_enter_password_code">ロックを解除するにはパスワードを入力</string>
+    <string name="keyguard_password_enter_pin_password_code">ロックを解除するにはPINを入力</string>
+    <string name="keyguard_password_wrong_pin_code">PINコードが正しくありません。</string>
+    <string name="keyguard_charged">充電完了</string>
+    <string name="keyguard_plugged_in">充電しています：%d%%</string>
+    <string name="keyguard_low_battery">充電器に接続してください。</string>
+    <string name="keyguard_connect_charger">充電器に接続してください</string>
+    <string name="keyguard_instructions_when_pattern_disabled">メニューからロックを解除できます。</string>
+    <string name="keyguard_network_locked_message">ネットワークがロックされました</string>
+    <string name="kg_missing_sim_message_short">SIMカードがありません</string>
+    <string name="keyguard_missing_sim_message_short">SIMカードが挿入されていません</string>
+    <string name="keyguard_missing_sim_message">USIMカードを挿入してから、端末を再起動します</string>
+    <string name="keyguard_missing_sim_instructions">SIMカードを挿入してください。</string>
+    <string name="keyguard_missing_sim_instructions_long">SIMカードが見つからないか読み取れません。SIMカードを挿入してください。</string>
+    <string name="keyguard_permanent_disabled_sim_message_short">SIMカードは使用できません。</string>
+    <string name="keyguard_permanent_disabled_sim_instructions">"お使いのSIMカードは永久に無効となっています。
+ワイヤレスサービスプロバイダに問い合わせて新しいSIMカードを入手してください。"</string>
+    <string name="keyguard_sim_locked_message">SIMカードはロックされています。</string>
+    <string name="keyguard_sim_puk_locked_message">SIMカードはPUKでロックされています。</string>
+    <string name="keyguard_sim_unlock_progress_dialog_message">SIMカードをロック解除しています…</string>
+    <string name="keyguard_accessibility_pattern_unlock">パターンロックを解除します。</string>
+    <string name="keyguard_accessibility_pin_unlock">PINロックを解除します。</string>
+    <string name="keyguard_accessibility_password_unlock">パスワードロックを解除します。</string>
+    <string name="keyguard_accessibility_pattern_area">パターンエリアです。</string>
+    <string name="keyguard_accessibility_slide_area">スライドエリアです。</string>
+    <string name="keyguard_accessibility_pin_area">PINエリア</string>
+    <string name="keyguard_accessibility_sim_pin_area">SIM PINエリア</string>
+    <string name="keyguard_accessibility_sim_puk_area">SIM PUKエリア</string>
+    <string name="keyguard_accessibility_next_alarm">次のアラームは%1$sに設定されました</string>
+    <string name="keyboardview_keycode_delete">削除</string>
+    <string name="keyboardview_keycode_enter">入力</string>
+    <string name="kg_forgot_pattern_button_text">パターンを忘れた場合</string>
+    <string name="kg_wrong_pattern">入力したパターンが正しくありません</string>
+    <string name="kg_wrong_password">入力したパスワードが正しくありません</string>
+    <string name="kg_wrong_pin">入力したPINが正しくありません</string>
+    <string name="kg_n_attempts_remaining">(残り入力回数: %d回)</string>
+    <string name="kg_1_attempt_remaining">(残り入力回数: 1回)</string>
+    <string name="kg_too_many_failed_attempts_countdown">%d秒後にやり直してください。</string>
+    <string name="kg_too_many_failed_attempts_countdown_min">1分後にやり直してください</string>
+    <string name="kg_too_many_failed_attempts_countdown_mins">%d分後にやり直してください</string>
+    <string name="kg_pattern_bouncer_instructions">起動するにはロック解除パターンを描きます</string>
+    <string name="kg_pin_bouncer_instructions">起動するにはPINを入力します</string>
+    <string name="kg_password_bouncer_instructions">起動するにはパスワードを入力します</string>
+    <string name="kg_pattern_instructions">ロック解除パターンを入力してください</string>
+    <string name="kg_sim_pin_instructions">SIM PINを入力</string>
+    <string name="kg_unlock_sim_pin_instructions">SIMカードロックの解除PINを入力してください。</string>
+    <string name="kg_sim_puk_instructions">SIMﾛｯｸ中。PUKを入力してください。詳細はｻｰﾋﾞｽﾌﾟﾛﾊﾞｲﾀﾞまで。</string>
+    <string name="kg_sim_pin_instructions_multi">「%1$s」のSIM PINを入力します</string>
+    <string name="kg_pin_instructions">PINを入力してください</string>
+    <string name="kg_backup_pin_instructions">バックアップPINを入力</string>
+    <string name="kg_backup_password_instructions">ﾊﾞｯｸｱｯﾌﾟﾊﾟｽﾜｰﾄﾞを入力</string>
+    <string name="kg_password_instructions">パスワードを入力してください</string>
+    <string name="kg_puk_enter_puk_hint">SIMが無効になりました。続行するにはPUKコードを入力してください。詳しくは携帯通信会社にお問い合わせください。</string>
+    <string name="kg_puk_enter_puk_hint_multi">SIM「%1$s」は現在無効になっています。処理を続行するにはPUKコードを入力します。詳しくは携帯通信会社にお問い合わせください。</string>
+    <string name="kg_puk_enter_pin_hint">新しいSIMカードのPINを入力してください。</string>
+    <string name="kg_enter_confirm_pin_hint">確認のため、新しいSIMカードのPINを再度入力してください。</string>
+    <string name="kg_sim_unlock_progress_dialog_message">SIMカードロックを解除しています…</string>
+    <string name="kg_invalid_sim_pin_hint">PINは4～8桁の数字で入力してください。</string>
+    <string name="kg_invalid_sim_puk_hint">PUKコードは8桁以上の番号です。</string>
+    <string name="kg_invalid_puk">正しいPUKコードを再入力してください。誤入力を繰り返すと、SIMが永久に無効になるおそれがあります。</string>
+    <string name="kg_invalid_confirm_pin_hint">PINコードが一致しません</string>
+    <string name="kg_login_too_many_attempts">パターンの入力を所定の回数以上間違えました。</string>
+    <string name="kg_login_username_hint">ユーザー名(Eメール)</string>
+    <string name="kg_login_password_hint">パスワード</string>
+    <string name="kg_login_submit_button">サインイン</string>
+    <string name="kg_login_invalid_input">ユーザー名またはパスワードが正しくありません。</string>
+    <string name="no_network_connection">ネットワーク接続不可</string>
+    <string name="kg_forgot_spass_button_text">"Samsung
+ｱｶｳﾝﾄ"</string>
+    <string name="kg_login_checking_password">アカウントを確認中…</string>
+    <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"PINの入力を%d回間違えました。
+
+%d秒後にもう一度お試しください。"</string>
+    <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"パスワードの入力を%d回間違えました。
+
+%d秒後にもう一度お試しください。"</string>
+    <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"ロック解除パターンの入力を%d回間違えました。
+
+%d秒後にもう一度お試しください。"</string>
+    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">携帯電話のロック解除に%d回失敗しました。あと%d回失敗すると、この携帯電話はリセットされ、データがすべて削除されます。</string>
+    <string name="kg_failed_attempts_now_wiping">携帯電話のロック解除に%d回失敗しました。この携帯電話はリセットされ、データがすべて削除されます。</string>
+    <string name="kg_failed_attempts_almost_at_erase_user" formatted="false">携帯電話のロック解除に%d回失敗しました。あと%d回失敗すると、このユーザーは削除され、ユーザーのデータがすべて削除されます。</string>
+    <string name="kg_failed_attempts_now_erasing_user">携帯電話のロック解除に%d回失敗しました。このユーザーは削除され、ユーザーのデータがすべて削除されます。</string>
+    <string name="kg_failed_attempts_almost_at_erase_profile" formatted="false">スマートフォンのロック解除に%d回失敗しました。あと%d回失敗すると、仕事用プロファイルが削除され、プロファイルのデータがすべて削除されます。</string>
+    <string name="kg_failed_attempts_now_erasing_profile">スマートフォンのロック解除に%d回失敗しました。仕事用プロファイルが削除され、プロファイルのデータがすべて削除されます。</string>
+    <string name="kg_sec_1_failed_attempt_almost_at_wipe">端末のロック解除を試行しました。あと%d回失敗すると、端末が工場出荷時の状態にリセットされ、ファイルおよびダウンロードしたアプリを含む全てのデータが削除されます。</string>
+    <string name="kg_sec_failed_attempts_almost_at_wipe">端末のロック解除を%1$d回試行しました。あと%2$d回失敗すると、端末が工場出荷時の状態にリセットされ、ファイルおよびダウンロードしたアプリを含む全てのデータが削除されます。</string>
+    <string name="kg_sec_1_remaing_count_almost_at_wipe">端末のロック解除を%d回試行しました。あと1回失敗すると、端末が工場出荷時の状態にリセットされ、ファイルおよびダウンロードしたアプリを含む全てのデータが削除されます。</string>
+    <string name="kg_sec_1_failed_attempt_almost_at_erase_user">端末のロック解除を試行しました。あと%d回失敗すると、全てのダウンロードしたアプリおよび関連するデータを含むプロファイルが削除されます。</string>
+    <string name="kg_sec_failed_attempts_almost_at_erase_user">端末のロック解除を%1$d回試行しました。あと%2$d回失敗すると、全てのダウンロードしたアプリおよび関連するデータを含むプロファイルが削除されます。</string>
+    <string name="kg_sec_1_remaing_count_almost_at_erase_user">端末のロック解除を%d回試行しました。あと1回失敗すると、全てのダウンロードしたアプリおよび関連するデータを含むプロファイルが削除されます。</string>
+    <string name="kg_sec_failed_attempts_now_erasing_user">端末のロック解除を%d回試行しました。全てのダウンロードしたアプリおよび関連するデータを含むプロファイルが削除されます。削除したデータを復元することはできません。</string>
+    <string name="kg_sec_1_failed_attempt_almost_at_erase_profile">端末のロック解除を試行しました。あと%d回失敗すると、全てのダウンロードしたアプリおよび関連するデータを含む業務用プロファイルが削除されます。</string>
+    <string name="kg_sec_failed_attempts_almost_at_erase_profile">端末のロック解除を%1$d回試行しました。あと%2$d回失敗すると、全てのダウンロードしたアプリおよび関連するデータを含む業務用プロファイルが削除されます。</string>
+    <string name="kg_sec_1_remaing_count_almost_at_erase_profile">端末のロック解除を%d回試行しました。あと1回失敗すると、全てのダウンロードしたアプリおよび関連するデータを含む業務用プロファイルが削除されます。</string>
+    <string name="kg_sec_failed_attempts_now_erasing_profile">端末のロック解除を%d回試行しました。全てのダウンロードしたアプリおよび関連するデータを含む業務用プロファイルが削除されます。削除したデータを復元することはできません。</string>
+    <string name="kg_failed_attempts_almost_at_login" formatted="false">"ロック解除パターンの入力を%d回間違えました。あと%d回間違えると、携帯端末のロック解除にメールアカウントが必要になります。
+
+%d秒後にもう一度お試しください。"</string>
+    <string name="kg_password_wrong_pin_code_pukked">SIM PINコードが無効です。お使いの端末をロック解除するには携帯通信会社にお問い合わせいただく必要があります。</string>
+    <string name="kg_password_wrong_pin_code_one">入力したSIMカードのPINが正しくありません。残りの試行回数は1回です。</string>
+    <string name="kg_password_wrong_pin_code_other">入力したSIMカードのPINが正しくありません。残りの試行回数は%d回です。</string>
+    <string name="kg_password_wrong_puk_code_dead">SIMは使用できません。携帯通信会社にお問い合わせください。</string>
+    <string name="kg_password_pin_failed">SIM PIN操作に失敗しました。</string>
+    <string name="kg_password_puk_failed">SIM PUK操作に失敗しました。</string>
+    <string name="kg_pin_accepted">コードが承認されました。</string>
+    <string name="keyguard_carrier_default">通信サービスはありません。</string>
+    <string name="accessibility_ime_switch_button">入力方法の切り替えボタン。</string>
+    <string name="airplane_mode">機内モード</string>
+    <string name="kg_prompt_reason_restart_pattern">端末を再起動するにはパターンが必要です。</string>
+    <string name="kg_prompt_reason_restart_pin">端末を再起動するにはPINが必要です。</string>
+    <string name="kg_prompt_reason_restart_password">端末を再起動するにはパスワードが必要です。</string>
+    <string name="kg_strong_auth_prompt_reason_timeout_pattern">指紋を保護するために、端末が24時間以上使用されていない場合、指紋認証を使用する代わりにパターンを入力します</string>
+    <string name="kg_strong_auth_prompt_reason_timeout_pin">指紋を保護するために、端末が24時間以上使用されていない場合、指紋認証を使用する代わりにPINを入力します</string>
+    <string name="kg_strong_auth_prompt_reason_timeout_password">指紋を保護するために、端末が24時間以上使用されていない場合、指紋認証を使用する代わりにパスワードを入力します</string>
+    <string name="kg_prompt_reason_switch_profiles_pattern">プロファイルを切り替えるにはパターンが必要です。</string>
+    <string name="kg_prompt_reason_switch_profiles_pin">プロファイルを切り替えるにはPINが必要です。</string>
+    <string name="kg_prompt_reason_switch_profiles_password">プロファイルを切り替えるにはパスワードが必要です。</string>
+    <string name="fingerprint_not_recognized">認識されませんでした</string>
+    <string name="fingerprint_no_match">一致するものがありません</string>
+    <string name="keyguard_perso_locked_message">Block other USIM</string>
+    <string name="keyguard_pin_locked_message">PINを入力</string>
+    <string name="keyguard_puk_locked_message">PUKを入力</string>
+    <string name="keyguard_dualclock_home">ホーム</string>
+    <string name="keyguard_dualclock_roaming">ローミング</string>
+    <string name="keyguard_dualclock_home_Seoul">韓国時刻</string>
+    <string name="keyguard_dualclock_roaming_Korea">ローミング時刻</string>
+    <string name="keyguard_progress_erasing_all">全てのデータを削除中…</string>
+    <string name="keyguard_recovery_instructions">ロックを解除するには、リカバリーパスワードを入力してください。</string>
+    <string name="kg_sim_pin_remaining_1_attempt">残りの試行回数は1回です。</string>
+    <string name="kg_sim_pin_remaining_attempts">残りの試行回数は%d回です。</string>
+    <string name="kg_sim_puk_remaining_1_attempt">PUKをあと1回間違えて入力すると、SIMがロックされます。</string>
+    <string name="kg_sim_puk_remaining_attempts">PUKをあと%d回間違えて入力すると、SIMがロックされます。</string>
+    <string name="kg_kor_password_wrong_pin_code">正しくないPINが入力されました。残りの試行回数は%d回です。カスタマーサービスにお問い合わせください。</string>
+    <string name="kg_kor_sim_unlock_progress_dialog_message">SIMカードをロック解除中</string>
+    <string name="kg_kor_sim_puk_instructions">PUKを入力してください。</string>
+    <string name="kg_kor_invalid_sim_puk_hint">8桁のPINロック解除（PUK）コードを入力してください。</string>
+    <string name="kg_kor_empty_sim_puk_hint">ロック解除コードが入力されていません。PINロック解除（PUK）コードを入力してください。</string>
+    <string name="kg_kor_puk_enter_pin_hint">"新しいUSIMカードのPINを作成します。
+PINは4～8桁の数字で入力する必要があります。"</string>
+    <string name="kg_kor_enter_confirm_pin_hint">確認のため、USIMカードのPINを再度入力してください。</string>
+    <string name="kg_kor_invalid_confirm_pin_hint">新しいPINが一致しません。</string>
+    <string name="kg_kor_wrong_puk_code">ロック解除コード入力エラー</string>
+    <string name="kg_kor_sim_puk_remaining_attempts">"正しくないPUKが%1$d回入力されました。正しくないPUKをあと%2$d回入力すると、USIMカードは完全にブロックされます。
+
+PUKが不明な場合は、カスタマーサービスセンターにお問い合わせください。"</string>
+    <string name="kg_kor_success_pin_message">新しいパスワード（PIN）が正常に保存されました。</string>
+    <string name="kg_ktt_sim_perso_instructions">4～8桁のパスワード（PIN）を入力してください。</string>
+    <string name="kg_empty_sim_perso_hint">パスワードが入力されていません。パスワード（PIN）を入力してください。</string>
+    <string name="kg_password_perso_failed">Incorrect PIN. Check PIN and try again.</string>
+    <string name="kg_password_perso_max_failed">Incorrect PIN entered for USIM card lock. Maximum number of retries reached. Restart device or visit CS centre.</string>
+    <string name="keyguard_fmm_phone_locked_title">端末をロックしています。</string>
+    <string name="keyguard_fmm_owner_phone">所有者の電話番号</string>
+    <string name="kg_wrong_universal_lock">スワイプの方向が正しくありません</string>
+    <string name="kg_universal_lock_instructions_normal_mode">画面のロックを解除するには、登録した方向にスワイプしてください</string>
+    <string name="keyguard_accessibility_universal_lock_unlock">ｽﾜｲﾌﾟｺﾝﾋﾞﾈｰｼｮﾝﾛｯｸ</string>
+    <string name="kg_wrong_universal_lock_vzw">Incorrect directions (%d attempts remaining)</string>
+    <string name="universal_lock_too_many_failed_attempts_countdown">%d秒後にやり直してください。</string>
+    <string name="kg_too_many_failed_attempt_countdown">1秒後にやり直してください</string>
+    <string name="kg_lockscreen_backup_pin_button_text">バックアップPIN</string>
+    <string name="kg_lockscreen_emergency_call_button_text">緊急通報</string>
+    <string name="kg_sim_lock_accepted">コードが承認されました。</string>
+    <string name="kg_fingerprints_pattern_instructions">指紋認証を使用するか、ロック解除パターンを入力してください</string>
+    <string name="kg_fingerprints_pin_instructions">指紋認証を使用するか、PINを入力してください</string>
+    <string name="kg_fingerprints_password_instructions">指紋認証を使用するか、パスワードを入力してください</string>
+    <string name="kg_fingerprints_pattern_bouncer_instructions">起動するには、パターンを入力するか、指紋認証を使用してください</string>
+    <string name="kg_fingerprints_pin_bouncer_instructions">起動するには、PINを入力するか、指紋認証を使用してください</string>
+    <string name="kg_fingerprints_password_bouncer_instructions">起動するには、パスワードを入力するか、指紋認証を使用してください</string>
+    <string name="kg_fingerprints_pattern_unabled_instructions">指紋を保護するために、端末を再起動した後、指紋認証を使用する代わりにパターンを入力します</string>
+    <string name="kg_fingerprints_pin_unabled_instructions">指紋を保護するために、端末を再起動した後、指紋認証を使用する代わりにPINを入力します</string>
+    <string name="kg_fingerprints_password_unabled_instructions">指紋を保護するために、端末を再起動した後、指紋認証を使用する代わりにパスワードを入力します</string>
+    <string name="kg_finger_print_not_responding_error_message">指紋センサーが反応していません。後ほどお試しください。</string>
+    <string name="kg_finger_print_database_error_message">指紋データが破損しています。画面ロックの[指紋]に登録されている指紋をリセットしてから再度指紋を追加するか、画面ロックの種類を変更してください。</string>
+    <string name="kg_finger_print_sensor_with_recalibration_error_message">ホームキーに汚れや水濡れがないことを確認して、再度実行してください。</string>
+    <string name="kg_finger_print_sensor_changed_error_message">指紋センサーが正しく変更されていません。カスタマーサービスにお問い合わせください。</string>
+    <string name="kg_fingerprints_upgrade_popup_title">指紋のセキュリティポリシーを更新</string>
+    <string name="kg_fingerprints_upgrade_instructions">"指紋を保護するには、セキュリティポリシーを更新する必要があります。
+
+画面ロックの種類に指紋を使用するには、[次へ]をタップして2段階認証に使用するPIN、パターン、パスワードを作成してください。
+
+以下の場合は、指紋認証の代わりに2段階認証を使用します。
+
+端末を再起動した場合
+端末を%s時間以上使用していない場合
+画面ロックの種類または指紋の設定が変更された場合"</string>
+    <string name="keyguard_accessibility_one_hand_operation_left_handed">左利き</string>
+    <string name="keyguard_accessibility_one_hand_operation_right_handed">右利き</string>
+    <string name="kg_too_many_failed_attempts_countdown_hours_with_auto_wipe">"端末のロック解除を%1$d回試行しました。あと%2$d回失敗すると、端末が工場出荷時の状態にリセットされ、全てのデータが削除されます。
+
+%3$d時間後に再度実行してください。"</string>
+    <string name="kg_too_many_failed_attempts_countdown_1_hour_with_auto_wipe">"端末のロック解除を%1$d回試行しました。あと%2$d回失敗すると、端末が工場出荷時の状態にリセットされ、全てのデータが削除されます。
+
+1時間後に再度実行してください。"</string>
+    <string name="kg_remained_1_attempts_with_auto_wipe">端末のロック解除にあと1回失敗すると、端末が工場出荷時の状態にリセットされ、ファイルおよびダウンロードしたアプリを含む全てのデータが削除されます。</string>
+    <string name="kg_remained_1_attempts_with_auto_wipe_subuser">タブレットのロック解除にあと1回失敗するとアカウントが削除され、ファイルおよびダウンロードしたアプリを含むアカウントの全てのデータが削除されます。</string>
+    <string name="kg_too_many_failed_attempts_countdown_mins_with_auto_wipe">"端末のロック解除を%1$d回試行しました。あと%2$d回失敗すると、端末が工場出荷時の状態にリセットされ、全てのデータが削除されます。
+
+%3$d分後に再度実行してください。"</string>
+    <string name="kg_too_many_failed_attempts_countdown_secs_with_auto_wipe">"端末のロック解除を%1$d回試行しました。あと%2$d回失敗すると、端末が工場出荷時の状態にリセットされ、全てのデータが削除されます。
+
+%3$d秒後に再度実行してください"</string>
+    <string name="kg_too_many_failed_attempts_countdown_1_min_with_auto_wipe">"端末のロック解除を%1$d回試行しました。あと%2$d回失敗すると、端末が工場出荷時の状態にリセットされ、全てのデータが削除されます。
+
+1分後に再度実行してください。"</string>
+    <string name="kg_too_many_failed_attempts_countdown_1_sec_with_auto_wipe">"端末のロック解除を%1$d回試行しました。あと%2$d回失敗すると、端末が工場出荷時の状態にリセットされ、全てのデータが削除されます。
+
+1秒後に再度実行してください"</string>
+    <string name="kg_remained_1_attempt_countdown_mins_with_auto_wipe">"端末のロック解除を%1$d回試行しました。あと1回失敗すると、端末が工場出荷時の状態にリセットされ、全てのデータが削除されます。
+
+%2$d分後に再度実行してください。"</string>
+    <string name="kg_remained_1_attempt_countdown_secs_with_auto_wipe">"端末のロック解除を%1$d回試行しました。あと1回失敗すると、端末が工場出荷時の状態にリセットされ、全てのデータが削除されます。
+
+%2$d秒後に再度実行してください。"</string>
+    <string name="kg_remained_1_attempt_countdown_1_min_with_auto_wipe">"端末のロック解除を%d回試行しました。あと1回失敗すると、端末が工場出荷時の状態にリセットされ、全てのデータが削除されます。
+
+1分後に再度実行してください。"</string>
+    <string name="kg_remained_1_attempt_countdown_1_sec_with_auto_wipe">"端末のロック解除を%d回試行しました。あと1回失敗すると、端末が工場出荷時の状態にリセットされ、全てのデータが削除されます。
+
+1秒後に再度実行してください。"</string>
+    <string name="kg_too_many_failed_attempts_remaining_with_auto_wipe">残りの試行回数: %d回</string>
+    <string name="kg_too_many_failed_1_attempt_remaining_with_auto_wipe">残りの試行回数: 1回</string>
+    <string name="kg_too_many_failed_countdown_mins_with_auto_wipe">%d分後にやり直してください</string>
+    <string name="kg_too_many_failed_countdown_1_min_with_auto_wipe">1分後にやり直してください</string>
+    <string name="kg_too_many_failed_countdown_secs_with_auto_wipe">%d秒後にやり直してください</string>
+    <string name="kg_too_many_failed_countdown_1_sec_with_auto_wipe">1秒後にやり直してください</string>
+    <string name="kg_too_many_failed_attempts_remaining_with_auto_wipe_mobile_keyboard">あと%d回失敗すると、端末が工場出荷時の状態にリセットされ、全てのデータが削除されます。</string>
+    <string name="kg_too_many_failed_1_attempt_remaining_with_auto_wipe_mobile_keyboard">あと1回失敗すると、端末が工場出荷時の状態にリセットされ、全てのデータが削除されます。</string>
+    <string name="kg_tts_shortcut_phone">電話を起動するには、ダブルタップしてドラッグしてください。</string>
+    <string name="kg_tts_shortcut_camera">カメラを起動するには、ダブルタップしてドラッグしてください。</string>
+    <string name="kg_tts_shortcut_app">%sを起動するには、ダブルタップしてドラッグしてください。</string>
+    <string name="kg_dcm_sim_puk_instructions">PINがブロックされました。続行するには、PUKを入力してください。</string>
+    <string name="kg_liveweather_delete_main_text">このOSバージョンは、ライブ気象情報の壁紙に対応していません。ロック画面の壁紙を変更するには、[壁紙の設定]をタップしてください。</string>
+    <string name="kg_liveweather_delete_title_text">画面ロック時の壁紙</string>
+    <string name="kg_liveweather_delete_buttion_text">壁紙の設定</string>
+    <string name="kg_default_carrier_text_searching">検索しています。</string>
+    <string name="flight_mode">機内モード</string>
+    <string name="status_bar_date_formatter">"%2$s
+%1$s"</string>
+    <string name="app_label">システムUI</string>
+    <string name="status_bar_clear_all_button">消去</string>
+    <string name="status_bar_recent_remove_item_title">リストから削除</string>
+    <string name="status_bar_recent_inspect_item_title">アプリ情報</string>
+    <string name="status_bar_no_recent_apps">ここに最近の画面が表示されます</string>
+    <string name="status_bar_accessibility_dismiss_recents">最近使ったアプリをクリア</string>
+    <string name="status_bar_no_notifications_title">通知なし</string>
+    <string name="status_bar_ongoing_events_title">実行中</string>
+    <string name="status_bar_latest_events_title">通知</string>
+    <string name="battery_low_title">電池残量が少なくなっています</string>
+    <string name="battery_low_percent_format">残量が%sです</string>
+    <string name="battery_low_percent_format_saver_started">残量が%sです。バッテリーセーバーはONです。</string>
+    <string name="invalid_charger">"USB充電には対応していません。
+付属の充電器をお使いください。"</string>
+    <string name="invalid_charger_title">USB充電には対応していません。</string>
+    <string name="invalid_charger_text">専用の充電器のみを使用してください。</string>
+    <string name="battery_low_why">設定</string>
+    <string name="battery_saver_confirmation_title">バッテリーセーバーをONにしますか？</string>
+    <string name="battery_saver_confirmation_ok">ONにする</string>
+    <string name="battery_saver_start_action">バッテリーセーバーをONにします</string>
+    <string name="status_bar_settings_settings_button">設定</string>
+    <string name="status_bar_settings_wifi_button">Wi-Fi</string>
+    <string name="status_bar_settings_auto_rotation">自動回転画面</string>
+    <string name="status_bar_settings_mute_label">ミュート</string>
+    <string name="status_bar_settings_auto_brightness_label">自動</string>
+    <string name="brightness_controller_label_text">自動</string>
+    <string name="status_bar_settings_notifications">通知</string>
+    <string name="bluetooth_tethered">Bluetoothテザリング接続</string>
+    <string name="status_bar_input_method_settings_configure_input_methods">入力方法をセットアップ</string>
+    <string name="status_bar_use_physical_keyboard">物理キーボード</string>
+    <string name="usb_device_permission_prompt">アプリ「%1$s」にUSBデバイスへのアクセスを許可しますか？</string>
+    <string name="usb_accessory_permission_prompt">アプリ「%1$s」にUSBアクセサリへのアクセスを許可しますか？</string>
+    <string name="usb_device_confirm_prompt">このUSBデバイスが接続されたときに%1$sを開きますか？</string>
+    <string name="usb_accessory_confirm_prompt">このUSBアクセサリが接続されたときに%1$sを開きますか？</string>
+    <string name="usb_accessory_uri_prompt">このUSBアクセサリを扱うアプリはインストールされていません。詳細: %1$s</string>
+    <string name="title_usb_accessory">USBアクセサリ</string>
+    <string name="label_view">表示</string>
+    <string name="always_use_device">このUSBデバイスにデフォルトで使用する</string>
+    <string name="always_use_accessory">このUSBアクセサリにデフォルトで使用する</string>
+    <string name="usb_debugging_title">USBデバッグを許可しますか？</string>
+    <string name="usb_debugging_message">"このパソコンのRSAキーのフィンガープリント:
+%1$s"</string>
+    <string name="usb_debugging_always">このパソコンからのUSBデバッグを常に許可する</string>
+    <string name="usb_debugging_secondary_user_title">USBデバッグは許可されていません</string>
+    <string name="usb_debugging_secondary_user_message">この端末に現在ログインしているユーザーでは、USBデバッグをONにすることはできません。この機能を使用するには、メインユーザーの「%s」に切り替えてください。</string>
+    <string name="compat_mode_on">画面サイズに合わせて拡大</string>
+    <string name="compat_mode_off">画面サイズに合わせて拡大</string>
+    <string name="screenshot_saving_ticker">スクリーンショットを保存中...</string>
+    <string name="screenshot_saving_title">スクリーンショットを保存しています...</string>
+    <string name="screenshot_saving_text">スクリーンショットを保存しています。</string>
+    <string name="screenshot_saved_title">画面キャプチャ</string>
+    <string name="screenshot_saved_text">画面キャプチャを表示</string>
+    <string name="screenshot_failed_title">画面のキャプチャ不可</string>
+    <string name="screenshot_failed_text">空き容量が足りないか、アプリまたは組織によって許可されていないため、スクリーンショットは撮れません。</string>
+    <string name="screenshot_failed_text_due_to_security_policy">セキュリティポリシーにより画面がキャプチャできない可能性があります。</string>
+    <string name="screen_capture_fail_for_storage_capacity">システムメモリ(本体)の空き容量が低下しています。不要なファイルを削除し、再度実行してください。</string>
+    <string name="screen_capture_fail_for_security_policy">画面をキャプチャできません。セキュリティポリシーによって制限されています。</string>
+    <string name="no_such_item">アイテムが見つかりません。</string>
+    <string name="one_item_will_be_deleted">1件のアイテムを削除します。</string>
+    <string name="screen_capture_edit">編集</string>
+    <string name="screen_capture_share">共有</string>
+    <string name="screen_capture_delete">削除</string>
+    <string name="share_via">共有</string>
+    <string name="usb_preference_title">USBファイル転送オプション</string>
+    <string name="use_mtp_button_title">メディアプレーヤー（MTP）としてマウント</string>
+    <string name="use_ptp_button_title">カメラ（PTP）としてマウント</string>
+    <string name="installer_cd_button_title">Mac版Android File Transferアプリをインストール</string>
+    <string name="accessibility_back">戻る</string>
+    <string name="accessibility_home">ホーム</string>
+    <string name="accessibility_menu">メニュー</string>
+    <string name="accessibility_recent">最近</string>
+    <string name="accessibility_search_light">検索</string>
+    <string name="accessibility_camera_button">カメラ</string>
+    <string name="accessibility_phone_button">電話</string>
+    <string name="accessibility_voice_assist_button">音声アシスト</string>
+    <string name="accessibility_unlock_button">ロック解除</string>
+    <string name="accessibility_unlock_button_fingerprint">ロック解除ボタン、指紋を待っています</string>
+    <string name="accessibility_unlock_without_fingerprint">指紋を使用せずにロック解除</string>
+    <string name="unlock_label">ロック解除</string>
+    <string name="phone_label">電話を起動</string>
+    <string name="voice_assist_label">音声アシストを開く</string>
+    <string name="camera_label">カメラを起動</string>
+    <string name="recents_caption_resize">新しいタスクレイアウトの選択</string>
+    <string name="accessibility_compatibility_zoom_button">互換ズームボタン。</string>
+    <string name="accessibility_compatibility_zoom_example">小さい画面から大きい画面に拡大。</string>
+    <string name="accessibility_bluetooth_connected">Bluetoothに接続済み。</string>
+    <string name="accessibility_bluetooth_disconnected">Bluetoothが切断されました。</string>
+    <string name="accessibility_no_battery">電池残量:なし</string>
+    <string name="accessibility_battery_one_bar">電池残量:レベル1</string>
+    <string name="accessibility_battery_two_bars">電池残量:レベル2</string>
+    <string name="accessibility_battery_three_bars">電池残量:レベル3</string>
+    <string name="accessibility_battery_full">電池残量:満</string>
+    <string name="accessibility_no_phone">電波状態:なし</string>
+    <string name="accessibility_phone_one_bar">電波状態:レベル1</string>
+    <string name="accessibility_phone_two_bars">電波状態:レベル2</string>
+    <string name="accessibility_phone_three_bars">電波状態:レベル3</string>
+    <string name="accessibility_phone_signal_full">電波状態:フル</string>
+    <string name="accessibility_no_data">データ信号:なし</string>
+    <string name="accessibility_data_one_bar">データ信号:レベル1</string>
+    <string name="accessibility_data_two_bars">データ信号:レベル2</string>
+    <string name="accessibility_data_three_bars">データ信号:レベル3</string>
+    <string name="accessibility_data_signal_full">データ信号:フル</string>
+    <string name="accessibility_wifi_name">%sに接続しました。</string>
+    <string name="accessibility_bluetooth_name">%sに接続しました。</string>
+    <string name="accessibility_wifi_signal_full">Wi-Fiの電波強度が最大です。</string>
+    <string name="accessibility_wifi_three_bars">目盛3つ分のWi-Fi電波</string>
+    <string name="accessibility_wifi_two_bars">目盛2つ分のWi-Fi電波</string>
+    <string name="accessibility_wifi_one_bar">目盛1つ分のWi-Fi電波</string>
+    <string name="accessibility_no_wifi">Wi-Fi圏外</string>
+    <string name="accessibility_no_wimax">WiMAX電波状態:圏外</string>
+    <string name="accessibility_wimax_one_bar">WiMAX電波状態:レベル1</string>
+    <string name="accessibility_wimax_two_bars">WiMAX電波状態:レベル2</string>
+    <string name="accessibility_wimax_three_bars">WiMAX電波状態:レベル3</string>
+    <string name="accessibility_wimax_signal_full">WiMAX電波状態:フル</string>
+    <string name="accessibility_ethernet_disconnected">イーサネット接続を解除しました。</string>
+    <string name="accessibility_ethernet_connected">イーサネットに接続しました。</string>
+    <string name="accessibility_no_signal">圏外です。</string>
+    <string name="accessibility_not_connected">接続されていません。</string>
+    <string name="accessibility_zero_bars">レベル0</string>
+    <string name="accessibility_one_bar">レベル1</string>
+    <string name="accessibility_two_bars">レベル2</string>
+    <string name="accessibility_three_bars">レベル3</string>
+    <string name="accessibility_signal_full">電波フル</string>
+    <string name="accessibility_desc_on">ON</string>
+    <string name="accessibility_desc_off">OFF</string>
+    <string name="accessibility_desc_connected">接続済みです。</string>
+    <string name="accessibility_desc_connecting">接続しています。</string>
+    <string name="accessibility_data_connection_gprs">GPRS</string>
+    <string name="accessibility_data_connection_1x">1 X</string>
+    <string name="accessibility_data_connection_hspa">HSPA</string>
+    <string name="accessibility_data_connection_3g">3G</string>
+    <string name="accessibility_data_connection_3.5g">3.5G</string>
+    <string name="accessibility_data_connection_4g">4G</string>
+    <string name="accessibility_data_connection_lte">LTE</string>
+    <string name="accessibility_data_connection_cdma">CDMA</string>
+    <string name="accessibility_data_connection_roaming">ローミング中</string>
+    <string name="accessibility_data_connection_edge">EDGE</string>
+    <string name="accessibility_data_connection_wifi">Wi-Fi</string>
+    <string name="accessibility_no_sim">SIMがありません。</string>
+    <string name="accessibility_bluetooth_tether">Bluetoothテザリング。</string>
+    <string name="accessibility_airplane_mode">機内モード。</string>
+    <string name="accessibility_no_sims">SIMカードが挿入されていません。</string>
+    <string name="accessibility_carrier_network_change_mode">携帯通信会社のネットワークを変更します。</string>
+    <string name="accessibility_settings_button">システム設定。</string>
+    <string name="accessibility_notifications_button">通知。</string>
+    <string name="accessibility_remove_notification">通知を消去。</string>
+    <string name="accessibility_gps_enabled">GPSが有効です。</string>
+    <string name="accessibility_gps_acquiring">GPS取得中です。</string>
+    <string name="accessibility_tty_enabled">テレタイプライターが有効です。</string>
+    <string name="accessibility_ringer_vibrate">バイブレーション着信。</string>
+    <string name="accessibility_ringer_silent">マナーモード着信。</string>
+    <string name="accessibility_recents_item_will_be_dismissed">%sを削除します。</string>
+    <string name="accessibility_recents_item_dismissed">%sは削除されました。</string>
+    <string name="accessibility_recents_item_closed">%sを終了しました。</string>
+    <string name="accessibility_recents_all_items_dismissed">最近のアプリケーションをすべて消去しました。</string>
+    <string name="accessibility_recents_item_launched">%sを開始しています。</string>
+    <string name="accessibility_recents_task_header">%1$s %2$s</string>
+    <string name="accessibility_notification_dismissed">通知が削除されました。</string>
+    <string name="accessibility_desc_notification_shade">通知シェード</string>
+    <string name="accessibility_desc_quick_settings">クイック設定</string>
+    <string name="accessibility_desc_lock_screen">ロック画面</string>
+    <string name="accessibility_desc_settings">設定</string>
+    <string name="accessibility_desc_recent_apps">最近使用したアプリ</string>
+    <string name="accessibility_desc_close">閉じる</string>
+    <string name="accessibility_quick_settings_user">ユーザー: %s</string>
+    <string name="accessibility_quick_settings_wifi">%1$s</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">Wi-FiをOFFにしました。</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">Wi-FiをONにしました。</string>
+    <string name="accessibility_quick_settings_mobile">モバイル: %1$s、%2$s、%3$s</string>
+    <string name="accessibility_quick_settings_battery">電池%s</string>
+    <string name="accessibility_quick_settings_airplane_off">機内モードがOFFです。</string>
+    <string name="accessibility_quick_settings_airplane_on">機内モードがONです。</string>
+    <string name="accessibility_quick_settings_airplane_changed_off">機内モードをOFFにしました。</string>
+    <string name="accessibility_quick_settings_airplane_changed_on">機内モードをONにしました。</string>
+    <string name="accessibility_quick_settings_dnd_priority_on">[通知を非表示]はONで、優先する通知のみです。</string>
+    <string name="accessibility_quick_settings_dnd_none_on">[通知を非表示]はONで、サイレントです。</string>
+    <string name="accessibility_quick_settings_dnd_alarms_on">[通知を非表示]はONで、アラームのみです。</string>
+    <string name="accessibility_quick_settings_dnd_off">[通知を非表示]はOFFです。</string>
+    <string name="accessibility_quick_settings_dnd_changed_off">[通知を非表示]をOFFにしました。</string>
+    <string name="accessibility_quick_settings_dnd_changed_on">[通知を非表示]をONにしました。</string>
+    <string name="accessibility_quick_settings_bluetooth_off">BluetoothがOFFです。</string>
+    <string name="accessibility_quick_settings_bluetooth_on">BluetoothがONです。</string>
+    <string name="accessibility_quick_settings_bluetooth_connecting">Bluetoothに接続しています。</string>
+    <string name="accessibility_quick_settings_bluetooth_connected">Bluetoothに接続しました。</string>
+    <string name="accessibility_quick_settings_bluetooth_changed_off">BluetoothをOFFにしました。</string>
+    <string name="accessibility_quick_settings_bluetooth_changed_on">BluetoothをONにしました。</string>
+    <string name="accessibility_quick_settings_location_off">現在地送信機能がOFFです。</string>
+    <string name="accessibility_quick_settings_location_on">現在地送信機能がONです。</string>
+    <string name="accessibility_quick_settings_location_changed_off">現在地送信機能をOFFにしました。</string>
+    <string name="accessibility_quick_settings_location_changed_on">現在地送信機能をONにしました。</string>
+    <string name="accessibility_quick_settings_alarm">アラームは%sに設定されています。</string>
+    <string name="accessibility_quick_settings_close">パネルを閉じます。</string>
+    <string name="accessibility_quick_settings_more_time">長くします。</string>
+    <string name="accessibility_quick_settings_less_time">短くします。</string>
+    <string name="accessibility_quick_settings_flashlight_off">ライトがOFFです。</string>
+    <string name="accessibility_quick_settings_flashlight_on">ライトがONです。</string>
+    <string name="accessibility_quick_settings_flashlight_changed_off">ライトをOFFにしました。</string>
+    <string name="accessibility_quick_settings_flashlight_changed_on">ライトをONにしました。</string>
+    <string name="accessibility_quick_settings_color_inversion_changed_off">色反転をOFFにしました。</string>
+    <string name="accessibility_quick_settings_color_inversion_changed_on">色反転をONにしました。</string>
+    <string name="accessibility_quick_settings_hotspot_changed_off">モバイルアクセスポイントをOFFにしました。</string>
+    <string name="accessibility_quick_settings_hotspot_changed_on">モバイルアクセスポイントをONにしました。</string>
+    <string name="accessibility_casting_turned_off">画面のキャストが停止しました。</string>
+    <string name="accessibility_brightness">ディスプレイの明るさ</string>
+    <string name="quick_settings_brightness_controller_hbm">日光の下で最適に表示するように最大化</string>
+    <string name="quick_settings_brightness_controller_outdoor_mode_label">ｱｳﾄﾄﾞｱ</string>
+    <string name="quick_settings_brightness_controller_outdoor_mode_title">アウトドアモード</string>
+    <string name="quick_settings_brightness_controller_outdoor_message_vzw">アウトドアモードは、日光の下で最適に表示されるように画面の明るさを最大にします。画面を使用しない場合、15分後に画面の明るさは前回の設定に戻ります。</string>
+    <string name="quick_settings_brightness_controller_outdoor_message">画面を%1$d分間明るくします。画面がONのまま%2$d分経過しても、画面がOFFになるまでアウトドアモードは有効です。</string>
+    <string name="data_usage_disabled_dialog_3g_title">2G～3Gデータは一時停止中です</string>
+    <string name="data_usage_disabled_dialog_4g_title">4Gデータは一時停止中です</string>
+    <string name="data_usage_disabled_dialog_mobile_title">モバイルデータは一時停止中です</string>
+    <string name="data_usage_disabled_dialog_title">データの一時停止</string>
+    <string name="data_usage_disabled_dialog">"設定されたデータの上限に達したため、このサイクルの終了までこの端末でのデータの利用を一時停止しました。
+
+再開すると、携帯通信会社から課金される可能性があります。"</string>
+    <string name="data_usage_disabled_dialog_enable">再開</string>
+    <string name="data_usage_disabled_dialog_limit_title">モバイルデータ無効</string>
+    <string name="data_usage_disabled_dialog_limit_title_vzw">モバイルデータは現在OFFです</string>
+    <string name="data_usage_disabled_dialog_limit">設定したデータ使用制限に達しました。追加でデータを使用すると、サービスプロバイダから追加料金が発生する可能性があります。</string>
+    <string name="data_usage_disabled_dialog_limit_vzw">"指定されたデータ使用制限に達したため、モバイルデータがOFFになりました。
+
+モバイルデータをONに戻すと、通信事業者によってはデータ使用量に応じた料金が発生する可能性があります。"</string>
+    <string name="data_usage_disabled_dialog_limit_enable">モバイルデータをON</string>
+    <string name="data_usage_disabled_dialog_limit_enable_vzw">Turn on data</string>
+    <string name="status_bar_settings_signal_meter_disconnected">インターネット未接続</string>
+    <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi接続済み</string>
+    <string name="gps_notification_searching_text">GPSで検索中</string>
+    <string name="gps_notification_found_text">GPSにより現在地が設定されました</string>
+    <string name="gps_notification_searching_text_vzw">位置情報を検出中</string>
+    <string name="gps_notification_found_text_vzw">位置情報を検出</string>
+    <string name="accessibility_location_active">現在地リクエストがアクティブ</string>
+    <string name="accessibility_clear_all">通知をすべて消去。</string>
+    <string name="status_bar_notification_inspect_item_title">通知設定</string>
+    <string name="status_bar_notification_app_settings_title">%sの設定</string>
+    <string name="accessibility_rotation_lock_off">画面は自動的に回転します。</string>
+    <string name="accessibility_rotation_lock_on_landscape">画面は横向きにロックされています。</string>
+    <string name="accessibility_rotation_lock_on_portrait">画面は縦向きにロックされています。</string>
+    <string name="accessibility_rotation_lock_off_changed">画面が自動的に回転します。</string>
+    <string name="accessibility_rotation_lock_on_landscape_changed">画面を横向きにロックしました。</string>
+    <string name="accessibility_rotation_lock_on_portrait_changed">画面を縦向きにロックしました。</string>
+    <string name="dessert_case">デザートケース</string>
+    <string name="start_dreams">スクリーンセーバー</string>
+    <string name="ethernet_label">イーサネット</string>
+    <string name="it_policy_not_allow_wifi">Wi-Fiの使用は、セキュリティポリシーによって制限されています。</string>
+    <string name="it_policy_not_allow_wifiap">インターネット共有機能の使用は、セキュリティポリシーによって制限されています。</string>
+    <string name="wifi_in_airplane_mode">機内モード中です。</string>
+    <string name="wifi_authentication_succeed">認証されました。</string>
+    <string name="wifi_authentication_failed">認証に失敗しました。</string>
+    <string name="wifi_authentication_succeed_kt">Wi-Fiアクセスポイントが認証されました。</string>
+    <string name="wifi_authentication_failed_kt">Wi-Fiアクセスポイントの認証に失敗しました。</string>
+    <string name="wifi_authentication_not_subscribed">%sネットワークに接続できません。サービスに登録してから、再度お試しください。</string>
+    <string name="wifi_authentication_no_response">Wi-Fi APへの接続に失敗しました。</string>
+    <string name="wifi_authentication_invalid_value">認証に失敗しました。IDとパスワードを確認してください。</string>
+    <string name="wifi_setup_title_connected_network">Wi-Fiネットワーク%sに接続しました。</string>
+    <string name="wifi_disconnected">Wi-Fiが切断されました。</string>
+    <string name="quick_settings_dnd_label">"通知を
+ミュート"</string>
+    <string name="quick_settings_dnd_priority_label">優先する通知のみ</string>
+    <string name="quick_settings_dnd_alarms_label">アラームのみ</string>
+    <string name="quick_settings_dnd_none_label">サイレント</string>
+    <string name="quick_settings_dormant_mode_label">"通知を
+ミュート"</string>
+    <string name="quick_settings_bluetooth_label">Bluetooth</string>
+    <string name="quick_settings_bluetooth_multiple_devices_label">Bluetooth（端末数%d）</string>
+    <string name="quick_settings_bluetooth_off_label">Bluetooth OFF</string>
+    <string name="quick_settings_bluetooth_detail_empty_text">ペア設定されたデバイスがありません</string>
+    <string name="quick_settings_brightness_label">画面の明るさ</string>
+    <string name="quick_settings_rotation_unlocked_label">自動回転</string>
+    <string name="quick_settings_rotation_locked_label">画面の向きをロック</string>
+    <string name="quick_settings_rotation_locked_portrait_label">縦画面</string>
+    <string name="quick_settings_rotation_locked_landscape_label">横向き</string>
+    <string name="quick_settings_ime_label">入力方法</string>
+    <string name="quick_settings_location_label">現在地</string>
+    <string name="quick_settings_location_off_label">現在地OFF</string>
+    <string name="quick_settings_media_device_label">メディアデバイス</string>
+    <string name="quick_settings_rssi_label">RSSI</string>
+    <string name="quick_settings_rssi_emergency_only">緊急通報のみ</string>
+    <string name="quick_settings_settings_label">設定</string>
+    <string name="quick_settings_time_label">時間</string>
+    <string name="quick_settings_user_label">このユーザー</string>
+    <string name="quick_settings_user_title">ユーザー</string>
+    <string name="quick_settings_user_new_user">新しいユーザー</string>
+    <string name="quick_settings_airplane_mode_label">機内モード</string>
+    <string name="quick_settings_silent_mode_sound">サウンド</string>
+    <string name="quick_settings_silent_mode_vibrate">バイブ</string>
+    <string name="quick_settings_silent_mode_mute">サイレント</string>
+    <string name="quick_settings_sfinder_text">Sファインダー</string>
+    <string name="quick_settings_sync_text">同期</string>
+    <string name="quick_settings_wificalling_text">"Wi-Fi
+Calling"</string>
+    <string name="quick_settings_wifi_hotspot_label">"Wi-Fi
+テザリング"</string>
+    <string name="quick_settings_wifi_hotspot_label_vzw">"Wi-Fi
+テザリング"</string>
+    <string name="quick_settings_wifi_hotspot_label_jpn">"Wi-Fi
+ﾃｻﾞﾘﾝｸﾞ"</string>
+    <string name="quick_settings_touch_sensitivity_label">"高感度
+タッチ操作"</string>
+    <string name="quick_settings_smart_stay_label">"スマート
+ステイ"</string>
+    <string name="quick_settings_quick_connect_label">"クイック
+接続"</string>
+    <string name="quick_settings_ultra_power_saving_label">"ｳﾙﾄﾗ
+省電力ﾓｰﾄﾞ"</string>
+    <string name="quick_settings_location_text">位置情報</string>
+    <string name="quick_settings_gps_text">GPS</string>
+    <string name="quick_settings_reading_mode_label">"読書
+モード"</string>
+    <string name="quick_settings_mobile_data_label">"モバイル
+データ"</string>
+    <string name="quick_settings_data_roaming_label">"ﾃﾞｰﾀ
+ﾛｰﾐﾝｸﾞ"</string>
+    <string name="quick_settings_personal_mode_label">"ﾌﾟﾗｲﾍﾞｰﾄ
+ﾓｰﾄﾞ"</string>
+    <string name="quick_settings_power_saving_label">"省電力
+モード"</string>
+    <string name="quick_settings_network_power_saving_label">"ﾈｯﾄﾜｰｸ
+省電力"</string>
+    <string name="quick_settings_nfc_card_mode_label">"NFC
+カードモード"</string>
+    <string name="quick_settings_nfc_p2p_label">R/W P2P</string>
+    <string name="quick_settings_nfc_jpn_label">"NFC/おサイフ
+ケータイ"</string>
+    <string name="quick_settings_torch_label">ライト</string>
+    <string name="quick_settings_screen_capture_label">"画面
+ｷｬﾌﾟﾁｬ"</string>
+    <string name="quick_settings_aod_label">"Always On
+Display"</string>
+    <string name="quick_settings_wifi_label">Wi-Fi</string>
+    <string name="quick_settings_wifi_not_connected">接続されていません</string>
+    <string name="quick_settings_wifi_no_network">ネットワークなし</string>
+    <string name="quick_settings_wifi_off_label">Wi-Fi OFF</string>
+    <string name="quick_settings_wifi_detail_empty_text">Wi-Fiネットワークを利用できません</string>
+    <string name="quick_settings_screen_mirroring_label">"Screen
+Mirroring"</string>
+    <string name="quick_settings_cast_title">キャスト</string>
+    <string name="quick_settings_casting">キャストしています</string>
+    <string name="quick_settings_cast_device_default_name">名前のないデバイス</string>
+    <string name="quick_settings_cast_device_default_description">キャスト準備完了</string>
+    <string name="quick_settings_cast_detail_empty_text">利用可能なデバイスがありません</string>
+    <string name="quick_settings_brightness_dialog_title">画面の明るさ</string>
+    <string name="quick_settings_brightness_dialog_auto_brightness_label">自動</string>
+    <string name="quick_settings_inversion_label">色を反転</string>
+    <string name="quick_settings_color_space_label">色補正モード</string>
+    <string name="quick_settings_more_settings">設定</string>
+    <string name="quick_settings_done">完了</string>
+    <string name="quick_settings_connected">接続済み</string>
+    <string name="quick_settings_connecting">接続しています...</string>
+    <string name="quick_settings_tethering_label">テザリング</string>
+    <string name="quick_settings_hotspot_label">アクセスポイント</string>
+    <string name="quick_settings_notifications_label">通知</string>
+    <string name="quick_settings_flashlight_label">ライト</string>
+    <string name="quick_settings_cellular_detail_title">モバイルデータ</string>
+    <string name="quick_settings_cellular_detail_data_usage">データ使用量</string>
+    <string name="quick_settings_cellular_detail_remaining_data">残りのデータ</string>
+    <string name="quick_settings_cellular_detail_over_limit">上限オーバー</string>
+    <string name="quick_settings_cellular_detail_data_used">%s使用中</string>
+    <string name="quick_settings_cellular_detail_data_limit">上限: %s</string>
+    <string name="quick_settings_cellular_detail_data_warning">警告: 上限は%sです</string>
+    <string name="quickpanel_content_description_led_on">%sが有効になりました。</string>
+    <string name="quickpanel_content_description_led_off">%sが無効になりました。</string>
+    <string name="quickpanel_content_description_led_dim">%sは有効にできません。</string>
+    <string name="quickpanel_content_description_expand_button">クイック設定パネルを表示します。</string>
+    <string name="quickpanel_content_description_collapse_button">クイック設定パネルを非表示にします。</string>
+    <string name="quickpanel_long_preesed_description">クイック設定ボタンを長押しすることで、関連する機能の設定に移動できます。</string>
+    <string name="recents_empty_message">最近使用したアプリはありません</string>
+    <string name="recents_app_info_button_label">アプリケーション情報</string>
+    <string name="recents_lock_to_app_button_label">画面固定</string>
+    <string name="recents_search_bar_label">検索</string>
+    <string name="recents_launch_error_message">%sを開始できません。</string>
+    <string name="recents_dismiss_all_message">すべてのアプリケーションを消去</string>
+    <string name="recents_multistack_add_stack_dialog_split_horizontal">横に分割</string>
+    <string name="recents_multistack_add_stack_dialog_split_vertical">縦に分割</string>
+    <string name="recents_multistack_add_stack_dialog_split_custom">分割（カスタム）</string>
+    <string name="expanded_header_battery_charged">充電が完了しました</string>
+    <string name="expanded_header_battery_charging">充電しています</string>
+    <string name="expanded_header_battery_charging_with_time">充電完了まで%s</string>
+    <string name="expanded_header_battery_not_charging">充電していません</string>
+    <string name="ssl_ca_cert_warning">"ネットワークが監視される
+場合があります"</string>
+    <string name="description_target_search">検索します</string>
+    <string name="description_direction_up">上にスライドして%sを行います。</string>
+    <string name="description_direction_left">左にスライドして%sを行います。</string>
+    <string name="zen_priority_introduction">アラーム、リマインダー、予定、指定した人からの着信以外で音やバイブレーションに煩わされることはありません。</string>
+    <string name="zen_priority_customize_button">カスタマイズ</string>
+    <string name="zen_silence_introduction_voice">アラーム、音楽、動画、ゲームを含むすべての音とバイブレーションがブロックされます。電話をかけることはできます。</string>
+    <string name="zen_silence_introduction">アラーム、音楽、動画、ゲームを含むすべての音とバイブレーションがブロックされます。</string>
+    <string name="keyguard_more_overflow_text">+%d</string>
+    <string name="speed_bump_explanation">緊急度の低い通知を下に表示</string>
+    <string name="notification_tap_again">開くにはもう一度タップしてください</string>
+    <string name="keyguard_unlock">ロックを解除するには、スワイプしてください</string>
+    <string name="lockscreen_unlock_guide_text">ロックを解除するには、スワイプしてください</string>
+    <string name="lockscreen_unlock_guide_text_voice_assistant">2本の指でスワイプして画面ロックを解除します。</string>
+    <string name="kg_fingerprints_unlock_instructions">ロック解除に指紋認証を使用</string>
+    <string name="kg_fingerprints_bouncer_instructions">指紋認証を使用して開く</string>
+    <string name="kg_swipe_bouncer_instructions">起動するには画面をスワイプします</string>
+    <string name="kg_swipe_bouncer_instructions_voice_assistant">実行するには、2本の指で画面をスワイプしてください。</string>
+    <string name="phone_hint">右にスワイプして通話</string>
+    <string name="voice_hint">アイコンからスワイプして音声アシストを起動</string>
+    <string name="camera_hint">左にスワイプしてカメラを起動</string>
+    <string name="interruption_level_none_with_warning">サイレント。スクリーンリーダーも消音されます。</string>
+    <string name="interruption_level_none">サイレント</string>
+    <string name="interruption_level_priority">優先する通知のみ</string>
+    <string name="interruption_level_alarms">アラームのみ</string>
+    <string name="interruption_level_none_twoline">"サイレント
+"</string>
+    <string name="interruption_level_priority_twoline">"重要な
+通知のみ"</string>
+    <string name="interruption_level_alarms_twoline">"アラーム
+のみ"</string>
+    <string name="keyguard_indication_charging_time">充電中（フル充電まで%s）</string>
+    <string name="accessibility_multi_user_switch_switcher">ユーザーを切り替える</string>
+    <string name="accessibility_multi_user_switch_switcher_with_current">ユーザーを切り替える、現在のユーザーは%s</string>
+    <string name="accessibility_multi_user_switch_inactive">現在のユーザー: %s</string>
+    <string name="accessibility_multi_user_switch_quick_contact">プロフィールを表示</string>
+    <string name="user_add_user">ユーザーを追加</string>
+    <string name="user_new_user_name">新しいユーザー</string>
+    <string name="guest_nickname">ゲスト</string>
+    <string name="guest_new_guest">ゲストを追加</string>
+    <string name="guest_exit_guest">ゲストを削除</string>
+    <string name="guest_exit_guest_dialog_title">ゲストのプロフィールを削除</string>
+    <string name="guest_exit_guest_dialog_message">ダウンロードしたアプリケーションおよび関連する全てのデータに含む、プロフィールを削除します。削除したデータを復元することはできません。</string>
+    <string name="guest_exit_guest_dialog_remove">削除</string>
+    <string name="guest_wipe_session_title">おかえりなさい、ゲストさん</string>
+    <string name="guest_wipe_session_message">セッションを続行しますか？</string>
+    <string name="guest_wipe_session_wipe">最初から開始</string>
+    <string name="guest_wipe_session_dontwipe">続行</string>
+    <string name="guest_notification_title">ゲストユーザー</string>
+    <string name="guest_notification_text">アプリとデータを削除するには、ゲストユーザーを削除します</string>
+    <string name="guest_notification_remove_action">ゲストを削除</string>
+    <string name="user_add_user_title">ユーザーを追加</string>
+    <string name="user_add_user_message_short">"新規ユーザーを追加するには、個別のスペースを設定する必要があります。
+
+全てのユーザーは、他のユーザーのアプリを更新することができます。"</string>
+    <string name="unable_to_switch_user">通話中はユーザープロフィールを変更できません。</string>
+    <string name="battery_saver_notification_title">バッテリーセーバーがON</string>
+    <string name="battery_saver_notification_text">パフォーマンスとバックグラウンドデータを制限します</string>
+    <string name="battery_saver_notification_action_text">バッテリーセーバーをOFFにします</string>
+    <string name="notification_hidden_text">コンテンツが非表示</string>
+    <string name="sanitized_content_text">タップして%sを実行</string>
+    <string name="media_projection_dialog_text">%sで、画面に表示されているコンテンツのキャプチャを開始します。</string>
+    <string name="media_projection_remember_text">次回から表示しない</string>
+    <string name="clear_all_notifications_text">すべて消去</string>
+    <string name="media_projection_action_text">今すぐ開始</string>
+    <string name="empty_shade_text">通知はありません</string>
+    <string name="device_owned_footer">端末が監視されている可能性があります</string>
+    <string name="profile_owned_footer">プロフィールが監視されている可能性があります</string>
+    <string name="vpn_footer">ネットワークが監視されている可能性があります</string>
+    <string name="monitoring_title_device_owned">端末の監視</string>
+    <string name="monitoring_title_profile_owned">プロフィールの監視</string>
+    <string name="monitoring_title">ネットワーク監視</string>
+    <string name="disable_vpn">VPNを無効にする</string>
+    <string name="disconnect_vpn">VPNを切断</string>
+    <string name="monitoring_description_device_owned">"この端末は%1$sによって管理されています。
+
+管理者は設定、コーポレートアクセス、アプリ、端末に関連付けられたデータ、端末の位置情報を監視、管理できます。詳しくは管理者にお問い合わせください。"</string>
+    <string name="monitoring_description_vpn">"アプリにVPN接続の設定を許可しました。
+
+このアプリはあなたの端末やネットワークアクティビティ（メール、アプリ、ウェブサイトなど）を監視できます。"</string>
+    <string name="monitoring_description_vpn_device_owned">"この端末は%1$sによって管理されています。
+
+管理者は設定、コーポレートアクセス、アプリ、端末に関連付けられたデータ、端末の位置情報を監視、管理できます。
+
+VPNに接続しているため、VPNもネットワークアクティビティ（メール、アプリ、ウェブサイトなど）を監視できます。
+
+詳しくは管理者にお問い合わせください。"</string>
+    <string name="monitoring_description_vpn_profile_owned">"この仕事用プロファイルは%1$sによって管理されています。
+
+管理者はあなたのネットワークアクティビティ（メール、アプリ、ウェブサイトなど）を監視できます。
+
+詳しくは管理者にお問い合わせください。
+
+VPNにも接続しているため、VPNもネットワークアクティビティを監視できます。"</string>
+    <string name="legacy_vpn_name">VPN</string>
+    <string name="monitoring_description_app">%1$sに接続しています。このアプリはあなたのネットワークアクティビティ（メール、アプリ、ウェブサイトなど）を監視できます。</string>
+    <string name="monitoring_description_app_personal">%1$sに接続しています。このアプリはあなたの個人のネットワークアクティビティ（メール、アプリ、ウェブサイトなど）を監視できます。</string>
+    <string name="monitoring_description_app_work">"この仕事用プロファイルは%1$sによって管理され、%2$sに接続しています。このアプリはあなたの仕事のネットワークアクティビティ（メール、アプリ、ウェブサイトなど）を監視できます。
+
+詳しくは管理者にお問い合わせください。"</string>
+    <string name="monitoring_description_app_personal_work">"この仕事用プロファイルは%1$sによって管理され、%2$sに接続しています。このアプリはあなたの仕事のネットワークアクティビティ（メール、アプリ、ウェブサイトなど）を監視できます。
+
+%3$sにも接続しているため、個人のネットワークアクティビティも監視できます。"</string>
+    <string name="monitoring_description_vpn_app_device_owned">"この端末は%1$sによって管理されています。
+
+管理者は設定、コーポレートアクセス、アプリ、端末に関連付けられたデータ、端末の位置情報を監視、管理できます。
+
+%2$sに接続しているため、このアプリもネットワークアクティビティ（メール、アプリ、ウェブサイトなど）を監視できます。
+
+詳しくは管理者にお問い合わせください。"</string>
+    <string name="keyguard_indication_trust_disabled">手動でロックを解除するまでロックされたままとなります</string>
+    <string name="hidden_notifications_title">通知をすばやく確認できます</string>
+    <string name="hidden_notifications_text">ロックを解除する前にご確認ください</string>
+    <string name="hidden_notifications_cancel">キャンセル</string>
+    <string name="hidden_notifications_setup">設定</string>
+    <string name="notification_expand_button_text">すべて表示</string>
+    <string name="notification_collapse_button_text">すべて非表示</string>
+    <string name="zen_mode_and_condition">%1$s。%2$s</string>
+    <string name="volume_zen_end_now">今すぐ終了</string>
+    <string name="accessibility_volume_expand">最大化</string>
+    <string name="accessibility_volume_collapse">最小化</string>
+    <string name="screen_pinning_title">画面が固定されました</string>
+    <string name="screen_pinning_description">固定を解除するまで画面が常に表示されるようになります。[戻る]と[最近]を同時に押し続けると固定が解除されます。</string>
+    <string name="screen_pinning_description_accessible">固定を解除するまで画面が常に表示されるようになります。[最近]を押し続けると固定が解除されます。</string>
+    <string name="screen_pinning_positive">はい</string>
+    <string name="screen_pinning_negative">いいえ</string>
+    <string name="quick_settings_reset_confirmation_title">%1$sを非表示にしますか？</string>
+    <string name="quick_settings_reset_confirmation_message">次回、設定でONにすると再表示されます。</string>
+    <string name="quick_settings_reset_confirmation_button">非表示</string>
+    <string name="volumeui_prompt_message">%1$sが音量ダイアログとして機能します。</string>
+    <string name="volumeui_prompt_allow">許可</string>
+    <string name="volumeui_prompt_deny">許可しない</string>
+    <string name="volumeui_notification_title">%1$sを音量ダイアログとして使用</string>
+    <string name="volumeui_notification_text">タップすると元の音量ダイアログが復元されます。</string>
+    <string name="managed_profile_foreground_toast">仕事用プロファイルを使用しています</string>
+    <string name="tw_safe_media_volume_warning">大音量で長時間聴くと、聴力に影響を与える恐れがあります。安全な範囲を超えて音量を上げるには、[OK]をタップしてください。</string>
+    <string name="tw_cover_volume_warning_message">長時間大音量で聴き続けると、聴力に悪影響を与える可能性があります。音量を上げるには、カバーを開いてください。</string>
+    <string name="tw_safe_media_volume_warning_kids_mode">キッズモードでイヤホンが接続されているときは、安全な音量(%s)より大きな音量にすることはできません。</string>
+    <string name="yes">OK</string>
+    <string name="no">キャンセル</string>
+    <string name="system_ui_tuner">システムUI調整ツール</string>
+    <string name="show_battery_percentage">内蔵電池の残量の割合を表示する</string>
+    <string name="show_battery_percentage_summary">充電していないときには電池残量の割合をステータスバーアイコンに表示する</string>
+    <string name="quick_settings">クイック設定</string>
+    <string name="status_bar">ステータスバー</string>
+    <string name="demo_mode">デモモード</string>
+    <string name="enable_demo_mode">デモモードを有効にする</string>
+    <string name="show_demo_mode">デモモードを表示</string>
+    <string name="status_bar_ethernet">イーサネット</string>
+    <string name="status_bar_alarm">アラーム</string>
+    <string name="status_bar_work">仕事用プロファイル</string>
+    <string name="status_bar_airplane">機内モード</string>
+    <string name="add_tile">タイルを追加</string>
+    <string name="broadcast_tile">ブロードキャストタイル</string>
+    <string name="mobile_hotspot_wifi_off_warning">Wi-Fiテザリングを有効にすると、Wi-FiがOFFになります。</string>
+    <string name="mobile_hotspot_wifi_off_warning_china">WLANテザリングを有効にすると、WLANがOFFになります。</string>
+    <string name="mobile_hotspot_wifi_off_warning_jpn">Wi-Fiテザリングを有効にすると、Wi-FiがOFFになります。</string>
+    <string name="tethering_attention_title">注意</string>
+    <string name="mobile_data_enable_toast_text">機内モードが有効な間は、モバイルネットワークに接続できません。機内モードを無効にして、再度実行してください。</string>
+    <string name="wifi_ap_wifi_p2p_off_warn">Wi-Fiテザリングを有効にすると、Wi-Fi Directで接続されているデバイスの接続が解除されます。</string>
+    <string name="wifi_ap_wifi_p2p_off_warn_china">ポータブルWLANテザリングを有効にすると、WLAN Directで接続したデバイスが切断されます。</string>
+    <string name="dialog_battery_data_warning">Wi-Fiテザリングが有効になります。バッテリー消費とデータ使用量が増加します。</string>
+    <string name="zen_alarm_warning_indef">この設定をOFFにしないと次回のアラーム（%1$s）は鳴りません</string>
+    <string name="zen_alarm_warning">次回のアラーム（%1$s）は鳴りません</string>
+    <string name="alarm_template">%1$s</string>
+    <string name="alarm_template_far">%1$s</string>
+    <string name="accessibility_quick_settings_detail">クイック設定、%s。</string>
+    <string name="accessibility_status_bar_hotspot">アクセスポイント</string>
+    <string name="accessibility_managed_profile">仕事用プロファイル</string>
+    <string name="tuner_warning_title">一部の方のみお楽しみいただける限定公開ツール</string>
+    <string name="tuner_warning">システムUI調整ツールでは、Androidユーザーインターフェースの調整やカスタマイズを行えます。これらの試験運用機能は今後のリリースで変更となったり、中止となったり、削除されたりする可能性がありますのでご注意ください。</string>
+    <string name="tuner_persistent_warning">これらの試験運用機能は今後のリリースで変更となったり、中止となったり、削除されたりする可能性がありますのでご注意ください。</string>
+    <string name="got_it">OK</string>
+    <string name="tuner_toast">システムUI調整ツールを設定に追加しました</string>
+    <string name="remove_from_settings">設定から削除</string>
+    <string name="remove_from_settings_prompt">設定からシステムUI調整ツールを削除して、全機能の使用を停止しますか？</string>
+    <string name="accessibility_qs_edit_button">編集ボタン</string>
+    <string name="accessibility_button">ボタン</string>
+    <string name="no_sim_notification_title">SIM未挿入</string>
+    <string name="no_sim_notification_title_tmo">SIMカード未挿入</string>
+    <string name="no_sim_notification_title_vzw">No SIM found</string>
+    <string name="no_sim_notification_text">SIMカードを挿入してください。</string>
+    <string name="no_sim_notification_text_vzw">Tap for more information.</string>
+    <string name="full_battery_title">お知らせ</string>
+    <string name="full_battery_noti_text">バッテリー充電完了</string>
+    <string name="charging_interruption_title">充電不可</string>
+    <string name="charging_interruption_by_terminal_open_text">端末を充電することができません。Samsung対応のバッテリーや充電器を使用していることと、端末が正しく充電器に接続していることを確認してください。</string>
+    <string name="charging_interruption_by_terminal_open_galaxy_text">端末を充電することができません。Galaxy対応のバッテリーや充電器を使用していることと、端末が正しく充電器に接続していることを確認してください。</string>
+    <string name="charging_interruption_by_too_high_temperature_text">充電が停止しました。バッテリーの温度が高すぎます。</string>
+    <string name="charging_interruption_by_too_low_temperature_text">充電が停止しました。バッテリーの温度が低すぎます。</string>
+    <string name="charging_interruption_by_limit_high_temperature_text">"バッテリーが高温になっているため、充電を停止しました。非常に熱くなっている可能性があるため、充電器を取り外す際にはご注意ください。
+
+充電器を取り外し、再び接続することで、充電を正常に継続できる可能性があります。端末の過熱が続く場合、火事や怪我の恐れがあるため、カスタマーサービスにお問合せください。"</string>
+    <string name="highvoltage_charger_notification_title">急速充電</string>
+    <string name="highvoltage_charger_notification_text">急速充電器を接続しました。</string>
+    <string name="cable_charging_title">ケーブル充電</string>
+    <string name="wireless_charging_title">ワイヤレス充電</string>
+    <string name="fast_wireless_charging_title">高速ワイヤレス充電</string>
+    <string name="slow_charging_title">低速で端末を充電中</string>
+    <string name="slow_charging_notification_text">充電時間を短縮するには、純正の充電器をご使用ください。</string>
+    <string name="charging_noti_text_another">"充電中: %1$d%%
+(充電完了まで約%2$s)"</string>
+    <string name="quick_settings_battery_charging_label">充電中: %d%%</string>
+    <string name="time_format_hour_minute">%1$d時間%2$d分</string>
+    <string name="time_format_hour">%d時間</string>
+    <string name="time_format_minute">%d分</string>
+    <string name="wireless_charging_disconnect_text">ワイヤレス充電を停止しました。</string>
+    <string name="slow_charging_toast_text_for_tablet">充電時間を短縮するには、タブレットに付属している純正の充電器および充電ケーブルを使用してください。</string>
+    <string name="wireless_charger_misalign_help_text">最も効率よく充電するには、端末をワイヤレス充電器の上に正しく置いてください。</string>
+    <string name="wireless_charger_info_text">ワイヤレスチャージャーと本端末の間に金属製のもの（メタリックステッカーのラベル、クリップやストラップなど）がないか確認してください。</string>
+    <string name="battery_saver_notification_title_sec">省電力モードが有効</string>
+    <string name="battery_saver_notification_text_sec">端末のパフォーマンスおよびバックグラウンドデータが制限されています。</string>
+    <string name="battery_saver_notification_action_text_sec">OFF</string>
+    <string name="battery_npsm_notification_title">ネットワーク省電力モードが有効</string>
+    <string name="battery_npsm_notification_text">画面がOFFの間、端末のパフォーマンスおよびバックグラウンドデータは制限され、モバイルデータおよびWi-FiはOFFになります。</string>
+    <string name="wireless_charging_from_wireless_to_cable_text">ワイヤレス充電からケーブル充電に切り替え</string>
+    <string name="wireless_charging_from_cable_to_wireless_text">ケーブル充電からワイヤレス充電に切り替え</string>
+    <string name="incompatible_charger_title">充電していません</string>
+    <string name="incompatible_charger_dialog_text">この端末と互換性のない充電器が接続されました。端末の損傷を防ぐため、充電を停止しました。充電を継続するには、この端末に付属している純正の充電器および充電ケーブルを使用してください。</string>
+    <string name="incompatible_charger_notification_text">充電できません。純正の充電器を使用してください。</string>
+    <string name="incompatible_charger_ticker">充電していません</string>
+    <string name="warning_alert_check">今後表示しない</string>
+    <string name="critical_low_battery_title">バッテリー残量なし</string>
+    <string name="low_battery_title">バッテリー残量低下</string>
+    <string name="battery_low_hun_remaining_battery_level_format">バッテリー残量は%d%%です。端末を充電器に接続してください。</string>
+    <string name="button_close">閉じる</string>
+    <string name="cooling_title">端末の過熱</string>
+    <string name="cooling_noti_text">タップして詳細を表示</string>
+    <string name="cooling_body">"端末が過熱しています。端末の温度を下げるため、以下の動作が段階的行われます。
+
+まだ端末を使用することができますが、
+- 画面が暗くなります。
+- 端末の反応が遅くなります。
+- 充電が一時停止します。
+
+現在使用中のアプリを終了すると、端末の温度が下がりやすくなります。
+
+端末の温度が下がった後、パフォーマンスが自動的に通常状態に戻ります。"</string>
+    <string name="colling_high_level_noti_text">アプリケーションを起動できません。電話および連絡先アプリケーションのみ使用できます。</string>
+    <string name="cooling_title_vzw">温度を下げる</string>
+    <string name="cooling_noti_text_vzw">タップして詳細を確認</string>
+    <string name="cooling_body_vzw">"端末が過熱しているため、温度を下げる処理をしています。
+
+端末は引き続き使用できますが、以下の点に注意してください。
+画面は暗くなります。
+端末の動作が遅くなります。
+充電は一時停止されます。
+
+端末の温度が下がると、パフォーマンスが自動的に通常状態に戻ります。"</string>
+    <string name="cooling_body_tablet_vzw">"タブレットが過熱しているため、温度を下げる処理をしています。
+
+タブレットは引き続き使用できますが、以下の点に注意してください。
+画面は暗くなります。
+タブレットの動作が遅くなります。
+充電は一時停止されます。
+
+タブレットの温度が下がると、パフォーマンスが自動的に通常状態に戻ります。"</string>
+    <string name="overheat_shutdown_warning_title">過熱のためOFF</string>
+    <string name="overheat_shutdown_warning_text">端末が過熱しています。端末の温度を下げるため、OFFにします。</string>
+    <string name="overheat_shutdown_warning_text_tablet">タブレットが過熱しています。タブレットの温度を下げるため、OFFにします。</string>
+    <string name="overheat_shutdown_warning_button_text">OFFにしない</string>
+    <string name="overheat_shutdown_notice_title">端末が自動的にOFFになるのはなぜですか？</string>
+    <string name="overheat_shutdown_notice_title_tablet">タブレットが自動的にOFFになるのはなぜですか？</string>
+    <string name="overheat_shutdown_notice_text">"端末が過熱しています。端末の損傷を防止するため、OFFにしました。
+
+過熱の原因は下記の可能性があります。
+テレビゲームやナビゲーションアプリのようにグラフィックスを多用するアプリの長時間使用
+大容量のファイルのアップロードまたはダウンロード
+温度が高い環境での端末の使用"</string>
+    <string name="overheat_shutdown_notice_text_tablet">"タブレットが過熱しています。タブレットの損傷を防止するため、OFFにしました。
+
+過熱の原因は下記の可能性があります。
+テレビゲームやナビゲーションアプリのようにグラフィックスを多用するアプリの長時間使用
+大容量のファイルのアップロードまたはダウンロード
+温度が高い環境でのタブレットの使用"</string>
+    <string name="overheat_poweroff_warning_title">端末の電源OFF</string>
+    <string name="overheat_poweroff_warning_text">端末が過熱しています。端末の温度を下げるため、電源をOFFにします。</string>
+    <string name="overheat_poweroff_warning_button_text">電源をOFFにしない</string>
+    <string name="overheat_poweroff_notice_title">端末の自動電源OFF</string>
+    <string name="overheat_poweroff_notice_text">"端末が過熱しています。損傷を防止するため、電源をOFFにします。
+
+過熱の原因は下記の可能性があります。
+ゲームやナビゲーションアプリのようにグラフィックスを多用するアプリケーションの長時間使用
+大容量のファイルの転送
+温度が高い環境での端末の使用"</string>
+    <string name="safe_mode_noti_title">セーフモードが有効</string>
+    <string name="safe_mode_noti_body">ｾｰﾌﾓｰﾄﾞを無効にするには、ここをﾀｯﾌﾟ</string>
+    <string name="safe_mode_alert_title">端末を再起動</string>
+    <string name="safe_mode_alert_body">セーフモードを無効にするには、端末を再起動してください。</string>
+    <string name="safe_mode_alert_positive_button">今すぐ再起動</string>
+    <string name="safe_mode_noti_title_vzw">セーフモードはONです</string>
+    <string name="safe_mode_noti_body_vzw">セーフモードをOFFにするにはタップしてください。</string>
+    <string name="safe_mode_alert_title_vzw">セーフモードOFF</string>
+    <string name="safe_mode_alert_body_vzw">端末を再起動してセーフモードをOFFにしますか？全てのアプリが復元されます。</string>
+    <string name="safe_mode_alert_positive_button_vzw">セーフモードOFF</string>
+    <string name="insert_sim_card">SIMカードを挿入</string>
+    <string name="insert_sim_card_message">ネットワークサービスを利用するにはSIMカードを挿入してください。</string>
+    <string name="volte_enable_toast_text_about_no_support_sim">現在のソフトウェアバージョンはVoLTEに対応していません。詳細は、カスタマーサービスにお問い合わせください。</string>
+    <string name="volte_enable_message">VoLTEサービスを使用するには、VoLTEサービスに登録してください。詳細はサービスプロバイダにお問い合わせください。</string>
+    <string name="volte_disable_is_impossible_during_volte_call">VoLTE通話中は、[VoLTE優先設定]を無効にすることができません。</string>
+    <string name="location_consent_title">ユーザー同意</string>
+    <string name="location_consent_detail">GPSからの位置情報取得は、使用するアプリケーションによって管理されます。</string>
+    <string name="location_agree">同意</string>
+    <string name="location_disagree">同意しない</string>
+    <string name="location_masterswitch_dialogtitle">位置情報収集を許可</string>
+    <string name="location_masterswitch_dialogtext">"Your phone can share its approximate location with apps and services like maps, shopping and weather.
+
+Apps and services that use your location should inform you. Read the privacy policy of any app or service provider you are considering to understand how they collect, use and share your location information before you use them.
+
+Determining your location will use the mobile network. Data usage will apply."</string>
+    <string name="location_masterswitch_dialogtext_tablet">"Your tablet can share its approximate location with apps and services like maps, shopping and weather.
+
+Apps and services that use your location should inform you. Read the privacy policy of any app or service provider you’re considering to understand how they collect, use and share your location information before you use them.
+
+Determining your location will use the mobile network. Data usage will apply."</string>
+    <string name="agree">同意</string>
+    <string name="disagree">同意しない</string>
+    <string name="location_turn_off_vowifi_disabled">Turning off GPS, the VoWiFi function will be automatically disabled.</string>
+    <string name="sync_dialog_title_enable">自動同期を有効にする</string>
+    <string name="sync_dialog_title_disable">自動同期を無効にする</string>
+    <string name="sync_dialog_message_enable">"Web上でアカウントに変更を加えると、その変更内容が自動的に端末にコピーされます。
+
+Googleアカウントや一部のアカウントでは、端末上で行った変更が自動的にWebにコピーされます。
+
+各アカウントの同期情報を選択するには、[設定]>[アカウント]に移動してください。"</string>
+    <string name="sync_dialog_message_enable_vzw">"Web上でアカウントを変更すると、その変更内容が自動的に端末にコピーされます。
+
+Googleアカウントなどの一部のアカウントでは、端末上で行った変更が自動的にWebにコピーされます。
+
+各アカウントの同期情報を選択するには、[設定]>[アカウント]に移動してください。"</string>
+    <string name="sync_dialog_message_enable_chn">"Web上でアカウントを変更すると、その変更内容が自動的に端末にコピーされます。
+
+一部のアカウントでは、端末上で行った変更が自動的にWebにコピーされます。
+
+各アカウントの同期情報を選択するには、[設定] > [アカウント]に移動してください。"</string>
+    <string name="sync_dialog_message_disable">この機能を無効にすると、データおよびバッテリーの使用量を軽減できますが、最新情報を収集するためには、アカウントを手動で同期する必要があります。また、更新の通知は受信できません。</string>
+    <string name="mobile_data_text">ﾓﾊﾞｲﾙﾃﾞｰﾀ</string>
+    <string name="mobile_data_vzw">モバイルデータをOFF</string>
+    <string name="mobile_data_disable_popup_all">"Wi-Fiを使用しない場合、データ接続が必要なブラウザ、Eメール、他のアプリを使用できません。
+
+モバイルデータはOFFになります。"</string>
+    <string name="mobile_data_warning_toast_airplane_mode">機内モードが有効な間は、モバイルネットワークに接続できません。機内モードを無効にして、再度実行してください。</string>
+    <string name="mobile_data_warning_toast_disable_during_volte">アドバンスト電話が有効な間は、モバイルデータをON/OFFにすることはできません。</string>
+    <string name="mobile_data_disable_popup_kor_skt_kt">"Wi-Fiを使用しない場合、ブラウザ、Eメール、その他データ接続が必要なアプリを使用できません。
+
+モバイルデータは無効になります。"</string>
+    <string name="mobile_data_disable_popup_kor_lgt">"Wi-Fiを使用しない場合、ブラウザ、Eメール、その他データ接続が必要なアプリを使用できません。
+
+モバイルデータは無効になります。"</string>
+    <string name="mobile_data_enable_popup_kor_skt_kt">モバイルデータをONにします。モバイルネットワークに接続すると、料金プランによっては追加料金が発生する可能性があります。</string>
+    <string name="mobile_data_enable_popup_kor_lgt">モバイルデータをONにします。モバイルネットワークに接続すると、料金プランによっては追加料金が発生する可能性があります。</string>
+    <string name="mobile_data_disable_popup_vzw">"Wi-Fiを使用しない場合、ブラウザ、Eメール、その他データ接続が必要なアプリを使用できません。
+
+モバイルデータをOFFにしますか？"</string>
+    <string name="mobile_data_disable_popup_vzw_volte">"Wi-Fiを使用しない場合、ブラウザ、Eメール、その他データ接続が必要なアプリを使用できません。モバイルデータがOFFの間は、ビデオコールを使用できません。
+モバイルデータをOFFにしますか？"</string>
+    <string name="mobile_data_disable_dialog_text">モバイルネットワークを切断すると、MMSと3Gデータサービスの使用が制限されます。切断しますか？</string>
+    <string name="mobile_data_roaming_dialog">Data roaming may incur additional charges in addition to your domestic flat rate plan. Automatic updates for email or applications may also incur additional charges. Using large-data services such as video or email may incur charges over 20,000 won per minute.</string>
+    <string name="mobile_data_roaming_disable_toast_lgt">データローミングが無効になりました。</string>
+    <string name="personal_mode_popup_diable_msg_while_moving_item">[プライベート]にアイテムを移動している間は、プライベートモードを無効にすることはできません。</string>
+    <string name="personal_mode_text">プライベート​モード</string>
+    <string name="rotation_lock_toast">自動回転</string>
+    <string name="rotation_lock_mobile_keyboard_msg">%sを有効にするには、端末からキーボードカバーを取り外してください。</string>
+    <string name="aod_toast_unavailable_with_at_same_time">%1$sと%2$sを同時に有効にすることはできません。</string>
+    <string name="aod_toast_unavailable_with_mobile_keyboard">%sを有効にするには、端末からキーボードカバーを取り外してください。</string>
+    <string name="aod_disable_popup_title">%sを有効にする</string>
+    <string name="aod_disable_popup_unavailable_with_at_same_time">%1$sと%2$sを同時に有効にすることはできません。%3$sが無効になります。</string>
+    <string name="aod_disable_popup_description">%sと以下のオプションを同時に有効にすることはできません。以下のオプションが無効になります。</string>
+    <string name="aod_title">Always On Display</string>
+    <string name="aod_power_saving_mode">省電力モード</string>
+    <string name="aod_voice_assistant_title">Voice Assistant</string>
+    <string name="aod_magnification">拡大</string>
+    <string name="aod_magnifier_window">ルーペウィンドウ</string>
+    <string name="aod_assistant_menu_magnifier">ルーペウィンドウ</string>
+    <string name="aod_talkback">TalkBack</string>
+    <string name="notification_block">ブロック</string>
+    <string name="dialog_title_block_notification">アプリのアラートをブロック</string>
+    <string name="dialog_msg_block_notification">このアプリからの通知、サウンド、バイブなどのアラートをブロックします。</string>
+    <string name="toast_msg_unblock_notification">後でこのアプリからの通知のブロックを解除するには、[設定] > [サウンドと通知]に移動して > [アプリ通知]を選択してください。</string>
+    <string name="mobile_hotspot_dialog_nosim_warning_title">Wi-Fiテザリング</string>
+    <string name="mobile_hotspot_dialog_nosim_warning">Wi-Fiテザリングと他のテザリング機能を使用するには、SIMカードを挿入してください。</string>
+    <string name="mobile_hotspot_dialog_nosim_warning_title_jpn">Wi-Fiテザリング</string>
+    <string name="mobile_hotspot_dialog_nosim_warning_jpn">Wi-Fiテザリングと他のテザリング機能を使用するには、SIMカードを挿入してください。</string>
+    <string name="mobile_hotspot_dialog_nosim_warning_dcm">Wi-Fiテザリング機能を使用するには、SIMを挿入してください。</string>
+    <string name="do_not_show_again">今後表示しない</string>
+    <string name="disable">無効</string>
+    <string name="airplane_mode_plmn">機内モード</string>
+    <string name="airplane_mode_dialog_title">機内ﾓｰﾄﾞを有効にする</string>
+    <string name="airplane_mode_dialog_title_vzw">機内モードをONにする</string>
+    <string name="airplane_mode_dialog_message">機内モードを有効にすると、電話、SMS、およびデータネットワーク機能がOFFになります。また、Wi-FiやBluetoothなどの接続機能もOFFになります。Wi-FiやBluetoothを使用するには、設定または通知パネルからONにしてください。</string>
+    <string name="airplane_mode_dialog_message_without_bluetooth">機内モードでは、Wi-Fiを含むネットワーク機能をOFFにすることができます。Wi-Fiを使用するには、設定または通知パネルでWi-FiをONにしてください。</string>
+    <string name="airplane_mode_dialog_message_wifi">機内モードでは、Wi-FiおよびBluetoothを含むネットワーク機能をOFFにできます。 Wi-FiまたはBluetoothを使用するには、設定または通知パネルから機能をONにしてください。</string>
+    <string name="airplane_mode_dialog_message_cmcc">機内モードを有効にすると、通話、メッセージ、およびデータネットワーク機能がOFFになります。また、WLANやBluetoothなどの接続機能もOFFになります。WLANやBluetoothを使用するには、設定または通知パネルからONにしてください。</string>
+    <string name="airplane_mode_dialog_message_vzw">"Wi-Fiを使用しない場合、ブラウザ、Eメール、その他データ接続が必要なアプリを使用できません。
+機内モードをONにしますか？"</string>
+    <string name="airplane_mode_dialog_message_vzw_volte">"Wi-Fiを使用しない場合、ブラウザ、Eメール、Wi-Fi電話、その他データ接続が必要なアプリを使用できません。
+機内モードをONにしますか？"</string>
+    <string name="airplane_mode_msg_safelock">[ロック中の電源OFFをブロック]が有効な間は、機内モードを有効にできません。画面のロックを解除してから再度実行してください。</string>
+    <string name="airplane_mode_disabled_on_demo_devices">機内モードは、デモ端末では無効になっています。</string>
+    <string name="torch_light_notification_title">ライトをON</string>
+    <string name="torch_light_notification_message">OFF</string>
+    <string name="torch_light_disabled_by_low_battery">ライトをONにできません。バッテリー残量が不足しています。</string>
+    <string name="torch_light_turn_off_by_low_battery">バッテリー残量が不足しています。ライトをOFFにします。</string>
+    <string name="dnd_noti_title">[通知をミュート]が有効</string>
+    <string name="dnd_noti_message">アラームを消音</string>
+    <string name="dnd_noti_action_disable">無効</string>
+    <string name="qs_edit_settings_title">クイック設定ボタンを設定</string>
+    <string name="qs_edit_settings_available_button">利用可能なボタン</string>
+    <string name="qs_edit_settings_active_button">使用しているボタン</string>
+    <string name="qs_edit_settings_cancel_button">キャンセル</string>
+    <string name="qs_edit_settings_done_button">完了</string>
+    <string name="qs_edit_setting_button_summary_vzw">Customize which quick setting buttons appear at the top of the notification panel. Touch and hold, then drag the buttons to add, hide, or re-order them.</string>
+    <string name="qs_edit_setting_button_summary">クイック設定パネルを表示しているときに左右にスワイプすると、上記のボックス内の全てのボタンが表示されます。</string>
+    <string name="qs_edit_setting_edit_button">編集</string>
+    <string name="qs_edit_setting_option_text">この機能を通知パネルの上に表示します。</string>
+    <string name="qs_edit_setting_available_area_dropped">Button not added to quick settings panel.</string>
+    <string name="qs_edit_setting_active_area_dropped">Button added to quick settings panel.</string>
+    <string name="qs_edit_setting_active_area_tapped">In quick settings panel.</string>
+    <string name="qs_edit_setting_available_area_tapped">Not in quick settings panel.</string>
+    <string name="quick_connect_button">クイック接続</string>
+    <string name="tap_to_connect">ここをﾀｯﾌﾟしてﾃﾞﾊﾞｲｽを接続</string>
+    <string name="sound_path_button">ｵｰﾃﾞｨｵﾊﾟｽ</string>
+    <string name="wired_device">有線オーディオデバイス</string>
+    <string name="speaker">スピーカー</string>
+    <string name="headset">ヘッドセット</string>
+    <string name="headphones">ヘッドホン</string>
+    <string name="car_system">車のシステム</string>
+    <string name="hdmi_mhl">HDMI/MHLデバイス</string>
+    <string name="status_bar_recent_launch_task_manager_title">ﾀｽｸﾏﾈｰｼﾞｬｰ</string>
+    <string name="status_bar_recent_remove_all_button">全て閉じる</string>
+    <string name="recent_multiwindow_guide_text">分割画面表示で起動するアプリを2つ選択してください。</string>
+    <string name="recent_multiwindow_empty_message">最近使用したアプリの中に分割画面表示に対応するアプリはありません</string>
+    <string name="recent_cannot_open_popup_toast_1">ポップアップ表示で%sを開くことはできません。</string>
+    <string name="recent_cannot_open_popup_toast_2">ポップアップ表示でアプリを開くことはできません。</string>
+    <string name="tw_recents_lock_to_app_button_label">アプリを固定</string>
+    <string name="tw_lock_to_app_title">アプリ固定モードを有効にする</string>
+    <string name="tw_lock_to_app_description_1">この機能を使用することにより、アプリが端末の画面に固定され、そのアプリのみ使用できるようになります。</string>
+    <string name="tw_lock_to_app_description_2">アプリが固定されている間は、他のアプリからの通知はブロックされ、通話やメッセージなどの機能を利用できない可能性があります。</string>
+    <string name="tw_lock_to_app_description_tablet_wifi">アプリが固定されている間は、通知はブロックされ、他の機能も利用できない可能性があります。</string>
+    <string name="tw_lock_to_app_description_recents_and_back">アプリの固定を解除するには、履歴キーと戻るキーを同時に長押しします。</string>
+    <string name="tw_lock_to_app_description_menu_and_back">アプリの固定を解除するには、メニューキーと戻るキーを同時に長押しします。</string>
+    <string name="tw_lock_to_app_description_recents_and_back_accessible">アプリケーションの固定を解除するには、履歴キーを長押しします。</string>
+    <string name="tw_lock_to_app_description_menu_and_back_accessible">アプリケーションの固定を解除するには、メニューキーを長押しします。</string>
+    <string name="tw_unable_to_pin_title">%sの固定不可</string>
+    <string name="tw_unable_to_pin_description">このアプリはアプリ固定モードに対応していません。</string>
+    <string name="tw_unable_to_pin_description_toast">アプリを固定できません。%sを終了しました。不明なエラーが発生しました。</string>
+    <string name="tw_screen_pinning_positive">開始</string>
+    <string name="accessibility_recents_item_pin">ピン留め</string>
+    <string name="accessibility_recents_item_unpin">スレッドの固定を解除</string>
+    <string name="recents_help_split_buttton">アプリを分割画面表示で起動するには、アプリウィンドウのタイトルバーにある%sをタップしてください。このアイコンは、分割画面表示に対応しているアプリに表示されます。</string>
+    <string name="recents_help_split_buttton_description">アプリを分割画面表示で起動するには、アプリウィンドウのタイトルバーにある分割画面アイコンをタップします。このアイコンは、分割画面表示に対応しているアプリに表示されます。</string>
+    <string name="recents_help_long_press">履歴キーを長押しすると、アプリを分割画面表示で起動することができます。</string>
+    <string name="recent_multi_window">分割画面表示で起動</string>
+    <string name="help">ヘルプ</string>
+    <string name="disable_multi_window_dialog_title">マルチウィンドウを無効にする</string>
+    <string name="disable_multi_window_dialog_text">マルチウィンドウを無効にすると、ポップアップウィンドウで開いている全てのアプリを終了します。</string>
+    <string name="unable_to_capture_screen_drm_proteced_image">画面をキャプチャできません。DRMによって画像が保護されています。</string>
+    <string name="unable_to_save_cropped_image">トリミングされた画像を保存できません。</string>
+    <string name="center_bar_window_switch_windows">ウィンドウの切り替え</string>
+    <string name="center_bar_window_drag_and_drop_content">コンテンツをドラッグ&amp;ドロップ</string>
+    <string name="center_bar_window_select_contents">画像やテキストの段落をドラッグし、分割画面またはポップアップ表示ウィンドウから別のウィンドウにドロップします。</string>
+    <string name="center_bar_window_do_not_show_again">今後表示しない</string>
+    <string name="keyguard_high_voltage_plugged_in">急速充電中: %d%%</string>
+    <string name="keyguard_charging_in_wireless">ワイヤレス充電中: %d%%</string>
+    <string name="keyguard_fast_charging_in_wireless">急速ワイヤレス充電中: %d%%</string>
+    <string name="keyguard_charging_remaining_time">(充電完了まで約%s)</string>
+    <string name="lockscreen_charging_remaining_time">"充電中: %1$d%%
+(充電完了まで%2$s)"</string>
+    <string name="lockscreen_charging_in_wireless_remaining_time">"ワイヤレス充電中: %1$d%%
+(充電完了まで%2$s)"</string>
+    <string name="lockscreen_fast_charging_in_wireless_remaining_time">"急速ワイヤレス充電中: %1$d%%
+(充電完了まで%2$s)"</string>
+    <string name="keyguard_high_voltage_plugged_in_remaining_time">"急速充電中: %1$d%%
+(充電完了まで%2$s)"</string>
+    <string name="keyguard_skt_usim_unregistered">USIMカードを使用できません。USIMカード情報をダウンロードしてください。</string>
+    <string name="keyguard_usim_not_used">USIMカードを使用できません。正しくないPINロック解除(PUK)コードが%d回入力されました。新しいUSIMカードを購入してください。</string>
+    <string name="lockscreen_nosim_text_kor_only">"USIMカードを検出できません
+緊急通報のみ可能です"</string>
+    <string name="noti_setting_button_text">通知設定</string>
+    <string name="name_slot1">ｽﾛｯﾄ1</string>
+    <string name="name_slot2">ｽﾛｯﾄ2</string>
+    <string name="app_locked">ロックされたアプリ</string>
+    <string name="applocked_pinning_window_disable">アプリを固定できません。アプリがロックされています。</string>
+    <string name="cover_quick_setting_warning_message">クイック設定ボタンを使用するには、カバーを開いてください。</string>
+    <string name="cover_device_locked_message">端末がロックされています。カーバーを開いてください。</string>
+    <string name="accessibility_noti_setting_button">通知設定</string>
+    <string name="switched_to_onephone_mode">ワンナンバーモードに切り替えました。</string>
+    <string name="switched_to_twophone_mode">ツーナンバーモードに切り替えました。</string>
+    <string name="accessibility_recents_item_lock">ロック</string>
+    <string name="accessibility_recents_item_unlock">ロック解除</string>
+    <string name="quick_panel_data_usage">データ使用量</string>
+    <string name="qs_multisim_voice_preffered_btn_title">音声通話</string>
+    <string name="qs_multisim_sms_preffered_btn_title">SMS</string>
+    <string name="qs_multisim_data_preffered_btn_title">モバイルデータ</string>
+    <string name="qs_multisim_voice_ask_always">毎回確認</string>
+    <string name="qs_multisim_data_turned_off">OFFにする</string>
+    <string name="wifi_fail_to_scan">ネットワークをスキャンできません</string>
+    <string name="wifi_security_none">なし</string>
+    <string name="wifi_remembered">保存済み</string>
+    <string name="wifi_disabled_generic">無効</string>
+    <string name="wifi_disabled_network_failure">IP設定エラー</string>
+    <string name="wifi_disabled_wifi_failure">WiFi接続エラー</string>
+    <string name="wifi_disabled_password_failure">認証に問題</string>
+    <string name="wifi_not_in_range">圏外</string>
+    <string name="wifi_no_internet">インターネットアクセスを検出できないため、自動的に再接続されません。</string>
+    <string name="saved_network">%1$sで保存</string>
+    <string name="connected_via_wfa">Wi‑Fiアシスタント経由で接続</string>
+    <string name="connected_via_passpoint">%1$s経由で接続</string>
+    <string name="available_via_passpoint">%1$s経由で使用可能</string>
+    <string name="wifi_connected_no_internet">接続先はインターネットに接続されていない</string>
+    <string name="bluetooth_disconnected">切断</string>
+    <string name="bluetooth_disconnecting">切断中...</string>
+    <string name="bluetooth_connecting">接続中...</string>
+    <string name="bluetooth_connected">接続</string>
+    <string name="bluetooth_pairing">ペアリング中…</string>
+    <string name="bluetooth_connected_no_headset">接続済み（電話を除く）</string>
+    <string name="bluetooth_connected_no_a2dp">接続済み（メディアを除く）</string>
+    <string name="bluetooth_connected_no_map">接続済み（メッセージへのアクセスなし）</string>
+    <string name="bluetooth_connected_no_headset_no_a2dp">接続済み（電話/メディアを除く）</string>
+    <string name="bluetooth_profile_a2dp">ﾒﾃﾞｨｱｵｰﾃﾞｨｵ</string>
+    <string name="bluetooth_profile_headset">電話の音声</string>
+    <string name="bluetooth_profile_opp">ファイル転送</string>
+    <string name="bluetooth_profile_hid">入力デバイス</string>
+    <string name="bluetooth_profile_textinput">テキスト入力</string>
+    <string name="bluetooth_profile_pan">インターネット接続</string>
+    <string name="bluetooth_profile_pbap">連絡先の共有</string>
+    <string name="bluetooth_profile_pan_nap">インターネット接続の共有</string>
+    <string name="bluetooth_profile_map">メッセージへのアクセス</string>
+    <string name="bluetooth_profile_sap">SIMアクセス</string>
+    <string name="bluetooth_profile_pbap_summary">連絡先の共有に使用</string>
+    <string name="bluetooth_a2dp_profile_summary_connected">メディアオーディオに接続</string>
+    <string name="bluetooth_headset_profile_summary_connected">電話の音声に接続</string>
+    <string name="bluetooth_opp_profile_summary_connected">ファイル転送サーバーに接続</string>
+    <string name="bluetooth_map_profile_summary_connected">地図に接続済み</string>
+    <string name="bluetooth_sap_profile_summary_connected">SAPに接続</string>
+    <string name="bluetooth_opp_profile_summary_not_connected">ファイル転送サーバーに接続しない</string>
+    <string name="bluetooth_hid_profile_summary_connected">入力デバイスとして接続</string>
+    <string name="bluetooth_pan_user_profile_summary_connected">インターネット接続のために、デバイスに接続</string>
+    <string name="bluetooth_pan_nap_profile_summary_connected">ローカルインターネット接続をデバイスと共有</string>
+    <string name="bluetooth_summary_connected_to_a2dp_headset">電話とメディアオーディオに接続</string>
+    <string name="bluetooth_pan_nap_connected">インターネット接続を提供するために接続</string>
+    <string name="bluetooth_pan_panu_connected">インターネット接続にアクセスするために接続</string>
+    <string name="bluetooth_pan_profile_summary_use_for">インターネット接続に使用します。</string>
+    <string name="bluetooth_map_profile_summary_use_for">地図に使用</string>
+    <string name="bluetooth_sap_profile_summary_use_for">SIMアクセスに使用</string>
+    <string name="bluetooth_a2dp_profile_summary_use_for">メディアの音声に使用</string>
+    <string name="bluetooth_headset_profile_summary_use_for">携帯電話の音声に使用</string>
+    <string name="bluetooth_opp_profile_summary_use_for">ファイル転送に使用</string>
+    <string name="bluetooth_hid_profile_summary_use_for">入力に使用</string>
+    <string name="bluetooth_pairing_accept">ペア設定する</string>
+    <string name="bluetooth_pairing_accept_all_caps">ペア設定する</string>
+    <string name="bluetooth_pairing_decline">キャンセル</string>
+    <string name="bluetooth_pairing_will_share_phonebook">ペア設定により、接続時に連絡先や通話履歴へのアクセスが許可されます。</string>
+    <string name="bluetooth_pairing_error_message">%1$sをペアに設定できません。</string>
+    <string name="bluetooth_pairing_pin_error_message">%1$sとペアリングできません。%2$sでペアリングの準備が整っていることを確認してください。</string>
+    <string name="bluetooth_pairing_device_down_error_message">%1$sと通信できません。</string>
+    <string name="bluetooth_pairing_rejected_error_message">ペア設定が%1$sに拒否されました。</string>
+    <string name="bluetooth_hid_connection_error_message">端末をBluetooth入力デバイスとして使用している場合は、端末をBluetooth入力デバイスに接続できません。</string>
+</resources>

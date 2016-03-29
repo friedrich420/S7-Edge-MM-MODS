@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="25.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="80.0dip">
+            <TextView android:textSize="15.0dip" android:textColor="#ffffffff" android:gravity="right" android:id="@id/clock_digital_ampm_kr" android:layout_width="wrap_content" android:layout_height="20.0dip" android:layout_marginTop="20.0dip" android:layout_toLeftOf="@id/clock_digital_hours" style="@style/sview_text_shadow" />
+            <TextView android:textSize="78.0dip" android:textColor="#ffffffff" android:gravity="center" android:id="@id/clock_digital_hours" android:layout_width="wrap_content" android:layout_height="80.0dip" android:includeFontPadding="false" android:layout_centerInParent="true" android:fontFamily="sans-serif-light" style="@style/sview_text_shadow" />
+            <ImageView android:layout_gravity="right" android:id="@id/festival_icon" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="80.0dip" android:layout_marginLeft="30.0dip" android:layout_marginRight="-25.0dip" android:layout_toRightOf="@id/clock_digital_hours" />
+        </RelativeLayout>
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="80.0dip" android:layout_marginTop="-12.0dip">
+            <TextView android:textSize="78.0dip" android:textColor="#ffffffff" android:gravity="center" android:id="@id/clock_digital_minutes" android:layout_width="wrap_content" android:layout_height="80.0dip" android:includeFontPadding="false" android:layout_centerInParent="true" android:fontFamily="sans-serif-thin" style="@style/sview_text_shadow" />
+            <TextView android:textSize="22.0dip" android:textColor="#ffffffff" android:id="@id/clock_digital_ampm" android:layout_width="wrap_content" android:layout_height="31.0dip" android:layout_toRightOf="@id/clock_digital_minutes" android:layout_alignParentBottom="true" android:fontFamily="sans-serif-light" style="@style/sview_text_shadow" />
+        </RelativeLayout>
+    </LinearLayout>
+    <TextView android:textSize="15.0dip" android:textColor="#ffffffff" android:gravity="center|top" android:id="@id/clock_date" android:layout_width="wrap_content" android:layout_height="18.0dip" android:fontFamily="sans-serif" style="@style/sview_text_shadow" />
+    <TextView android:textSize="15.0dip" android:textColor="#ffffffff" android:gravity="center|top" android:id="@id/clock_digital_time" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="17.0dip" android:fontFamily="sans-serif" style="@style/sview_text_shadow" />
+</LinearLayout>

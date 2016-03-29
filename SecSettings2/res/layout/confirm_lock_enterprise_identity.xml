@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="@dimen/lock_password_header_text_marginTop"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:gravity="bottom|center" android:id="@id/headerText" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/password_lock_headerText_side_padding" android:layout_marginRight="@dimen/password_lock_headerText_side_padding" android:lines="4" style="@style/body_text_style" />
+    <EditText android:textSize="@dimen/lock_password_edit_text_size" android:gravity="bottom|center" android:layout_gravity="center" android:id="@id/password_entry" android:layout_width="fill_parent" android:layout_height="@dimen/lock_password_edit_box_height" android:inputType="textPassword" android:imeOptions="actionNext" android:layout_marginStart="30.0dip" android:layout_marginEnd="30.0dip" style="@style/TextAppearance.PasswordEntry" />
+    <View android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" />
+    <com.android.internal.widget.PasswordEntryKeyboardView android:id="@id/keyboard" android:background="#00000000" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:keyBackground="@android:drawable/btn_keyboard_key_fulltrans" />
+    <View android:layout_width="fill_parent" android:layout_height="0.0dip" />
+    <LinearLayout android:orientation="horizontal" style="@style/SecurityPreferenceButtonContainer">
+        <com.android.settings.widget.BottomBarButton android:id="@id/cancel_button" android:text="@string/lockpattern_tutorial_cancel_label" style="@style/SecurityPreferenceButton" />
+        <com.android.settings.widget.BottomBarButton android:id="@id/next_button" android:text="@string/lockpattern_tutorial_continue_label" style="@style/SecurityPreferenceButton" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Skanirlenýär…</item>
+        <item>Birikdirilýär…</item>
+        <item>Şahsyýeti barlanylýar…</item>
+        <item>IP salgy alynýar…</item>
+        <item>Baglanan</item>
+        <item>Asylgy</item>
+        <item>Baglanyşyk kesilýär…</item>
+        <item>Aragatnaşyk kesildi</item>
+        <item>Şowsuz</item>
+        <item>Beklenildi</item>
+        <item>Internet baglanyşygyňyzyň hili barlanýar…</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Skanirlenýär…</item>
+        <item>%s-e baglanyşýar…</item>
+        <item>%s bilen autentifikasiýa…</item>
+        <item>%s -den IP salgysy alynýar…</item>
+        <item>%1$s-e baglanyşyldy</item>
+        <item>Asylgy</item>
+        <item>%s-dan baglanyşygy kesilýär…</item>
+        <item>Aragatnaşyk kesildi</item>
+        <item>Şowsuz</item>
+        <item>Beklenildi</item>
+        <item>Internet baglanyşygyňyzyň hili barlanýar…</item>
+    </string-array>
+    <string-array name="screen_timeout_entries">
+        <item>15 sekunt</item>
+        <item>30 sekunt</item>
+        <item>1 minut</item>
+        <item>2 minut</item>
+        <item>5 minut</item>
+        <item>10 minut</item>
+        <item>30 minut</item>
+    </string-array>
+    <string-array name="screen_timeout_for_device_lock_entries">
+        <item>15 sekunt</item>
+        <item>30 sekunt</item>
+        <item>1 minut</item>
+        <item>3 minut</item>
+        <item>5 minut</item>
+        <item>10 minut</item>
+        <item>15 minut</item>
+        <item>30 minut</item>
+    </string-array>
+    <string-array name="device_lock_timeout_entries">
+        <item>Birdenkä işlediji açar bilen ýa-da ekranyň wagty dolsa</item>
+        <item>15 sekunt</item>
+        <item>30 sekunt</item>
+        <item>1 minut</item>
+        <item>3 minut</item>
+        <item>5 minut</item>
+        <item>10 minut</item>
+        <item>15 minut</item>
+        <item>30 minut</item>
+        <item>1 sagat</item>
+    </string-array>
+    <string-array name="lock_after_timeout_entries">
+        <item>Häziriň özünde</item>
+        <item>5 sekunt</item>
+        <item>15 sekunt</item>
+        <item>30 sekunt</item>
+        <item>1 minut</item>
+        <item>2 minut</item>
+        <item>5 minut</item>
+        <item>10 minut</item>
+        <item>30 minut</item>
+    </string-array>
+    <string-array name="entries_font_size">
+        <item>Ownuk</item>
+        <item>Kiçi</item>
+        <item>Normal</item>
+        <item>Uly</item>
+        <item>Ägirt uly</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>Örän haýal</item>
+        <item>Ýuwaş</item>
+        <item>Ýönekeý</item>
+        <item>Tiz</item>
+        <item>Çaltrak</item>
+        <item>Has tiz</item>
+        <item>Rapid</item>
+        <item>Very rapid</item>
+        <item>Iň tiz</item>
+    </string-array>
+    <string-array name="wifi_ap_security_testmode">
+        <item>Açyk</item>
+        <item>WPA2 PSK</item>
+    </string-array>
+    <string-array name="wifi_eap_method">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+        <item>SIM</item>
+        <item>AKA</item>
+        <item>"AKA'"</item>
+    </string-array>
+    <string-array name="wifi_p2p_status">
+        <item>Birikdi</item>
+        <item>Çagyryldy</item>
+        <item>Baglanyşygy kesildi</item>
+        <item>Birikmek üçin şu ýere degiň.</item>
+        <item>Ulgamdan daşarda</item>
+        <item>Başga bir enjam bilen baglanyş</item>
+    </string-array>
+    <string-array name="wifi_ap_wifi_sharing">
+        <item>Wi-Fi paýlaşygy işlet</item>
+        <item>Wi-Fi paýlaşygy ýap</item>
+    </string-array>
+    <string-array name="wifi_ap_timeout">
+        <item>Hiç haçan kesme</item>
+        <item>5 minut</item>
+        <item>10 minut</item>
+        <item>20 minut</item>
+        <item>30 minut</item>
+        <item>60 minut</item>
+    </string-array>
+    <string-array name="wifi_ap_connection_mode">
+        <item>Ähli enjamlara rugsat ber</item>
+        <item>Diňe ygtyýar berlen enjamlar üçin.</item>
+    </string-array>
+    <string-array name="wifi_ap_channel">
+        <item>Awto</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+    </string-array>
+    <string-array name="wifi_share_profile_access_timeout">
+        <item>6 sagat</item>
+        <item>12 sagat</item>
+        <item>24 sagat</item>
+        <item>Wagt çägi ýok</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>Gowşak</item>
+        <item>Açyk</item>
+        <item>Gowy</item>
+        <item>Güýçli</item>
+        <item>Örän berk</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries">
+        <item>"Hemişe
+(Zarýad ulanyşy köpeldýär)"</item>
+        <item>Güýç berilýän mahaly</item>
+        <item>"Hiç wagt
+(maglumat ulanyşyny köpeldýär)"</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries_wifi_only">
+        <item>"Hemişe
+(Zarýad ulanyşy köpeldýär)"</item>
+        <item>Güýç berilýän mahaly</item>
+        <item>Hiç haçan</item>
+    </string-array>
+    <string-array name="wifi_frequency_band_entries">
+        <item>Awtomatiki</item>
+        <item>Diňe 5 GHz</item>
+        <item>Diňe 2.4 GHz</item>
+    </string-array>
+    <string-array name="wifi_frequency_band_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="usage_stats_display_order_types">
+        <item>Ulanyş wagty</item>
+        <item>Last time used</item>
+        <item>Gollanma ady</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries">
+        <item>Ýok</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>Ýok</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>Statiki</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>Ýok</item>
+        <item>El arkaly</item>
+        <item>Awto-düz</item>
+    </string-array>
+    <string-array name="wifi_iwlan_settings">
+        <item>Açyk</item>
+        <item>Ýapyk</item>
+    </string-array>
+    <string-array name="apn_auth_entries">
+        <item>Ýok</item>
+        <item>PAP</item>
+        <item>CHAP</item>
+        <item>PAP ýa-da CHAP</item>
+    </string-array>
+    <string-array name="bearer_entries">
+        <item>Görkezilmedik</item>
+        <item>LTE</item>
+        <item>HSPAP</item>
+        <item>HSPA</item>
+        <item>HSUPA</item>
+        <item>HSDPA</item>
+        <item>UMTS</item>
+        <item>EDGE</item>
+        <item>GPRS</item>
+        <item>eHRPD</item>
+        <item>EVDO_B</item>
+        <item>EVDO_A</item>
+        <item>EVDO_0</item>
+        <item>1xRTT</item>
+        <item>IS95B</item>
+        <item>IS95A</item>
+    </string-array>
+    <string-array name="mvno_type_entries">
+        <item>Ýok</item>
+        <item>Sanksiýalaşdyrylmadyk Girişlerden Goranmak Ulgamy (SGGU) SPN</item>
+        <item>IMSI</item>
+        <item>Global IndekSFaýly (GIF)</item>
+    </string-array>
+    <string-array name="app_install_location_entries">
+        <item>Içki enjam ýygnaýjysy</item>
+        <item>Removable SD card</item>
+        <item>Let the system decide</item>
+    </string-array>
+    <string-array name="app_ops_categories">
+        <item>Ýerleşýän ýeri</item>
+        <item>Şahsy</item>
+        <item>Hat ýazyşma</item>
+        <item>Media</item>
+        <item>Enjamda</item>
+        <item>Awto-işlet</item>
+    </string-array>
+    <string-array name="app_ops_summaries">
+        <item>Access approximate location</item>
+        <item>Access exact location</item>
+        <item>GPS</item>
+        <item>Wibrirle</item>
+        <item>Kontaktlaryny okaň.</item>
+        <item>Kontaktlary düzet</item>
+        <item>Jaň žurnalyny okaň</item>
+        <item>Jaň žurnalyny ýazyň</item>
+        <item>Senenamany okamak</item>
+        <item>Senenamany dolandyr</item>
+        <item>Wi-Fi torlaryny gözle</item>
+        <item>Duýduryş sesi</item>
+        <item>Öýjükleri gözle</item>
+        <item>Telefondan jaň et</item>
+        <item>Tekst hatlaryny oka</item>
+        <item>Tekst hatlary ýaz</item>
+        <item>Tekst hatlaryny al</item>
+        <item>Gyssagly tekst hatlaryny al</item>
+        <item>Multimedia hatlaryny al</item>
+        <item>WAP push hatlaryny al</item>
+        <item>Tekst hatlaryny iber</item>
+        <item>SIM kartadaky tekst hatlaryny oka</item>
+        <item>SIM karta tekst hatlary ýaz</item>
+        <item>Sazlamalary üýtget</item>
+        <item>Goýma interfeýsini düşe</item>
+        <item>Elýeterlik baradaky duýduryşlar</item>
+        <item>Kamera</item>
+        <item>Audio ýazdyrmak</item>
+        <item>Audio faýllary goýber</item>
+        <item>Çalşyk buferi maglumatyny oka</item>
+        <item>Çalşyk buferi maglumatyny dolandyr</item>
+        <item>Multimediany dolandyr</item>
+        <item>Audiofokusy dolandyr</item>
+        <item>Esasy sesi sazla</item>
+        <item>Jaň sesini sazla</item>
+        <item>Jaň sazynyň sesini sazla</item>
+        <item>Multimedia sesini sazla</item>
+        <item>Oýaryjy sesini sazla</item>
+        <item>Duýduryş sesini sazla</item>
+        <item>Bluetooth enjamlary arkaly goýberilýän sesiň güýjüni sazla</item>
+        <item>Ekrany açyk sakla</item>
+        <item>Ýerleşiş maglumatyna gözegçilik et</item>
+        <item>Ýokary takyklykdaky ýerleşiş maglumatyna gözegçilik et</item>
+        <item>Enjamyň ulanyş statistikasyny oka</item>
+        <item>Mikrofony aç we ýap</item>
+        <item>Tost penjireleri görkez</item>
+        <item>Multimediany düşür</item>
+        <item>VPN işlet</item>
+        <item>Wi-Fi aç/ýap</item>
+        <item>Bluetooth aç/ýap</item>
+        <item>Multimedia hatlaryny ugratmak</item>
+        <item>Multimedia hatlaryny oka</item>
+        <item>Multimedia hatlaryny ýaz</item>
+        <item>Awto-işlet</item>
+        <item>NFC aç/ýap</item>
+        <item>Tekst hatlary öçür</item>
+        <item>Multimedia hatlaryny öçür</item>
+        <item>Kontaktlary öçür</item>
+        <item>Delete call log</item>
+        <item>Mobil maglumat aç/ýap</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Ýerleşýän ýeri</item>
+        <item>Ýerleşýän ýeri</item>
+        <item>Ýerleşýän ýeri</item>
+        <item>Wibrirle</item>
+        <item>Kontaktlaryny okaň.</item>
+        <item>Kontaktlary düzet</item>
+        <item>Jaň žurnalyny okaň</item>
+        <item>Jaň žurnalyny ýazyň</item>
+        <item>Senenamany okamak</item>
+        <item>Senenamany dolandyr</item>
+        <item>Ýerleşýän ýeri</item>
+        <item>Habarnamalary görkez</item>
+        <item>Ýerleşýän ýeri</item>
+        <item>Telefondan jaň et</item>
+        <item>Tekst hatlaryny oka</item>
+        <item>Tekst hatlary ýaz</item>
+        <item>Tekst hatlaryny al</item>
+        <item>Gyssagly tekst hatlaryny al</item>
+        <item>Multimedia hatlaryny al</item>
+        <item>WAP push hatlaryny al</item>
+        <item>Tekst hatlaryny iber</item>
+        <item>SIM kartadaky tekst hatlaryny oka</item>
+        <item>SIM karta tekst hatlary ýaz</item>
+        <item>Sazlamalary üýtget</item>
+        <item>Goýma interfeýsini düşe</item>
+        <item>Elýeterlik baradaky duýduryşlar</item>
+        <item>Kamera</item>
+        <item>Audio ýazdyrmak</item>
+        <item>Audio faýllary goýber</item>
+        <item>Çalşyk buferi maglumatyny oka</item>
+        <item>Çalşyk buferi maglumatyny dolandyr</item>
+        <item>Multimediany dolandyr</item>
+        <item>Audiofokusy dolandyr</item>
+        <item>Esasy sesi sazla</item>
+        <item>Jaň sesini sazla</item>
+        <item>Jaň sazynyň sesini sazla</item>
+        <item>Multimedia sesini sazla</item>
+        <item>Oýaryjy sesini sazla</item>
+        <item>Duýduryş sesini sazla</item>
+        <item>Bluetooth enjamlary arkaly goýberilýän sesiň güýjüni sazla</item>
+        <item>Ekrany açyk sakla</item>
+        <item>Ýerleşýän ýeri</item>
+        <item>Ýerleşýän ýeri</item>
+        <item>Enjamyň ulanyş statistikasyny oka</item>
+        <item>Mikrofony aç we ýap</item>
+        <item>Tost penjireleri görkez</item>
+        <item>Multimediany düşür</item>
+        <item>VPN işlet</item>
+        <item>Wi-Fi aç/ýap</item>
+        <item>Bluetooth aç/ýap</item>
+        <item>Multimedia hatlaryny ugratmak</item>
+        <item>Multimedia hatlaryny oka</item>
+        <item>Multimedia hatlaryny ýaz</item>
+        <item>Awto-işlet</item>
+        <item>NFC aç/ýap</item>
+        <item>Tekst hatlary öçür</item>
+        <item>Multimedia hatlaryny öçür</item>
+        <item>Kontaktlary öçür</item>
+        <item>delete call log</item>
+        <item>Mobil maglumat aç/ýap</item>
+    </string-array>
+    <string-array name="long_press_timeout_selector_titles">
+        <item>Gysga</item>
+        <item>Ortaça</item>
+        <item>Uzyn</item>
+    </string-array>
+    <string-array name="captioning_typeface_selector_titles">
+        <item>Standart</item>
+        <item>Sans serif</item>
+        <item>“Sans serif condensed” şrifti</item>
+        <item>Sans serif monospace</item>
+        <item>“Serif” şrifti</item>
+        <item>Serif monospace</item>
+        <item>Adaty</item>
+        <item>El ýazuw</item>
+        <item>Setir harp</item>
+    </string-array>
+    <string-array name="captioning_font_size_selector_titles">
+        <item>Aşa kiçi</item>
+        <item>Kiçi</item>
+        <item>Ýönekeý</item>
+        <item>Uly</item>
+        <item>Örän uly</item>
+    </string-array>
+    <string-array name="captioning_edge_type_selector_titles">
+        <item>Standart</item>
+        <item>Ýok</item>
+        <item>Ulgamdan daşary</item>
+        <item>Kölege düşüriň</item>
+        <item>Galdyrylan</item>
+        <item>Gowşadylan</item>
+    </string-array>
+    <string-array name="captioning_preset_selector_titles">
+        <item>Defolt</item>
+        <item>Garada ak</item>
+        <item>Akda gara</item>
+        <item>Garada sary</item>
+        <item>Gökde sary</item>
+        <item>Müşderi</item>
+    </string-array>
+    <string-array name="select_logd_size_summaries">
+        <item>64 KB / žurnal buferi</item>
+        <item>256 KB / žurnal buferi</item>
+        <item>1 MB / žurnal buferi</item>
+        <item>4 MB / žurnal buferi</item>
+        <item>16 MB / žurnal buferi</item>
+    </string-array>
+    <string-array name="hdcp_checking_titles">
+        <item>Hiç wagt barlama</item>
+        <item>Diňe DRM materialyny barla</item>
+        <item>Hemişe barla</item>
+    </string-array>
+    <string-array name="hdcp_checking_summaries">
+        <item>HDCP barlamany hiç haçan ulanma</item>
+        <item>DRM düzümi barlamak üçin diňe HDCP ulan</item>
+        <item>Hemişe HDCP barlagyny ulanyň</item>
+    </string-array>
+    <string-array name="window_animation_scale_entries">
+        <item>Animasiýa öçürlen</item>
+        <item>Hereket gurşawy 0.5x</item>
+        <item>Hereket gurşawy 1x</item>
+        <item>Hereket gurşawy 1.5x</item>
+        <item>Hereket gurşawy 2x</item>
+        <item>Hereket gurşawy 5x</item>
+        <item>Hereket gurşawy 10x</item>
+    </string-array>
+    <string-array name="transition_animation_scale_entries">
+        <item>Animasiýa öçürlen</item>
+        <item>Hereket gurşawy 0.5x</item>
+        <item>Hereket gurşawy 1x</item>
+        <item>Hereket gurşawy 1.5x</item>
+        <item>Hereket gurşawy 2x</item>
+        <item>Hereket gurşawy 5x</item>
+        <item>Hereket gurşawy 10x</item>
+    </string-array>
+    <string-array name="animator_duration_scale_entries">
+        <item>Animasiýa öçürlen</item>
+        <item>Hereket gurşawy 0.5x</item>
+        <item>Hereket gurşawy 1x</item>
+        <item>Hereket gurşawy 1.5x</item>
+        <item>Hereket gurşawy 2x</item>
+        <item>Hereket gurşawy 5x</item>
+        <item>Hereket gurşawy 10x</item>
+    </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>Ýok</item>
+        <item>480p</item>
+        <item>720 x 480 mdpi (howpsuz)</item>
+        <item>720p</item>
+        <item>1280 x 720 tvdpi (howpsuz)</item>
+        <item>1080p</item>
+        <item>1920 x 1080 xhdpi (howpsuz)</item>
+        <item>1280 x 720 tvdpi we 1920 x 1080 xhdpi</item>
+        <item>4K (secure)</item>
+        <item>4K (upscaled)</item>
+        <item>4K (upscaled, secure)</item>
+        <item>720p, 1080p (dual screen)</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>Ýok</item>
+        <item>Logcat</item>
+        <item>Systrace (grafika)</item>
+        <item>glGetError-da jaň stegi</item>
+    </string-array>
+    <string-array name="show_non_rect_clip_entries">
+        <item>Ýapyk</item>
+        <item>Kesilip alynan, dört burç bolmadyk bölekleriň ýüzini gök reňkde tapawutlandyr</item>
+        <item>Barlanan çyzuw buýrugyny ýaşyl reňkde tapawutlandyr</item>
+    </string-array>
+    <string-array name="track_frame_time_entries">
+        <item>Ýapyk</item>
+        <item>Ekranda sütün görnüşinde görkez</item>
+        <item>Adb korpusynda dumpsys gfxinfo görkez</item>
+    </string-array>
+    <string-array name="debug_hw_overdraw_entries">
+        <item>Ýapyk</item>
+        <item>Çäkden artan ýerleri görkez</item>
+        <item>Ýaşyla duýgurlygy pes bolan ýerleri görkez</item>
+    </string-array>
+    <string-array name="app_process_limit_entries">
+        <item>Standart çäklendirmesi</item>
+        <item>Hiç bir yzky fony ösüşde däl</item>
+        <item>köpünden 1 proses</item>
+        <item>Köpünden 2 proses</item>
+        <item>Köpünden 3 proses</item>
+        <item>Köpünden 4 proses</item>
+    </string-array>
+    <string-array name="vpn_states">
+        <item>Aragatnaşyk kesildi</item>
+        <item>Başladylýar…</item>
+        <item>Birikdirilýär…</item>
+        <item>Birikdi</item>
+        <item>Taým-aut</item>
+        <item>Şowsuz</item>
+    </string-array>
+    <string-array name="ram_states">
+        <item>Ýönekeý</item>
+        <item>Orta</item>
+        <item>Aşak</item>
+        <item>Örän çökder</item>
+        <item>\?</item>
+    </string-array>
+    <string-array name="long_press_timeout_titles_selector">
+        <item>Gysga (0.5 sek.)</item>
+        <item>Ortaça dowamlylyk (1.0 sek.)</item>
+        <item>Dowamlylygy (1.5 sek.)</item>
+        <item>Müşderi</item>
+    </string-array>
+    <string-array name="time_interval_entries">
+        <item>3 minut</item>
+        <item>5 minut</item>
+        <item>10 minut</item>
+        <item>30 minut</item>
+        <item>1 sagat</item>
+    </string-array>
+    <string-array name="time_interval_entries_selectable">
+        <item>15 sekunt</item>
+        <item>30 sekunt</item>
+        <item>1 minut</item>
+        <item>3 minut</item>
+        <item>5 minut</item>
+    </string-array>
+    <string-array name="time_interval_entries_selectable_22">
+        <item>1 minut</item>
+        <item>3 minut</item>
+        <item>5 minut</item>
+        <item>10 minut</item>
+        <item>15 minut</item>
+    </string-array>
+    <string-array name="proc_stats_memory_states">
+        <item>Kadaly</item>
+        <item>Orta</item>
+        <item>Aşak</item>
+        <item>Critical</item>
+    </string-array>
+    <string-array name="proc_stats_process_states">
+        <item>Hemişelik</item>
+        <item>Iň ýokary iş</item>
+        <item>Möhüm (öňki plan)</item>
+        <item>Möhüm (yzky plan)</item>
+        <item>Ätiýaç nusga</item>
+        <item>Gaty agramly</item>
+        <item>Hyzmat (işlediş)</item>
+        <item>Hyzmat (açyp ýapyş)</item>
+        <item>Alyjy</item>
+        <item>Öý</item>
+        <item>Soňky iş</item>
+        <item>Keşlenen (iş)</item>
+        <item>Keşlenen (iş müşderisi)</item>
+        <item>Keşlenen (boş)</item>
+    </string-array>
+    <string-array name="wifi_connect_entries">
+        <item>Awtomatiki</item>
+        <item>El bilen</item>
+        <item>Hemişe sora</item>
+    </string-array>
+    <string-array name="data_usage_display_unit">
+        <item>MB/GB (auto change)</item>
+        <item>MB only</item>
+        <item>GB only</item>
+    </string-array>
+    <string-array name="touch_key_light_entries">
+        <item>1.5 sekunt</item>
+        <item>6 sekunt</item>
+        <item>Hemişe ýapyk</item>
+        <item>Hemişe açyk</item>
+    </string-array>
+    <string-array name="key_backlight_entries">
+        <item>Hemişe ýapyk</item>
+        <item>1 sekunt</item>
+        <item>3 sekunt</item>
+        <item>5 sekunt</item>
+        <item>10 sekunt</item>
+        <item>15 sekunt</item>
+    </string-array>
+    <string-array name="usb_configuration_titles">
+        <item>@string/usb_use_charging_only</item>
+        <item>MTP (Media Transfer Protocol)</item>
+        <item>PTP (Picture Transfer Protocol)</item>
+        <item>RNDIS (USB Ethernet)</item>
+        <item>Audio çeşme</item>
+        <item>MIDI</item>
+    </string-array>
+    <string-array name="audio_output_entries">
+        <item>Stereo</item>
+        <item>Gurşaw</item>
+    </string-array>
+</resources>

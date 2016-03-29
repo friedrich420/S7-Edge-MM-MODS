@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Lai kļūtu par izstrādātāju, jums ir jāveic vēl tikai %d darbības.</item>
+        <item quantity="one">Lai kļūtu par izstrādātāju, jums ir jāveic vēl tikai 1 darbība.</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">Iestatīt %1$d pirkstu nospiedumu</item>
+        <item quantity="one">Iestatīt %1$d pirkstu nospiedumus</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Parolē ir jābūt vismaz %d burtiem.</item>
+        <item quantity="one">Parolē ir jābūt vismaz 1 burtam.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Parolē ir jābūt vismaz %d mazajiem burtiem.</item>
+        <item quantity="one">Parolē ir jābūt vismaz 1 mazajam burtam.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Parolē ir jābūt vismaz %d lielajiem burtiem.</item>
+        <item quantity="one">Parolē ir jābūt vismaz 1 lielajam burtam.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Parolē ir jābūt vismaz %d cipariem.</item>
+        <item quantity="one">Parolē ir jābūt vismaz 1 ciparam.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Parolē ir jābūt vismaz %d simboliem.</item>
+        <item quantity="one">Parolē ir jābūt vismaz 1 simbolam.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Parolē ir jābūt vismaz %d cipariem vai simboliem.</item>
+        <item quantity="one">Parolē ir jābūt vismaz 1 ciparam vai simbolam.</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Nepareizs SIM kartes PIN kods. Varat mēģināt vēl %d reizi.</item>
+        <item quantity="one">Nepareizs SIM kartes PIN kods. Varat mēģināt vēl %d reizes.</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d programmas var nolasīt paziņojumus.</item>
+        <item quantity="one">%d programmai ir atļauts nolasīt paziņojumus.</item>
+    </plurals>
+    <plurals name="manage_condition_providers_summary_nonzero">
+        <item quantity="other">Ir instalētas %d programmas, kas nodrošina šīs funkcijas nosacījumus</item>
+        <item quantity="one">%d app provides conditions</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">Pāriet uz “Tikai signāli” %1$d minūti (līdz plkst. %2$s)</item>
+        <item quantity="one">Pāriet uz “Tikai signāli” %1$d minūtes (līdz plkst. %2$s)</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">Pāriet uz “Tikai signāli” %1$d stundu (līdz plkst. %2$s)</item>
+        <item quantity="one">Pāriet uz “Tikai signāli” %1$d stundas (līdz plkst. %2$s)</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">Piešķirta %d atļauja</item>
+        <item quantity="one">Piešķirtas %d atļaujas</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">Piešķirtās atļaujas: %1$d no %2$d</item>
+        <item quantity="one">Piešķirtās atļaujas: %1$d no %2$d</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">%d citas atļaujas</item>
+        <item quantity="one">%d cita atļauja</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">%d lietotnēs var atvērt atbalstītās saites</item>
+        <item quantity="zero">Nevienā lietotnē nevar atvērt nevienu atbalstīto saiti</item>
+        <item quantity="one">%d lietotnē var atvērt atbalstītās saites</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">%d lietotnei ir atļauts ignorēt akumulatora darbības optimizāciju</item>
+        <item quantity="one">%d lietotnēm ir atļauts ignorēt akumulatora darbības optimizāciju</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">%1$d lietotne izmantoja atmiņu šādā laika periodā: pēdējā(-ās) %2$s</item>
+        <item quantity="one">%1$d lietotnes izmantoja atmiņu šādā laika periodā: pēdējā(-ās) %2$s</item>
+    </plurals>
+    <plurals name="lock_timeout_hours">
+        <item quantity="other">%d stundas</item>
+        <item quantity="one">1 stunda</item>
+    </plurals>
+    <plurals name="lock_timeout_minutes">
+        <item quantity="other">%d minūtes</item>
+        <item quantity="one">1 minūte</item>
+    </plurals>
+    <plurals name="lock_timeout_seconds">
+        <item quantity="other">%d sekundes</item>
+        <item quantity="one">1 sekunde</item>
+    </plurals>
+</resources>

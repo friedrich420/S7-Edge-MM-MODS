@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/panel_view" android:focusable="true" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/panel" android:layout_width="@dimen/qs_edit_panel_tile_width" android:layout_height="@dimen/qs_edit_panel_tile_height">
+        <ImageView android:id="@id/panel_icon" android:background="@drawable/qs_edit_panel_tileview_round_bg" android:layout_width="@dimen/qs_tile_icon_size" android:layout_height="@dimen/qs_tile_icon_size" android:layout_marginTop="@dimen/qs_tile_padding_top" android:scaleType="centerInside" android:layoutDirection="ltr" />
+        <TextView android:textSize="@dimen/qs_tile_text_size" android:textColor="@color/qs_tile_text" android:gravity="center_horizontal" android:id="@id/panel_text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/qs_tile_padding_below_icon" android:maxLines="2" android:fontFamily="sec-roboto-light" />
+    </LinearLayout>
+</FrameLayout>

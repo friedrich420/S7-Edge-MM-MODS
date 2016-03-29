@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="keyguard_max_notification_count">3</integer>
+    <integer name="task_stack_portrait_curve_algorithm_count">39</integer>
+    <integer name="task_stack_landscape_curve_algorithm_count">17</integer>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="dimen" name="recents_stack_initial_card_position">0.803</item>
+    <item type="dimen" name="recents_task_visible_area">0.54</item>
+    <dimen name="view_pager_padding_left">8.0dip</dimen>
+    <dimen name="view_pager_padding_top">71.0dip</dimen>
+    <dimen name="applist_gridview_verticalSpacing">17.0dip</dimen>
+    <dimen name="applist_gridview_horizontalSpacing">2.0dip</dimen>
+    <dimen name="applist_view_pager_item_image_size">63.0dip</dimen>
+    <dimen name="applist_view_pager_item_image_margintop">18.0dip</dimen>
+    <dimen name="applist_view_pager_item_width">86.0dip</dimen>
+    <dimen name="applist_view_pager_item_height">126.0dip</dimen>
+    <dimen name="app_label_top_margin">88.0dip</dimen>
+</resources>

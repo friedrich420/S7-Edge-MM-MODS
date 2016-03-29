@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/mini_home_widget_root" android:layout_width="@dimen/mini_view_cover_pager_width" android:layout_height="@dimen/mini_view_cover_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/mini_default_home_widget" android:paddingLeft="@dimen/mini_cover_main_margin_left" android:paddingTop="@dimen/mini_cover_main_margin_top" android:paddingRight="@dimen/mini_cover_main_margin_right" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <com.sec.android.cover.miniviewcover.MiniViewCoverClockWidget android:orientation="horizontal" android:id="@id/clock_time_and_date" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="7.0dip">
+            <LinearLayout android:id="@id/clock_root" android:layout_width="wrap_content" android:layout_height="@dimen/mini_cover_widget_clock_hight">
+                <LinearLayout android:gravity="left" android:layout_width="wrap_content" android:layout_height="fill_parent">
+                    <TextView android:textSize="65.0dip" android:textColor="#ffffffff" android:gravity="bottom|center|left" android:id="@id/digital_clock_time" android:focusable="false" android:focusableInTouchMode="false" android:layout_width="wrap_content" android:layout_height="fill_parent" style="@style/sview_text_shadow" />
+                </LinearLayout>
+                <LinearLayout android:layout_gravity="bottom" android:layout_width="wrap_content" android:layout_height="fill_parent">
+                    <TextView android:textSize="18.0dip" android:textColor="#ffffffff" android:gravity="bottom" android:id="@id/digital_clock_ampm" android:focusable="false" android:focusableInTouchMode="false" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginLeft="4.0dip" android:layout_marginBottom="@dimen/mini_cover_widget_clock_date_padding" style="@style/sview_text_shadow" />
+                </LinearLayout>
+            </LinearLayout>
+            <FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <LinearLayout android:layout_gravity="bottom|center|right" android:orientation="vertical" android:id="@id/date_root" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginBottom="@dimen/mini_cover_widget_clock_date_padding">
+                    <TextView android:textSize="17.0dip" android:textColor="#ffffffff" android:id="@id/digital_day_of_the_week" android:focusable="false" android:focusableInTouchMode="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:fontFamily="sans-serif-light" style="@style/sview_text_shadow" />
+                    <TextView android:textSize="17.0dip" android:textColor="#ffffffff" android:id="@id/digital_month_day" android:focusable="false" android:focusableInTouchMode="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:fontFamily="sans-serif-light" style="@style/sview_text_shadow" />
+                </LinearLayout>
+            </FrameLayout>
+        </com.sec.android.cover.miniviewcover.MiniViewCoverClockWidget>
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <TextView android:textSize="17.0dip" android:textColor="#ffffffff" android:gravity="center" android:id="@id/mini_battery_charging" android:focusable="false" android:focusableInTouchMode="false" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:fontFamily="sans-serif-light" style="@style/sview_text_shadow" />
+    </LinearLayout>
+    <com.sec.android.cover.widget.RemoteViewContainerView android:layout_gravity="center" android:id="@id/mini_battery_contatiner" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="25.0dip" />
+    <com.sec.android.cover.widget.RemoteViewContainerView android:layout_gravity="center" android:id="@id/mini_powerui_contatiner" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="25.0dip" />
+</FrameLayout>

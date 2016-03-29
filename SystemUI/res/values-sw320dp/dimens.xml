@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="kg_status_line_font_size">14.0dip</dimen>
+    <dimen name="keyguard_security_width">300.0dip</dimen>
+    <dimen name="keyguard_security_height">345.0dip</dimen>
+    <dimen name="kg_singleclock_time_height">76.0dip</dimen>
+    <dimen name="kg_singleclock_date_height">20.0dip</dimen>
+    <dimen name="kg_owner_text_container_height">20.0dip</dimen>
+    <dimen name="kg_owner_text_size">14.0dip</dimen>
+    <dimen name="kg_pin_entry_margin_bottom">8.0dip</dimen>
+    <dimen name="kg_emergency_button_margin_bottom">26.0dip</dimen>
+    <dimen name="kg_pin_container_height">247.0dip</dimen>
+    <dimen name="kg_pin_container_margin_bottom">10.0dip</dimen>
+    <dimen name="kg_pin_button_padding_bottom">9.0dip</dimen>
+    <dimen name="kg_fmm_title_font_size">26.0dip</dimen>
+    <dimen name="kg_fmm_message_font_size">14.0dip</dimen>
+    <dimen name="kg_fmm_info_margin_side">8.0dip</dimen>
+    <dimen name="kg_fmm_info_margin_bottom">0.0dip</dimen>
+    <dimen name="kg_fmm_title_margin_bottom">10.0dip</dimen>
+    <dimen name="kg_fmm_message_height">64.0dip</dimen>
+    <dimen name="kg_fmm_message_margin_bottom">10.0dip</dimen>
+    <dimen name="kg_fmm_phone_number_width">245.0dip</dimen>
+    <dimen name="notification_summary_height">24.0dip</dimen>
+    <dimen name="carrier_and_clear_height">30.0dip</dimen>
+    <dimen name="carrier_and_clear_height_with_plmn">30.0dip</dimen>
+    <dimen name="qs_tile_padding_below_icon">6.0dip</dimen>
+    <dimen name="qs_tile_vertical_tile_gap">4.0dip</dimen>
+    <dimen name="keyguard_affordance_height">42.0dip</dimen>
+    <dimen name="keyguard_affordance_width">42.0dip</dimen>
+    <dimen name="keyguard_secure_icon_height">24.0dip</dimen>
+    <dimen name="keyguard_secure_icon_width">24.0dip</dimen>
+    <dimen name="keyguard_indication_text_height">20.0dip</dimen>
+    <dimen name="headerview_button_container_end_margin">12.0dip</dimen>
+    <dimen name="headerview_date_timeView_start_padding">13.0dip</dimen>
+    <dimen name="headerview_date_start_margin">4.0dip</dimen>
+    <dimen name="headerview_button_margin">4.0dip</dimen>
+</resources>

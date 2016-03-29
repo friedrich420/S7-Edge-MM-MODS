@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="keyguard_max_notification_count">6</integer>
+    <integer name="applist_view_pager_multiwindow_item_num">12</integer>
+    <integer name="applist_view_pager_multiwindow_item_num_land">12</integer>
+</resources>

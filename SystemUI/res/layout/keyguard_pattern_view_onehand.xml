@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.keyguard.KeyguardPatternView android:gravity="bottom" android:orientation="vertical" android:id="@id/keyguard_pattern_view_onehand" android:layout_width="fill_parent" android:layout_height="fill_parent" android:contentDescription="@string/keyguard_accessibility_pattern_unlock"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:androidprv="http://schemas.android.com/apk/res-auto">
+    <include android:gravity="center" android:layout_gravity="bottom|center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/kg_pattern_message_area_margin_bottom" layout="@layout/keyguard_message_area" />
+    <FrameLayout android:layout_width="@dimen/keyguard_one_hand_security_width" android:layout_height="wrap_content">
+        <FrameLayout android:layout_gravity="center" android:id="@id/container" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layoutDirection="ltr">
+            <FrameLayout android:gravity="center_vertical" android:layout_gravity="bottom|center" android:id="@id/onehand_lockpattern" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="59.0dip">
+                <ImageButton android:layout_gravity="start|center" android:id="@id/onehand_left_arrow_pattern" android:background="@drawable/lock_ripple_drawable" android:focusable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/keyguard_onehand_left_selector" android:layout_marginStart="@dimen/keyguard_one_hand_arrow_button_margin" />
+                <com.android.keyguard.SecLockPatternView android:gravity="center" android:layout_gravity="end|center" android:id="@id/lockPatternView" android:layout_width="@dimen/keyguard_one_hand_pattern_view_width" android:layout_height="@dimen/keyguard_one_hand_pattern_view_height" android:contentDescription="@string/keyguard_accessibility_pattern_area" android:layout_marginEnd="@dimen/keyguard_one_hand_pattern_margin" />
+                <ImageButton android:layout_gravity="end|center" android:id="@id/onehand_right_arrow_pattern" android:background="@drawable/lock_ripple_drawable" android:focusable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/keyguard_onehand_right_selector" android:layout_marginEnd="@dimen/keyguard_one_hand_arrow_button_margin" />
+            </FrameLayout>
+        </FrameLayout>
+        <include android:gravity="center_horizontal" android:layout_gravity="bottom|center" android:orientation="vertical" android:id="@id/keyguard_selector_fade_container" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/kg_emergency_button_margin_bottom" layout="@layout/keyguard_eca" />
+    </FrameLayout>
+</com.android.keyguard.KeyguardPatternView>

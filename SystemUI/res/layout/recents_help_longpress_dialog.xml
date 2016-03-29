@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:scrollbarStyle="outsideOverlay" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:systemui="http://schemas.android.com/apk/res/com.android.systemui">
+    <LinearLayout android:orientation="vertical" android:padding="@dimen/recents_help_content_padding" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ImageView android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="184.0dip" android:layout_marginBottom="@dimen/recents_help_content_margin" android:src="@drawable/recents_help_longpress" android:scaleType="center" android:tint="@null" />
+        <com.android.systemui.recents.views.HelpHubTextView android:textColor="@color/recents_help_body_text_color" android:gravity="center" android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/recents_help_content_margin" android:text="@string/recents_help_long_press" android:lineSpacingExtra="@dimen/recents_help_text_line_spacing" android:contentDescription="@string/recents_help_long_press" systemui:insideImg_yDiff="@dimen/recents_help_list_item_big_image_y_diff" style="@style/HelpItemDescText" />
+        <Button android:textSize="@android:dimen/multiwindow_help_ok_text_size" android:textColor="@android:color/multiwindow_help_ok_text_color" android:gravity="center" android:layout_gravity="end" android:id="@id/help_button_ok" android:background="@android:drawable/help_ok_button_background_ripple" android:layout_width="@android:dimen/multiwindow_help_ok_width" android:layout_height="wrap_content" android:minHeight="@android:dimen/multiwindow_help_ok_height" android:text="@android:string/ok" android:includeFontPadding="true" android:textDirection="locale" />
+    </LinearLayout>
+</ScrollView>

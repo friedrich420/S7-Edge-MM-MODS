@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="sview_cover_height">309.0dip</dimen>
+    <dimen name="sview_cover_pager_width">305.0dip</dimen>
+    <dimen name="sview_cover_margin">27.5dip</dimen>
+    <dimen name="sview_cover_unlock_area_margin">13.0dip</dimen>
+    <dimen name="sview_cover_unlock_area_margin_width">13.0dip</dimen>
+</resources>

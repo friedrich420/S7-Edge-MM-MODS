@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Skaneerimine…</item>
+        <item>Ühendamine…</item>
+        <item>Autentimine…</item>
+        <item>IP-aadressi hankimine…</item>
+        <item>Ühendatud</item>
+        <item>Peatatud</item>
+        <item>Ühenduse katkestamine…</item>
+        <item>Ühendus katkestatud</item>
+        <item>Nurjunud</item>
+        <item>Blokeeritud</item>
+        <item>Internetiühenduse kvaliteedi kontrollimine…</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Skaneerimine…</item>
+        <item>Ühenduse loomine seadmega %s…</item>
+        <item>Võrguga %s autentimine…</item>
+        <item>IP-aadressi hankimine võrgust %s…</item>
+        <item>Ühendatud üksusega %1$s.</item>
+        <item>Peatatud</item>
+        <item>Ühenduse katkestamine seadmega %s…</item>
+        <item>Ühendus katkestatud</item>
+        <item>Nurjunud</item>
+        <item>Blokeeritud</item>
+        <item>Internetiühenduse kvaliteedi kontrollimine…</item>
+    </string-array>
+    <string-array name="screen_timeout_entries">
+        <item>15 sekundit</item>
+        <item>30 sekundit</item>
+        <item>1 minut</item>
+        <item>2 minutit</item>
+        <item>5 minutit</item>
+        <item>10 minutit</item>
+        <item>30 minutit</item>
+    </string-array>
+    <string-array name="screen_timeout_for_device_lock_entries">
+        <item>15 sekundit</item>
+        <item>30 sekundit</item>
+        <item>1 minut</item>
+        <item>3 minutit</item>
+        <item>5 minutit</item>
+        <item>10 minutit</item>
+        <item>15 minutit</item>
+        <item>30 minutit</item>
+    </string-array>
+    <string-array name="device_lock_timeout_entries">
+        <item>Koheselt toitenupu või ekraani ajalõpuga</item>
+        <item>15 sekundit</item>
+        <item>30 sekundit</item>
+        <item>1 minut</item>
+        <item>3 minutit</item>
+        <item>5 minutit</item>
+        <item>10 minutit</item>
+        <item>15 minutit</item>
+        <item>30 minutit</item>
+        <item>1 tund</item>
+    </string-array>
+    <string-array name="lock_after_timeout_entries">
+        <item>Kohe</item>
+        <item>5 sekundit</item>
+        <item>15 sekundit</item>
+        <item>30 sekundit</item>
+        <item>1 minut</item>
+        <item>2 minutit</item>
+        <item>5 minutit</item>
+        <item>10 minutit</item>
+        <item>30 minutit</item>
+    </string-array>
+    <string-array name="entries_font_size">
+        <item>Pisike</item>
+        <item>Väike</item>
+        <item>Tavaline</item>
+        <item>Suur</item>
+        <item>Ülisuur</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>Väga aeglane</item>
+        <item>Aeglane</item>
+        <item>Normaalne</item>
+        <item>Kiire</item>
+        <item>kiirem</item>
+        <item>Palju kiirem</item>
+        <item>Kiire</item>
+        <item>Väga kiire</item>
+        <item>Kõige kiirem</item>
+    </string-array>
+    <string-array name="wifi_ap_security_testmode">
+        <item>Ava</item>
+        <item>WPA2 PSK</item>
+    </string-array>
+    <string-array name="wifi_eap_method">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+        <item>SIM</item>
+        <item>AKA</item>
+        <item>"AKA'"</item>
+    </string-array>
+    <string-array name="wifi_p2p_status">
+        <item>Ühendatud</item>
+        <item>Kutsutud.</item>
+        <item>Ühendus nurjus</item>
+        <item>Toksake ühendamiseks siia.</item>
+        <item>Levist väljas.</item>
+        <item>Ühendatud teise seadmega</item>
+    </string-array>
+    <string-array name="wifi_ap_wifi_sharing">
+        <item>Aktiv. Wi-Fi jagamine</item>
+        <item>Inakt. Wi-Fi jagamine</item>
+    </string-array>
+    <string-array name="wifi_ap_timeout">
+        <item>Mitte kunagi</item>
+        <item>5 minutit</item>
+        <item>10 minutit</item>
+        <item>20 minutit</item>
+        <item>30 minutit</item>
+        <item>60 minutit</item>
+    </string-array>
+    <string-array name="wifi_ap_connection_mode">
+        <item>Luba kõik seadmed</item>
+        <item>Ainult lubatud seadmed</item>
+    </string-array>
+    <string-array name="wifi_ap_channel">
+        <item>Auto.</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+    </string-array>
+    <string-array name="wifi_share_profile_access_timeout">
+        <item>6 tundi</item>
+        <item>12 tundi</item>
+        <item>24 tundi</item>
+        <item>Ajapiirangut pole</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>Nõrk</item>
+        <item>Rahuldav</item>
+        <item>Hea</item>
+        <item>Tugev</item>
+        <item>Väga tugev</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries">
+        <item>"Alati
+(suurendab akutarbimist)"</item>
+        <item>Laadimise ajal</item>
+        <item>"Mitte kunagi
+(suurendab andmekasutust)"</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries_wifi_only">
+        <item>"Alati
+(suurendab akutarbimist)"</item>
+        <item>Laadimise ajal</item>
+        <item>Mitte kunagi</item>
+    </string-array>
+    <string-array name="wifi_frequency_band_entries">
+        <item>Automaatne</item>
+        <item>Ainult 5 GHz</item>
+        <item>Ainult 2.4 GHz</item>
+    </string-array>
+    <string-array name="wifi_frequency_band_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="usage_stats_display_order_types">
+        <item>Kasutusaeg</item>
+        <item>Viimane kasutamine</item>
+        <item>Rakenduse nimi</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries">
+        <item>Puudub</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>Puudub</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>Staatiline</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>Puudub</item>
+        <item>Käsitsi</item>
+        <item>Automaatne konfigureerimine</item>
+    </string-array>
+    <string-array name="wifi_iwlan_settings">
+        <item>Sees</item>
+        <item>Väljas</item>
+    </string-array>
+    <string-array name="apn_auth_entries">
+        <item>Puudub</item>
+        <item>PAP</item>
+        <item>CHAP</item>
+        <item>PAP või CHAP</item>
+    </string-array>
+    <string-array name="apn_protocol_entries">
+        <item>IPv4</item>
+        <item>IPv6</item>
+        <item>IPv4/IPv6</item>
+    </string-array>
+    <string-array name="bearer_entries">
+        <item>Määramata</item>
+        <item>LTE</item>
+        <item>HSPAP</item>
+        <item>HSPA</item>
+        <item>HSUPA</item>
+        <item>HSDPA</item>
+        <item>UMTS</item>
+        <item>EDGE</item>
+        <item>GPRS</item>
+        <item>eHRPD</item>
+        <item>EVDO_B</item>
+        <item>EVDO_A</item>
+        <item>EVDO_0</item>
+        <item>1xRTT</item>
+        <item>IS95B</item>
+        <item>IS95A</item>
+    </string-array>
+    <string-array name="mvno_type_entries">
+        <item>Puudub</item>
+        <item>SPN</item>
+        <item>IMSI</item>
+        <item>GID</item>
+    </string-array>
+    <string-array name="app_install_location_entries">
+        <item>Seadme sisemälu</item>
+        <item>Eemaldatav SD-kaart</item>
+        <item>Lase süsteemil otsustada</item>
+    </string-array>
+    <string-array name="app_ops_categories">
+        <item>Asukoht</item>
+        <item>Isiklik</item>
+        <item>Sõnumid</item>
+        <item>Meedia (Telefon)</item>
+        <item>Seade</item>
+        <item>Automaatkäivitus</item>
+    </string-array>
+    <string-array name="app_ops_summaries">
+        <item>üldine asukoht</item>
+        <item>täpne asukoht</item>
+        <item>GPS</item>
+        <item>Värin</item>
+        <item>Kontaktide lugemine</item>
+        <item>Kontaktide redigeerimine</item>
+        <item>Loe kõnelogi</item>
+        <item>Kirjuta kõnelogi</item>
+        <item>Lugeda kalendrit</item>
+        <item>Halda kalendrit</item>
+        <item>Otsi Wi-Fi võrke</item>
+        <item>Teavitus</item>
+        <item>Otsi võrkusid</item>
+        <item>Helista</item>
+        <item>Loe tekstsõnumeid</item>
+        <item>Kirjuta tekstsõnumeid</item>
+        <item>Võta vastu tekstsõnumeid</item>
+        <item>Võta vastu hädaabi sõnumeid</item>
+        <item>Võta vastu multimeediumsõnumeid</item>
+        <item>Võta vastu WAP-push’i sõnumeid</item>
+        <item>Tekstsõnumite saatmine</item>
+        <item>Loe SIM-kaardil olevaid tekstsõnumeid</item>
+        <item>Kirjuta tekstsõnumid SIM-kaardile</item>
+        <item>Muuda seadeid</item>
+        <item>Rakenduse kasutajaliidese ülekate</item>
+        <item>Juurdepääs teavitustele</item>
+        <item>Kaamera</item>
+        <item>Salvesta heli</item>
+        <item>Esita helifaile</item>
+        <item>Loe lõikelaua andmeid</item>
+        <item>Halda lõikelaua andmeid</item>
+        <item>Meediumi juhtimine</item>
+        <item>Helifookuse juhtimine</item>
+        <item>Üldhelitugevuse reguleerimine</item>
+        <item>Kõneaegse helitugevuse reguleerimine</item>
+        <item>Helina tugevuse reguleerimine</item>
+        <item>Meediumi helitugevuse reguleerimine</item>
+        <item>Märguande helitugevuse reguleerimine</item>
+        <item>Märguande helitugevuse reguleerimine</item>
+        <item>Bluetooth-seadmete kaudu esitatava heli tugevuse reguleerimine</item>
+        <item>Ekraani seeshoidmine</item>
+        <item>Asukohateabe jälgimine</item>
+        <item>Ülitäpse asukohateabe jälgimine</item>
+        <item>Seadme kasutusstatistika lugemine</item>
+        <item>Mikrofoni sisse- ja väljalülitamine</item>
+        <item>Teavitushüpikute kuvamine</item>
+        <item>Meediumi jäädvustamine</item>
+        <item>VPN-i aktiveerimine</item>
+        <item>Wi-Fi sisse/välja</item>
+        <item>Bluetooth sisse/välja</item>
+        <item>Saada multimeediumsõnumid</item>
+        <item>Multim.sõnumite lugemine</item>
+        <item>Multim.-sõnumite koost.</item>
+        <item>Automaatkäivitus</item>
+        <item>NFC sisse/välja</item>
+        <item>Tekstsõnumite kustutamine</item>
+        <item>Multim.sõnumite kustutamine</item>
+        <item>Kustuta kontaktid</item>
+        <item>Delete call log</item>
+        <item>Mob. andmes. sisse/välja</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Asukoht</item>
+        <item>Asukoht</item>
+        <item>Asukoht</item>
+        <item>Värin</item>
+        <item>Kontaktide lugemine</item>
+        <item>Kontaktide redigeerimine</item>
+        <item>Loe kõnelogi</item>
+        <item>Kirjuta kõnelogi</item>
+        <item>Lugeda kalendrit</item>
+        <item>Halda kalendrit</item>
+        <item>Asukoht</item>
+        <item>Teavituste kuvamine</item>
+        <item>Asukoht</item>
+        <item>Helista</item>
+        <item>Loe tekstsõnumeid</item>
+        <item>Kirjuta tekstsõnumeid</item>
+        <item>Võta vastu tekstsõnumeid</item>
+        <item>Võta vastu hädaabi sõnumeid</item>
+        <item>Võta vastu multimeediumsõnumeid</item>
+        <item>Võta vastu WAP-push’i sõnumeid</item>
+        <item>Tekstsõnumite saatmine</item>
+        <item>Loe SIM-kaardil olevaid tekstsõnumeid</item>
+        <item>Kirjuta tekstsõnumid SIM-kaardile</item>
+        <item>Muuda seadeid</item>
+        <item>Rakenduse kasutajaliidese ülekate</item>
+        <item>Juurdepääs teavitustele</item>
+        <item>Kaamera</item>
+        <item>Salvesta heli</item>
+        <item>Esita helifaile</item>
+        <item>Loe lõikelaua andmeid</item>
+        <item>Halda lõikelaua andmeid</item>
+        <item>Meediumi juhtimine</item>
+        <item>Helifookuse juhtimine</item>
+        <item>Üldhelitugevuse reguleerimine</item>
+        <item>Kõneaegse helitugevuse reguleerimine</item>
+        <item>Helina tugevuse reguleerimine</item>
+        <item>Meediumi helitugevuse reguleerimine</item>
+        <item>Märguande helitugevuse reguleerimine</item>
+        <item>Märguande helitugevuse reguleerimine</item>
+        <item>Bluetooth-seadmete kaudu esitatava heli tugevuse reguleerimine</item>
+        <item>Ekraani seeshoidmine</item>
+        <item>Asukoht</item>
+        <item>Asukoht</item>
+        <item>Seadme kasutusstatistika lugemine</item>
+        <item>Mikrofoni sisse- ja väljalülitamine</item>
+        <item>Teavitushüpikute kuvamine</item>
+        <item>Meediumi jäädvustamine</item>
+        <item>VPN-i aktiveerimine</item>
+        <item>Wi-Fi sisse/välja</item>
+        <item>Bluetooth sisse/välja</item>
+        <item>Saada multimeediumsõnumid</item>
+        <item>Multim.sõnumite lugemine</item>
+        <item>Multim.-sõnumite koost.</item>
+        <item>Automaatkäivitus</item>
+        <item>NFC sisse/välja</item>
+        <item>Tekstsõnumite kustutamine</item>
+        <item>Multim.sõnumite kustutamine</item>
+        <item>Kustuta kontaktid</item>
+        <item>delete call log</item>
+        <item>Mob. andmes. sisse/välja</item>
+    </string-array>
+    <string-array name="long_press_timeout_selector_titles">
+        <item>Lühike</item>
+        <item>Keskmine</item>
+        <item>Keela</item>
+    </string-array>
+    <string-array name="captioning_typeface_selector_titles">
+        <item>Vaikimisi</item>
+        <item>Sans Serif</item>
+        <item>Tihendatud Sans Serif</item>
+        <item>Sans serif monospace</item>
+        <item>Serif</item>
+        <item>Serif monospace</item>
+        <item>Vaba</item>
+        <item>Kursiivkiri</item>
+        <item>Väikesed suurtähed</item>
+    </string-array>
+    <string-array name="captioning_font_size_selector_titles">
+        <item>Väga väike</item>
+        <item>Väike</item>
+        <item>Tavaline</item>
+        <item>Suur</item>
+        <item>Väga suur</item>
+    </string-array>
+    <string-array name="captioning_edge_type_selector_titles">
+        <item>Vaikimisi</item>
+        <item>Puudub</item>
+        <item>Kontuur</item>
+        <item>Langev vari</item>
+        <item>Tõstetud</item>
+        <item>Rõhutud</item>
+    </string-array>
+    <string-array name="captioning_opacity_selector_titles">
+        <item>25%</item>
+        <item>50%</item>
+        <item>75%</item>
+        <item>100%</item>
+    </string-array>
+    <string-array name="captioning_preset_selector_titles">
+        <item>Vaikimisi</item>
+        <item>Valge mustal</item>
+        <item>Must valgel</item>
+        <item>Kollane mustal</item>
+        <item>Kollane sinisel</item>
+        <item>Kohandatud</item>
+    </string-array>
+    <string-array name="select_logd_size_titles">
+        <item>64 000</item>
+        <item>256 000</item>
+        <item>1 000 000</item>
+        <item>4 000 000</item>
+        <item>16 000 000</item>
+    </string-array>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>64 000</item>
+        <item>256 000</item>
+        <item>1 000 000</item>
+    </string-array>
+    <string-array name="select_logd_size_summaries">
+        <item>64 KB logipuhvri kohta</item>
+        <item>256 kB logipuhvri kohta</item>
+        <item>1 MB logipuhvri kohta</item>
+        <item>4 MB logipuhvri kohta</item>
+        <item>16 MB logipuhvri kohta</item>
+    </string-array>
+    <string-array name="hdcp_checking_titles">
+        <item>Ära kontrolli kunagi</item>
+        <item>Kontrolli ainult DRM-i sisu</item>
+        <item>Kontrolli alati</item>
+    </string-array>
+    <string-array name="hdcp_checking_summaries">
+        <item>Ärge kunagi kasutage HDCP kontrollimist</item>
+        <item>Kasutage HDCP kontrollimist ainult DRM-i sisu puhul</item>
+        <item>Kasutage alati HDCP kontrollimist</item>
+    </string-array>
+    <string-array name="window_animation_scale_entries">
+        <item>Animatsioon on valja lulitatud.</item>
+        <item>Animatsiooni skaala 0.5x</item>
+        <item>Animatsiooni skaala 1x</item>
+        <item>Animatsiooni skaala 1.5x</item>
+        <item>Animatsiooni skaala 2x</item>
+        <item>Animatsiooni skaala 5x</item>
+        <item>Animatsiooni skaala 10x</item>
+    </string-array>
+    <string-array name="transition_animation_scale_entries">
+        <item>Animatsioon on valja lulitatud.</item>
+        <item>Animatsiooni skaala 0.5x</item>
+        <item>Animatsiooni skaala 1x</item>
+        <item>Animatsiooni skaala 1.5x</item>
+        <item>Animatsiooni skaala 2x</item>
+        <item>Animatsiooni skaala 5x</item>
+        <item>Animatsiooni skaala 10x</item>
+    </string-array>
+    <string-array name="animator_duration_scale_entries">
+        <item>Animatsioon on valja lulitatud.</item>
+        <item>Animatsiooni skaala 0.5x</item>
+        <item>Animatsiooni skaala 1x</item>
+        <item>Animatsiooni skaala 1.5x</item>
+        <item>Animatsiooni skaala 2x</item>
+        <item>Animatsiooni skaala 5x</item>
+        <item>Animatsiooni skaala 10x</item>
+    </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>Puudub</item>
+        <item>480p</item>
+        <item>720 x 480 mdpi (turvaline)</item>
+        <item>720p</item>
+        <item>1280 x 720 tvdpi (turvaline)</item>
+        <item>1080p</item>
+        <item>1920 x 1080 xhdpi (turvaline)</item>
+        <item>1280 x 720 tvdpi ja 1920 x 1080 xhdpi</item>
+        <item>4K (turvaline)</item>
+        <item>4K (üles skaleeritud)</item>
+        <item>4K (üles skaleeritud, turvaline)</item>
+        <item>720p, 1080p (kahel ekraanil)</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>Puudub</item>
+        <item>Logcat</item>
+        <item>Systrace (graafika)</item>
+        <item>Kõne lukustatud: glGetError</item>
+    </string-array>
+    <string-array name="show_non_rect_clip_entries">
+        <item>Väljas</item>
+        <item>Tõsta mittenelinurksed lõiked sinisena esile</item>
+        <item>Tõsta testitud joonistuskäsklused rohelisega esile</item>
+    </string-array>
+    <string-array name="track_frame_time_entries">
+        <item>Väljas</item>
+        <item>Näita ekraanil tulpadena</item>
+        <item>Näita asukohas adb shell dumpsys gfxinfo</item>
+    </string-array>
+    <string-array name="debug_hw_overdraw_entries">
+        <item>Väljas</item>
+        <item>Näita ülejoonistuse piirkondi</item>
+        <item>Näita piirkondi neile, kellel on värvipimedus</item>
+    </string-array>
+    <string-array name="app_process_limit_entries">
+        <item>Standardne piirang</item>
+        <item>Ei ole taustal töötavaid toiminguid</item>
+        <item>Kõige enam 1 toiming</item>
+        <item>Kõige enam 2 toimingut</item>
+        <item>Kõige enam 3 toimingut</item>
+        <item>Kõige enam 4 toimingut</item>
+    </string-array>
+    <string-array name="vpn_states">
+        <item>Ühendus katkestatud</item>
+        <item>Lähtestamine…</item>
+        <item>Ühendamine…</item>
+        <item>Ühendatud</item>
+        <item>Ajalõpp</item>
+        <item>Nurjunud</item>
+    </string-array>
+    <string-array name="ram_states">
+        <item>Tavaline</item>
+        <item>Keskmine</item>
+        <item>Madal</item>
+        <item>Kriitiline</item>
+        <item>\?</item>
+    </string-array>
+    <string-array name="long_press_timeout_titles_selector">
+        <item>Lühike (0.5 sekundit)</item>
+        <item>Keskmine (1.0 sekundit)</item>
+        <item>Pikk (1.5 sekundit)</item>
+        <item>Kohandatud</item>
+    </string-array>
+    <string-array name="time_interval_entries">
+        <item>3 minutit</item>
+        <item>5 minutit</item>
+        <item>10 minutit</item>
+        <item>30 minutit</item>
+        <item>1 tund</item>
+    </string-array>
+    <string-array name="time_interval_entries_selectable">
+        <item>15 sekundit</item>
+        <item>30 sekundit</item>
+        <item>1 minut</item>
+        <item>3 minutit</item>
+        <item>5 minutit</item>
+    </string-array>
+    <string-array name="time_interval_entries_selectable_22">
+        <item>1 minut</item>
+        <item>3 minutit</item>
+        <item>5 minutit</item>
+        <item>10 minutit</item>
+        <item>15 minutit</item>
+    </string-array>
+    <string-array name="proc_stats_memory_states">
+        <item>Tavaline</item>
+        <item>Keskmine</item>
+        <item>Madal</item>
+        <item>Kriitiline</item>
+    </string-array>
+    <string-array name="proc_stats_process_states">
+        <item>Püsiv</item>
+        <item>Populaarseimad tegevused</item>
+        <item>Tähtis (esiplaanil)</item>
+        <item>Tähtis (taustal)</item>
+        <item>Varundus</item>
+        <item>Raske</item>
+        <item>Teenus (töötamine)</item>
+        <item>Teenus (taaskäivitamine)</item>
+        <item>Vastuvõtja</item>
+        <item>Kodu</item>
+        <item>Viimane tegevus</item>
+        <item>Vahemällu talletatud (tegevus)</item>
+        <item>Vahemällu talletatud (tegevuse klient)</item>
+        <item>Vahemällu talletatud (tühi)</item>
+    </string-array>
+    <string-array name="wifi_connect_entries">
+        <item>Automaatne</item>
+        <item>Käsitsi</item>
+        <item>Küsi alati</item>
+    </string-array>
+    <string-array name="data_usage_display_unit">
+        <item>MB/GB (auto change)</item>
+        <item>MB only</item>
+        <item>GB only</item>
+    </string-array>
+    <string-array name="color_picker">
+        <item>Sinakasroheline</item>
+        <item>Sinine</item>
+        <item>Indigosinine</item>
+        <item>Lilla</item>
+        <item>Roosa</item>
+        <item>Punane</item>
+    </string-array>
+    <string-array name="touch_key_light_entries">
+        <item>1.5 sekundit</item>
+        <item>6 sekundit</item>
+        <item>Alati väljas</item>
+        <item>Alati sees</item>
+    </string-array>
+    <string-array name="key_backlight_entries">
+        <item>Alati väljas</item>
+        <item>1 sekund</item>
+        <item>3 sekundit</item>
+        <item>5 sekundit</item>
+        <item>10 sekundit</item>
+        <item>15 sekundit</item>
+    </string-array>
+    <string-array name="usb_configuration_titles">
+        <item>@string/usb_use_charging_only</item>
+        <item>MTP (Media Transfer Protocol)</item>
+        <item>PTP (Picture Transfer Protocol)</item>
+        <item>RNDIS (USB Ethernet)</item>
+        <item>Heliallikas</item>
+        <item>MIDI</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_choices">
+        <item>WiFi eelistusega</item>
+        <item>Mobiilside eelistusega</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_values">
+        <item>2</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="audio_output_entries">
+        <item>Stereo</item>
+        <item>Ruumiline</item>
+    </string-array>
+</resources>

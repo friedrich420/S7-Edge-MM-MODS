@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:orientation="vertical" android:id="@id/mini_music_layout" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.sec.android.cover.widget.RemoteViewContainerView android:id="@id/mini_music_player_contatiner" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <com.sec.android.cover.widget.RemoteViewContainerView android:id="@id/mini_kids_music_player_contatiner" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <com.sec.android.cover.widget.RemoteViewContainerView android:id="@id/mini_clear_sound_warning_contatiner" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</FrameLayout>

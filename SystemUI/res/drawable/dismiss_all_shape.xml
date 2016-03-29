@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="17.0dip" android:width="85.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:name="dismiss_all">
+        <group android:name="3">
+            <path android:name="rectangle_path_1_2" />
+        </group>
+        <group android:name="2">
+            <path android:name="rectangle_path_1_1" />
+        </group>
+        <group android:name="1">
+            <path android:name="rectangle_path_1" />
+        </group>
+    </group>
+</vector>

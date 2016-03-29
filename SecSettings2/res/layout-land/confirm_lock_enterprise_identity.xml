@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="@dimen/lock_pattern_header_text_size" android:ellipsize="marquee" android:gravity="center" android:orientation="horizontal" android:id="@id/headerText" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/password_lock_headerText_side_padding" android:layout_marginTop="@dimen/lock_password_header_text_marginTop" android:layout_marginRight="@dimen/password_lock_headerText_side_padding" android:layout_weight="1.0" style="@style/body_text_style" />
+        <EditText android:textSize="@dimen/lock_password_edit_text_size" android:gravity="bottom|center" android:layout_gravity="center" android:id="@id/password_entry" android:layout_width="0.0dip" android:layout_height="@dimen/lock_password_edit_box_height" android:layout_marginTop="5.0dip" android:layout_marginRight="@dimen/password_lock_headerText_side_padding" android:layout_marginBottom="5.0dip" android:layout_weight="1.0" android:inputType="textPassword" android:imeOptions="actionNext" style="@style/TextAppearance.PasswordEntry" />
+    </LinearLayout>
+    <com.android.internal.widget.PasswordEntryKeyboardView android:id="@id/keyboard" android:background="#00000000" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:keyBackground="@android:drawable/btn_keyboard_key_fulltrans" />
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <LinearLayout android:orientation="horizontal" android:id="@id/bottom_bar" android:layout_alignParentBottom="true" android:layout_alignParentEnd="true" style="@style/SecurityPreferenceButtonContainer">
+            <com.android.settings.widget.BottomBarButton android:id="@id/cancel_button" android:text="@string/lockpassword_cancel_label" style="@style/SecurityPreferenceButton" />
+            <com.android.settings.widget.BottomBarButton android:id="@id/next_button" android:text="@string/lockpattern_tutorial_continue_label" style="@style/SecurityPreferenceButton" />
+        </LinearLayout>
+    </RelativeLayout>
+</LinearLayout>

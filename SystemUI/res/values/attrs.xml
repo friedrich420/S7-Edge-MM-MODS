@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="layout_maxWidth" format="dimension" />
+    <attr name="layout_maxHeight" format="dimension" />
+    <attr name="digit" format="integer" />
+    <attr name="textView" format="reference" />
+    <attr name="scaledTextSize" format="integer" />
+    <attr name="allCaps" format="boolean" />
+    <attr name="isAmPm" format="boolean" />
+    <attr name="keyCode" format="integer" />
+    <attr name="keyRepeat" format="boolean" />
+    <attr name="text" format="string" />
+    <attr name="insetLeft" format="dimension" />
+    <attr name="rowHeight" format="dimension" />
+    <attr name="recentItemLayout" format="reference" />
+    <attr name="minSize" format="dimension" />
+    <attr name="maxSize" format="dimension" />
+    <attr name="holdTime" format="integer" />
+    <attr name="decayTime" format="integer" />
+    <attr name="frameColor" format="color" />
+    <attr name="amPmStyle">
+        <enum name="gone" value="2" />
+        <enum name="normal" value="0" />
+        <enum name="small" value="1" />
+    </attr>
+    <attr name="orientation">
+        <enum name="horizontal" value="0" />
+        <enum name="vertical" value="1" />
+    </attr>
+    <attr name="frameWidth" format="dimension" />
+    <attr name="framePadding" format="dimension" />
+    <attr name="activeFrameColor" format="color" />
+    <attr name="regularFontFamily" format="string" />
+    <attr name="activatedFontFamily" format="string" />
+    <attr name="datePattern" format="string" />
+    <attr name="numColumns" format="integer" />
+    <attr name="verticalSpacing" format="dimension" />
+    <attr name="horizontalSpacing" format="dimension" />
+    <attr name="sideSpacing" format="dimension" />
+    <attr name="topSpacing" format="dimension" />
+    <attr name="bottomSpacing" format="dimension" />
+    <attr name="backgroundColor" format="integer" />
+    <attr name="fillColor" format="integer" />
+    <attr name="singleToneColor" format="integer" />
+    <attr name="ignoreRightInset" format="boolean" />
+    <attr name="hasOverlappingRendering" format="boolean" />
+    <attr name="text_help" format="reference" />
+    <attr name="insideImg_paddingLeft" format="dimension" />
+    <attr name="insideImg_paddingRight" format="dimension" />
+    <attr name="insideImg_paddingTop" format="dimension" />
+    <attr name="insideImg_paddingBottom" format="dimension" />
+    <attr name="insideImg_padding" format="dimension" />
+    <attr name="insideImg_height" format="dimension" />
+    <attr name="insideImg_width" format="dimension" />
+    <attr name="insideImg_yDiff" format="dimension" />
+    <attr name="showDisplayValue" format="string" />
+    <attr name="showDisplayString" format="string" />
+    <attr name="newLineString" format="string" />
+    <attr name="insideImg_gravity">
+        <enum name="bottom" value="80" />
+        <enum name="center" value="17" />
+        <enum name="fill" value="119" />
+        <enum name="left" value="3" />
+        <enum name="right" value="5" />
+        <enum name="top" value="48" />
+    </attr>
+    <attr name="images" format="reference" />
+    <attr name="image" format="reference" />
+</resources>

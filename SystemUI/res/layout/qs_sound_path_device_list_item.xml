@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView android:textSize="@dimen/qs_bottom_area_text_size" android:ellipsize="end" android:gravity="start|center" android:background="@drawable/btn_borderless_rect" android:focusable="true" android:clickable="true" android:layout_width="fill_parent" android:layout_height="@dimen/qs_sound_path_dialog_item_height" android:maxLines="1" android:drawablePadding="4.0dip" android:paddingStart="@dimen/qs_sound_path_dialog_item_start_padding" android:paddingEnd="@dimen/qs_sound_path_dialog_item_end_padding"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

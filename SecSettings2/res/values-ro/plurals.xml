@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Sunteţi la %d paşi distanţă de a deveni dezvoltator.</item>
+        <item quantity="one">Sunteţi la 1 pas distanţă de a deveni dezvoltator.</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">%1$d de amprente configurate</item>
+        <item quantity="one">%1$d amprente configurate</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Parola trebuie să conţină cel puţin %d litere.</item>
+        <item quantity="one">Parola trebuie să conţină cel puţin o literă.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Parola trebuie să conţină cel puţin %d litere mici.</item>
+        <item quantity="one">Parola trebuie să conţină cel puţin o literă mică.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Parola trebuie să conţină cel puţin %d majuscule.</item>
+        <item quantity="one">Parola trebuie să conţină cel puţin o literă mare.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Parola trebuie să conţină cel puţin %d numere.</item>
+        <item quantity="one">Parola trebuie să conţină cel puţin un număr.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Parola trebuie să conţină cel puţin %d simboluri.</item>
+        <item quantity="one">Parola trebuie să conţină cel puţin 1 simbol.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Parola trebuie să conţină cel puţin %d numere sau simboluri.</item>
+        <item quantity="one">Parola trebuie să conţină cel puţin 1 număr sau simbol.</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Codul PIN pentru cardul SIM este incorect. V-au mai rămas %d de încercări.</item>
+        <item quantity="one">Codul PIN pentru cardul SIM este incorect. V-au mai rămas %d încercări.</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d aplicaţii pot citi notificările.</item>
+        <item quantity="one">%d aplicaţie poate citi notificările.</item>
+    </plurals>
+    <plurals name="manage_condition_providers_summary_nonzero">
+        <item quantity="other">Sunt instalate %d aplicaţii care oferă condiţii pentru această funcţie</item>
+        <item quantity="one">%d app provides conditions</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">Schimbați la „Numai alarme” pentru %1$d de minute (până la %2$s)</item>
+        <item quantity="one">Schimbați la „Numai alarme” pentru %1$d minute (până la %2$s)</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">Schimbați la „Numai alarme” pentru %1$d de ore, până la %2$s</item>
+        <item quantity="one">Schimbați la „Numai alarme” pentru %1$d ore, până la %2$s</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">%d de permisiuni acordate</item>
+        <item quantity="one">%d permisiuni acordate</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">%1$d din %2$d de permisiuni acordate</item>
+        <item quantity="one">%1$d din %2$d permisiuni acordate</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">%d mai multe permisiuni</item>
+        <item quantity="one">%d permisiune în plus</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">O aplicație poate deschide linkurile acceptate</item>
+        <item quantity="zero">%d aplicații pot deschide linkurile acceptate</item>
+        <item quantity="one">%d de aplicații pot deschide linkurile acceptate</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">%d de aplicații au permisiunea să ignore optimizarea bateriei</item>
+        <item quantity="one">%d aplicații au permisiunea să ignore optimizarea bateriei</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">%1$d de aplicații au folosit memoria în ultimele %2$s</item>
+        <item quantity="one">%1$d aplicații au folosit memoria în ultimele %2$s</item>
+    </plurals>
+    <plurals name="lock_timeout_hours">
+        <item quantity="other">%d ore</item>
+        <item quantity="one">1 oră</item>
+    </plurals>
+    <plurals name="lock_timeout_minutes">
+        <item quantity="other">%d minute</item>
+        <item quantity="one">1 minut</item>
+    </plurals>
+    <plurals name="lock_timeout_seconds">
+        <item quantity="other">%d secunde</item>
+        <item quantity="one">1 secundă</item>
+    </plurals>
+</resources>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Сега сте на %d чекори од програмерство.</item>
+        <item quantity="one">Сега сте на 1 чекор од програмерство.</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">%1$d поставени отпечатоци</item>
+        <item quantity="one">%1$d поставен отпечаток</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Лозинката мора да содржи барем %d букви.</item>
+        <item quantity="one">Лозинката мора да содржи барем 1 буква.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Лозинката мора да содржи барем %d мали букви.</item>
+        <item quantity="one">Лозинката мора да содржи барем 1 мала буква.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Лозинката мора да содржи барем %d големи букви.</item>
+        <item quantity="one">Лозинката мора да содржи барем 1 голема буква.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Лозинката мора да содржи барем %d бројки.</item>
+        <item quantity="one">Лозинката мора да содржи барем 1 бројка.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Лозинката мора да содржи барем %d симболи.</item>
+        <item quantity="one">Лозинката мора да содржи барем 1 симбол.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Лозинката мора да содржи барем %d бројки или симболи.</item>
+        <item quantity="one">Лозинката мора да содржи барем 1 бројка или симбол.</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Погрешен ПИН-код за СИМ, имате уште %d обиди.</item>
+        <item quantity="one">Погрешен ПИН-код за СИМ, имате уште %d обид.</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d апликации можат да читаат известувања.</item>
+        <item quantity="one">Апликацијата %d има дозвола за читање известувања.</item>
+    </plurals>
+    <plurals name="manage_condition_providers_summary_nonzero">
+        <item quantity="other">Инсталирани се %d апликации што овозможуваат услови за оваа функција</item>
+        <item quantity="one">%d app provides conditions</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">Промени на аларми само за %1$d минути до %2$s)</item>
+        <item quantity="one">Промени на аларми само за %1$d минута до %2$s)</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">Промени на аларми само за %1$d часа до %2$s</item>
+        <item quantity="one">Промени на аларми само за %1$d час до %2$s</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">%d дозволи се одобрени</item>
+        <item quantity="one">%d дозвола е одобрена</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">Доделена е %1$d од %2$d дозволи</item>
+        <item quantity="one">Доделена е %1$d од %2$d дозвола</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">Уште %d дозволи</item>
+        <item quantity="one">Уште %d дозвола</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">%d apps can open their supported links</item>
+        <item quantity="zero">%d апликација може да ги отвори своите поддржани врски</item>
+        <item quantity="one">%d апликации може да ги отворат своите поддржани врски</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">На %d апликации им е дозволено да ја игнорираат оптимизацијата на батеријата</item>
+        <item quantity="one">На %d апликација ѝ е дозволено да ја игнорира оптимизацијата на батеријата</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">%1$d апликации користеа меморија изминатите %2$s</item>
+        <item quantity="one">%1$d апликација користеше меморија изминатите %2$s</item>
+    </plurals>
+    <plurals name="lock_timeout_hours">
+        <item quantity="other">%d часови</item>
+        <item quantity="one">1 час</item>
+    </plurals>
+    <plurals name="lock_timeout_minutes">
+        <item quantity="other">%d минути</item>
+        <item quantity="one">1 минута</item>
+    </plurals>
+    <plurals name="lock_timeout_seconds">
+        <item quantity="other">%d секунди</item>
+        <item quantity="one">1 секунда</item>
+    </plurals>
+</resources>

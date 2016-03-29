@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:name="ic_volume_expand" android:height="24.0dip" android:width="24.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:name="chevron_01" android:rotation="90.0">
+        <group android:name="rectangle_3" android:rotation="45.0">
+            <group android:name="rectangle_2_pivot_0">
+                <group android:name="rectangle_path_3_position">
+                    <path android:name="rectangle_path_3" />
+                </group>
+            </group>
+        </group>
+        <group android:name="rectangle_4" android:rotation="-45.0">
+            <group android:name="rectangle_1_pivot_0">
+                <group android:name="rectangle_path_4_position">
+                    <path android:name="rectangle_path_4" />
+                </group>
+            </group>
+        </group>
+    </group>
+</vector>

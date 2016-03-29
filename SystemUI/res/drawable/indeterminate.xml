@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="2.0dip" android:width="360.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:name="linear_indeterminate">
+        <group android:name="path1" android:scaleX="0.1">
+            <path android:name="rect1" />
+        </group>
+        <group android:name="path2" android:scaleX="0.1">
+            <path android:name="rect2" />
+        </group>
+    </group>
+</vector>

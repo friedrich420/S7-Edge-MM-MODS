@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:gravity="center" android:id="@id/icon" android:layout_width="@dimen/dashboard_favorite_tile_image_size" android:layout_height="@dimen/dashboard_favorite_tile_image_size" android:layout_marginTop="9.0dip" android:scaleType="centerInside" />
+    <TextView android:ellipsize="end" android:gravity="center|top" android:id="@id/title" android:paddingTop="@dimen/dashboard_favorite_tile_text_top_padding" android:paddingBottom="@dimen/dashboard_favorite_tile_text_top_padding" android:fadingEdge="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minHeight="@dimen/dashboard_favorite_tile_text_view_minimum_height" android:lines="2" android:paddingStart="@dimen/dashboard_favorite_tile_text_side_padding" android:paddingEnd="@dimen/dashboard_favorite_tile_text_side_padding" style="@style/FavoriteTileTitle" />
+    <View android:id="@id/tile_divider" android:background="?android:dividerVertical" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+</merge>

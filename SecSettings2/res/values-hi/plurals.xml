@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">अब आप डेवलपर बनने से %d चरण दूर है।</item>
+        <item quantity="one">अब आप डेवलपर बनने से 1 चरण दूर हैं।</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">%1$d फ़िंगरप्रिंट सेट अप</item>
+        <item quantity="one">%1$d फ़िंगरप्रिंट सेट अप</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">पासवर्ड में कम से कम %d अक्षर होने ज़रूरी हैं।</item>
+        <item quantity="one">पासवर्ड में कम से कम 1 अक्षर होना जरूरी है।</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">पासवर्ड में कम से कम %d छोटे अक्षर होने जरूरी हैं।</item>
+        <item quantity="one">पासवर्ड में कम से कम 1 छोटा अक्षर होना जरूरी है।</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">पासवर्ड में कम से कम %d बड़े अक्षर होने जरूरी हैं।</item>
+        <item quantity="one">पासवर्ड में कम से कम 1 बड़ा अक्षर होना जरूरी है।</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">पासवर्ड में कम से कम %d नंबर्स होने जरूरी है।</item>
+        <item quantity="one">पासवर्ड में कम से कम 1 नंबर होना जरूरी है।</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">पासवर्ड में कम से कम %d प्रतीक होने जरूरी हैं।</item>
+        <item quantity="one">पासवर्ड में कम से कम 1 प्रतीक होना जरूरी है।</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">पासवर्ड में कम से कम %d नंबर या प्रतीक होने जरूरी हैं।</item>
+        <item quantity="one">पासवर्ड में कम से कम 1 नंबर या प्रतीक होना जरूरी है।</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">गलत सिम PIN कोड, आपके पास %d प्रयास शेष हैं.</item>
+        <item quantity="one">गलत सिम PIN कोड, आपके पास %d प्रयास शेष हैं.</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d एप्लीकेशंस अधिसूचनाएँ पढ़ सकते हैं।</item>
+        <item quantity="one">%d एप्स को अधिसूचनाएँ पढ़ने की अनुमति दी गई है।</item>
+    </plurals>
+    <plurals name="manage_condition_providers_summary_nonzero">
+        <item quantity="other">इस फंक्शन के लिए शर्तें प्रदान करने वाली %d एप्लीकेशंस स्थापित की गईं</item>
+        <item quantity="one">%d app provides conditions</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">केवल %1$d मिनट के लिए अलार्म को बदलें (%2$s बजे तक)</item>
+        <item quantity="one">केवल %1$d मिनट के लिए अलार्म को बदलें (%2$s बजे तक)</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">%2$s बजे तक केवल %1$d घंटे के लिए अलार्म को बदलें</item>
+        <item quantity="one">%2$s बजे तक केवल %1$d घंटे के लिए अलार्म को बदलें</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">%d अनुमतियां दी गईं</item>
+        <item quantity="one">%d अनुमतियां दी गईं</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">%1$d में से %2$d अनुमतियां दी गईं</item>
+        <item quantity="one">%1$d में से %2$d अनुमतियां दी गईं</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">%d और अनुमतियाँ</item>
+        <item quantity="one">%d और अनुमति</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">%d apps can open their supported links</item>
+        <item quantity="zero">%d ऐप्स अपने समर्थित लिंक खोल सकते हैं</item>
+        <item quantity="one">%d ऐप्स अपने समर्थित लिंक खोल सकते हैं</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">%d ऐप्‍स को बैटरी ऑप्‍टिमाइज़ेशन को अनदेखा करने की अनुमति दी गई</item>
+        <item quantity="one">%d ऐप्‍स को बैटरी ऑप्‍टिमाइज़ेशन को अनदेखा करने की अनुमति दी गई</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">%1$d ऐप्स द्वारा पिछले %2$s में उपयोग की गई मेमोरी</item>
+        <item quantity="one">%1$d ऐप्स द्वारा पिछले %2$s में उपयोग की गई मेमोरी</item>
+    </plurals>
+    <plurals name="lock_timeout_hours">
+        <item quantity="other">%d घंटे</item>
+        <item quantity="one">1 घंटा</item>
+    </plurals>
+    <plurals name="lock_timeout_minutes">
+        <item quantity="other">%d मिनट</item>
+        <item quantity="one">1 मिनट</item>
+    </plurals>
+    <plurals name="lock_timeout_seconds">
+        <item quantity="other">%d सेकंड</item>
+        <item quantity="one">1 सेकंड</item>
+    </plurals>
+</resources>

@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Ag scanadh…</item>
+        <item>Ag nascadh…</item>
+        <item>Ag fíordheimhniú…</item>
+        <item>Seoladh IP á fháil…</item>
+        <item>Nasctha</item>
+        <item>Ar fionraí</item>
+        <item>Ag dínascadh…</item>
+        <item>Dínasctha</item>
+        <item>Níor éirigh leis</item>
+        <item>Bactha</item>
+        <item>Cáilíocht do naisc Idirlín á seiceáil…</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Ag scanadh…</item>
+        <item>Ag nascadh le %s…</item>
+        <item>Ag fíordheimhniú le %s…</item>
+        <item>Seoladh IP á fháil ó %s…</item>
+        <item>Nasctha le %1$s.</item>
+        <item>Ar fionraí</item>
+        <item>Ag dínascadh ó %s…</item>
+        <item>Dínasctha</item>
+        <item>Níor éirigh leis</item>
+        <item>Bactha</item>
+        <item>Cáilíocht do naisc Idirlín á seiceáil…</item>
+    </string-array>
+    <string-array name="screen_timeout_entries">
+        <item>15 shoicind</item>
+        <item>30 soicind</item>
+        <item>1 nóiméad</item>
+        <item>2 nóiméad</item>
+        <item>5 nóiméad</item>
+        <item>10 nóiméad</item>
+        <item>30 nóiméad</item>
+    </string-array>
+    <string-array name="screen_timeout_for_device_lock_entries">
+        <item>15 shoicind</item>
+        <item>30 soicind</item>
+        <item>1 nóiméad</item>
+        <item>3 nóiméad</item>
+        <item>5 nóiméad</item>
+        <item>10 nóiméad</item>
+        <item>15 nóiméad</item>
+        <item>30 nóiméad</item>
+    </string-array>
+    <string-array name="device_lock_timeout_entries">
+        <item>Láithreach leis an gcumhachteochair nó ag am istigh an scáileáin</item>
+        <item>15 shoicind</item>
+        <item>30 soicind</item>
+        <item>1 nóiméad</item>
+        <item>3 nóiméad</item>
+        <item>5 nóiméad</item>
+        <item>10 nóiméad</item>
+        <item>15 nóiméad</item>
+        <item>30 nóiméad</item>
+        <item>1 uair an chloig</item>
+    </string-array>
+    <string-array name="lock_after_timeout_entries">
+        <item>Láithreach</item>
+        <item>5 shoicind</item>
+        <item>15 shoicind</item>
+        <item>30 soicind</item>
+        <item>1 nóiméad</item>
+        <item>2 nóiméad</item>
+        <item>5 nóiméad</item>
+        <item>10 nóiméad</item>
+        <item>30 nóiméad</item>
+    </string-array>
+    <string-array name="entries_font_size">
+        <item>Bídeach</item>
+        <item>Beag</item>
+        <item>Normálta</item>
+        <item>Mór</item>
+        <item>Ollmhór</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>An-mhall</item>
+        <item>Mall</item>
+        <item>Normálta</item>
+        <item>Tapa</item>
+        <item>níos tapa</item>
+        <item>I bhfad níos tapa</item>
+        <item>Rapid</item>
+        <item>Very rapid</item>
+        <item>Is tapa</item>
+    </string-array>
+    <string-array name="wifi_ap_security_testmode">
+        <item>Oscailte</item>
+        <item>WPA2 PSK</item>
+    </string-array>
+    <string-array name="wifi_eap_method">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+        <item>SIM</item>
+        <item>AKA</item>
+        <item>"AKA'"</item>
+    </string-array>
+    <string-array name="wifi_p2p_status">
+        <item>Nasctha</item>
+        <item>Cuireadh faighte.</item>
+        <item>Theip ar nascadh</item>
+        <item>Tapáil anseo le nascadh.</item>
+        <item>As raon.</item>
+        <item>Nasctha le gléas eile</item>
+    </string-array>
+    <string-array name="wifi_ap_wifi_sharing">
+        <item>Cumas. C.roinnt Wi-Fi</item>
+        <item>Díchum. C.roinnt Wi-Fi</item>
+    </string-array>
+    <string-array name="wifi_ap_timeout">
+        <item>Ní am istigh riamh</item>
+        <item>5 nóiméad</item>
+        <item>10 nóiméad</item>
+        <item>20 nóiméad</item>
+        <item>30 nóiméad</item>
+        <item>60 nóiméad</item>
+    </string-array>
+    <string-array name="wifi_ap_connection_mode">
+        <item>Ceadaigh gach gléas</item>
+        <item>Gléasanna ceadaithe amháin</item>
+    </string-array>
+    <string-array name="wifi_ap_channel">
+        <item>Uath-</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+    </string-array>
+    <string-array name="wifi_share_profile_access_timeout">
+        <item>6 huaire an chloig</item>
+        <item>12 uair an chloig</item>
+        <item>24 uair an chloig</item>
+        <item>Níl teorainn ama ann</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>Lag</item>
+        <item>Measartha</item>
+        <item>Maith</item>
+        <item>Láidir</item>
+        <item>An-láidir</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries">
+        <item>"I gcónaí
+(Cuirfear le hídiú an cheallra)"</item>
+        <item>Le linn luchtú</item>
+        <item>"Choíche
+(méadú ar úsáid sonraí)"</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries_wifi_only">
+        <item>"I gcónaí
+(Cuirfear le hídiú an cheallra)"</item>
+        <item>Le linn luchtú</item>
+        <item>Choíche</item>
+    </string-array>
+    <string-array name="wifi_frequency_band_entries">
+        <item>Uathoibríoch</item>
+        <item>5 GHz amháin</item>
+        <item>2.4 GHz amháin</item>
+    </string-array>
+    <string-array name="wifi_frequency_band_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="usage_stats_display_order_types">
+        <item>Am úsáide</item>
+        <item>Last time used</item>
+        <item>Ainm an fheidhmchláir</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries">
+        <item>Dada</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>Dada</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>Statach</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>Dada</item>
+        <item>Láimhe</item>
+        <item>Uathchumraigh</item>
+    </string-array>
+    <string-array name="wifi_iwlan_settings">
+        <item>Air</item>
+        <item>As</item>
+    </string-array>
+    <string-array name="apn_auth_entries">
+        <item>Dada</item>
+        <item>PAP</item>
+        <item>CHAP</item>
+        <item>PAP nó CHAP</item>
+    </string-array>
+    <string-array name="bearer_entries">
+        <item>Neamhshonraithe</item>
+        <item>LTE</item>
+        <item>HSPAP</item>
+        <item>HSPA</item>
+        <item>HSUPA</item>
+        <item>HSDPA</item>
+        <item>UMTS</item>
+        <item>EDGE</item>
+        <item>GPRS</item>
+        <item>eHRPD</item>
+        <item>EVDO_B</item>
+        <item>EVDO_A</item>
+        <item>EVDO_0</item>
+        <item>1xRTT</item>
+        <item>IS95B</item>
+        <item>IS95A</item>
+    </string-array>
+    <string-array name="mvno_type_entries">
+        <item>Dada</item>
+        <item>SPN</item>
+        <item>IMSI</item>
+        <item>GID</item>
+    </string-array>
+    <string-array name="app_install_location_entries">
+        <item>Stóras inmheánach an ghléis</item>
+        <item>Removable SD card</item>
+        <item>Let the system decide</item>
+    </string-array>
+    <string-array name="app_ops_categories">
+        <item>Suíomh</item>
+        <item>Pearsanta</item>
+        <item>Cur teachtaireachtaí</item>
+        <item>Meáin</item>
+        <item>Gléas</item>
+        <item>Uathrith</item>
+    </string-array>
+    <string-array name="app_ops_summaries">
+        <item>Access approximate location</item>
+        <item>Access exact location</item>
+        <item>GPS</item>
+        <item>Crith</item>
+        <item>Léigh teagmhálaithe</item>
+        <item>Cuir teagmhál. in eagar</item>
+        <item>Léigh an loga glaonna</item>
+        <item>Scríobh an loga glaonna</item>
+        <item>Léigh an fhéilire</item>
+        <item>Féilire a bhainistiú</item>
+        <item>Scanadh le haghaidh líonraí Wi-Fi</item>
+        <item>Fógra</item>
+        <item>Cealla a scanadh</item>
+        <item>Glaonna fóin a chur</item>
+        <item>Teachtaireachtaí téacs a léamh</item>
+        <item>Teachtaireachtaí téacs a scríobh</item>
+        <item>Teachtaireachtaí téacs a fháil</item>
+        <item>Teachtaireachtaí éigeandála a fháil</item>
+        <item>Teachtaireachtaí ilmheán a fháil</item>
+        <item>Brútheachtaireachtaí WAP a fháil</item>
+        <item>Seol teachtaireachtaí téacs</item>
+        <item>Teachtaireachtaí téacs ar an gcárta SIM a léamh</item>
+        <item>Teachtaireachtaí téacs a scríobh chuig cárta SIM</item>
+        <item>Socruithe a mhionathrú</item>
+        <item>Comhéadan feidhmchláir a fhorleagan</item>
+        <item>Fógraí rochtana</item>
+        <item>Ceamara</item>
+        <item>Taifead fuaim</item>
+        <item>Comhaid fuaime a sheinm</item>
+        <item>Sonraí gearrthaisce a léamh</item>
+        <item>Sonraí gearrthaisce a bhainistiú</item>
+        <item>Meáin a rialú</item>
+        <item>Fócas fuaime a rialú</item>
+        <item>Ceartaigh an mháistirairde</item>
+        <item>Airde i mbun glaonna a cheartú</item>
+        <item>Airde clingthon a cheartú</item>
+        <item>Ceartaigh airde meán</item>
+        <item>Ceartaigh airde aláraim</item>
+        <item>Airde foláireamh a cheartú</item>
+        <item>Airde na fuaime a sheinntear trí ghléasanna Bluetooth a cheartú</item>
+        <item>An scáileán a choinneáil casta air</item>
+        <item>Monatóireacht a dhéanamh ar fhaisnéis suímh</item>
+        <item>Monatóireacht a dhéanamh ar fhaisnéis ardchruinn suímh</item>
+        <item>Staitisticí úsáide an ghléis a léamh</item>
+        <item>An micreafón a chasadh air agus as</item>
+        <item>Tais. míreanna aníos tósta</item>
+        <item>Meáin a ghabháil</item>
+        <item>Cumasaigh VPN</item>
+        <item>Cas Wi-Fi air/as</item>
+        <item>Cas Bluetooth air/as</item>
+        <item>Seol t‘chtaí ilmheán</item>
+        <item>Léigh tchtaí ilmheán</item>
+        <item>Scríobh tchtaí ilmheán</item>
+        <item>Uathrith</item>
+        <item>Cas NFC air/as</item>
+        <item>Scrios tchtaí téacs</item>
+        <item>Scrios teachtaireachtaí ilmheán</item>
+        <item>Scrios teagmhálaithe</item>
+        <item>Delete call log</item>
+        <item>Cas Sonraí móibíl. air/as</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Suíomh</item>
+        <item>Suíomh</item>
+        <item>Suíomh</item>
+        <item>Crith</item>
+        <item>Léigh teagmhálaithe</item>
+        <item>Cuir teagmhál. in eagar</item>
+        <item>Léigh an loga glaonna</item>
+        <item>Scríobh an loga glaonna</item>
+        <item>Léigh an fhéilire</item>
+        <item>Féilire a bhainistiú</item>
+        <item>Suíomh</item>
+        <item>Fógraí a thaispeáint</item>
+        <item>Suíomh</item>
+        <item>Glaonna fóin a chur</item>
+        <item>Teachtaireachtaí téacs a léamh</item>
+        <item>Teachtaireachtaí téacs a scríobh</item>
+        <item>Teachtaireachtaí téacs a fháil</item>
+        <item>Teachtaireachtaí éigeandála a fháil</item>
+        <item>Teachtaireachtaí ilmheán a fháil</item>
+        <item>Brútheachtaireachtaí WAP a fháil</item>
+        <item>Seol teachtaireachtaí téacs</item>
+        <item>Teachtaireachtaí téacs ar an gcárta SIM a léamh</item>
+        <item>Teachtaireachtaí téacs a scríobh chuig cárta SIM</item>
+        <item>Socruithe a mhionathrú</item>
+        <item>Comhéadan feidhmchláir a fhorleagan</item>
+        <item>Fógraí rochtana</item>
+        <item>Ceamara</item>
+        <item>Taifead fuaim</item>
+        <item>Comhaid fuaime a sheinm</item>
+        <item>Sonraí gearrthaisce a léamh</item>
+        <item>Sonraí gearrthaisce a bhainistiú</item>
+        <item>Meáin a rialú</item>
+        <item>Fócas fuaime a rialú</item>
+        <item>Ceartaigh an mháistirairde</item>
+        <item>Airde i mbun glaonna a cheartú</item>
+        <item>Airde clingthon a cheartú</item>
+        <item>Ceartaigh airde meán</item>
+        <item>Ceartaigh airde aláraim</item>
+        <item>Airde foláireamh a cheartú</item>
+        <item>Airde na fuaime a sheinntear trí ghléasanna Bluetooth a cheartú</item>
+        <item>An scáileán a choinneáil casta air</item>
+        <item>Suíomh</item>
+        <item>Suíomh</item>
+        <item>Staitisticí úsáide an ghléis a léamh</item>
+        <item>An micreafón a chasadh air agus as</item>
+        <item>Tais. míreanna aníos tósta</item>
+        <item>Meáin a ghabháil</item>
+        <item>Cumasaigh VPN</item>
+        <item>Cas Wi-Fi air/as</item>
+        <item>Cas Bluetooth air/as</item>
+        <item>Seol t‘chtaí ilmheán</item>
+        <item>Léigh tchtaí ilmheán</item>
+        <item>Scríobh tchtaí ilmheán</item>
+        <item>Uathrith</item>
+        <item>Cas NFC air/as</item>
+        <item>Scrios tchtaí téacs</item>
+        <item>Scrios teachtaireachtaí ilmheán</item>
+        <item>Scrios teagmhálaithe</item>
+        <item>delete call log</item>
+        <item>Cas Sonraí móibíl. air/as</item>
+    </string-array>
+    <string-array name="long_press_timeout_selector_titles">
+        <item>Gearr</item>
+        <item>Meánach</item>
+        <item>Fada</item>
+    </string-array>
+    <string-array name="captioning_typeface_selector_titles">
+        <item>Réamhshocrú</item>
+        <item>Sans serif</item>
+        <item>Sans serif condensed</item>
+        <item>Sans serif aonleithid</item>
+        <item>Serif</item>
+        <item>Aonleithid Serif</item>
+        <item>Ócáideach</item>
+        <item>Reatha</item>
+        <item>Ceannlitreacha beaga</item>
+    </string-array>
+    <string-array name="captioning_font_size_selector_titles">
+        <item>An-bheag</item>
+        <item>Beag</item>
+        <item>Normálta</item>
+        <item>Mór</item>
+        <item>An-mhór</item>
+    </string-array>
+    <string-array name="captioning_edge_type_selector_titles">
+        <item>Réamhshocrú</item>
+        <item>Dada</item>
+        <item>Imlíne</item>
+        <item>Cúlscáil</item>
+        <item>Ardaithe</item>
+        <item>Íslithe</item>
+    </string-array>
+    <string-array name="captioning_preset_selector_titles">
+        <item>Réamhshocraithe</item>
+        <item>Bán ar dhubh</item>
+        <item>Dubh ar bhán</item>
+        <item>Buí ar dhubh</item>
+        <item>Buí ar ghorm</item>
+        <item>Saincheaptha</item>
+    </string-array>
+    <string-array name="select_logd_size_summaries">
+        <item>64 KB gach maolán loga</item>
+        <item>256 KB gach maolán loga</item>
+        <item>1 MB gach maolán loga</item>
+        <item>4 MB gach maolán loga</item>
+        <item>16 MB gach maolán loga</item>
+    </string-array>
+    <string-array name="hdcp_checking_titles">
+        <item>Ná seiceáil riamh</item>
+        <item>"Ná seiceáil ach d'inneachar DRM"</item>
+        <item>Seiceáil i gcónaí</item>
+    </string-array>
+    <string-array name="hdcp_checking_summaries">
+        <item>Ná húsáid seiceáil HDCP choíche</item>
+        <item>"Ná húsáid seiceáil HDCP ach d'inneachar DRM"</item>
+        <item>Úsáid seiceáil HDCP i gcónaí</item>
+    </string-array>
+    <string-array name="window_animation_scale_entries">
+        <item>Beochan as</item>
+        <item>Scála beochana 0.5x</item>
+        <item>Scála beochana 1x</item>
+        <item>Scála beochana 1.5x</item>
+        <item>Scála beochana 2x</item>
+        <item>Scála beochana 5x</item>
+        <item>Scála beochana 10x</item>
+    </string-array>
+    <string-array name="transition_animation_scale_entries">
+        <item>Beochan as</item>
+        <item>Scála beochana 0.5x</item>
+        <item>Scála beochana 1x</item>
+        <item>Scála beochana 1.5x</item>
+        <item>Scála beochana 2x</item>
+        <item>Scála beochana 5x</item>
+        <item>Scála beochana 10x</item>
+    </string-array>
+    <string-array name="animator_duration_scale_entries">
+        <item>Beochan as</item>
+        <item>Scála beochana 0.5x</item>
+        <item>Scála beochana 1x</item>
+        <item>Scála beochana 1.5x</item>
+        <item>Scála beochana 2x</item>
+        <item>Scála beochana 5x</item>
+        <item>Scála beochana 10x</item>
+    </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>Dada</item>
+        <item>480p</item>
+        <item>720 x 480 mdpi (slán)</item>
+        <item>720p</item>
+        <item>1280 x 720 tvdpi (slán)</item>
+        <item>1080p</item>
+        <item>1920 x 1080 xhdpi (slán)</item>
+        <item>1280 x 720 tvdpi agus 1920 x 1080 xhdpi</item>
+        <item>4K (secure)</item>
+        <item>4K (upscaled)</item>
+        <item>4K (upscaled, secure)</item>
+        <item>720p, 1080p (dual screen)</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>Dada</item>
+        <item>Logcat</item>
+        <item>Systrace (grafaicí)</item>
+        <item>Cruach glaonna ar glGetError</item>
+    </string-array>
+    <string-array name="show_non_rect_clip_entries">
+        <item>As</item>
+        <item>Aibhsigh dromchla gearrthóga neamh-dhronuilleogacha i ngorm</item>
+        <item>Aibhsigh orduithe líníochta tástáilte i nglas</item>
+    </string-array>
+    <string-array name="track_frame_time_entries">
+        <item>As</item>
+        <item>Taispeáin ar an scáileán mar bharraí</item>
+        <item>Taispeáin in adb shell dumpsys gfxinfo</item>
+    </string-array>
+    <string-array name="debug_hw_overdraw_entries">
+        <item>As</item>
+        <item>Taispeáin réimsí rótharraingte</item>
+        <item>Taispeáin réimsí dóibh siúd atá dathdhall</item>
+    </string-array>
+    <string-array name="app_process_limit_entries">
+        <item>Gnáth-theorainn</item>
+        <item>Níl próiseas ann sa chúlra</item>
+        <item>1 phróiseas amháin ar a mhéad</item>
+        <item>2 phróiseas ar a mhéad</item>
+        <item>3 phróiseas ar a mhéad</item>
+        <item>4 phróiseas ar a mhéad</item>
+    </string-array>
+    <string-array name="vpn_states">
+        <item>Dínasctha</item>
+        <item>Ag túsú…</item>
+        <item>Ag nascadh…</item>
+        <item>Nasctha</item>
+        <item>Am istigh</item>
+        <item>Níor éirigh leis</item>
+    </string-array>
+    <string-array name="ram_states">
+        <item>Normálta</item>
+        <item>Meánach</item>
+        <item>Íseal</item>
+        <item>Rílag</item>
+        <item>\?</item>
+    </string-array>
+    <string-array name="long_press_timeout_titles_selector">
+        <item>Gearr (0.5 soicind)</item>
+        <item>Meánach (1.0 soicind)</item>
+        <item>Fad (1.5 soicind)</item>
+        <item>Saincheaptha</item>
+    </string-array>
+    <string-array name="time_interval_entries">
+        <item>3 nóiméad</item>
+        <item>5 nóiméad</item>
+        <item>10 nóiméad</item>
+        <item>30 nóiméad</item>
+        <item>1 uair an chloig</item>
+    </string-array>
+    <string-array name="time_interval_entries_selectable">
+        <item>15 shoicind</item>
+        <item>30 soicind</item>
+        <item>1 nóiméad</item>
+        <item>3 nóiméad</item>
+        <item>5 nóiméad</item>
+    </string-array>
+    <string-array name="time_interval_entries_selectable_22">
+        <item>1 nóiméad</item>
+        <item>3 nóiméad</item>
+        <item>5 nóiméad</item>
+        <item>10 nóiméad</item>
+        <item>15 nóiméad</item>
+    </string-array>
+    <string-array name="proc_stats_memory_states">
+        <item>Normálta</item>
+        <item>Meánach</item>
+        <item>Íseal</item>
+        <item>Critical</item>
+    </string-array>
+    <string-array name="proc_stats_process_states">
+        <item>Dianseasmhach</item>
+        <item>Gníomhaíocht is mó</item>
+        <item>Tábhachtach (tulra)</item>
+        <item>Tábhachtach (cúlra)</item>
+        <item>Cúltaca</item>
+        <item>Trom-mheáchan</item>
+        <item>Seirbhís (ar rith)</item>
+        <item>Seirbhís (á hatosú)</item>
+        <item>Faighteoir</item>
+        <item>Baile</item>
+        <item>Gníomhaíocht dheireanach</item>
+        <item>Taiscthe (gníomhaíocht)</item>
+        <item>Taiscthe (cliant gníomhaíochta)</item>
+        <item>Taiscthe (folamh)</item>
+    </string-array>
+    <string-array name="wifi_connect_entries">
+        <item>Uathoibríoch</item>
+        <item>De Láimhe</item>
+        <item>Fiafraigh i gcónaí</item>
+    </string-array>
+    <string-array name="data_usage_display_unit">
+        <item>MB/GB (auto change)</item>
+        <item>MB only</item>
+        <item>GB only</item>
+    </string-array>
+    <string-array name="touch_key_light_entries">
+        <item>1.5 soicind</item>
+        <item>6 shoicind</item>
+        <item>As i gcónaí</item>
+        <item>Air i gcónaí</item>
+    </string-array>
+    <string-array name="key_backlight_entries">
+        <item>As i gcónaí</item>
+        <item>1 soicind</item>
+        <item>3 shoicind</item>
+        <item>5 shoicind</item>
+        <item>10 soicind</item>
+        <item>15 shoicind</item>
+    </string-array>
+    <string-array name="usb_configuration_titles">
+        <item>@string/usb_use_charging_only</item>
+        <item>MTP (Media Transfer Protocol)</item>
+        <item>PTP (Picture Transfer Protocol)</item>
+        <item>RNDIS (USB Ethernet)</item>
+        <item>Foinse fuaime</item>
+        <item>MIDI</item>
+    </string-array>
+    <string-array name="audio_output_entries">
+        <item>Steirió</item>
+        <item>Mórthimpeall</item>
+    </string-array>
+</resources>

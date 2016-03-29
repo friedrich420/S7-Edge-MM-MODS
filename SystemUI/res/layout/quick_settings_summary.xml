@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/quickpanel_summary" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="12.0dip" android:textColor="@color/qs_edit_panel_summary_color" android:gravity="start|center" android:id="@id/quickpanel_summary_text" android:focusable="false" android:layout_width="wrap_content" android:layout_height="@dimen/qs_summary_height" android:text="@string/quickpanel_long_preesed_description" android:fontFamily="sec-roboto-light" android:paddingStart="@dimen/qs_edit_panel_summary_text_margin" android:paddingEnd="@dimen/qs_edit_panel_summary_text_padding_right" android:layout_marginEnd="@dimen/qs_edit_panel_edit_margin_right" />
+    </LinearLayout>
+</FrameLayout>

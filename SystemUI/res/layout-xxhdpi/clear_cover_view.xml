@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.sec.android.cover.clearcover.ClearCoverView android:id="@id/clear_cover_root" android:background="#ff000000" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.sec.android.cover.clearcover.ClearCoverZeroPage android:id="@id/clear_cover_main_page" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="153.0dip">
+            <include layout="@layout/clear_cover_home_widget" />
+        </FrameLayout>
+        <com.sec.android.cover.widget.RemoteViewContainerView android:layout_gravity="center" android:id="@id/clear_sound_warning_contatiner" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </com.sec.android.cover.clearcover.ClearCoverZeroPage>
+    <TextView android:textSize="16.0dip" android:textColor="@color/clear_cover_font_color" android:layout_gravity="center_horizontal" android:id="@id/content_root_pin_window" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="222.0dip" android:text="@string/pinwindowcover_warning_content" android:drawableTop="@drawable/clear_ic_pin" android:drawablePadding="28.0dip" />
+</com.sec.android.cover.clearcover.ClearCoverView>

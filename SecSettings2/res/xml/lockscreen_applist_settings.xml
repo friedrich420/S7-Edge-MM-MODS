@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:touchwiz="http://schemas.android.com/apk/res/touchwiz">
+    <com.android.settings.DropDownPreference android:title="@string/lockscreen_content_on_lock_screen" android:key="set_visibility" />
+    <PreferenceCategory android:title="@string/notifications_show_applications" android:key="applist_category" />
+    <SwitchPreference android:title="@string/notifications_all_apps" android:key="notification_all_apps" />
+</PreferenceScreen>

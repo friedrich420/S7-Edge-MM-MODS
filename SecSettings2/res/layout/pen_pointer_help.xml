@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:paddingLeft="@dimen/body_text_side_padding" android:paddingTop="@dimen/body_text_top_padding" android:paddingRight="@dimen/body_text_side_padding" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <TextView android:textAppearance="?android:textAppearanceMedium" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/pen_air_view_help_pointer_msg" />
+        <ImageView android:gravity="center" android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/spen_help_margin_top" android:src="@drawable/spen_basic_settings_help_infopreview_mtrl" android:adjustViewBounds="true" />
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/wifi_eap_sim_sim1" android:key="set_attribution_and_operator">
+        <ListPreference android:entries="@array/entries_province_choose" android:title="@string/province_choose" android:key="province_choose" android:summary="@string/defualt_summary" android:dialogTitle="@string/province_choose_title" android:entryValues="@array/entriesvalues_province_choose" />
+        <ListPreference android:entries="@array/entries_none_choose" android:title="@string/city_choose" android:key="city_choose" android:summary="@string/defualt_summary" android:dialogTitle="@string/city_choose_title" android:entryValues="@array/entriesvalues_none_choose" />
+        <ListPreference android:entries="@array/entries_operator_choose" android:title="@string/operator_choose" android:key="operator_choose" android:summary="@string/defualt_summary" android:dialogTitle="@string/operator_choose_title" android:entryValues="@array/entriesvalues_operator_choose" />
+        <ListPreference android:entries="@array/entries_none_operator_choose" android:title="@string/package_choose" android:key="package_choose" android:summary="@string/defualt_summary" android:dialogTitle="@string/package_choose_title" android:entryValues="@array/entries_none_operator_choose" />
+        <EditTextPreference android:title="@string/set_query_order" android:key="set_order_editor" android:summary="@string/set_query_order_summary" android:dialogTitle="@string/set_query_order_title" />
+        <PreferenceScreen android:title="@string/set_start_date" android:key="set_package_start_date" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/wifi_eap_sim_sim2" android:key="set_attribution_and_operator_1">
+        <ListPreference android:entries="@array/entries_province_choose" android:title="@string/province_choose" android:key="province_choose_1" android:summary="@string/defualt_summary" android:dialogTitle="@string/province_choose_title" android:entryValues="@array/entriesvalues_province_choose" />
+        <ListPreference android:entries="@array/entries_none_choose" android:title="@string/city_choose" android:key="city_choose_1" android:summary="@string/defualt_summary" android:dialogTitle="@string/city_choose_title" android:entryValues="@array/entriesvalues_none_choose" />
+        <ListPreference android:entries="@array/entries_operator_choose" android:title="@string/operator_choose" android:key="operator_choose_1" android:summary="@string/defualt_summary" android:dialogTitle="@string/operator_choose_title" android:entryValues="@array/entriesvalues_operator_choose" />
+        <ListPreference android:entries="@array/entries_none_operator_choose" android:title="@string/package_choose" android:key="package_choose_1" android:summary="@string/defualt_summary" android:dialogTitle="@string/package_choose_title" android:entryValues="@array/entries_none_operator_choose" />
+        <EditTextPreference android:title="@string/set_query_order" android:key="set_order_editor_1" android:summary="@string/set_query_order_summary" android:dialogTitle="@string/set_query_order_title" />
+        <PreferenceScreen android:title="@string/set_start_date" android:key="set_package_start_date_1" />
+    </PreferenceCategory>
+</PreferenceScreen>

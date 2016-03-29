@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:id="@id/fota_stub" android:background="@color/add_quick_settings_bg_color" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:background="@drawable/fota_update_stub_bg" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/dashboard_fota_stub_margin" android:elevation="2.0dip">
+        <LinearLayout android:orientation="horizontal" android:paddingLeft="@dimen/dashboard_fota_stub_text_margin" android:paddingTop="@dimen/dashboard_fota_stub_text_margin" android:paddingRight="@dimen/dashboard_fota_stub_text_margin" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:textSize="@dimen/dashboard_fota_title_size" android:textColor="@color/dashboard_fota_title_color" android:ellipsize="marquee" android:id="@id/title" android:fadingEdge="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/software_update_settings_list_item_title" android:singleLine="true" android:layout_weight="1.0" />
+            <ImageView android:gravity="end" android:id="@id/cancel" android:focusable="true" android:layout_width="@dimen/dashboard_fota_close_icon_size" android:layout_height="@dimen/dashboard_fota_close_icon_size" android:src="@drawable/dashboard_fota_close" />
+        </LinearLayout>
+        <TextView android:textSize="@dimen/dashboard_fota_summary_size" android:textColor="@color/dashboard_fota_summary_color" android:id="@id/status" android:paddingLeft="@dimen/dashboard_fota_stub_text_margin" android:paddingRight="@dimen/dashboard_fota_stub_text_margin" android:paddingBottom="@dimen/dashboard_fota_stub_text_margin" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/fota_update_summary" android:layout_below="@id/title" android:layout_alignStart="@android:id/title" />
+    </LinearLayout>
+</LinearLayout>

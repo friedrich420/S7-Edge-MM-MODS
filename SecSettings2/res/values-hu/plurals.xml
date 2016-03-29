@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Már csak %d lépésre van attól, hogy fejlesztő legyen.</item>
+        <item quantity="one">Már csak 1 lépésre van attól, hogy fejlesztő legyen.</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">%1$d ujjlenyomat beállítása</item>
+        <item quantity="one">%1$d ujjlenyomat beállítása</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">A jelszóban szerepelnie kell legalább %d betűnek.</item>
+        <item quantity="one">A jelszóban szerepelnie kell legalább 1 betűnek.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">A jelszóban szerepelnie kell legalább %d kisbetűnek.</item>
+        <item quantity="one">A jelszóban szerepelnie kell legalább 1 kisbetűnek.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">A jelszóban szerepelnie kell legalább %d nagybetűnek.</item>
+        <item quantity="one">A jelszóban szerepelnie kell legalább 1 nagybetűnek.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">A jelszóban szerepelnie kell legalább %d számjegynek.</item>
+        <item quantity="one">A jelszóban szerepelnie kell legalább 1 számjegynek.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">A jelszóban szerepelnie kell legalább %d szimbólumnak.</item>
+        <item quantity="one">A jelszóban szerepelnie kell legalább 1 különleges szimbólumnak.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">A jelszóban szerepelnie kell legalább %d számjegynek vagy szimbólumnak.</item>
+        <item quantity="one">A jelszóban szerepelnie kell legalább 1 számjegynek vagy szimbólumnak.</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">A SIM kártya PIN kódja helytelen. %d próbálkozás maradt. Utána a szolgáltatótól kell feloldást kérnie.</item>
+        <item quantity="one">A SIM kártya PIN kódja helytelen. %d próbálkozás maradt.</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d alkalmazás olvashat értesítéseket.</item>
+        <item quantity="one">%d alkalmazásnak van engedélye az értesítések olvasására.</item>
+    </plurals>
+    <plurals name="manage_condition_providers_summary_nonzero">
+        <item quantity="other">%d telepített alkalmazás biztosítja a funkció feltételeit</item>
+        <item quantity="one">%d app provides conditions</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">Csak riasztások egy percen át, eddig: %2$s</item>
+        <item quantity="one">Csak riasztások %1$d percen át (eddig: %2$s)</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">Csak riasztások egy órán át, eddig: %2$s</item>
+        <item quantity="one">Csak riasztások %1$d órán át, eddig: %2$s</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">%d engedély megadva</item>
+        <item quantity="one">%d engedély megadva</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">%1$d/%2$d engedély megadva</item>
+        <item quantity="one">%1$d/%2$d engedély megadva</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">%d további engedély</item>
+        <item quantity="one">%d további engedély</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">%d apps can open their supported links</item>
+        <item quantity="zero">%d alkalmazás tudja megnyitni a támogatott linkjeit</item>
+        <item quantity="one">Egy alkalmazás tudja megnyitni a támogatott linkjeit</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">1 alkalmazás hagyhatja figyelmen kívül az akkumulátoroptimalizálást</item>
+        <item quantity="one">%d alkalmazás hagyhatja figyelmen kívül az akkumulátoroptimalizálást</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">1 alkalmazás használta a memóriát az elmúlt %2$s során</item>
+        <item quantity="one">%1$d alkalmazás használta a memóriát az elmúlt %2$s során</item>
+    </plurals>
+    <plurals name="lock_timeout_hours">
+        <item quantity="other">%d óra</item>
+        <item quantity="one">1 óra</item>
+    </plurals>
+    <plurals name="lock_timeout_minutes">
+        <item quantity="other">%d perc</item>
+        <item quantity="one">1 perc</item>
+    </plurals>
+    <plurals name="lock_timeout_seconds">
+        <item quantity="other">%d másodperc</item>
+        <item quantity="one">1 másodperc</item>
+    </plurals>
+</resources>

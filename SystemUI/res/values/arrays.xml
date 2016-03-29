@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="batterymeter_bolt_points">
+        <item>73</item>
+        <item>0</item>
+        <item>392</item>
+        <item>0</item>
+        <item>201</item>
+        <item>259</item>
+        <item>442</item>
+        <item>259</item>
+        <item>4</item>
+        <item>703</item>
+        <item>157</item>
+        <item>334</item>
+        <item>0</item>
+        <item>334</item>
+    </integer-array>
+    <array name="s_view_cover_digital_clock_styles">
+        <item>@array/s_view_cover_digital_clock_style1</item>
+        <item>@array/s_view_cover_digital_clock_style2</item>
+    </array>
+    <array name="s_view_cover_digital_clock_style1">
+        <item>Style1</item>
+        <item>@layout/s_view_cover_digital_clock_style1</item>
+        <item>@drawable/digital_clock_preview_style1</item>
+    </array>
+    <array name="s_view_cover_digital_clock_style2">
+        <item>Style2</item>
+        <item>@layout/s_view_cover_digital_clock_style2</item>
+        <item>@drawable/digital_clock_preview_style2</item>
+    </array>
+    <array name="s_view_cover_analog_clock_styles">
+        <item>@array/s_view_cover_analog_clock_style1</item>
+    </array>
+    <array name="s_view_cover_analog_clock_style1">
+        <item>Style1</item>
+        <item>@drawable/bg_watch_style</item>
+        <item>@drawable/img_watch_minute_n</item>
+        <item>@drawable/img_watch_hour_n</item>
+        <item>@drawable/analog_clock_preview_style1</item>
+        <item>@drawable/img_watch_second_n</item>
+    </array>
+    <array name="s_view_cover_stylized_clock_styles">
+        <item>@array/s_view_cover_stylized_clock_style_01</item>
+        <item>@array/s_view_cover_stylized_clock_style_02</item>
+        <item>@array/s_view_cover_stylized_clock_style_03</item>
+    </array>
+    <array name="s_view_cover_stylized_clock_style_01">
+        <item>StylizedClockStyle01</item>
+        <item>@drawable/styleclock_thum_04</item>
+        <item>@layout/s_view_cover_stylized_clock_style_02</item>
+        <item>@drawable/lock_circle_01_default</item>
+        <item>@drawable/main_circle_ic_settings</item>
+        <item>@drawable/lock_circle_ic_camera</item>
+        <item>@color/sview_cover_wallpaper_title_text_color</item>
+    </array>
+    <array name="s_view_cover_stylized_clock_style_02">
+        <item>StylizedClockStyle02</item>
+        <item>@drawable/styleclock_thum_02</item>
+        <item>@layout/s_view_cover_stylized_clock_style_01</item>
+        <item>@drawable/lock_circle_style_01_black</item>
+        <item>@drawable/lock_circle_ic_style_01_settings</item>
+        <item>@drawable/lock_circle_ic_style_01_camera</item>
+        <item>@color/sview_cover_analog_01_text_color</item>
+    </array>
+    <array name="s_view_cover_stylized_clock_style_03">
+        <item>StylizedClockStyle03</item>
+        <item>@drawable/styleclock_thum_03</item>
+        <item>@layout/s_view_cover_stylized_clock_style_03</item>
+        <item>@drawable/lock_circle_style_02_default</item>
+        <item>@drawable/lock_circle_ic_style_02_settings</item>
+        <item>@drawable/lock_circle_ic_style_02_camera</item>
+        <item>@color/sview_cover_analog_02_text_color</item>
+    </array>
+    <array name="s_view_cover_default_wallpaper_drawable_list">
+        <item>@drawable/wallpaper_default_01</item>
+    </array>
+    <array name="s_view_cover_default_wallpaper_thumbnail_id_list">
+        <item>@id/wallpaper_thumnail01</item>
+        <item>@id/wallpaper_thumnail02</item>
+        <item>@id/wallpaper_thumnail03</item>
+        <item>@id/wallpaper_thumnail_gallery</item>
+    </array>
+    <array name="s_view_cover_stylized_clock_preview_drawable_list">
+        <item>@drawable/styleclock_thum_01</item>
+        <item>@drawable/styleclock_thum_04</item>
+        <item>@drawable/styleclock_thum_02</item>
+        <item>@drawable/styleclock_thum_03</item>
+    </array>
+    <array name="mini_view_cover_default_wallpaper_color_list">
+        <item>@color/sview_mini_cover_color_0</item>
+        <item>@color/sview_mini_cover_color_1</item>
+        <item>@color/sview_mini_cover_color_2</item>
+        <item>@color/sview_mini_cover_color_3</item>
+        <item>@color/sview_mini_cover_color_4</item>
+    </array>
+    <string-array name="lockscreen_num_pad_klondike">
+        <item></item>
+        <item></item>
+        <item>ABC</item>
+        <item>DEF</item>
+        <item>GHI</item>
+        <item>JKL</item>
+        <item>MNO</item>
+        <item>PQRS</item>
+        <item>TUV</item>
+        <item>WXYZ</item>
+    </string-array>
+    <string-array name="snapview_weekday_morning_greetings">
+        <item>@string/snap_view_text_timebased_weekday_morning1</item>
+        <item>@string/snap_view_text_timebased_weekday_morning2</item>
+        <item>@string/snap_view_text_timebased_weekday_morning3</item>
+        <item>@string/snap_view_text_timebased_weekday_morning4</item>
+        <item>@string/snap_view_text_timebased_weekday_morning5</item>
+        <item>@string/snap_view_text_timebased_weekday_morning6</item>
+        <item>@string/snap_view_text_timebased_weekday_morning7</item>
+        <item>@string/snap_view_text_timebased_weekday_morning8</item>
+        <item>@string/snap_view_text_timebased_weekday_morning9</item>
+        <item>@string/snap_view_text_timebased_weekday_morning10</item>
+        <item>@string/snap_view_text_timebased_weekday_morning11</item>
+        <item>@string/snap_view_text_timebased_weekday_morning12</item>
+    </string-array>
+    <string-array name="snapview_friday_evening_greetings">
+        <item>@string/snap_view_text_timebased_friday_evening1</item>
+        <item>@string/snap_view_text_timebased_friday_evening2</item>
+        <item>@string/snap_view_text_timebased_friday_evening3</item>
+    </string-array>
+    <integer-array name="batterymeter_color_levels">
+        <item>15</item>
+        <item>100</item>
+    </integer-array>
+    <array name="batterymeter_color_values">
+        <item>@color/battery_low_mode_color_on_status_bar</item>
+        <item>#ffffffff</item>
+    </array>
+    <integer-array name="batterymeter_color_levels_sec">
+        <item>15</item>
+        <item>100</item>
+    </integer-array>
+    <array name="batterymeter_color_values_sec">
+        <item>#ffffffff</item>
+        <item>#ffffffff</item>
+    </array>
+    <integer-array name="batterymeter_color_levels_sec_multicolor">
+        <item>4</item>
+        <item>10</item>
+        <item>20</item>
+        <item>100</item>
+    </integer-array>
+    <array name="batterymeter_color_values_sec_multicolor">
+        <item>#ffff3100</item>
+        <item>#ffff3100</item>
+        <item>#ffffd700</item>
+        <item>#ffffffff</item>
+    </array>
+    <string-array name="volume_stream_titles">
+        <item>Voice calls</item>
+        <item>System</item>
+        <item>Notifications</item>
+        <item>Media</item>
+        <item>Alarms</item>
+        <item></item>
+        <item>Bluetooth calls</item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Scanning…</item>
+        <item>Connecting…</item>
+        <item>Authenticating…</item>
+        <item>Obtaining IP address…</item>
+        <item>Connected</item>
+        <item>Suspended</item>
+        <item>Disconnecting…</item>
+        <item>Disconnected</item>
+        <item>Unsuccessful</item>
+        <item>Blocked</item>
+        <item>Temporarily avoiding poor connection</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Scanning…</item>
+        <item>Connecting to %1$s…</item>
+        <item>Authenticating with %1$s…</item>
+        <item>Obtaining IP address from %1$s…</item>
+        <item>Connected to %1$s</item>
+        <item>Suspended</item>
+        <item>Disconnecting from %1$s…</item>
+        <item>Disconnected</item>
+        <item>Unsuccessful</item>
+        <item>Blocked</item>
+        <item>Temporarily avoiding poor connection</item>
+    </string-array>
+</resources>

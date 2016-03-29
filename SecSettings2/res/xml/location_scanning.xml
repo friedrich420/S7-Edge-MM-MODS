@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/security_settings_improve_accuracy_title"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <SwitchPreference android:persistent="false" android:title="@string/location_scanning_wifi_always_scanning_title" android:key="wifi_always_scanning" android:summary="@string/location_scanning_wifi_always_scanning_description" android:defaultValue="true" />
+    <SwitchPreference android:persistent="false" android:title="@string/location_scanning_bluetooth_always_scanning_title" android:key="bluetooth_always_scanning" android:summary="@string/location_scanning_bluetooth_always_scanning_description" android:defaultValue="true" />
+</PreferenceScreen>

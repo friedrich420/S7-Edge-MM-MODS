@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Шалгаж байна…</item>
+        <item>Холбогдож байна…</item>
+        <item>Баталгаажуулж байна…</item>
+        <item>IP хаяг авч байна…</item>
+        <item>Холбогдсон</item>
+        <item>Түр зогсоосон</item>
+        <item>Салгагдаж байна…</item>
+        <item>Салгасан</item>
+        <item>Амжилтгүй</item>
+        <item>Хаагдсан</item>
+        <item>Интернэт холболтынхоо чанарыг шалгаж байна…</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Шалгаж байна…</item>
+        <item>%s-д холбогдож байна…</item>
+        <item>%s-тай баталгаажуулж байна…</item>
+        <item>%s -с IP хаяг авч байна…</item>
+        <item>%1$s руу холбогдсон</item>
+        <item>Түр зогсоосон</item>
+        <item>%s-с салгагдаж байна…</item>
+        <item>Салгасан</item>
+        <item>Амжилтгүй</item>
+        <item>Хаагдсан</item>
+        <item>Интернэт холболтынхоо чанарыг шалгаж байна…</item>
+    </string-array>
+    <string-array name="screen_timeout_entries">
+        <item>15 секунд</item>
+        <item>30 секунд</item>
+        <item>1 минут</item>
+        <item>2 минут</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>30 минут</item>
+    </string-array>
+    <string-array name="screen_timeout_for_device_lock_entries">
+        <item>15 секунд</item>
+        <item>30 секунд</item>
+        <item>1 минут</item>
+        <item>3 минут</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>15 минут</item>
+        <item>30 минут</item>
+    </string-array>
+    <string-array name="device_lock_timeout_entries">
+        <item>Тэжээлийн товчлуураар эсвэл дэлгэц амрахад шууд</item>
+        <item>15 секунд</item>
+        <item>30 секунд</item>
+        <item>1 минут</item>
+        <item>3 минут</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>15 минут</item>
+        <item>30 минут</item>
+        <item>1 цаг</item>
+    </string-array>
+    <string-array name="lock_after_timeout_entries">
+        <item>Даруй</item>
+        <item>5 секунд</item>
+        <item>15 секунд</item>
+        <item>30 секунд</item>
+        <item>1 минут</item>
+        <item>2 минут</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>30 минут</item>
+    </string-array>
+    <string-array name="entries_font_size">
+        <item>Жижиг</item>
+        <item>Бага</item>
+        <item>Хэвийн</item>
+        <item>Том</item>
+        <item>Маш том</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>Маш удаан</item>
+        <item>Удаан</item>
+        <item>Хэвийн</item>
+        <item>Хурдан</item>
+        <item>хурдан</item>
+        <item>Их хурдан</item>
+        <item>Түргэн</item>
+        <item>Маш түргэн</item>
+        <item>Хамгийн хурдан</item>
+    </string-array>
+    <string-array name="wifi_ap_security_testmode">
+        <item>Нээх</item>
+        <item>WPA2 PSK</item>
+    </string-array>
+    <string-array name="wifi_eap_method">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+        <item>СИМ</item>
+        <item>AKA</item>
+        <item>"AKA'"</item>
+    </string-array>
+    <string-array name="wifi_p2p_status">
+        <item>Холбогдсон</item>
+        <item>Уригдсан</item>
+        <item>Холболт тасарсан</item>
+        <item>Холбогдохын тулд энд товш.</item>
+        <item>Сүлжээнээс гарсан</item>
+        <item>Өөр төхөөрөмжтэй холбогдсон</item>
+    </string-array>
+    <string-array name="wifi_ap_wifi_sharing">
+        <item>Wi-Fi хувц.г ид.жүүл</item>
+        <item>Wi-Fi хувц.г ид.гүй</item>
+    </string-array>
+    <string-array name="wifi_ap_timeout">
+        <item>Хугацааг хэзээ ч дуусгахгүй</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>20 минут</item>
+        <item>30 минут</item>
+        <item>60 минут</item>
+    </string-array>
+    <string-array name="wifi_ap_connection_mode">
+        <item>Бүх төхөөрөмж зөвшр</item>
+        <item>Зөвхөн зөвшөөрсөн төхөөрөмжүүд</item>
+    </string-array>
+    <string-array name="wifi_ap_channel">
+        <item>Автомат</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+    </string-array>
+    <string-array name="wifi_share_profile_access_timeout">
+        <item>6 цаг</item>
+        <item>12 цаг</item>
+        <item>24 цаг</item>
+        <item>Цагийн хязгааргүй</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>Сул</item>
+        <item>Дунд зэрэг</item>
+        <item>Сайн</item>
+        <item>Хүчтэй</item>
+        <item>Маш хүчтэй</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries">
+        <item>"Үргэлж
+(Зайн зарцуулалтыг ихэсгэнэ)"</item>
+        <item>Цэнэглэж байх үед</item>
+        <item>"Хэзээч
+(дата хэрэглээг нэмнэ)"</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries_wifi_only">
+        <item>"Үргэлж
+(Зайн зарцуулалтыг ихэсгэнэ)"</item>
+        <item>Цэнэглэж байх үед</item>
+        <item>Хэзээ ч үгүй</item>
+    </string-array>
+    <string-array name="wifi_frequency_band_entries">
+        <item>Автомат</item>
+        <item>Зөвхөн 5 ГГц</item>
+        <item>Зөвхөн 2,4 ГГц</item>
+    </string-array>
+    <string-array name="wifi_frequency_band_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="usage_stats_display_order_types">
+        <item>Ашиглалтын хугацаа</item>
+        <item>Ашигласан сүүлийн цаг</item>
+        <item>Програмын нэр</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries">
+        <item>Алга</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>Алга</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>Статик</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>Алга</item>
+        <item>Гараар</item>
+        <item>Авто тохируулга</item>
+    </string-array>
+    <string-array name="wifi_iwlan_settings">
+        <item>Асаах</item>
+        <item>Унтраах</item>
+    </string-array>
+    <string-array name="apn_auth_entries">
+        <item>Алга</item>
+        <item>PAP</item>
+        <item>CHAP</item>
+        <item>PAP эсвэл CHAP</item>
+    </string-array>
+    <string-array name="apn_protocol_entries">
+        <item>IPv4</item>
+        <item>IPv6</item>
+        <item>IPv4/IPv6</item>
+    </string-array>
+    <string-array name="bearer_entries">
+        <item>Тодорхойлогдоогүй</item>
+        <item>LTE</item>
+        <item>HSPAP</item>
+        <item>HSPA</item>
+        <item>HSUPA</item>
+        <item>HSDPA</item>
+        <item>UMTS</item>
+        <item>EDGE</item>
+        <item>GPRS</item>
+        <item>eHRPD</item>
+        <item>EVDO_B</item>
+        <item>EVDO_A</item>
+        <item>EVDO_0</item>
+        <item>1xRTT</item>
+        <item>IS95B</item>
+        <item>IS95A</item>
+    </string-array>
+    <string-array name="mvno_type_entries">
+        <item>Алга</item>
+        <item>SPN</item>
+        <item>IMSI</item>
+        <item>GID</item>
+    </string-array>
+    <string-array name="app_install_location_entries">
+        <item>Төхөөрөмжийн дотоод хадгалалт</item>
+        <item>Авагддаг SD карт</item>
+        <item>Системээр шийдүүлэх</item>
+    </string-array>
+    <string-array name="app_ops_categories">
+        <item>Байршил</item>
+        <item>Хувийн</item>
+        <item>Мессежээр харилцаж байна</item>
+        <item>Медиа</item>
+        <item>Төхөөрөмж</item>
+        <item>Автоматаар ажиллуулах</item>
+    </string-array>
+    <string-array name="app_ops_summaries">
+        <item>бүдүүн байршил</item>
+        <item>сайн байршил</item>
+        <item>GPS</item>
+        <item>Чичиргээ</item>
+        <item>Харилцагчид унших</item>
+        <item>Харилцагчид засварлах</item>
+        <item>Дуудлагын бүртгэл унших</item>
+        <item>Дуудлагын бүртгэл бичих</item>
+        <item>Цаглабар унших</item>
+        <item>Цаглавар удирдах</item>
+        <item>Wi-Fi сүлжээнүүд унших</item>
+        <item>Мэдэгдэл</item>
+        <item>Сүлжээ унших</item>
+        <item>Утасны дуудлага хийх</item>
+        <item>Текст зурвасуудыг унших</item>
+        <item>Текст зурваснууд бичих</item>
+        <item>Текст зурвасууд хүлээн авах</item>
+        <item>Яаралтай тусламжийн текст зурвасууд хүлээн авах</item>
+        <item>Мультимедиа зурвасууд хүлээн авах</item>
+        <item>WAP push зурвасууд хүлээн авах</item>
+        <item>Текст зурвасууд илгээх</item>
+        <item>SIM карт дээрх текст зурвасуудыг унших</item>
+        <item>Текст зурвасууд SIM картанд бичих</item>
+        <item>Тохиргоо өөрчлөх</item>
+        <item>Аппликейшны интерфэйсийн гадар</item>
+        <item>Мэдэгдлүүдэд хандах</item>
+        <item>Камер</item>
+        <item>Бичлэгийн аудио</item>
+        <item>Аудио файлуудыг тоглуулах</item>
+        <item>Түр санах ой дата унших</item>
+        <item>Түр санах ой дата удирдах</item>
+        <item>Медиа удирдах</item>
+        <item>Аудио фокус удирдах</item>
+        <item>Ерөнхий дууны хэмжээ тохируулах</item>
+        <item>Дуудлага дахь дууны хэмжээ тохируулах</item>
+        <item>Хонхны дууны хэмжээ тохируулах</item>
+        <item>Медиа дууны хэмжээ тохируулах</item>
+        <item>Сэрүүлгийн дууны хэмжээ тохируулах</item>
+        <item>Дохионы дууны хэмжээ тохируулах</item>
+        <item>Bluetooth төхөөрөмжүүдээр тоглогдож байгаа дууны хэмжээ тохируулах</item>
+        <item>Дэлгэцийг асаатай байлгах</item>
+        <item>Байршлын мэдээлэл хянах</item>
+        <item>Өндөр нягтралтай байршлын мэдээлэл хянах</item>
+        <item>Төхөөрөмжийн ашиглалтын статитик унших</item>
+        <item>Микрофон асааж унтраах</item>
+        <item>Мэндчилгээг харуул</item>
+        <item>Медиан зураг авах</item>
+        <item>VPN-г идэвхжүүлэх</item>
+        <item>Wi-Fi-г асаах/унтраах</item>
+        <item>Bluetooth-г асаах/унтраах</item>
+        <item>Мультимедиа зурвас илгээх</item>
+        <item>Мультимедиа зурвас унших</item>
+        <item>Мультимедиа зурвас бичих</item>
+        <item>Автоматаар ажиллуулах</item>
+        <item>NFC-г асаах/унтраах</item>
+        <item>Бичвэр зурвасуудыг устгах</item>
+        <item>Мультимедиа зурвасуудыг устгах</item>
+        <item>Харилцагчид устгах</item>
+        <item>Delete call log</item>
+        <item>Моб. датаг асаах/унтраах</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Байршил</item>
+        <item>Байршил</item>
+        <item>Байршил</item>
+        <item>Чичиргээ</item>
+        <item>Харилцагчид унших</item>
+        <item>Харилцагчид засварлах</item>
+        <item>Дуудлагын бүртгэл унших</item>
+        <item>Дуудлагын бүртгэл бичих</item>
+        <item>Цаглабар унших</item>
+        <item>Цаглавар удирдах</item>
+        <item>Байршил</item>
+        <item>Мэдэгдлүүд харуулах</item>
+        <item>Байршил</item>
+        <item>Утасны дуудлага хийх</item>
+        <item>Текст зурвасуудыг унших</item>
+        <item>Текст зурваснууд бичих</item>
+        <item>Текст зурвасууд хүлээн авах</item>
+        <item>Яаралтай тусламжийн текст зурвасууд хүлээн авах</item>
+        <item>Мультимедиа зурвасууд хүлээн авах</item>
+        <item>WAP push зурвасууд хүлээн авах</item>
+        <item>Текст зурвасууд илгээх</item>
+        <item>SIM карт дээрх текст зурвасуудыг унших</item>
+        <item>Текст зурвасууд SIM картанд бичих</item>
+        <item>Тохиргоо өөрчлөх</item>
+        <item>Аппликейшны интерфэйсийн гадар</item>
+        <item>Мэдэгдлүүдэд хандах</item>
+        <item>Камер</item>
+        <item>Бичлэгийн аудио</item>
+        <item>Аудио файлуудыг тоглуулах</item>
+        <item>Түр санах ой дата унших</item>
+        <item>Түр санах ой дата удирдах</item>
+        <item>Медиа удирдах</item>
+        <item>Аудио фокус удирдах</item>
+        <item>Ерөнхий дууны хэмжээ тохируулах</item>
+        <item>Дуудлага дахь дууны хэмжээ тохируулах</item>
+        <item>Хонхны дууны хэмжээ тохируулах</item>
+        <item>Медиа дууны хэмжээ тохируулах</item>
+        <item>Сэрүүлгийн дууны хэмжээ тохируулах</item>
+        <item>Дохионы дууны хэмжээ тохируулах</item>
+        <item>Bluetooth төхөөрөмжүүдээр тоглогдож байгаа дууны хэмжээ тохируулах</item>
+        <item>Дэлгэцийг асаатай байлгах</item>
+        <item>Байрлал</item>
+        <item>Байрлал</item>
+        <item>Төхөөрөмжийн ашиглалтын статитик унших</item>
+        <item>Микрофон асааж унтраах</item>
+        <item>Мэндчилгээг харуул</item>
+        <item>Медиан зураг авах</item>
+        <item>VPN-г идэвхжүүлэх</item>
+        <item>Wi-Fi-г асаах/унтраах</item>
+        <item>Bluetooth-г асаах/унтраах</item>
+        <item>Мультимедиа зурвас илгээх</item>
+        <item>Мультимедиа зурвас унших</item>
+        <item>Мультимедиа зурвас бичих</item>
+        <item>Автоматаар ажиллуулах</item>
+        <item>NFC-г асаах/унтраах</item>
+        <item>Бичвэр зурвасуудыг устгах</item>
+        <item>Мультимедиа зурвасуудыг устгах</item>
+        <item>Харилцагчид устгах</item>
+        <item>delete call log</item>
+        <item>Моб. датаг асаах/унтраах</item>
+    </string-array>
+    <string-array name="long_press_timeout_selector_titles">
+        <item>Богино</item>
+        <item>Дунд зэргийн</item>
+        <item>Урт</item>
+    </string-array>
+    <string-array name="captioning_typeface_selector_titles">
+        <item>Өгөгдмөл</item>
+        <item>Sans serif</item>
+        <item>Нягтруулсан Sans serif</item>
+        <item>Нягтруулсан Sans serif</item>
+        <item>Serif</item>
+        <item>Нягтруулсан Serif</item>
+        <item>Жирийн</item>
+        <item>Таталган бичиг</item>
+        <item>Жижиг үсгүүд</item>
+    </string-array>
+    <string-array name="captioning_font_size_selector_titles">
+        <item>Маш жижиг</item>
+        <item>Жижиг</item>
+        <item>Энгийн</item>
+        <item>Том</item>
+        <item>Маш том</item>
+    </string-array>
+    <string-array name="captioning_edge_type_selector_titles">
+        <item>Өгөгдмөл</item>
+        <item>Алга</item>
+        <item>Хүрээлэх</item>
+        <item>Сүүдэр унагах</item>
+        <item>Дээшлүүлсэн</item>
+        <item>Дарсан</item>
+    </string-array>
+    <string-array name="captioning_opacity_selector_titles">
+        <item>25%</item>
+        <item>50%</item>
+        <item>75%</item>
+        <item>100%</item>
+    </string-array>
+    <string-array name="captioning_preset_selector_titles">
+        <item>Өгөгдмөл</item>
+        <item>Хар дээр цагаан</item>
+        <item>Цагаан дээр хар</item>
+        <item>Хар дээр шар</item>
+        <item>Хөх дээр шар</item>
+        <item>Дурын</item>
+    </string-array>
+    <string-array name="select_logd_size_titles">
+        <item>64K</item>
+        <item>256K</item>
+        <item>1М</item>
+        <item>4M</item>
+        <item>16M</item>
+    </string-array>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>64K</item>
+        <item>256K</item>
+        <item>1М</item>
+    </string-array>
+    <string-array name="select_logd_size_summaries">
+        <item>Бүртгэлийн буфер бүрт 64 кбайт</item>
+        <item>Бүртгэлийн буфер бүрт 256 кбайт</item>
+        <item>Бүртгэлийн буфер бүрт 1 Мбайт</item>
+        <item>Бүртгэлийн буфер бүрт 4 Мбайт</item>
+        <item>Бүртгэлийн буфер бүрт 16 Мбайт</item>
+    </string-array>
+    <string-array name="hdcp_checking_titles">
+        <item>Хэзээ ч бүү шалга</item>
+        <item>Зөвхөн DRM контентыг шалга</item>
+        <item>Үргэлж шалга</item>
+    </string-array>
+    <string-array name="hdcp_checking_summaries">
+        <item>HDCP шалгалт хэзээ ч бүү ашигла</item>
+        <item>Зөвхөн DRM агуулгад HDCP шалгалт ашигла</item>
+        <item>HDCP шалгалт үргэлж ашигла</item>
+    </string-array>
+    <string-array name="window_animation_scale_entries">
+        <item>Хөдөлгөөнт зураг идэвхгүй</item>
+        <item>Хөдөлгөөнт дүрсийн хэмжээ 0.5x</item>
+        <item>Хөдөлгөөнт дүрсийн хэмжээ 1x</item>
+        <item>Хөдөлгөөнт дүрсийн хэмжээ 1.5x</item>
+        <item>Хөдөлгөөнт дүрсийн хэмжээ 2x</item>
+        <item>Хөдөлгөөнт дүрсийн хэмжээ 5x</item>
+        <item>Хөдөлгөөнт дүрсийн хэмжээ 10x</item>
+    </string-array>
+    <string-array name="transition_animation_scale_entries">
+        <item>Хөдөлгөөнт зураг идэвхгүй</item>
+        <item>Хөдөлгөөнт дүрсийн хэмжээ 0.5x</item>
+        <item>Хөдөлгөөнт дүрсийн хэмжээ 1x</item>
+        <item>Хөдөлгөөнт дүрсийн хэмжээ 1.5x</item>
+        <item>Хөдөлгөөнт дүрсийн хэмжээ 2x</item>
+        <item>Хөдөлгөөнт дүрсийн хэмжээ 5x</item>
+        <item>Хөдөлгөөнт дүрсийн хэмжээ 10x</item>
+    </string-array>
+    <string-array name="animator_duration_scale_entries">
+        <item>Хөдөлгөөнт зураг идэвхгүй</item>
+        <item>Хөдөлгөөнт дүрсийн хэмжээ 0.5x</item>
+        <item>Хөдөлгөөнт дүрсийн хэмжээ 1x</item>
+        <item>Хөдөлгөөнт дүрсийн хэмжээ 1.5x</item>
+        <item>Хөдөлгөөнт дүрсийн хэмжээ 2x</item>
+        <item>Хөдөлгөөнт дүрсийн хэмжээ 5x</item>
+        <item>Хөдөлгөөнт дүрсийн хэмжээ 10x</item>
+    </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>Алга</item>
+        <item>480пиксель</item>
+        <item>720 x 480 mdpi (найдвартай)</item>
+        <item>720пиксель</item>
+        <item>1280 x 720 tvdpi (найдвартай)</item>
+        <item>1080пиксель</item>
+        <item>1920 x 1080 xhdpi (найдвартай)</item>
+        <item>1280 x 720 tvdpi ба 1920 x 1080 xhdpi</item>
+        <item>4К (найдвартай)</item>
+        <item>4К (өндөр чанартай)</item>
+        <item>4К (өндөр чанартай, найдвартай)</item>
+        <item>720пиксель, 1080пиксель (хос дэлгэц)</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>Алга</item>
+        <item>Logcat</item>
+        <item>Systrace (график)</item>
+        <item>glGetError дээр стек дуудах</item>
+    </string-array>
+    <string-array name="show_non_rect_clip_entries">
+        <item>Унтраах</item>
+        <item>Тэгш өнцөгт бус хайчилбаруудын гадаргыг хөхөөр тодруул</item>
+        <item>Сорьсон зургийн тушаалуудыг ногооноор тодруул</item>
+    </string-array>
+    <string-array name="track_frame_time_entries">
+        <item>Унтраах</item>
+        <item>Дэлгэц дээр багануудаар харуулах</item>
+        <item>adb shell dumpsys gfxinfo-д харуулах</item>
+    </string-array>
+    <string-array name="debug_hw_overdraw_entries">
+        <item>Унтраах</item>
+        <item>Хэтрүүлэх хэсгүүдийг харуулах</item>
+        <item>Ногоон өнгө ялгадаггүй хүмүүст зориулсан хэсгүүдийг харуул</item>
+    </string-array>
+    <string-array name="app_process_limit_entries">
+        <item>Стандарт хязгаар</item>
+        <item>Дэвсгэрийн ажиллагаа байхгүй</item>
+        <item>Дээд тал нь 1 ажиллагаа</item>
+        <item>Дээд тал нь 2 ажиллагаа</item>
+        <item>Дээд тал нь 3 ажиллагаа</item>
+        <item>Дээд тал нь 4 ажиллагаа</item>
+    </string-array>
+    <string-array name="vpn_states">
+        <item>Салгасан</item>
+        <item>Анхны утга өгч байна…</item>
+        <item>Холбогдож байна…</item>
+        <item>Холбогдсон</item>
+        <item>Завсарлага</item>
+        <item>Амжилтгүй</item>
+    </string-array>
+    <string-array name="ram_states">
+        <item>Энгийн</item>
+        <item>Аядуу</item>
+        <item>Доод</item>
+        <item>Аюултай</item>
+        <item>\?</item>
+    </string-array>
+    <string-array name="long_press_timeout_titles_selector">
+        <item>Богино (0,5 секунд)</item>
+        <item>Дунд (1,0 секунд)</item>
+        <item>Удаан (1,5 секунд)</item>
+        <item>Дурын</item>
+    </string-array>
+    <string-array name="time_interval_entries">
+        <item>3 минут</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>30 минут</item>
+        <item>1 цаг</item>
+    </string-array>
+    <string-array name="time_interval_entries_selectable">
+        <item>15 секунд</item>
+        <item>30 секунд</item>
+        <item>1 минут</item>
+        <item>3 минут</item>
+        <item>5 минут</item>
+    </string-array>
+    <string-array name="time_interval_entries_selectable_22">
+        <item>1 минут</item>
+        <item>3 минут</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>15 минут</item>
+    </string-array>
+    <string-array name="proc_stats_memory_states">
+        <item>Ердийн</item>
+        <item>Аядуу</item>
+        <item>Доод</item>
+        <item>Эгзэгтэй</item>
+    </string-array>
+    <string-array name="proc_stats_process_states">
+        <item>Тэсвэртэй</item>
+        <item>Топ үйлдэл</item>
+        <item>Чухал (наана)</item>
+        <item>Чухал (дэвсгэр)</item>
+        <item>Нөөцлөх</item>
+        <item>Хүнд жин</item>
+        <item>Үйлчилгээ (гүйлт)</item>
+        <item>Үйлчилгээ (дахин эхлүүлэх)</item>
+        <item>Хүлээн авагч</item>
+        <item>Гэр</item>
+        <item>Сүүлийн дасгал хөдөлгөөн</item>
+        <item>Кэшлэсэн (дасгал хөдөлгөөн)</item>
+        <item>Кэшлэсэн (үйлчлүүлэгчийн дасгал хөдөлгөөн)</item>
+        <item>Кэшлэсэн (хоосон)</item>
+    </string-array>
+    <string-array name="wifi_connect_entries">
+        <item>Автомат</item>
+        <item>Гараар</item>
+        <item>Үргэлж асуух</item>
+    </string-array>
+    <string-array name="data_usage_display_unit">
+        <item>MB/GB (auto change)</item>
+        <item>MB only</item>
+        <item>GB only</item>
+    </string-array>
+    <string-array name="color_picker">
+        <item>Усан цэнхэр</item>
+        <item>Цэнхэр</item>
+        <item>Индиго</item>
+        <item>Нил ягаан</item>
+        <item>Ягаан</item>
+        <item>Улаан</item>
+    </string-array>
+    <string-array name="touch_key_light_entries">
+        <item>1,5 секунд</item>
+        <item>6 секунд</item>
+        <item>Үргэлж идэвхгүй</item>
+        <item>Үргэлж идэвхтэй</item>
+    </string-array>
+    <string-array name="key_backlight_entries">
+        <item>Үргэлж идэвхгүй</item>
+        <item>1 секунд</item>
+        <item>3 секунд</item>
+        <item>5 секунд</item>
+        <item>10 секунд</item>
+        <item>15 секунд</item>
+    </string-array>
+    <string-array name="usb_configuration_titles">
+        <item>@string/usb_use_charging_only</item>
+        <item>MTP (Media Transfer Protocol)</item>
+        <item>PTP (Picture Transfer Protocol)</item>
+        <item>RNDIS (USB Ethernet)</item>
+        <item>Аудио сурвалж</item>
+        <item>MIDI</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_choices">
+        <item>Wi-Fi илүү эрхэмлэдэг</item>
+        <item>Үүрэн сүлжээг илүү эрхэмлэдэг</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_values">
+        <item>2</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="audio_output_entries">
+        <item>Стерео</item>
+        <item>Тойруулах</item>
+    </string-array>
+</resources>

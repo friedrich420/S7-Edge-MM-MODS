@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="carrier_and_clear_height">30.0dip</dimen>
+    <dimen name="carrier_and_clear_height_with_plmn">30.0dip</dimen>
+</resources>

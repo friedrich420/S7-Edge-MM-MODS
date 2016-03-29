@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.keyguard.status.SecKeyguardClockSingleImageView android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/keyguard_sec_clock_single_image" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:gravity="center" android:id="@id/keyguard_sec_clock_single_background" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="center" />
+    <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/keyguard_sec_clock_single_clock_date_wrapper" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:gravity="bottom|center" android:orientation="horizontal" android:id="@id/single_clock_time_image_container" android:focusable="false" android:clickable="false" android:layout_width="320.0dip" android:layout_height="@dimen/kg_singleclock_time_height">
+            <ImageView android:id="@id/hour_10th" android:layout_width="42.0dip" android:layout_height="60.0dip" android:scaleType="fitXY" />
+            <ImageView android:id="@id/hour_1th" android:layout_width="42.0dip" android:layout_height="60.0dip" android:scaleType="fitXY" />
+            <ImageView android:id="@id/split_hour_time" android:layout_width="16.0dip" android:layout_height="60.0dip" android:scaleType="fitXY" />
+            <ImageView android:id="@id/minute_10th" android:layout_width="42.0dip" android:layout_height="60.0dip" android:scaleType="fitXY" />
+            <ImageView android:id="@id/minute_1th" android:layout_width="42.0dip" android:layout_height="60.0dip" android:scaleType="fitXY" />
+        </LinearLayout>
+        <com.android.keyguard.status.KeyguardDateView android:textSize="@dimen/kg_singleclock_date_text_size" android:textColor="@color/theme_clock_date_color" android:id="@id/keyguard_single_clock_date" android:layout_width="wrap_content" android:layout_height="@dimen/kg_singleclock_date_height" android:layout_marginTop="1.0dip" android:fontFamily="roboto-regular" style="@style/keyguard_clock_weather_text_shadow" />
+    </LinearLayout>
+</com.android.keyguard.status.SecKeyguardClockSingleImageView>

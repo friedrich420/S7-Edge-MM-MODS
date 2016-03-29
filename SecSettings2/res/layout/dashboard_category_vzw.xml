@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/category" android:layout_width="fill_parent" android:layout_height="wrap_content" android:elevation="@dimen/dashboard_category_elevation"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:id="@id/tile_divider" android:background="?android:listDivider" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="@dimen/list_divider_height" android:layout_marginTop="@dimen/category_seperator_divider_top_margin" android:layout_marginBottom="@dimen/category_seperator_top_margin" />
+    <com.android.settings.widget.CategoryTextView android:textColor="@color/dashboard_category_text_view_text_color" android:ellipsize="marquee" android:id="@id/category_title" android:background="@color/dashboard_category_text_view_background_color" android:layout_width="fill_parent" android:singleLine="true" android:paddingStart="@dimen/dashboard_tile_start_padding" style="?android:attr/listSeparatorTextViewStyle" />
+    <View android:id="@id/tile_divider_bottom" android:background="?android:listDivider" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="@dimen/list_divider_height" />
+    <com.android.settings.dashboard.DashboardContainerView android:id="@id/category_content" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+</LinearLayout>

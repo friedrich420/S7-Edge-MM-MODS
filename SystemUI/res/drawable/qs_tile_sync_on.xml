@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list android:oneshot="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:duration="10" android:drawable="@drawable/sync_on_01" />
+    <item android:duration="17" android:drawable="@drawable/sync_on_02" />
+    <item android:duration="23" android:drawable="@drawable/sync_on_03" />
+    <item android:duration="30" android:drawable="@drawable/sync_on_04" />
+    <item android:duration="36" android:drawable="@drawable/sync_on_05" />
+    <item android:duration="43" android:drawable="@drawable/sync_on_06" />
+    <item android:duration="49" android:drawable="@drawable/sync_on_07" />
+    <item android:duration="56" android:drawable="@drawable/sync_on_08" />
+    <item android:duration="56" android:drawable="@drawable/sync_on_09" />
+    <item android:duration="50" android:drawable="@drawable/sync_on_10" />
+    <item android:duration="43" android:drawable="@drawable/sync_on_11" />
+    <item android:duration="37" android:drawable="@drawable/sync_on_12" />
+    <item android:duration="30" android:drawable="@drawable/sync_on_13" />
+    <item android:duration="24" android:drawable="@drawable/sync_on_14" />
+    <item android:duration="18" android:drawable="@drawable/sync_on_15" />
+    <item android:duration="11" android:drawable="@drawable/sync_on_16" />
+</animation-list>

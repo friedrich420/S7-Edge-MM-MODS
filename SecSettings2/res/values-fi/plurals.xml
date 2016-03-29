@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Olet nyt %d vaiheen päässä kehittäjä-tasosta.</item>
+        <item quantity="one">Olet nyt 1 vaiheen päässä kehittäjätasosta.</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">%1$d tunnistetiedosto määritetty</item>
+        <item quantity="one">%1$d tunnistetiedostoa määritetty</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Salasanassa on oltava ainakin %d kirjainta.</item>
+        <item quantity="one">Salasanassa on oltava ainakin 1 kirjain.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Salasanassa on oltava ainakin %d pientä kirjainta.</item>
+        <item quantity="one">Salasanassa on oltava ainakin 1 pieni kirjain.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Salasanassa on oltava ainakin %d suurta kirjainta.</item>
+        <item quantity="one">Salasanassa on oltava ainakin 1 suuri kirjain.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Salasanassa on oltava ainakin %d numeroa.</item>
+        <item quantity="one">Salasanassa on oltava ainakin 1 numero.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Salasanassa on oltava ainakin %d symbolia.</item>
+        <item quantity="one">Salasanassa on oltava ainakin 1 symboli.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Salasanassa on oltava ainakin %d numeroa tai symbolia.</item>
+        <item quantity="one">Salasanassa on oltava ainakin 1 numero tai symboli.</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Virheellinen SIM-kortin PIN-koodi. Sinulla on %d yritys jäljellä, ennen kuin sinun on otettava yhteyttä operaattoriin laitteen lukituksen avaamiseksi.</item>
+        <item quantity="one">Virheellinen SIM-kortin PIN-koodi. Sinulla on %d yritystä jäljellä.</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d sovellusta pystyy lukemaan ilmoituksia.</item>
+        <item quantity="one">%d sovellusta saa lukea ilmoituksia.</item>
+    </plurals>
+    <plurals name="manage_condition_providers_summary_nonzero">
+        <item quantity="other">Asennettu %d tämän toiminnon vaatimia ehtoja vastaavaa sovellusta</item>
+        <item quantity="one">%d app provides conditions</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">Ota vain herätykset käyttöön yhdeksi minuutiksi %2$s asti.</item>
+        <item quantity="one">Ota vain herätykset käyttöön %1$d minuutiksi %2$s asti.</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">Ota vain herätykset käyttöön yhdeksi tunniksi %2$s asti.</item>
+        <item quantity="one">Ota vain herätykset käyttöön %1$d yhdeksi tunniksi %2$s asti.</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">%d käyttöoikeus myönnetty</item>
+        <item quantity="one">%d käyttöoikeutta myönnetty</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">%1$d/%2$d lupaa myönnetty.</item>
+        <item quantity="one">%1$d/%2$d lupaa myönnetty.</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">Vielä %d käyttöoikeutta</item>
+        <item quantity="one">Vielä %d käyttöoikeus</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">%d apps can open their supported links</item>
+        <item quantity="zero">%d sovellusta voi avata tuetut linkkinsä.</item>
+        <item quantity="one">Yksi sovellus voi avata tuetut linkkinsä.</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">1 sovelluksella on oikeus ohittaa akun käytön optimointi.</item>
+        <item quantity="one">%d sovelluksella on oikeus ohittaa akun käytön optimointi.</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">viimeiset %2$s: 1 sovellus käytti muistia</item>
+        <item quantity="one">viimeiset %2$s: %1$d sovellusta käytti muistia</item>
+    </plurals>
+    <plurals name="lock_timeout_hours">
+        <item quantity="other">%d tuntia </item>
+        <item quantity="one">1 tunti</item>
+    </plurals>
+    <plurals name="lock_timeout_minutes">
+        <item quantity="other">%d minuuttia</item>
+        <item quantity="one">1 minuutti</item>
+    </plurals>
+    <plurals name="lock_timeout_seconds">
+        <item quantity="other">%d sekuntia</item>
+        <item quantity="one">1 sekunti</item>
+    </plurals>
+</resources>

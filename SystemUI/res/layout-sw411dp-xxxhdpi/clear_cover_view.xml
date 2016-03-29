@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.sec.android.cover.clearcover.ClearCoverView android:id="@id/clear_cover_root" android:background="#ff000000" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.sec.android.cover.clearcover.ClearCoverNoblePage android:id="@id/clear_cover_main_page" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="129.0dip">
+            <include layout="@layout/clear_cover_home_widget" />
+        </FrameLayout>
+        <com.sec.android.cover.widget.RemoteViewContainerView android:layout_gravity="bottom" android:id="@id/clear_voice_recorder_remoteview_contatiner" android:layout_width="fill_parent" android:layout_height="155.0dip" android:layout_marginBottom="106.0dip" />
+        <com.sec.android.cover.widget.RemoteViewContainerView android:layout_gravity="bottom" android:id="@id/clear_music_remoteview_contatiner" android:layout_width="fill_parent" android:layout_height="148.0dip" android:layout_marginBottom="106.0dip" />
+        <com.sec.android.cover.widget.RemoteViewContainerView android:layout_gravity="bottom" android:id="@id/clear_s_voice_remoteview_contatiner" android:layout_width="fill_parent" android:layout_height="39.0dip" android:layout_marginBottom="124.0dip" />
+        <com.sec.android.cover.widget.RemoteViewContainerView android:layout_gravity="bottom" android:id="@id/clear_video_remoteview_contatiner" android:layout_width="fill_parent" android:layout_height="148.0dip" android:layout_marginBottom="106.0dip" />
+        <com.sec.android.cover.widget.RemoteViewContainerView android:layout_gravity="center" android:id="@id/clear_sound_warning_remoteview_contatiner" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="29.0dip" android:paddingEnd="29.0dip" />
+        <TextView android:textSize="18.0sp" android:textColor="@color/sview_cover_theme_charging_text_font_color" android:gravity="center_horizontal" android:layout_gravity="bottom|center" android:id="@id/clear_cover_battery_charging" android:focusable="false" android:focusableInTouchMode="false" android:visibility="gone" android:layout_width="@dimen/sview_cover_battery_state_view_width" android:layout_height="wrap_content" android:layout_marginBottom="25.0dip" android:fontFamily="sec-roboto-light" />
+    </com.sec.android.cover.clearcover.ClearCoverNoblePage>
+    <TextView android:textSize="18.0sp" android:textColor="@color/clear_cover_font_color" android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:id="@id/content_root_pin_window" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="276.0dip" android:text="@string/pinwindowcover_warning_content" android:drawableTop="@drawable/clear_ic_pin" android:drawablePadding="30.0dip" android:fontFamily="sec-roboto-light" android:paddingStart="46.0dip" android:paddingEnd="46.0dip" />
+</com.sec.android.cover.clearcover.ClearCoverView>

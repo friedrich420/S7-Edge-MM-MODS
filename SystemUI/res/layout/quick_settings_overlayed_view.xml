@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:orientation="vertical" android:id="@id/qs_edit_long_pressed_icon" android:background="@drawable/quickpanel_edit_trace" android:layout_width="@dimen/qs_tile_icon_size" android:layout_height="@dimen/qs_tile_icon_size" android:layout_marginTop="@dimen/qs_tile_padding_top" android:alpha="0.0" />
+    <View android:layout_gravity="end|bottom|center" android:id="@id/qs_edit_cross_icon" android:background="@drawable/quickpanel_edit_cross" android:layout_width="@dimen/qs_edit_panel_cross_icon_width" android:layout_height="@dimen/qs_edit_panel_cross_icon_height" />
+</FrameLayout>

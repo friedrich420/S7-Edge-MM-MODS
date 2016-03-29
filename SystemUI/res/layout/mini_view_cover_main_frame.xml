@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.sec.android.cover.miniviewcover.MiniViewCoverMainFrameView android:id="@id/mini_view_cover_view" android:layout_width="fill_parent" android:layout_height="@dimen/mini_view_cover_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:layout_gravity="center_horizontal" android:orientation="vertical" android:id="@id/mini_view_cover_root" android:layout_width="@dimen/mini_view_cover_pager_width" android:layout_height="@dimen/mini_view_cover_height">
+        <FrameLayout android:layout_width="fill_parent" android:layout_height="@dimen/mini_view_cover_height">
+            <ImageView android:id="@id/mini_cover_setting_root_wallpaper" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+            <com.sec.android.cover.miniviewcover.MiniViewCoverPageView android:layout_gravity="center" android:id="@id/mini_view_cover_pager" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        </FrameLayout>
+    </FrameLayout>
+</com.sec.android.cover.miniviewcover.MiniViewCoverMainFrameView>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.keyguard.KeyguardPatternView android:gravity="bottom" android:orientation="vertical" android:id="@id/keyguard_pattern_view" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:androidprv="http://schemas.android.com/apk/res-auto">
+    <include android:gravity="center" android:layout_gravity="bottom|center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/kg_pattern_message_area_margin_bottom" layout="@layout/keyguard_message_area" />
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:layout_gravity="bottom|center" android:orientation="vertical" android:id="@id/container" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="-11.0dip" android:layout_marginBottom="45.0dip">
+            <com.android.keyguard.SecLockPatternView android:gravity="center" android:layout_gravity="center_horizontal" android:id="@id/lockPatternView" android:layout_width="fill_parent" android:layout_height="@dimen/kg_pattern_size" android:layout_marginBottom="15.0dip" android:layout_marginStart="8.0dip" android:layout_marginEnd="8.0dip" />
+        </LinearLayout>
+        <include android:gravity="center_horizontal" android:layout_gravity="bottom|center" android:orientation="vertical" android:id="@id/keyguard_selector_fade_container" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/kg_emergency_button_margin_bottom" layout="@layout/keyguard_eca" />
+    </FrameLayout>
+</com.android.keyguard.KeyguardPatternView>

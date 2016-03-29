@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/mini_view_cover_weatherhealth_layout" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:paddingTop="15.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:orientation="horizontal" android:id="@id/mini_weather_layout" android:layout_width="wrap_content" android:layout_height="@dimen/mini_cover_widget_weather_shealth_hight">
+            <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/mini_weather_container" android:focusable="true" android:focusableInTouchMode="true" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layoutDirection="ltr">
+                <ImageView android:id="@id/mini_weather_small_icon" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                <TextView android:textSize="32.0dip" android:textColor="#ffffffff" android:gravity="center" android:id="@id/mini_weather_small_temp" android:focusable="false" android:focusableInTouchMode="false" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginLeft="4.0dip" android:shadowColor="#80000000" android:shadowDy="3.0" android:shadowRadius="3.0" android:fontFamily="samsung-neo-num3L" />
+                <ImageView android:id="@id/mini_weather_small_unit" android:focusable="false" android:focusableInTouchMode="false" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                <TextView android:textSize="25.0dip" android:textColor="#ffffffff" android:id="@id/mini_weather_small_high_temp" android:focusable="false" android:focusableInTouchMode="false" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="4.0dip" android:shadowColor="#80000000" android:shadowDy="3.0" android:shadowRadius="3.0" android:fontFamily="samsung-neo-num3L" />
+                <ImageView android:id="@id/mini_weather_small_high_unit" android:focusable="false" android:focusableInTouchMode="false" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                <TextView android:textSize="25.0dip" android:textColor="#ffffffff" android:id="@id/mini_weather_small_Separator" android:focusable="false" android:focusableInTouchMode="false" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:shadowColor="#80000000" android:shadowDy="3.0" android:shadowRadius="3.0" />
+                <TextView android:textSize="25.0dip" android:textColor="#ffffffff" android:id="@id/mini_weather_small_low_temp" android:focusable="false" android:focusableInTouchMode="false" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="4.0dip" android:shadowColor="#80000000" android:shadowDy="3.0" android:shadowRadius="3.0" android:fontFamily="samsung-neo-num3L" />
+                <ImageView android:id="@id/mini_weather_small_low_unit" android:focusable="false" android:focusableInTouchMode="false" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            </LinearLayout>
+        </LinearLayout>
+        <com.sec.android.cover.widget.RemoteViewContainerView android:layout_gravity="center_vertical" android:id="@id/mini_clear_shealth_contatiner" android:layout_width="wrap_content" android:layout_height="@dimen/mini_cover_widget_weather_shealth_hight" android:paddingStart="@dimen/mini_cover_shealth_margin_left" android:paddingEnd="0.0dip" />
+    </LinearLayout>
+</FrameLayout>

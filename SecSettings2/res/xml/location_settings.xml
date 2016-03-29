@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/location_settings_title" android:key="location_settings" settings:keywords="@string/keywords_location"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <Preference android:enabled="true" android:title="@string/location_e911" android:key="location_e911" android:summary="@string/location_e911_description" style="?android:attr/preferenceInformationStyle" />
+    <Preference android:title="@string/location_mode_title" android:key="location_mode" android:fragment="com.android.settings.location.LocationMode" settings:dbMatchingName="location_mode_changed" settings:dbMatchingTable="history" settings:SettingsMode="UPSM" />
+    <Preference android:title="@string/security_settings_improve_accuracy_title" android:key="improve_location" android:fragment="com.android.settings.location.ScanningSettings" settings:SettingsMode="UPSM" />
+    <PreferenceCategory android:title="@string/managed_profile_location_category" android:key="managed_profile_location_category">
+        <Preference android:persistent="false" android:enabled="false" android:title="@string/managed_profile_location_switch_title" android:selectable="false" android:key="managed_profile_location_switch" android:summary="@string/managed_profile_location_switch_lockdown" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/location_category_recent_location_requests" android:key="recent_location_requests" />
+    <PreferenceCategory android:title="@string/location_category_location_services" android:key="location_services" />
+</PreferenceScreen>

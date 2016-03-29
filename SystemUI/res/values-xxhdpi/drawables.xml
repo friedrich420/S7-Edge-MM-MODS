@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="focused_bg">false</item>
+    <item type="drawable" name="ic_call_lock_normal">false</item>
+    <item type="drawable" name="ic_call_lock_pressed">false</item>
+    <item type="drawable" name="ic_email_lock_normal">false</item>
+    <item type="drawable" name="ic_email_lock_pressed">false</item>
+    <item type="drawable" name="keyguard_fmm_btn_default">false</item>
+    <item type="drawable" name="keyguard_fmm_btn_pressed">false</item>
+    <item type="drawable" name="mw_toast_frame_mtrl_light">false</item>
+    <item type="drawable" name="scrubber_primary_mtrl_alpha">false</item>
+    <item type="drawable" name="tw_ic_do_btn">false</item>
+    <item type="drawable" name="gradation_indi_bg">false</item>
+    <item type="drawable" name="ic_notification_overlay">false</item>
+    <item type="drawable" name="nav_background">false</item>
+    <item type="drawable" name="recents_lower_gradient">false</item>
+    <item type="drawable" name="recents_status_gradient">false</item>
+    <item type="drawable" name="recents_task_shadow">false</item>
+    <item type="drawable" name="screenshot_panel">false</item>
+    <item type="drawable" name="search_bg_transparent">false</item>
+    <item type="drawable" name="status_background">false</item>
+    <item type="drawable" name="taskmanager_btn_default_mtrl">false</item>
+    <item type="drawable" name="taskmanager_btn_default_transparency_mtrl">false</item>
+</resources>

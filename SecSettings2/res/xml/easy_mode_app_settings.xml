@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:key="easy_mode_apps"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <PreferenceCategory android:title="@string/easy_mode_settings_category_title" />
+    <SwitchPreferenceScreen android:title="@string/easy_mode_select_all" android:key="easy_mode_select_all" settings:dbMatchingName="easy_mode_select_all" settings:dbMatchingTable="system" />
+    <SwitchPreferenceScreen android:layout="@layout/easy_mode_preference" android:title="@string/application_name_camera" android:key="easy_mode_camera" settings:dbMatchingName="easy_mode_camera" settings:dbMatchingTable="system" />
+    <SwitchPreferenceScreen android:layout="@layout/easy_mode_preference" android:title="@string/application_name_email" android:key="easy_mode_email" settings:dbMatchingName="easy_mode_email" settings:dbMatchingTable="system" />
+    <SwitchPreferenceScreen android:layout="@layout/easy_mode_preference" android:title="@string/application_name_gallery" android:key="easy_mode_gallery" settings:dbMatchingName="easy_mode_gallery" settings:dbMatchingTable="system" />
+    <SwitchPreferenceScreen android:layout="@layout/easy_mode_preference" android:title="@string/application_name_internet" android:key="easy_mode_internet" settings:dbMatchingName="easy_mode_internet" settings:dbMatchingTable="system" />
+    <SwitchPreferenceScreen android:layout="@layout/easy_mode_preference" android:title="@string/application_name_message" android:key="easy_mode_messages" settings:dbMatchingName="easy_mode_messages" settings:dbMatchingTable="system" />
+    <SwitchPreferenceScreen android:layout="@layout/easy_mode_preference" android:title="@string/application_name_music" android:key="easy_mode_music" settings:dbMatchingName="easy_mode_music" settings:dbMatchingTable="system" />
+    <SwitchPreferenceScreen android:layout="@layout/easy_mode_preference" android:title="@string/application_name_phone" android:key="easy_mode_phone" settings:dbMatchingName="easy_mode_phone" settings:dbMatchingTable="system" />
+    <SwitchPreferenceScreen android:layout="@layout/easy_mode_preference" android:title="@string/application_name_splanner" android:key="easy_mode_splanner" settings:dbMatchingName="easy_mode_splanner" settings:dbMatchingTable="system" />
+    <SwitchPreferenceScreen android:layout="@layout/easy_mode_preference" android:title="@string/application_name_video" android:key="easy_mode_video" settings:dbMatchingName="easy_mode_video" settings:dbMatchingTable="system" />
+</PreferenceScreen>

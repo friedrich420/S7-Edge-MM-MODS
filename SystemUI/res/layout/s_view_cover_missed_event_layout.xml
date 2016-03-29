@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:id="@id/missed_event_layout" android:layout_width="@dimen/sview_cover_pager_width" android:layout_height="@dimen/sview_cover_height" android:layout_marginLeft="@dimen/sview_cover_margin" android:layout_marginRight="@dimen/sview_cover_margin"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/s_view_cover_missedevent_root_pattern" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerInParent="true">
+        <FrameLayout android:layout_width="fill_parent" android:layout_height="@dimen/sview_cover_titlebar_height">
+            <LinearLayout android:gravity="center|left" android:orientation="horizontal" android:background="@color/sview_cover_titlebar_bg_color" android:paddingLeft="@dimen/sview_cover_titlebar_padding_left" android:paddingTop="@dimen/sview_cover_titlebar_padding_top" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <ImageView android:gravity="center" android:id="@id/s_view_cover_missed_event_close_button" android:background="@drawable/ripple_effect_back_drawable" android:padding="16.0dip" android:focusable="true" android:layout_width="@dimen/sview_cover_titlebar_button_width" android:layout_height="@dimen/sview_cover_titlebar_button_width" android:src="@drawable/tw_ic_ab_back_mtrl" android:contentDescription="@string/back" />
+                <TextView android:textSize="@dimen/sview_cover_titlebar_text_size" android:textColor="@color/sview_cover_titlebar_text_color" android:gravity="center_vertical" android:id="@id/missed_event_title" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/volumepanel_notification" android:singleLine="true" android:fontFamily="sans-serif" />
+            </LinearLayout>
+        </FrameLayout>
+        <ListView android:id="@id/noti_item_list" android:layout_width="fill_parent" android:layout_height="fill_parent" android:listSelector="@drawable/list_item_selector" android:divider="@drawable/noti_list_divider" android:dividerHeight="1.0dip" />
+    </LinearLayout>
+</RelativeLayout>

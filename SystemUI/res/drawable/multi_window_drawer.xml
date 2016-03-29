@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:right="@dimen/controller_btn_bg_left_margin">
+        <bitmap android:src="@android:drawable/controller_btn_bg_left" />
+    </item>
+    <item android:left="@dimen/controller_btn_bg_right_margin">
+        <bitmap android:src="@android:drawable/controller_btn_bg_right" />
+    </item>
+</layer-list>

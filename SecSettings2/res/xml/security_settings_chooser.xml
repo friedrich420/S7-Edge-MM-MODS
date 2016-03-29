@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/lock_and_security_settings_title"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <PreferenceCategory android:title="@string/lockscreen_wallpaper" android:key="lockscreen_category">
+        <PreferenceScreen android:persistent="false" android:title="@string/unlock_set_unlock_launch_picker_title" android:key="unlock_set_or_change" />
+        <PreferenceScreen android:title="@string/info_and_app_shortcut_title" android:key="show_information" android:summary="@string/info_and_app_shortcut_summary" android:fragment="com.android.settings.ShowInfomationMenu" />
+        <PreferenceScreen android:title="@string/lockscreen_notifications" android:key="lock_screen_menu_notifications" android:fragment="com.android.settings.LockscreenNotificationApplist" />
+        <PreferenceScreen android:title="@string/lock_screen_secured_lock_settings_title" android:key="secured_lock_settigns" android:summary="@string/lock_screen_secured_lock_settings_summary" android:fragment="com.android.settings.SecuredLockSettingsMenu" />
+        <PreferenceScreen android:title="@string/lock_screen_swipe_lock_settings_title" android:key="swipe_lock_settings" android:summary="@string/lock_screen_swipe_lock_settings_summary" android:fragment="com.android.settings.SwipeLockSettings" />
+        <PreferenceScreen android:persistent="false" android:title="@string/unlock_effect" android:key="unlock_effect_with_preview" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/security_settings_title" android:key="security_category">
+        <PreferenceScreen android:persistent="false" android:title="@string/fingerprint" android:key="finger_scanner" />
+        <PreferenceScreen android:persistent="false" android:title="@string/find_my_mobile" android:key="find_my_mobile" android:summary="@string/find_my_mobile_summary" android:fragment="com.android.settings.fmm.FindMyMobileSettings" />
+        <PreferenceScreen android:persistent="false" android:title="@string/app_ops_settings" android:key="app_ops_settings" android:summary="@string/app_ops_settings_summary" android:fragment="com.android.settings.applications.AppOpsSummary" />
+        <SwitchPreference android:persistent="false" android:title="@string/install_applications" android:key="toggle_install_applications" android:summary="@string/install_applications_summary" />
+    </PreferenceCategory>
+</PreferenceScreen>

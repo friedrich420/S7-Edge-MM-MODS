@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/battery_history_chart_description_text_size" android:ellipsize="marquee" android:id="@id/textview" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/battery_preference_margin" android:layout_marginBottom="@dimen/battery_preference_margin" android:text="@string/battery_usage_description" android:singleLine="false" android:layout_marginStart="@dimen/list_item_start_padding" android:layout_marginEnd="@dimen/list_item_end_padding" style="@style/description_text" />
+</LinearLayout>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/power_usage_summary_title" settings:keywords="@string/keywords_battery"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <Preference android:key="battery_usage_desc" />
+    <PreferenceScreen android:title="@string/battery_app_optimisation_title" android:key="app_optimisation" />
+    <PreferenceScreen android:title="@string/power_saving_mode_title" android:key="powersaving" android:fragment="com.android.settings.powersavingmode.GenericPowerSavingMode" />
+    <PreferenceScreen android:title="@string/powersaving_ultra" android:key="ultra_powersaving" android:fragment="com.android.settings.powersavingmode.PowerSavingModeUltra" />
+    <SwitchPreference android:title="@string/fast_cable_charging_title" android:key="fast_cable_charging" android:summary="@string/fast_cable_charging_summary" />
+    <SwitchPreference android:title="@string/fast_wireless_charging" android:key="fast_wireless_charging" android:summary="@string/fast_wireless_charging_summary" />
+    <SwitchPreference android:persistent="false" android:title="@string/display_battery_percentage" android:key="display_battery_level" android:summary="@string/display_battery_percentage_summary" />
+    <PreferenceCategory android:title="@string/battery_history_chart_category" android:key="battery_history_category" />
+    <com.android.settings.fuelgauge.BatteryHistoryPreference android:key="battery_history" />
+    <PreferenceCategory android:title="@string/power_usage_list_summary" android:key="app_list" />
+</PreferenceScreen>

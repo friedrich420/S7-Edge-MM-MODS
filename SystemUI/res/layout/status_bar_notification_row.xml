@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.systemui.statusbar.ExpandableNotificationRow android:focusable="true" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ViewStub android:id="@id/notification_left_group_stub" android:layout="@layout/status_bar_notification_left_group" android:inflatedId="@id/notification_left_group" android:layout_width="fill_parent" android:layout_height="@dimen/notification_min_height" />
+    <ViewStub android:id="@id/notification_right_group_stub" android:layout="@layout/status_bar_notification_right_group" android:inflatedId="@id/notification_right_group" android:layout_width="fill_parent" android:layout_height="@dimen/notification_min_height" />
+    <com.android.systemui.statusbar.NotificationBackgroundView android:id="@id/backgroundNormal" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <com.android.systemui.statusbar.NotificationBackgroundView android:id="@id/backgroundDimmed" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <com.android.systemui.statusbar.NotificationContentView android:id="@id/expanded" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <com.android.systemui.statusbar.NotificationContentView android:id="@id/expandedPublic" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <com.android.systemui.statusbar.NotificationContentView android:id="@id/expandedKnox" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <Button android:gravity="end" android:id="@id/veto" android:background="@null" android:layout_width="48.0dip" android:layout_height="0.0dip" android:paddingStart="8.0dip" android:paddingEnd="8.0dip" android:layout_marginEnd="-80.0dip" />
+    <ViewStub android:id="@id/child_container_stub" android:layout="@layout/notification_children_container" android:inflatedId="@id/notification_children_container" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <ViewStub android:id="@id/more_button_stub" android:layout="@layout/notification_expand_button" android:inflatedId="@id/notification_more_button_container" android:layout_width="fill_parent" android:layout_height="@dimen/notification_bottom_decor_height" />
+    <ViewStub android:id="@id/notification_guts_stub" android:layout="@layout/notification_guts" android:inflatedId="@id/notification_guts" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</com.android.systemui.statusbar.ExpandableNotificationRow>

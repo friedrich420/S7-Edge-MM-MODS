@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <GridView android:id="@id/applit_gridView" android:paddingTop="@dimen/view_pager_padding_top" android:layout_width="wrap_content" android:layout_height="wrap_content" android:listSelector="@drawable/applist_multiwindow_page_selector" android:horizontalSpacing="@dimen/applist_gridview_horizontalSpacing" android:verticalSpacing="@dimen/applist_gridview_verticalSpacing" android:stretchMode="none" android:columnWidth="@dimen/applist_view_pager_item_width" android:numColumns="@integer/applist_view_pager_num_columns" android:layoutDirection="locale" android:paddingStart="@dimen/view_pager_padding_left" />
+</LinearLayout>

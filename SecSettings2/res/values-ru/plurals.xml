@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Шагов до включения параметров разработчика: %d</item>
+        <item quantity="one">Теперь вы в одном шаге от того, чтобы стать разработчиком.</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">Добавить %1$d отпечатка</item>
+        <item quantity="one">Добавить %1$d отпечаток</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Пароль должен содержать не менее %d букв.</item>
+        <item quantity="one">Пароль должен содержать по крайней мере 1 букву.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Пароль должен содержать не менее %d букв в нижнем регистре.</item>
+        <item quantity="one">Пароль должен содержать по крайней мере 1 букву в нижнем регистре.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Пароль должен содержать не менее %d букв в верхнем регистре.</item>
+        <item quantity="one">Пароль должен содержать по крайней мере 1 букву в верхнем регистре.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Пароль должен содержать не менее %d чисел.</item>
+        <item quantity="one">Пароль должен содержать по крайней мере 1 цифру.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Пароль должен содержать не менее %d символов.</item>
+        <item quantity="one">Пароль должен содержать не менее 1 символа.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">PIN-код должен содержать не менее %d цифр или символов.</item>
+        <item quantity="one">Пароль должен содержать не менее 1 цифры или символа.</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Неверный PIN-код. Осталось %d попытки. После этого SIM-карта будет заблокирована и вам придется обратиться к оператору связи.</item>
+        <item quantity="one">Неверный PIN-код. Осталась %d попытка. После этого SIM-карта будет заблокирована и вам придется обратиться к оператору связи.</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d приложен. могут озвучивать уведомления.</item>
+        <item quantity="one">Приложение %d может читать уведомления.</item>
+    </plurals>
+    <plurals name="manage_condition_providers_summary_nonzero">
+        <item quantity="other">Установлены приложения (%d), предоставляющие условия для этой функции</item>
+        <item quantity="one">%d app provides conditions</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">В течение %1$d минут до %2$s активны только напоминания и будильник.</item>
+        <item quantity="one">В течение %1$d минуты до %2$s активны только напоминания и будильник.</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">В течение %1$d часов до %2$s активны только напоминания и будильник.</item>
+        <item quantity="one">В течение %1$d часа до %2$s активны только напоминания и будильник.</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">Предоставлено %d разрешения</item>
+        <item quantity="one">Предоставлено %d разрешение</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">Предоставлены %1$d разрешения из %2$d</item>
+        <item quantity="one">Предоставлено %1$d разрешение из %2$d</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">Еще разрешений: %d</item>
+        <item quantity="one">Еще %d разрешение</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">%d приложений могут открывать поддерживаемые ссылки</item>
+        <item quantity="zero">%d приложение может открывать поддерживаемые ссылки</item>
+        <item quantity="one">%d приложения могут открывать поддерживаемые ссылки</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">Экономия заряда батареи отключена для %d приложений</item>
+        <item quantity="one">Экономия заряда батареи отключена для %d приложения</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">За %2$s память использовали %1$d приложения</item>
+        <item quantity="one">За %2$s память использовало %1$d приложение</item>
+    </plurals>
+    <plurals name="lock_timeout_hours">
+        <item quantity="other">%d ч</item>
+        <item quantity="one">1 час</item>
+    </plurals>
+    <plurals name="lock_timeout_minutes">
+        <item quantity="other">%d мин.</item>
+        <item quantity="one">1 минута</item>
+    </plurals>
+    <plurals name="lock_timeout_seconds">
+        <item quantity="other">%d сек.</item>
+        <item quantity="one">1 секунда</item>
+    </plurals>
+</resources>

@@ -1,0 +1,1244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="save">Saqlash</string>
+    <string name="cancel">Bekor qilish</string>
+    <string name="close">Yopish</string>
+    <string name="ok">OK</string>
+    <string name="back">Orqaga</string>
+    <string name="set">O‘rnatish</string>
+    <string name="s_view_cover_set_wallpaper">Fon rasmi sif. o‘rn.</string>
+    <string name="clearcover_no_missed_event">Sizda o‘tkazib yuborilgan hodisalar yo‘q.</string>
+    <string name="clearcover_1_missed_call">Sizda 1 qabul qilinmagan qo‘ng‘iroq mavjud.</string>
+    <string name="clearcover_1_unread_message">Sizda 1 o‘qilmagan xabar mavjud.</string>
+    <string name="clearcover_n_missed_calls">Sizda %d o‘tkazib yuborilgan qo‘ng‘iroq mavjud.</string>
+    <string name="clearcover_n_unread_messages">Sizda %1$d o‘qilmagan xabar mavjud.</string>
+    <string name="clearcover_calls_and_messages">Sizda %1$d o‘tkazib yuborilgan qo‘ng‘iroq va %2$d o‘qilmagan xabar mavjud.</string>
+    <string name="zzz_tts_temp_celsius">Selsiy</string>
+    <string name="zzz_tts_temp_fahrenheit">Farengeyt</string>
+    <string name="zzz_tts_temperature">Daraja</string>
+    <string name="volumepanel_notification">Xabarnoma</string>
+    <string name="s_view_cover_shortcuts_title_text">Yorliqlar</string>
+    <string name="s_view_cover_shortcuts_camera_text">Kamera</string>
+    <string name="s_view_cover_shortcuts_settings_text">Parametrlar</string>
+    <string name="s_view_cover_shortcuts_favorite_text">Tanlangan kontaktlar</string>
+    <string name="s_view_cover_shortcuts_light_text">Fonar</string>
+    <string name="s_view_cover_shortcuts_heart_text">Yurak urish tezligi</string>
+    <string name="s_view_cover_shortcuts_quick_memo_text">Amal yozuvi</string>
+    <string name="select_background_color">S View oyna fon rasmini o‘rnat</string>
+    <string name="select_background_color_title">Fon rasmini o‘rnatish</string>
+    <string name="s_view_stylized_clock_theme">Zamonaviy soatini o‘rnat</string>
+    <string name="s_view_window_theme">S View oynasi fon rasmi</string>
+    <string name="s_view_info_cover">Aks ettir. element tanla</string>
+    <string name="s_view_screen_roaming">Rouming</string>
+    <string name="s_view_screen_home">Uy</string>
+    <string name="battery_charging_percent">Zaryadlanmoqda: %d%%</string>
+    <string name="battery_wireless_charging_percent">Simsiz zaryadlanmoqda: %d%%</string>
+    <string name="battery_wireless_fast_charging_percent">Simsiz tezkor zaryadlash: %d%%</string>
+    <string name="battery_charged">Zaryadlangan.</string>
+    <string name="s_view_cover_transport_prev_description">Avvalgi</string>
+    <string name="s_view_cover_transport_next_description">Keyingi</string>
+    <string name="s_view_cover_transport_pause_description">To‘xtatib turish</string>
+    <string name="s_view_cover_transport_play_description">O‘ynatmoq</string>
+    <string name="s_view_cover_transport_stop_description">To‘xtat</string>
+    <string name="s_view_cover_transport_volume_description">Ovoz Balandliigi</string>
+    <string name="s_view_cover_transport_playlist_description">Musiqa ro‘yxatlari</string>
+    <string name="s_view_cover_missed_event_secured_popup">Qurilma bloklangan. Ko‘proq tafsilotlarini ko‘rib chiqish uchun qopqoqni oching.</string>
+    <string name="s_view_cover_open_cover_popup">Fon rasmini o‘rnatish uchun qopqoqni oching.</string>
+    <string name="s_view_cover_open_cover_popup_view_detail">Tafsilotlarni ko‘rish uchun muqovani oching.</string>
+    <string name="s_view_cover_open_cover_popup_for_detail_message">Xabar tafsilotlarini ko‘rib chiqish uchun muqovani oching.</string>
+    <string name="s_view_cover_open_cover_popup_for_detail_call">Qo‘ng‘iroq tafsilotlarini ko‘rib chiqish uchun muqovani oching</string>
+    <string name="s_view_cover_missed_event_button_accessibiliy">O‘tkazib yuborilgan hodisa sahifasiga o‘tish uchun ikkita barmoq bilan suring.</string>
+    <string name="s_view_cover_settings_button_accessibiliy">Parametrlarga o‘tish uchun ikkita barmoq bilan suring.</string>
+    <string name="s_view_cover_camera_button_accessibiliy">Kamerani ochish uchun ikki marta teging va suring.</string>
+    <string name="s_view_cover_favourite_button_accessibiliy">Tanlangan kontaktlarni ochish uchun ikki marta teging va suring.</string>
+    <string name="accessibility_battery_level">Batareya %d foiz</string>
+    <string name="s_view_cover_open_popup_favorite">Qurilma bloklangan. Tanlangan kontaktlarni ko‘rib chiqish uchun qopqoqni oching.</string>
+    <string name="mini_view_cover_settings_description">S View muqovasi parametrlariga o‘tish uchun muqovani oching.</string>
+    <string name="s_view_cover_warn_popup_stylized_clock">S View oynasida zamonaviy soat aks ettirilganda, Fon rasmlari, Pedometr ma’lumoti va Ob-havo ma’lumotlarini ko‘rsatib bo‘lmaydi.</string>
+    <string name="s_view_wallpaper_selected_tts">%1$d/%2$d fon rasmi</string>
+    <string name="popup_do_not_show_gain">Boshqa ko‘rsatilmasin</string>
+    <string name="pinwindowcover_warning_content">Mahkamlangan ilovadan foydalanish uchun qopqoqni oching.</string>
+    <string name="battery_fast_charging_percent">Tez zaryadlash: %d%%</string>
+    <string name="app_name">Keyguard</string>
+    <string name="keyguard_password_enter_pin_code">PIN-kodni kiriting</string>
+    <string name="keyguard_password_enter_puk_code">SIM-karta PUK kodi va yangi PIN kodni tering</string>
+    <string name="keyguard_password_enter_puk_prompt">SIM-karta PUK kodi</string>
+    <string name="keyguard_password_enter_pin_prompt">Yangi SIM-karta PIN kodi</string>
+    <string name="keyguard_password_entry_touch_hint"><font size="17">Parolni kiritish uchun bosing</font></string>
+    <string name="keyguard_password_enter_password_code">Qulfni ochish uchun parolni kiriting</string>
+    <string name="keyguard_password_enter_pin_password_code">Qulfni ochish uchun PIN-kodni kiriting</string>
+    <string name="keyguard_password_wrong_pin_code">Noto‘g‘ri PIN-kod.</string>
+    <string name="keyguard_charged">To‘la zaryadlangan</string>
+    <string name="keyguard_plugged_in">Zaryadlanmoqda: %d%%</string>
+    <string name="keyguard_low_battery">Zaryadlash qurilmangizni ulang.</string>
+    <string name="keyguard_connect_charger">Zaryadlash qurilmasini ulang</string>
+    <string name="keyguard_instructions_when_pattern_disabled">Qulfni ochish uchun \"Menyu\"ga bosing.</string>
+    <string name="keyguard_network_locked_message">Tarmoq qulflangan</string>
+    <string name="kg_missing_sim_message_short">SIM-karta yo‘q</string>
+    <string name="keyguard_missing_sim_message_short">SIM-karta yo‘q</string>
+    <string name="keyguard_missing_sim_message">USIM-kartani kiriting, so‘ngra qurilmani qayta ishga tushiring</string>
+    <string name="keyguard_missing_sim_instructions">Telefonga SIM kartani joylashtiring.</string>
+    <string name="keyguard_missing_sim_instructions_long">SIM-karta qo‘yilmagan yoki o‘qib bo‘lmayapti. SIM-kartani joylashtiring.</string>
+    <string name="keyguard_permanent_disabled_sim_message_short">SIM kartadan foydalanib bo‘lmaydi.</string>
+    <string name="keyguard_permanent_disabled_sim_instructions">"SIM-kartangiz butunlay o‘chirilgan.
+ Boshqa SIM-karta olish uchun aloqa operatori bilan bog‘laning."</string>
+    <string name="keyguard_sim_locked_message">SIM-karta qulflangan.</string>
+    <string name="keyguard_sim_puk_locked_message">SIM-karta PUK kod bilan qulflangan.</string>
+    <string name="keyguard_sim_unlock_progress_dialog_message">SIM-karta qulfi ochilmoqda…</string>
+    <string name="keyguard_accessibility_pattern_unlock">Chizmali qulfni ochish.</string>
+    <string name="keyguard_accessibility_pin_unlock">Pin qulfini ochish.</string>
+    <string name="keyguard_accessibility_password_unlock">Parolli qulfni ochish.</string>
+    <string name="keyguard_accessibility_pattern_area">Chizmali qulf maydoni.</string>
+    <string name="keyguard_accessibility_slide_area">Maydonni silang</string>
+    <string name="keyguard_accessibility_pin_area">PIN-kod maydoni</string>
+    <string name="keyguard_accessibility_sim_pin_area">SIM-karta PIN kodi maydoni</string>
+    <string name="keyguard_accessibility_sim_puk_area">SIM-karta PUK kodi maydoni</string>
+    <string name="keyguard_accessibility_next_alarm">Uyg‘otkich signali %1$s da chalinadi.</string>
+    <string name="keyboardview_keycode_delete">YO‘Q QILISH</string>
+    <string name="keyboardview_keycode_enter">Kirit</string>
+    <string name="kg_forgot_pattern_button_text">Chizmali parol unutilgan</string>
+    <string name="kg_wrong_pattern">Noto‘g‘ri chizma</string>
+    <string name="kg_wrong_password">Noto‘g‘ri parol kiritildi</string>
+    <string name="kg_wrong_pin">Noto‘g‘ri PIN-kod kiritildi</string>
+    <string name="kg_n_attempts_remaining">(%d ta urinish qoldi)</string>
+    <string name="kg_1_attempt_remaining">(1 ta urinish qoldi)</string>
+    <string name="kg_too_many_failed_attempts_countdown">%d soniyada qayta urining.</string>
+    <string name="kg_too_many_failed_attempts_countdown_min">1 daq-da qayta urining</string>
+    <string name="kg_too_many_failed_attempts_countdown_mins">%d daqiqada qayta urining</string>
+    <string name="kg_pattern_bouncer_instructions">Ochish uchun blokdan chiqarish chizmasini chizing</string>
+    <string name="kg_pin_bouncer_instructions">Ochish uchun PIN-kodni kiriting</string>
+    <string name="kg_password_bouncer_instructions">Ochish uchun parolni kiriting</string>
+    <string name="kg_pattern_instructions">Blokdan chiqarish chizmasini chizish</string>
+    <string name="kg_sim_pin_instructions">SIM kartaning PIN kodini kiriting</string>
+    <string name="kg_unlock_sim_pin_instructions">SIM-karta blokdan chiqarish PIN-kodini kiriting.</string>
+    <string name="kg_sim_puk_instructions">SIM blk-di. PUK kirit. Ko‘p ma‘l. u-n operator b-n bog‘lan.</string>
+    <string name="kg_sim_pin_instructions_multi">“%1$s” SIM kartasi uchun PIN kodni kiriting</string>
+    <string name="kg_pin_instructions">PIN-kodni kiriting</string>
+    <string name="kg_backup_pin_instructions">Arxivlash PIN-kodini kiriting</string>
+    <string name="kg_backup_password_instructions">Arxiv parolini kiriting</string>
+    <string name="kg_password_instructions">Parol kiriting</string>
+    <string name="kg_puk_enter_puk_hint">SIM-karta hozir o‘chirilgan. Davom etish uchun PUK kodni kiriting. To‘liqroq ma’lumot olish uchun tarmoq operatori bilan bog‘laning.</string>
+    <string name="kg_puk_enter_puk_hint_multi">“%1$s” SIM kartasi o‘chirib qo‘yildi. Davom etish uchun PUK kodni kiriting. Tafsilotlar uchun aloqa operatoringizga murojaat qiling.</string>
+    <string name="kg_puk_enter_pin_hint">Yangi SIM-karta PIN-kodini kiriting.</string>
+    <string name="kg_enter_confirm_pin_hint">Tasdiqlash uchun yangi SIM-karta PIN-kodini yana kiriting.</string>
+    <string name="kg_sim_unlock_progress_dialog_message">SIM-kartani blokdan chiqarilmoqda…</string>
+    <string name="kg_invalid_sim_pin_hint">4 tadan 8 ta raqamgacha bo‘lgan PIN kodni kiriting.</string>
+    <string name="kg_invalid_sim_puk_hint">PUK kod kamida 8 ta raqam bo‘lishi shart.</string>
+    <string name="kg_invalid_puk">To‘g‘ri PUK kodni qayta kiriting. Qayta-qayta urinishlar SIM kartani butunlay o‘chirib qo‘yadi.</string>
+    <string name="kg_invalid_confirm_pin_hint">PIN-kod mos kelmadi</string>
+    <string name="kg_login_too_many_attempts">Chizmali parolni ochishga juda ko‘p urinildi</string>
+    <string name="kg_login_username_hint">Foydalanuvchi nomi (e-pochta)</string>
+    <string name="kg_login_password_hint">Parol</string>
+    <string name="kg_login_submit_button">Kirish</string>
+    <string name="kg_login_invalid_input">Noto‘g‘ri foydalanuvchi nomi yoki parol.</string>
+    <string name="no_network_connection">Tarmoq ulanishi yo‘q</string>
+    <string name="kg_forgot_spass_button_text">Samsung hisob qaydnomasi</string>
+    <string name="kg_login_checking_password">Hisob qaydnomasi tekshirilmoqda…</string>
+    <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"Siz PIN-kodni %d marta noto‘g‘ri kiritdingiz. 
+
+%d soniyadan so‘ng qayta urinib ko‘ring."</string>
+    <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Siz parolni %d marta noto‘g‘ri kiritdingiz. 
+
+%d soniyadan so‘ng qayta urinib ko‘ring."</string>
+    <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Siz chizmali kalitni %d marta noto‘g‘ri kiritdingiz. 
+
+%d soniyadan so‘ng qayta urinib ko‘ring."</string>
+    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Siz telefonni qulfdan chiqarish uchun %d marta noto‘g‘ri urinish qildingiz. Agar yana %d marta muvaffaqiyatsiz urinish qilsangiz, ushbu telefonda zavod sozlamalari qayta tiklanadi va undagi barcha ma’lumotlar ham o‘chib ketadi.</string>
+    <string name="kg_failed_attempts_now_wiping">Siz telefonni qulfdan chiqarish uchun %d marta noto‘g‘ri urinish qildingiz. Endi, ushbu telefonda zavod sozlamalari qayta tiklanadi va undagi barcha ma’lumotlar ham o‘chib ketadi.</string>
+    <string name="kg_failed_attempts_almost_at_erase_user" formatted="false">Siz telefonni qulfdan chiqarish uchun %d marta noto‘g‘ri urinish qildingiz. Agar yana %d marta muvaffaqiyatsiz urinish qilsangiz, ushbu foydalanuvchi o‘chirib tashlanadi va undagi barcha foydalanuvchi ma’lumotlari ham o‘chib ketadi.</string>
+    <string name="kg_failed_attempts_now_erasing_user">Siz telefonni qulfdan chiqarish uchun %d marta noto‘g‘ri urinish qildingiz. Endi, ushbu foydalanuvchi o‘chirib tashlanadi va undagi barcha foydalanuvchi ma’lumotlari ham o‘chib ketadi.</string>
+    <string name="kg_failed_attempts_almost_at_erase_profile" formatted="false">Siz telefonni qulfdan chiqarish uchun %d marta noto‘g‘ri urinish qildingiz. Agar yana %d marta muvaffaqiyatsiz urinish qilsangiz, ishchi profil o‘chirib tashlanadi va undagi barcha profil ma’lumotlari ham o‘chib ketadi.</string>
+    <string name="kg_failed_attempts_now_erasing_profile">Siz telefonni qulfdan chiqarish uchun %d marta noto‘g‘ri urinish qildingiz. Endi, ishchi profil o‘chirib tashlanadi va undagi barcha ma’lumotlar ham o‘chib ketadi.</string>
+    <string name="kg_sec_1_failed_attempt_almost_at_wipe">Qurilmani blokdan chiqarish uchun urinish amalga oshirildi. Yana %d ta noto‘g‘ri urinishdan so‘ng qurilma ishlab chiqaruvchi parametrlariga tashlanadi va barcha ma’lumotlari, jumladan, fayl va yuklab olingan ilovalari o‘chirib tashlanadi.</string>
+    <string name="kg_sec_failed_attempts_almost_at_wipe">Qurilmani blokdan chiqarishga urinish %1$d marta amalga oshirildi. Yana %2$d ta noto‘g‘ri urinishdan so‘ng qurilma ishlab chiqaruvchi parametrlariga tashlanadi va barcha ma’lumotlari, jumladan, fayl va yuklab olingan ilovalari o‘chirib tashlanadi.</string>
+    <string name="kg_sec_1_remaing_count_almost_at_wipe">Qurilmani blokdan chiqarishga urinish %d marta amalga oshirildi. Yana 1 ta noto‘g‘ri urinishdan so‘ng qurilma ishlab chiqaruvchi parametrlariga tashlanadi va barcha ma’lumotlari, jumladan, fayl va yuklab olingan ilovalari o‘chirib tashlanadi.</string>
+    <string name="kg_sec_1_failed_attempt_almost_at_erase_user">Qurilmani blokdan chiqarish uchun urinish amalga oshirildi. Yana %d noto‘g‘ri urinishdan so‘ng profilingiz hamda uning yuklab olingan ilovalari va tegishli ma’lumotlari o‘chirib tashlanadi.</string>
+    <string name="kg_sec_failed_attempts_almost_at_erase_user">Qurilmani blokdan chiqarishga urinish %1$d marta amalga oshirildi. Yana %2$d ta urinishdan so‘ng profilingiz va uning barcha yuklab olingan ilovalari va tegishli ma’lumotlari o‘chirib tashlanadi.</string>
+    <string name="kg_sec_1_remaing_count_almost_at_erase_user">Qurilmani blokdan chiqarishga urinish %d marta amalga oshirildi. Yana 1 ta noto‘g‘ri urinishdan so‘ng profilingiz hamda uning yuklab olingan ilovalari va tegishli ma’lumotlari o‘chirib tashlanadi.</string>
+    <string name="kg_sec_failed_attempts_now_erasing_user">Qurilmani blokdan chiqarishga urinish %d marta amalga oshirildi. Profilingiz bilan birgalikda uning yuklab olingan ilovalari hamda tegishli ma’lumotlari o‘chirib tashlanadi. Bu ma’lumotni tiklab bo‘lmaydi.</string>
+    <string name="kg_sec_1_failed_attempt_almost_at_erase_profile">Qurilmani blokdan chiqarish uchun urinish amalga oshirildi. Yana %d noto‘g‘ri urinishdan so‘ng ish profilingiz hamda uning yuklab olingan ilovalari va tegishli ma’lumotlari o‘chirib tashlanadi.</string>
+    <string name="kg_sec_failed_attempts_almost_at_erase_profile">Qurilmani blokdan chiqarishga urinish %1$d marta amalga oshirildi. Yana %2$d noto‘g‘ri urinishdan so‘ng ish profilingiz hamda uning yuklab olingan ilovalari va tegishli ma’lumotlari o‘chirib tashlanadi.</string>
+    <string name="kg_sec_1_remaing_count_almost_at_erase_profile">Qurilmani blokdan chiqarishga urinish %d marta amalga oshirildi. Yana 1 ta noto‘g‘ri urinishdan so‘ng ish profilingiz hamda uning yuklab olingan ilovalari va tegishli ma’lumotlari o‘chirib tashlanadi.</string>
+    <string name="kg_sec_failed_attempts_now_erasing_profile">Qurilmani blokdan chiqarishga urinish %d marta amalga oshirildi. Profilingiz bilan birgalikda uning yuklab olingan ilovalari hamda tegishli ma’lumotlari o‘chirib tashlanadi. Bu ma’lumotni tiklab bo‘lmaydi.</string>
+    <string name="kg_failed_attempts_almost_at_login" formatted="false">"Siz chizmali kalitni %d marta noto‘g‘ri chizdingiz. %d marta muvaffaqiyatsiz urinishdan so‘ng, sizdan e-pochtangizdan foydalanib, telefon qulfini ochishingiz so‘raladi.
+
+ %d soniyadan so‘ng yana urinib ko‘ring."</string>
+    <string name="kg_password_wrong_pin_code_pukked">SIM-karta PIN kodi noto‘g‘ri. Qurilma qulfini ochish uchun aloqa operatoringiz bilan bog‘laning.</string>
+    <string name="kg_password_wrong_pin_code_one">Noto‘g‘ri SIM-karta PIN-kodi kiritildi. 1 ta urinishingiz qoldi.</string>
+    <string name="kg_password_wrong_pin_code_other">Noto‘g‘ri SIM-karta PIN-kodi kiritilgan. Yana %d ta urinishingiz qoldi.</string>
+    <string name="kg_password_wrong_puk_code_dead">SIM kartadan foydalanib bo‘lmaydi. Aloqa operatoringiz bilan bog‘laning.</string>
+    <string name="kg_password_pin_failed">SIM-karta PIN jarayoni amalga oshmadi!</string>
+    <string name="kg_password_puk_failed">SIM-karta PUK jarayoni amalga oshmadi!</string>
+    <string name="kg_pin_accepted">Kod qabul qilindi!</string>
+    <string name="keyguard_carrier_default">Aloqa yo‘q.</string>
+    <string name="accessibility_ime_switch_button">Kiritish uslubi tugmasini almashtirish.</string>
+    <string name="airplane_mode">Parvoz rejimi</string>
+    <string name="kg_prompt_reason_restart_pattern">Qurilmani o‘chirib yoqishda chizmali kalit talab qilinadi.</string>
+    <string name="kg_prompt_reason_restart_pin">Qurilmani o‘chirib yoqishda PIN-kod talab qilinadi.</string>
+    <string name="kg_prompt_reason_restart_password">Qurilmani o‘chirib yoqishda parol talab qilinadi.</string>
+    <string name="kg_strong_auth_prompt_reason_timeout_pattern">Barmoq izini himoya qilish uchun qurilma 24 soat davomida ishlatilmagandan so‘ng barmoq izini tanishdan foydalanish o‘rniga chizma chizing</string>
+    <string name="kg_strong_auth_prompt_reason_timeout_pin">Barmoq izini himoya qilish uchun qurilma 24 soat davomida ishlatilmagandan so‘ng barmoq izini tanishdan foydalanish o‘rniga PIN-kod kiriting</string>
+    <string name="kg_strong_auth_prompt_reason_timeout_password">Barmoq izini himoya qilish uchun qurilma 24 soat davomida ishlatilmagandan so‘ng barmoq izini tanishdan foydalanish o‘rniga parol kiriting</string>
+    <string name="kg_prompt_reason_switch_profiles_pattern">Profilni amlashtirishda chizmali kalit talab qilinadi.</string>
+    <string name="kg_prompt_reason_switch_profiles_pin">Profilni amlashtirishda PIN-kod talab qilinadi.</string>
+    <string name="kg_prompt_reason_switch_profiles_password">Profilni amlashtirishda parol talab qilinadi.</string>
+    <string name="fingerprint_not_recognized">Aniqlanmadi</string>
+    <string name="fingerprint_no_match">Moslik yo‘q</string>
+    <string name="keyguard_perso_locked_message">Block other USIM</string>
+    <string name="keyguard_pin_locked_message">PIN-kodni kiriting</string>
+    <string name="keyguard_puk_locked_message">PUK-kodni kiriting</string>
+    <string name="keyguard_dualclock_home">Asosiy</string>
+    <string name="keyguard_dualclock_roaming">Rouming</string>
+    <string name="keyguard_dualclock_home_Seoul">Seul</string>
+    <string name="keyguard_dualclock_roaming_Korea">Rouming</string>
+    <string name="keyguard_progress_erasing_all">"Barcha ma'lumotlar o'chirilmoqda…"</string>
+    <string name="keyguard_recovery_instructions">Blokdan chiqarish uchun tiklash parolini kiriting.</string>
+    <string name="kg_sim_pin_remaining_1_attempt">1 ta urinishingiz qoldi.</string>
+    <string name="kg_sim_pin_remaining_attempts">Yana %dta urinishingiz qoldi.</string>
+    <string name="kg_sim_puk_remaining_1_attempt">Noto‘g‘ri PUK yana 1 marta kiritilsa, SIM-karta bloklanadi.</string>
+    <string name="kg_sim_puk_remaining_attempts">Noto‘g‘ri PUK yana %d marta kiritilsa, SIM-karta bloklanadi.</string>
+    <string name="kg_kor_password_wrong_pin_code">Noto‘g‘ri PIN-kod kiritildi. Yana %d ta urinish qoldi. Mijozlarga xizmat ko‘rsatish markazi bilan bog‘laning.</string>
+    <string name="kg_kor_sim_unlock_progress_dialog_message">SIM-kartani blokdan chiqarish</string>
+    <string name="kg_kor_sim_puk_instructions">PUK-kodni kiriting.</string>
+    <string name="kg_kor_invalid_sim_puk_hint">8-xonali blokdan chiqarish PIN (PUK) kodni kiriting</string>
+    <string name="kg_kor_empty_sim_puk_hint">Blokdan chiqarish kodi kiritildi. Blokdan chiqarish PIN (PUK) kodni kiriting.</string>
+    <string name="kg_kor_puk_enter_pin_hint">"Yangi USIM-karta PIN-kodini yarating.
+PIN-kod uzunligi 4-8 belgidan tashkil topishi lozim."</string>
+    <string name="kg_kor_enter_confirm_pin_hint">Uni tasdiqlash uchun USIM-karta PIN-kodini kiriting.</string>
+    <string name="kg_kor_invalid_confirm_pin_hint">Yangi PIN-kodlar mos kelmayapti.</string>
+    <string name="kg_kor_wrong_puk_code">Blok kodi noto‘g‘ri kiritildi</string>
+    <string name="kg_kor_sim_puk_remaining_attempts">"Noto‘g‘ri PUK-kod %1$d marta kiritildi. Agar noto‘g‘ri PUK-kod yana %2$d marta kiritilsa, USIM-karta butunlay bloklanadi.
+
+PUK-kod esingizdan chiqqan bo‘lsa, mijozlarga xizmat ko‘rsatish markazi bilan bog‘laning."</string>
+    <string name="kg_kor_success_pin_message">Yangi parol (PIN-kod) muvaffaqiyatli saqlandi.</string>
+    <string name="kg_ktt_sim_perso_instructions">4-8 xonali parol (PIN-kod) kiriting</string>
+    <string name="kg_empty_sim_perso_hint">Parol kiritilmagan. Parol (PIN-kod) kiriting.</string>
+    <string name="kg_password_perso_failed">Incorrect PIN. Check PIN and try again.</string>
+    <string name="kg_password_perso_max_failed">Incorrect PIN entered for USIM card lock. Maximum number of retries reached. Restart device or visit CS centre.</string>
+    <string name="keyguard_fmm_phone_locked_title">Telefon bloklandi.</string>
+    <string name="keyguard_fmm_owner_phone">Sohibning raqami</string>
+    <string name="kg_wrong_universal_lock">Noto‘g‘ri yo‘nalish chizilgan</string>
+    <string name="kg_universal_lock_instructions_normal_mode">Ekranni blokdan chiqarish uchun yo‘nalishlar seriyasini chizish</string>
+    <string name="keyguard_accessibility_universal_lock_unlock">Yo‘nalish bloki</string>
+    <string name="kg_wrong_universal_lock_vzw">Incorrect directions (%d attempts remaining)</string>
+    <string name="universal_lock_too_many_failed_attempts_countdown">%d soniyada qayta urining</string>
+    <string name="kg_too_many_failed_attempt_countdown">1 soniyada qayta urinib ko‘ring</string>
+    <string name="kg_lockscreen_backup_pin_button_text">Arxivlash PIN-kodi</string>
+    <string name="kg_lockscreen_emergency_call_button_text">Favqulodda qo‘ng‘iroq</string>
+    <string name="kg_sim_lock_accepted">Kod qabul qilindi.</string>
+    <string name="kg_fingerprints_pattern_instructions">Barmoq izidan foydalaning yoki blokdan chiqarish chizmasini chizing</string>
+    <string name="kg_fingerprints_pin_instructions">Barmoq izidan foydalaning yoki PIN-kod kiriting</string>
+    <string name="kg_fingerprints_password_instructions">Barmoq izidan foydalaning yoki parol kiriting</string>
+    <string name="kg_fingerprints_pattern_bouncer_instructions">Ochish uchun barmoq izidan foydalaning yoki chizma chizing</string>
+    <string name="kg_fingerprints_pin_bouncer_instructions">Ochish uchun barmoq izidan foydalaning yoki PIN-kodni kiriting</string>
+    <string name="kg_fingerprints_password_bouncer_instructions">Ochish uchun barmoq izidan foydalaning yoki parolni kiriting</string>
+    <string name="kg_fingerprints_pattern_unabled_instructions">Barmoq izini himoya qilish uchun qurilma o‘chirib yoqilgandan so‘ng barmoq izini tanishdan foydalanish o‘rniga chizma chizing</string>
+    <string name="kg_fingerprints_pin_unabled_instructions">Barmoq izini himoya qilish uchun qurilma o‘chirib yoqilgandan so‘ng barmoq izini tanishdan foydalanish o‘rniga PIN-kod kiriting</string>
+    <string name="kg_fingerprints_password_unabled_instructions">Barmoq izini himoya qilish uchun qurilma o‘chirib yoqilgandan so‘ng barmoq izini tanishdan foydalanish o‘rniga parol kiriting</string>
+    <string name="kg_finger_print_not_responding_error_message">Barmoq izi sensori javob bermayapti. Keyinroq qayta urinib ko‘ring.</string>
+    <string name="kg_finger_print_database_error_message">Barmoq izi ma’lumoti zararlangan. Barmoq izini ekranni bloklash usuli sifatida qayta o‘rnating va undan so‘ng barmoq izlaringizni qayta qo‘shing, yoki ekranni bloklash usulini o‘zgartiring.</string>
+    <string name="kg_finger_print_sensor_with_recalibration_error_message">Asosiy tugma toza va quruq ekanligiga ishonch hosil qiling, so‘ngra qayta urinib ko‘ring.</string>
+    <string name="kg_finger_print_sensor_changed_error_message">Barmoq izi sensori to‘g‘ri o‘zgartirilmagan. Mijozlarga xizmat ko‘rsatish markazi bilan bog‘laning.</string>
+    <string name="kg_fingerprints_upgrade_popup_title">Barmoq izi u-n xavfsizlik siyosatini yangila</string>
+    <string name="kg_fingerprints_upgrade_instructions">"Barmoq izlaringizni himoya qilish uchun xavfsizlik siyosatini yangilashingiz lozim.
+
+Barmoq izidan ekranni bloklash usuli sifatida foydalanish uchun Ikki bosqichli tekshirish usuli sifatida foydalaniladigan PIN-kod, chizma yoki parolni yaratish uchun KEYINGI tugmasiga teging.
+
+Ikki bosqichli tekshirish quyidagi holatlarda barmoq izini tanish o‘rnida ishlatiladi:
+
+Qurilma o‘chirib yoqilganda
+Qurilma %s soatdan ko‘proq vaqt davomida ishlatilmaganda
+Ekranni bloklash turi yoki barmoq izi parametrlari o‘zgartirilganda"</string>
+    <string name="keyguard_accessibility_one_hand_operation_left_handed">Chapaqay</string>
+    <string name="keyguard_accessibility_one_hand_operation_right_handed">O‘naqay</string>
+    <string name="kg_too_many_failed_attempts_countdown_hours_with_auto_wipe">"Qurilmani blokdan chiqarishga urinish %1$d marta amalga oshirildi. Yana %2$d ta noto‘g‘ri urinishdan so‘ng qurilma ishlab chiqaruvchi parametrlariga qaytariladi va undagi barcha ma’lumotlar o‘chiriladi.
+
+%3$d soatda qayta urinib ko‘ring."</string>
+    <string name="kg_too_many_failed_attempts_countdown_1_hour_with_auto_wipe">"Qurilmani blokdan chiqarishga urinish %1$d marta amalga oshirildi. Yana %2$d ta noto‘g‘ri urinishdan so‘ng qurilma ishlab chiqaruvchi parametrlariga qaytariladi va undagi barcha ma’lumotlar o‘chiriladi.
+
+1 soatda qayta urinib ko‘ring."</string>
+    <string name="kg_remained_1_attempts_with_auto_wipe">You only have 1 attempt left to unlock your phone before it is reset to factory mode. This will delete all data, including files and downloaded apps.</string>
+    <string name="kg_remained_1_attempts_with_auto_wipe_subuser">You only have 1 attempt left to unlock your tablet before your account is removed. This will delete all data on your account, including files, and downloaded apps.</string>
+    <string name="kg_too_many_failed_attempts_countdown_mins_with_auto_wipe">"Qurilmani blokdan chiqarishga urinish %1$d marta amalga oshirildi. Yana %2$d ta noto‘g‘ri urinishdan so‘ng qurilma ishlab chiqaruvchi parametrlariga qaytariladi va undagi barcha ma’lumotlar o‘chiriladi.
+
+%3$d daqiqada qayta urinib ko‘ring"</string>
+    <string name="kg_too_many_failed_attempts_countdown_secs_with_auto_wipe">"Qurilmani blokdan chiqarishga urinish %1$d marta amalga oshirildi. Yana %2$d ta noto‘g‘ri urinishdan so‘ng qurilma ishlab chiqaruvchi parametrlariga qaytariladi va barcha ma’lumotlar o‘chiriladi.
+
+%3$d soniyada qayta urinib ko‘ring"</string>
+    <string name="kg_too_many_failed_attempts_countdown_1_min_with_auto_wipe">"Qurilmani blokdan chiqarishga urinish %1$d marta amalga oshirildi. Yana %2$d ta noto‘g‘ri urinishdan so‘ng qurilma ishlab chiqaruvchi parametrlariga qaytariladi va undagi barcha ma’lumotlar o‘chiriladi.
+
+1 daqiqada qayta urinib ko‘ring"</string>
+    <string name="kg_too_many_failed_attempts_countdown_1_sec_with_auto_wipe">"Qurilmani blokdan chiqarishga urinish %1$d marta amalga oshirildi. Yana %2$d ta noto‘g‘ri urinishdan so‘ng qurilma ishlab chiqaruvchi parametrlariga qaytariladi va barcha ma’lumotlar o‘chiriladi.
+
+1 soniyada qayta urinib ko‘ring"</string>
+    <string name="kg_remained_1_attempt_countdown_mins_with_auto_wipe">"Qurilmani blokdan chiqarishga urinish %1$d marta amalga oshirildi. Yana 1 ta noto‘g‘ri urinishdan so‘ng qurilma ishlab chiqaruvchi parametrlariga qaytariladi va undagi barcha ma’lumotlar o‘chiriladi.
+
+%2$d daqiqada qayta urinib ko‘ring"</string>
+    <string name="kg_remained_1_attempt_countdown_secs_with_auto_wipe">"Qurilmani blokdan chiqarishga urinish %1$d marta amalga oshirildi. Yana 1 ta noto‘g‘ri urinishdan so‘ng qurilma ishlab chiqaruvchi parametrlariga qaytariladi va undagi barcha ma’lumotlar o‘chiriladi.
+
+%2$d soniyada qayta urinib ko‘ring"</string>
+    <string name="kg_remained_1_attempt_countdown_1_min_with_auto_wipe">"Qurilmani blokdan chiqarishga urinish %d marta amalga oshirildi. Yana 1 ta noto‘g‘ri urinishdan so‘ng qurilma ishlab chiqaruvchi parametrlariga qaytariladi va undagi barcha ma’lumotlar o‘chiriladi.
+
+1 daqiqada qayta urinib ko‘ring"</string>
+    <string name="kg_remained_1_attempt_countdown_1_sec_with_auto_wipe">"Qurilmani blokdan chiqarishga urinish %d marta amalga oshirildi. Yana 1 ta noto‘g‘ri urinishdan so‘ng qurilma ishlab chiqaruvchi parametrlariga qaytariladi va undagi barcha ma’lumotlar o‘chiriladi.
+
+1 soniyada qayta urinib ko‘ring"</string>
+    <string name="kg_too_many_failed_attempts_remaining_with_auto_wipe">%d ta urinish qoldi</string>
+    <string name="kg_too_many_failed_1_attempt_remaining_with_auto_wipe">1 ta urinish qoldi</string>
+    <string name="kg_too_many_failed_countdown_mins_with_auto_wipe">%d daqiqada qayta urining</string>
+    <string name="kg_too_many_failed_countdown_1_min_with_auto_wipe">1 soniyada qayta urining</string>
+    <string name="kg_too_many_failed_countdown_secs_with_auto_wipe">%d soniyada qayta urining</string>
+    <string name="kg_too_many_failed_countdown_1_sec_with_auto_wipe">1 soniyada qayta urinib ko‘ring</string>
+    <string name="kg_too_many_failed_attempts_remaining_with_auto_wipe_mobile_keyboard">Yana %d ta noto‘g‘ri urinishdan so‘ng qurilma ish/chiqar. parametrlariga tashlanadi va barcha ma’lumotlari o‘chiriladi.</string>
+    <string name="kg_too_many_failed_1_attempt_remaining_with_auto_wipe_mobile_keyboard">Yana 1 ta noto‘g‘ri urinishdan so‘ng qurilma ish/chiqar. parametrlariga tashlanadi va barcha ma’lumotlari o‘chiriladi.</string>
+    <string name="kg_tts_shortcut_phone">Telefonni ochish uchun ikki marta teging va suring.</string>
+    <string name="kg_tts_shortcut_camera">Kamerani ochish uchun ikki marta teging va suring.</string>
+    <string name="kg_tts_shortcut_app">%s ilovasini ochish uchun ikki marta teging va suring.</string>
+    <string name="kg_dcm_sim_puk_instructions">PIN-kod bloklandi. Davom ettirish uchun PUK-kodni kiriting.</string>
+    <string name="kg_liveweather_delete_main_text">Jonli ob-havo fon rasmi ushbu OT versiyasi tomonidan qo‘llab-quvvatlanmaydi. Bloklash ekrani fon rasmini o‘zgartirish uchun FON RASMI PARAMETRLARI tugmasiga teging.</string>
+    <string name="kg_liveweather_delete_title_text">Blok. ekran fon rasmi</string>
+    <string name="kg_liveweather_delete_buttion_text">Fon rasmi parametrlari</string>
+    <string name="kg_default_carrier_text_searching">Qidirilmoqda</string>
+    <string name="flight_mode">Parvoz rejimi</string>
+    <string name="app_label">UI tizimi</string>
+    <string name="status_bar_clear_all_button">Tozalash</string>
+    <string name="status_bar_recent_remove_item_title">Ro‘yxatdan o‘chirish</string>
+    <string name="status_bar_recent_inspect_item_title">Ilova haqida</string>
+    <string name="status_bar_no_recent_apps">Yaqinda ish-gan ilovalar bu yerda ko‘rinadi</string>
+    <string name="status_bar_accessibility_dismiss_recents">So‘nggi dasturlarni tozalash</string>
+    <string name="status_bar_no_notifications_title">Eslatmalar - yo‘q</string>
+    <string name="status_bar_ongoing_events_title">Joriy</string>
+    <string name="status_bar_latest_events_title">Eslatmalar</string>
+    <string name="battery_low_title">Batareya quvvati kam</string>
+    <string name="battery_low_percent_format">%s qoldi</string>
+    <string name="battery_low_percent_format_saver_started">%s qoldi. Quvvat tejash funksiyasi yoqilgan.</string>
+    <string name="invalid_charger">"USB orqali zaryadlab bo‘lmaydi.
+Faqat taklif qilingan zaryadlagichdan foydalaning."</string>
+    <string name="invalid_charger_title">USB orqali quvvat oldirish qo‘llab-quvvatlanmaydi.</string>
+    <string name="invalid_charger_text">Faqat qurilma bilan kelgan quvvatlash moslamasidan foydalaning.</string>
+    <string name="battery_low_why">Sozlamalar</string>
+    <string name="battery_saver_confirmation_title">Quvvat tejash funksiyasi yoqilsinmi?</string>
+    <string name="battery_saver_confirmation_ok">Yoqish</string>
+    <string name="battery_saver_start_action">Quvvat tejash funksiyasini yoqing</string>
+    <string name="status_bar_settings_settings_button">Sozlamalar</string>
+    <string name="status_bar_settings_wifi_button">Wi-Fi</string>
+    <string name="status_bar_settings_auto_rotation">Ekranni avtomatik burish</string>
+    <string name="status_bar_settings_mute_label">MUTE</string>
+    <string name="status_bar_settings_auto_brightness_label">Avtomatik</string>
+    <string name="brightness_controller_label_text">Avtomatik</string>
+    <string name="status_bar_settings_notifications">Eslatmalar</string>
+    <string name="bluetooth_tethered">Bluetooth bog‘landi</string>
+    <string name="status_bar_input_method_settings_configure_input_methods">Kiritish usullarini moslash</string>
+    <string name="status_bar_use_physical_keyboard">Tashqi tugmatag</string>
+    <string name="usb_device_permission_prompt">%1$s ilovaga USB qurilmaga kirishga ruxsat berilsinmi?</string>
+    <string name="usb_accessory_permission_prompt">%1$s ilova dasturiga USB jihoziga kirish uchun ruxsat berilsinmi?</string>
+    <string name="usb_device_confirm_prompt">USB qurilma ulanganda %1$s ochilsinmi?</string>
+    <string name="usb_accessory_confirm_prompt">USB jihoz ulanganda %1$s ochilsinmi?</string>
+    <string name="usb_accessory_uri_prompt">Bu USB jihoz bilan ishlash uchun dastur o‘rnatilmagan.Ushbu jihoz haqida: %1$s</string>
+    <string name="title_usb_accessory">USB jihoz</string>
+    <string name="label_view">Ko‘rish</string>
+    <string name="always_use_device">Ushbu USB qurilmadan standart sifatida foydalanish</string>
+    <string name="always_use_accessory">Ushbu USB jihozdan standart sifatida foydalanish</string>
+    <string name="usb_debugging_title">USB orqali nosozliklarni tuzatishga ruxsat berilsinmi?</string>
+    <string name="usb_debugging_message">"Kompyuterning RSA tugmasi barmoq izlari:
+%1$s"</string>
+    <string name="usb_debugging_always">Doimo ushbu kompyuterdan ruxsat berilsin</string>
+    <string name="usb_debugging_secondary_user_title">USB orqali nosozliklarni tuzatishga ruxsat berilmagan</string>
+    <string name="usb_debugging_secondary_user_message">Ayni paytda ushbu qurilmaga o‘z hisobi bilan kirgan foydalanuvchi USB orqali nosozliklarni tuzatish funksiyasini yoqa olmaydi. Bu funksiyadan foydalanish uchun asosiy foydalanuvchi (“%s”) profiliga o‘ting.</string>
+    <string name="compat_mode_on">Ekranga moslashtirish</string>
+    <string name="compat_mode_off">Ekran hajmida cho‘zish</string>
+    <string name="screenshot_saving_ticker">Ekran surati saqlanmoqda…</string>
+    <string name="screenshot_saving_title">Ekran surati saqlanmoqda…</string>
+    <string name="screenshot_saving_text">Ekran surati saqlanadi.</string>
+    <string name="screenshot_saved_title">Olingan ekran rasmi</string>
+    <string name="screenshot_saved_text">Ekran rasmlarini ko‘rib chiqish uchun teging.</string>
+    <string name="screenshot_failed_title">Ekranni rasmga olib bo‘lmaydi</string>
+    <string name="screenshot_failed_text">Ekrandan suratga olib bo‘lmadi: xotirada joy kam yoki ilova/tashkilot bunga ruxsat bermagan.</string>
+    <string name="screenshot_failed_text_due_to_security_policy">Xavfsizlik siyosati ekranning rasmga olinishiga yo‘l qo‘ymayotgan bo‘lishi mumkin.</string>
+    <string name="screen_capture_fail_for_storage_capacity">Qurilma xotirasida joy yetarli emas. Ba’zi fayllarni yo‘q qiling va qayta urinib ko‘ring.</string>
+    <string name="screen_capture_fail_for_security_policy">Ekranni rasmga olib bo‘lmaydi. Xavfsizlik siyosati tomonidan cheklangan.</string>
+    <string name="no_such_item">Elementni topib bo‘lmaydi.</string>
+    <string name="one_item_will_be_deleted">1 element yo‘q qilinadi.</string>
+    <string name="screen_capture_edit">Tahr.</string>
+    <string name="screen_capture_share">Ulashish</string>
+    <string name="screen_capture_delete">Yo‘q qilish</string>
+    <string name="share_via">Quyidagi orqali ulashish</string>
+    <string name="usb_preference_title">USB fayl ko‘chirish moslamalari</string>
+    <string name="use_mtp_button_title">Media pleyer sifatida ulash (MTP)</string>
+    <string name="use_ptp_button_title">Kamera sifatida ulash (PTP)</string>
+    <string name="installer_cd_button_title">Mac uchun \"Android File Transfer\" dasturi o‘rnatilsinmi?</string>
+    <string name="accessibility_back">Orqaga</string>
+    <string name="accessibility_home">Uyga</string>
+    <string name="accessibility_menu">Menyu</string>
+    <string name="accessibility_recent">Umumiy nazar</string>
+    <string name="accessibility_search_light">Izlash</string>
+    <string name="accessibility_camera_button">Kamera</string>
+    <string name="accessibility_phone_button">Telefon</string>
+    <string name="accessibility_voice_assist_button">Ovozli yordam</string>
+    <string name="accessibility_unlock_button">Qulfdan chiqarish</string>
+    <string name="accessibility_unlock_button_fingerprint">Qulfdan chiqarish tugmasi, barmoq izi kutilmoqda</string>
+    <string name="accessibility_unlock_without_fingerprint">Barmoq izisiz qulfdan chiqarish</string>
+    <string name="unlock_label">qulfdan chiqarish</string>
+    <string name="phone_label">telefonni ochish</string>
+    <string name="voice_assist_label">ovozli yordamni yoqish</string>
+    <string name="camera_label">kamerani ochish</string>
+    <string name="recents_caption_resize">Yangi vazifa tartibini tanlash</string>
+    <string name="accessibility_compatibility_zoom_button">Kattalashtirish tugmasi mosligi.</string>
+    <string name="accessibility_compatibility_zoom_example">Kattaroq ekran uchun kichikroqni kattalashtirish.</string>
+    <string name="accessibility_bluetooth_connected">Bluetooth ulandi.</string>
+    <string name="accessibility_bluetooth_disconnected">Bluetooth ajratildi.</string>
+    <string name="accessibility_no_battery">Batareya mavjud emas.</string>
+    <string name="accessibility_battery_one_bar">Batareya bitta panelda.</string>
+    <string name="accessibility_battery_two_bars">Batareya ikkta panelda.</string>
+    <string name="accessibility_battery_three_bars">Batareya uchta panelda.</string>
+    <string name="accessibility_battery_full">Batareya to‘la.</string>
+    <string name="accessibility_no_phone">Signal yo‘q.</string>
+    <string name="accessibility_phone_one_bar">Telefon bitta panelda.</string>
+    <string name="accessibility_phone_two_bars">Telefon ikkita panelda.</string>
+    <string name="accessibility_phone_three_bars">Telefon uchta panelda.</string>
+    <string name="accessibility_phone_signal_full">Telefon signali to‘liq.</string>
+    <string name="accessibility_no_data">Ma’lumotlar yo‘q.</string>
+    <string name="accessibility_data_one_bar">Ma’lumotlar bitta panelda.</string>
+    <string name="accessibility_data_two_bars">Ma’lumotlar ikkita panelda.</string>
+    <string name="accessibility_data_three_bars">Ma’lumotlar uchta panelda.</string>
+    <string name="accessibility_data_signal_full">Ma’lumot uzatish signali to‘liq.</string>
+    <string name="accessibility_wifi_name">Ulangan: %s.</string>
+    <string name="accessibility_bluetooth_name">Ulangan: %s.</string>
+    <string name="accessibility_wifi_signal_full">Wi-Fi signali to‘la.</string>
+    <string name="accessibility_wifi_three_bars">Wi-Fi signalining uch paneli</string>
+    <string name="accessibility_wifi_two_bars">Wi-Fi signalining ikki paneli</string>
+    <string name="accessibility_wifi_one_bar">Wi-Fi signalining bir paneli</string>
+    <string name="accessibility_no_wifi">Wi-Fi signali yo‘q</string>
+    <string name="accessibility_no_wimax">WiMAX tarmog‘i yo‘q.</string>
+    <string name="accessibility_wimax_one_bar">Bitta ustunli WiMAX.</string>
+    <string name="accessibility_wimax_two_bars">Ikkita ustunli WiMAX.</string>
+    <string name="accessibility_wimax_three_bars">Uchta ustunli WiMAX.</string>
+    <string name="accessibility_wimax_signal_full">To‘liq signalli WiMAX.</string>
+    <string name="accessibility_ethernet_disconnected">Qurilma Ethernet tarmog‘idan uzildi.</string>
+    <string name="accessibility_ethernet_connected">Qurilma Ethernet tarmog‘iga ulandi.</string>
+    <string name="accessibility_no_signal">Signal yo‘q.</string>
+    <string name="accessibility_not_connected">Ulanmagan.</string>
+    <string name="accessibility_zero_bars">Signal ustuni yo‘q.</string>
+    <string name="accessibility_one_bar">Bitta ustun.</string>
+    <string name="accessibility_two_bars">Ikkita ustun.</string>
+    <string name="accessibility_three_bars">Uchta ustun.</string>
+    <string name="accessibility_signal_full">Signal to‘liq.</string>
+    <string name="accessibility_desc_on">Yoniq</string>
+    <string name="accessibility_desc_off">O‘chiq</string>
+    <string name="accessibility_desc_connected">Ulangan.</string>
+    <string name="accessibility_desc_connecting">Ulanmoqda…</string>
+    <string name="accessibility_data_connection_gprs">GPRS</string>
+    <string name="accessibility_data_connection_1x">1 X</string>
+    <string name="accessibility_data_connection_hspa">HSPA</string>
+    <string name="accessibility_data_connection_3g">3G</string>
+    <string name="accessibility_data_connection_3.5g">3.5G</string>
+    <string name="accessibility_data_connection_4g">4G</string>
+    <string name="accessibility_data_connection_lte">LTE</string>
+    <string name="accessibility_data_connection_cdma">CDMA</string>
+    <string name="accessibility_data_connection_roaming">Rouming</string>
+    <string name="accessibility_data_connection_edge">Edge</string>
+    <string name="accessibility_data_connection_wifi">Wi-Fi</string>
+    <string name="accessibility_no_sim">SIM-karta yo‘q.</string>
+    <string name="accessibility_bluetooth_tether">Bluetooth modem</string>
+    <string name="accessibility_airplane_mode">Parvoz rejimi</string>
+    <string name="accessibility_no_sims">Hech qanday SIM-karta yo‘q.</string>
+    <string name="accessibility_carrier_network_change_mode">Mobil tarmoqni o‘zgartirish</string>
+    <string name="accessibility_settings_button">Tizim sozlamalari.</string>
+    <string name="accessibility_notifications_button">Eslatmalar.</string>
+    <string name="accessibility_remove_notification">Eslatmalarni tozalash.</string>
+    <string name="accessibility_gps_enabled">GPS yoqildi.</string>
+    <string name="accessibility_gps_acquiring">GPS so‘rovi.</string>
+    <string name="accessibility_tty_enabled">TeleTypewriter yoqildi.</string>
+    <string name="accessibility_ringer_vibrate">Vibratsiyali qo‘ng‘iroq</string>
+    <string name="accessibility_ringer_silent">Ovozsiz qo‘ng‘iroq.</string>
+    <string name="accessibility_recents_item_will_be_dismissed">Olib tashlash: %s.</string>
+    <string name="accessibility_recents_item_dismissed">%s olib tashlangan.</string>
+    <string name="accessibility_recents_item_closed">%s yopildi.</string>
+    <string name="accessibility_recents_all_items_dismissed">Yaqinda ishlatilgan barcha ilovalar olib tashlandi.</string>
+    <string name="accessibility_recents_item_launched">%s ishga tushirilmoqda.</string>
+    <string name="accessibility_recents_task_header">%1$s %2$s</string>
+    <string name="accessibility_notification_dismissed">Xabarnoma e‘tiborsiz qoldirildi.</string>
+    <string name="accessibility_desc_notification_shade">Xabarnoma soyasi.</string>
+    <string name="accessibility_desc_quick_settings">Tezkor sozlamalar.</string>
+    <string name="accessibility_desc_lock_screen">Qulflash ekrani.</string>
+    <string name="accessibility_desc_settings">Sozlamalar</string>
+    <string name="accessibility_desc_recent_apps">Oxirgi ilovalar</string>
+    <string name="accessibility_desc_close">Yopish</string>
+    <string name="accessibility_quick_settings_user">Foydalanuvchi %s.</string>
+    <string name="accessibility_quick_settings_wifi">%1$s.</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">Wi-Fi o‘chirildi.</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">Wi-Fi yoqildi.</string>
+    <string name="accessibility_quick_settings_mobile">Mobil tarmoq: %3$s (%2$s, %1$s)</string>
+    <string name="accessibility_quick_settings_battery">Batareya %s.</string>
+    <string name="accessibility_quick_settings_airplane_off">Parvoz rejimi o‘chirilgan.</string>
+    <string name="accessibility_quick_settings_airplane_on">Parvoz rejimi yoqilgan.</string>
+    <string name="accessibility_quick_settings_airplane_changed_off">Parvoz rejimi o‘chirildi.</string>
+    <string name="accessibility_quick_settings_airplane_changed_on">Parvoz rejimi yoqildi.</string>
+    <string name="accessibility_quick_settings_dnd_priority_on">“Bezovta qilinmasin” funksiyasi yoqilgan, faqat muhim bildirishnomalar ko‘rsatiladi.</string>
+    <string name="accessibility_quick_settings_dnd_none_on">Bezovta qilinmasin, tinchlik saqlansin</string>
+    <string name="accessibility_quick_settings_dnd_alarms_on">Bezovta qilinmasin, faqat signallar</string>
+    <string name="accessibility_quick_settings_dnd_off">“Bezovta qilinmasin” funksiyasi o‘chirilgan.</string>
+    <string name="accessibility_quick_settings_dnd_changed_off">“Bezovta qilinmasin” funksiyasi o‘chirildi.</string>
+    <string name="accessibility_quick_settings_dnd_changed_on">“Bezovta qilinmasin” funksiyasi yoqildi.</string>
+    <string name="accessibility_quick_settings_bluetooth_off">Bluetooth o‘chirilgan.</string>
+    <string name="accessibility_quick_settings_bluetooth_on">Bluetooth yoqilgan.</string>
+    <string name="accessibility_quick_settings_bluetooth_connecting">Bluetooth ulanmoqda.</string>
+    <string name="accessibility_quick_settings_bluetooth_connected">Bluetooth ulangan.</string>
+    <string name="accessibility_quick_settings_bluetooth_changed_off">Bluetooth o‘chirildi.</string>
+    <string name="accessibility_quick_settings_bluetooth_changed_on">Bluetooth yoqildi.</string>
+    <string name="accessibility_quick_settings_location_off">Joylashuv ma’lumotini yuborish o‘chirilgan.</string>
+    <string name="accessibility_quick_settings_location_on">Joylashuv ma’lumotini yuborish yoqilgan.</string>
+    <string name="accessibility_quick_settings_location_changed_off">Joylashuv ma’lumotini yuborish o‘chirildi.</string>
+    <string name="accessibility_quick_settings_location_changed_on">Joylashuv ma’lumotini yuborish yoqildi.</string>
+    <string name="accessibility_quick_settings_alarm">Uyg‘otkich signali %s da chalinadi.</string>
+    <string name="accessibility_quick_settings_close">Panelni yopish.</string>
+    <string name="accessibility_quick_settings_more_time">Ko‘proq vaqt.</string>
+    <string name="accessibility_quick_settings_less_time">Kamroq vaqt.</string>
+    <string name="accessibility_quick_settings_flashlight_off">Fonar o‘chirilgan.</string>
+    <string name="accessibility_quick_settings_flashlight_on">Fonar yoqilgan.</string>
+    <string name="accessibility_quick_settings_flashlight_changed_off">Fonar o‘chirildi.</string>
+    <string name="accessibility_quick_settings_flashlight_changed_on">Fonar yoqildi.</string>
+    <string name="accessibility_quick_settings_color_inversion_changed_off">Ranglarni akslantirish o‘chirildi.</string>
+    <string name="accessibility_quick_settings_color_inversion_changed_on">Ranglarni akslantirish yoqildi.</string>
+    <string name="accessibility_quick_settings_hotspot_changed_off">Mobil ulanish nuqtasi o‘chirildi.</string>
+    <string name="accessibility_quick_settings_hotspot_changed_on">Mobil ulanish nuqtasi yoqildi.</string>
+    <string name="accessibility_casting_turned_off">Ekranni translatsiya qilish to‘xtadi.</string>
+    <string name="accessibility_brightness">Ekran yorqinligi</string>
+    <string name="quick_settings_brightness_controller_hbm">Quyosh yorug‘ida ko‘rish u-n optimal-gan</string>
+    <string name="quick_settings_brightness_controller_outdoor_mode_label">Tashqari</string>
+    <string name="quick_settings_brightness_controller_outdoor_mode_title">Tashqari rejimi</string>
+    <string name="quick_settings_brightness_controller_outdoor_message_vzw">Outdoor mode will maximize screen brightness for best viewing in sunlight. If the screen is not in use, screen brightness will return to the previous setting in 15 minutes.</string>
+    <string name="quick_settings_brightness_controller_outdoor_message">Ekran yorqinligini %1$d daqiqaga ko‘paytirish. %2$d daqiqa o‘tguniga qadar ekran yoqilsa, ekran o‘chirilguniga qadar Tashqari rejimi yoqilgan holda saqlanadi.</string>
+    <string name="data_usage_disabled_dialog_3g_title">2G-3G internet to‘xtatib qo‘yildi</string>
+    <string name="data_usage_disabled_dialog_4g_title">4G internet to‘xtatib qo‘yildi</string>
+    <string name="data_usage_disabled_dialog_mobile_title">Mobil internetdan foydalanish to‘xtatib qo‘yildi</string>
+    <string name="data_usage_disabled_dialog_title">Internetdan foydalanish to‘xtatib qo‘yildi</string>
+    <string name="data_usage_disabled_dialog">"Siz o‘rnatgan mobil internet chekloviga yetgani bois joriy hisob-kitob davrining qolgan muddati uchun mobil internetdan foydalanish vaqtinchalik to‘xtatib qo‘yildi.
+
+Agar internetdan foydalanishni davom ettirsangiz, buning uchun uyali aloqa operatoringiz ortiqcha haq talab qilishi mumkin."</string>
+    <string name="data_usage_disabled_dialog_enable">Davom etish</string>
+    <string name="data_usage_disabled_dialog_limit_title">"Mobil ma'lumot o‘chirilgan"</string>
+    <string name="data_usage_disabled_dialog_limit_title_vzw">Mobile data is now off</string>
+    <string name="data_usage_disabled_dialog_limit">"Ma'lumotlardan foydalanishning belgilangan chegarasiga yetildi. Ma'lumotlardan qo‘shimcha ravishda foydalanish uchun xizmat ta'minotchisi tomonidan to‘lov olinishi mumkin."</string>
+    <string name="data_usage_disabled_dialog_limit_vzw">"You've reached your specified data usage limit, so mobile data has been turned off.
+
+If you turn mobile data back on, you may be charged for data usage by your carrier."</string>
+    <string name="data_usage_disabled_dialog_limit_enable">Mobil ma’lumot yoq</string>
+    <string name="data_usage_disabled_dialog_limit_enable_vzw">Turn on data</string>
+    <string name="status_bar_settings_signal_meter_disconnected">Internetga ulanmagan</string>
+    <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi ulandi</string>
+    <string name="gps_notification_searching_text">GPS qidirilmoqda</string>
+    <string name="gps_notification_found_text">GPS yordamida manzilni o‘rnatish</string>
+    <string name="gps_notification_searching_text_vzw">Finding location</string>
+    <string name="gps_notification_found_text_vzw">Location found</string>
+    <string name="accessibility_location_active">Joylashuv so‘rovlari yoniq</string>
+    <string name="accessibility_clear_all">Barcha eslatmalarni tozalash.</string>
+    <string name="status_bar_notification_inspect_item_title">Bildirishnoma sozlamalari</string>
+    <string name="status_bar_notification_app_settings_title">%s sozlamalari</string>
+    <string name="accessibility_rotation_lock_off">Ekran avtomatik ravishda aylanadi.</string>
+    <string name="accessibility_rotation_lock_on_landscape">Ekran eniga holatida qulflandi.</string>
+    <string name="accessibility_rotation_lock_on_portrait">Ekran bo‘yiga holatida qulflandi.</string>
+    <string name="accessibility_rotation_lock_off_changed">Ekran endi avtomatik ravishda aylanadi.</string>
+    <string name="accessibility_rotation_lock_on_landscape_changed">Ekran yotiq holatda aylanmaydigan qilindi.</string>
+    <string name="accessibility_rotation_lock_on_portrait_changed">Ekran tik holatda aylanmaydigan qilindi.</string>
+    <string name="dessert_case">Dessert Case</string>
+    <string name="start_dreams">Ekran lavhasi</string>
+    <string name="ethernet_label">Ethernet</string>
+    <string name="it_policy_not_allow_wifi">Xavfsizlik siyosati Wi-Fi ishlatilishidan saqlaydi.</string>
+    <string name="it_policy_not_allow_wifiap">Xavfsizlik siyosati Internet umumiy ulanishidan foydalanishni taqiqlaydi.</string>
+    <string name="wifi_in_airplane_mode">Parvoz rejimida</string>
+    <string name="wifi_authentication_succeed">Tekshirildi.</string>
+    <string name="wifi_authentication_failed">Haqiqiylikni tekshirib bo‘lmadi.</string>
+    <string name="wifi_authentication_succeed_kt">Wi-Fi AP tekshirildi.</string>
+    <string name="wifi_authentication_failed_kt">Wi-Fi APni tekshirib bo‘lmadi.</string>
+    <string name="wifi_authentication_not_subscribed">%s tarmog‘iga ulanib bo‘lmaydi. Xizmatga obuna bo‘ling, so‘ngra qayta urinib ko‘ring.</string>
+    <string name="wifi_authentication_no_response">Wi-Fi APga ulanib bo‘lmadi.</string>
+    <string name="wifi_authentication_invalid_value">Haqiqiylik tekshiruvi bajarilmadi. ID va parolni tekshiring.</string>
+    <string name="wifi_setup_title_connected_network">%s Wi-Fi tarmog‘iga ulangan.</string>
+    <string name="wifi_disconnected">Wi-Fi uzilgan.</string>
+    <string name="quick_settings_dnd_label">"Bezovta
+qilmang"</string>
+    <string name="quick_settings_dnd_priority_label">Faqat muhimlari</string>
+    <string name="quick_settings_dnd_alarms_label">Faqat signallar</string>
+    <string name="quick_settings_dnd_none_label">Tinchlik saqlansin</string>
+    <string name="quick_settings_dormant_mode_label">"Bezovta
+qilmang"</string>
+    <string name="quick_settings_bluetooth_label">Bluetooth</string>
+    <string name="quick_settings_bluetooth_multiple_devices_label">Bluetooth (%dta qurilma)</string>
+    <string name="quick_settings_bluetooth_off_label">Bluetooth o‘chirilgan</string>
+    <string name="quick_settings_bluetooth_detail_empty_text">Ulangan qurilmalar topilmadi</string>
+    <string name="quick_settings_brightness_label">Yorqinlik</string>
+    <string name="quick_settings_rotation_unlocked_label">"Avto
+aylantir"</string>
+    <string name="quick_settings_rotation_locked_label">Aylanmaydigan qilingan</string>
+    <string name="quick_settings_rotation_locked_portrait_label">Portret</string>
+    <string name="quick_settings_rotation_locked_landscape_label">Eniga</string>
+    <string name="quick_settings_ime_label">Kiritish usuli</string>
+    <string name="quick_settings_location_label">Joylashuv</string>
+    <string name="quick_settings_location_off_label">Joylashuv xizmati o‘chiq</string>
+    <string name="quick_settings_media_device_label">Media qurilma</string>
+    <string name="quick_settings_rssi_label">RSSI</string>
+    <string name="quick_settings_rssi_emergency_only">Faqat favqulodda qo‘ng‘iroqlar</string>
+    <string name="quick_settings_settings_label">Sozlamalar</string>
+    <string name="quick_settings_time_label">Vaqt</string>
+    <string name="quick_settings_user_label">Men</string>
+    <string name="quick_settings_user_title">Foydalanuvchi</string>
+    <string name="quick_settings_user_new_user">Yangi foydalanuvchi</string>
+    <string name="quick_settings_airplane_mode_label">"Parvoz
+rejimi"</string>
+    <string name="quick_settings_silent_mode_sound">Ovoz</string>
+    <string name="quick_settings_silent_mode_vibrate">Vibratsiya</string>
+    <string name="quick_settings_silent_mode_mute">Ovozsiz</string>
+    <string name="quick_settings_sfinder_text">S Finder</string>
+    <string name="quick_settings_sync_text">Sinxronlash</string>
+    <string name="quick_settings_wificalling_text">"Wi-Fi
+Calling"</string>
+    <string name="quick_settings_wifi_hotspot_label">"Mobil
+faol nqt"</string>
+    <string name="quick_settings_wifi_hotspot_label_vzw">"Mobil
+faol nqt"</string>
+    <string name="quick_settings_wifi_hotspot_label_jpn">"Wi-Fi
+bog‘lash"</string>
+    <string name="quick_settings_touch_sensitivity_label">"Tegish
+sezgirligi"</string>
+    <string name="quick_settings_smart_stay_label">"Smart
+turish"</string>
+    <string name="quick_settings_quick_connect_label">"Tezkor
+ulanish"</string>
+    <string name="quick_settings_ultra_power_saving_label">"U. quvvat
+tejash"</string>
+    <string name="quick_settings_location_text">Joylashuv</string>
+    <string name="quick_settings_gps_text">GPS</string>
+    <string name="quick_settings_reading_mode_label">"O‘qish
+rejimi"</string>
+    <string name="quick_settings_mobile_data_label">"Mobil
+internet"</string>
+    <string name="quick_settings_data_roaming_label">"Ma’l-t
+roumingi"</string>
+    <string name="quick_settings_personal_mode_label">"Maxfiy
+rejim"</string>
+    <string name="quick_settings_power_saving_label">"Quvvat
+tejash"</string>
+    <string name="quick_settings_network_power_saving_label">"T. quvvat
+tejash"</string>
+    <string name="quick_settings_nfc_card_mode_label">"NFC
+karta rejimi"</string>
+    <string name="quick_settings_nfc_p2p_label">"O‘/Y
+P2P"</string>
+    <string name="quick_settings_nfc_jpn_label">"NFC/Osaifu-
+Keitai"</string>
+    <string name="quick_settings_torch_label">Fonar</string>
+    <string name="quick_settings_screen_capture_label">"Capture
+screen"</string>
+    <string name="quick_settings_aod_label">"Always On
+Display"</string>
+    <string name="quick_settings_wifi_label">Wi-Fi</string>
+    <string name="quick_settings_wifi_not_connected">Ulanmagan</string>
+    <string name="quick_settings_wifi_no_network">Tarmoq mavjud emas</string>
+    <string name="quick_settings_wifi_off_label">Wi-Fi o‘chirilgan</string>
+    <string name="quick_settings_wifi_detail_empty_text">Hech qanday Wi-Fi tarmog‘i mavjud emas</string>
+    <string name="quick_settings_screen_mirroring_label">"Screen
+Mirroring"</string>
+    <string name="quick_settings_cast_title">Wi-Fi monitor</string>
+    <string name="quick_settings_casting">Translatsiya qilinmoqda</string>
+    <string name="quick_settings_cast_device_default_name">Nomsiz qurilma</string>
+    <string name="quick_settings_cast_device_default_description">Tarqatish uchun tayyor</string>
+    <string name="quick_settings_cast_detail_empty_text">Qurilmalar topilmadi</string>
+    <string name="quick_settings_brightness_dialog_title">Yorqinlik</string>
+    <string name="quick_settings_brightness_dialog_auto_brightness_label">AVTOMATIC</string>
+    <string name="quick_settings_inversion_label">Ranglarni almashtirish</string>
+    <string name="quick_settings_color_space_label">Rangni to‘g‘rilash usuli</string>
+    <string name="quick_settings_more_settings">PARAMETRLAR</string>
+    <string name="quick_settings_done">Bajarildi</string>
+    <string name="quick_settings_connected">Ulangan</string>
+    <string name="quick_settings_connecting">Ulanmoqda…</string>
+    <string name="quick_settings_tethering_label">Modem rejimi</string>
+    <string name="quick_settings_hotspot_label">Ulanish nuqtasi</string>
+    <string name="quick_settings_notifications_label">Bildirishnomalar</string>
+    <string name="quick_settings_flashlight_label">Fonar</string>
+    <string name="quick_settings_cellular_detail_title">Mobil internet</string>
+    <string name="quick_settings_cellular_detail_data_usage">Trafik sarfi</string>
+    <string name="quick_settings_cellular_detail_remaining_data">"Qolayotgan ma'lumot"</string>
+    <string name="quick_settings_cellular_detail_over_limit">Limitdan oshgan</string>
+    <string name="quick_settings_cellular_detail_data_used">%s foydalanilgan</string>
+    <string name="quick_settings_cellular_detail_data_limit">Cheklov: %s</string>
+    <string name="quick_settings_cellular_detail_data_warning">Ogohlantirish: %s</string>
+    <string name="quickpanel_content_description_led_on">%s yoqilgan.</string>
+    <string name="quickpanel_content_description_led_off">%s o‘chirilgan.</string>
+    <string name="quickpanel_content_description_led_dim">%sni yoqib bo‘lmayapti.</string>
+    <string name="quickpanel_content_description_expand_button">Tezkor parametrlar panelini kengaytirish</string>
+    <string name="quickpanel_content_description_collapse_button">Tezkor parametrlar panelini o‘rash</string>
+    <string name="quickpanel_long_preesed_description">Tezkor sozlash tugmasini bosib turing va tegishli parametrlarni oching.</string>
+    <string name="recents_empty_message">Foydalanilmayotgan ilovalar</string>
+    <string name="recents_app_info_button_label">Ilova haqida ma’lumot</string>
+    <string name="recents_lock_to_app_button_label">o‘zgarmas ekran</string>
+    <string name="recents_search_bar_label">qidirish</string>
+    <string name="recents_launch_error_message">“%s” ilovasini ishga tushirib bo‘lmadi.</string>
+    <string name="recents_dismiss_all_message">Barcha ilovalarni olib tashlash</string>
+    <string name="recents_multistack_add_stack_dialog_split_horizontal">Gorizontal yo‘nalishda bo‘lish</string>
+    <string name="recents_multistack_add_stack_dialog_split_vertical">Vertikal yo‘nalishda bo‘lish</string>
+    <string name="recents_multistack_add_stack_dialog_split_custom">Boshqa usulda bo‘lish</string>
+    <string name="expanded_header_battery_charged">Batareya quvvati to‘ldi</string>
+    <string name="expanded_header_battery_charging">Quvvat olmoqda</string>
+    <string name="expanded_header_battery_charging_with_time">%sda to‘ladi</string>
+    <string name="expanded_header_battery_not_charging">Quvvat olmayapti</string>
+    <string name="ssl_ca_cert_warning">"Tarmoq nazorat
+ostida bo‘lishi mumkin"</string>
+    <string name="description_target_search">Izlash</string>
+    <string name="description_direction_up">%s uchun yuqoriga suring.</string>
+    <string name="description_direction_left">%s uchun chapga suring.</string>
+    <string name="zen_priority_introduction">Turli ovoz va tebranishlar endi sizni bezovta qilmaydi. Biroq uyg‘otkich signallari, eslatmalar, tadbirlar haqidagi bildirishnomalar va siz tanlagan abonentlardan kelgan qo‘ng‘iroqlar bundan mustasno.</string>
+    <string name="zen_priority_customize_button">Sozlash</string>
+    <string name="zen_silence_introduction_voice">Bu BARCHA, jumladan signallar, musiqa, videolar va o‘yinlardan keladigan tovush va tebranishlarni to‘sib qo‘yadi. Siz telefon qo‘ng‘iroqlarini bemalol amalga oshirishingiz mumkin.</string>
+    <string name="zen_silence_introduction">Bu BARCHA, jumladan, signallar, musiqa, videolar va o‘yinlardan keladigan tovush va tebranishlarni to‘sib qo‘yadi.</string>
+    <string name="keyguard_more_overflow_text">+%d</string>
+    <string name="speed_bump_explanation">Kam ahamiyatli bildirishnomalarni pastda ko‘rsatish</string>
+    <string name="notification_tap_again">Ochish uchun yana bosing</string>
+    <string name="keyguard_unlock">Blokdan chiqarish uchun ekranni suring</string>
+    <string name="lockscreen_unlock_guide_text">Blokdan chiqarish uchun ekranni suring</string>
+    <string name="lockscreen_unlock_guide_text_voice_assistant">Ekranni blokdan chiqarish uchun uni ikkita barmog‘ingiz bilan suring.</string>
+    <string name="kg_fingerprints_unlock_instructions">Blk chiq u-n brmq izi ishlat</string>
+    <string name="kg_fingerprints_bouncer_instructions">Ochish uchun barmoq izidan foydalanish</string>
+    <string name="kg_swipe_bouncer_instructions">Ochish uchun ekranni suring</string>
+    <string name="kg_swipe_bouncer_instructions_voice_assistant">Ochish uchun ekranni ikkita barmoq bilan suring.</string>
+    <string name="phone_hint">Telefonni ochish uchun suring</string>
+    <string name="voice_hint">Ovozli yordam: belgidan boshlab suring</string>
+    <string name="camera_hint">Kamerani ochish uchun suring</string>
+    <string name="interruption_level_none_with_warning">Tinchlik saqlansin. Ekrandan o‘qish dasturlari ham ishlamaydi.</string>
+    <string name="interruption_level_none">Tinchlik saqlansin</string>
+    <string name="interruption_level_priority">Faqat muhimlari</string>
+    <string name="interruption_level_alarms">Faqat signallar</string>
+    <string name="interruption_level_none_twoline">"Tinchlik
+saqlansin"</string>
+    <string name="interruption_level_priority_twoline">"Faqat
+muhimlar"</string>
+    <string name="interruption_level_alarms_twoline">"Faqat
+signallar"</string>
+    <string name="keyguard_indication_charging_time">Quvvat olmoqda (%sda to‘ladi)</string>
+    <string name="accessibility_multi_user_switch_switcher">Foydalanuvchini almashtirish</string>
+    <string name="accessibility_multi_user_switch_switcher_with_current">Foydalanuvchini o‘zgartirish. Joriy foydalanuvchi – %s</string>
+    <string name="accessibility_multi_user_switch_inactive">Joriy foydalanuvchi %s</string>
+    <string name="accessibility_multi_user_switch_quick_contact">Profilni ko‘rsatish</string>
+    <string name="user_add_user">Foydalanuvchi qo‘shish</string>
+    <string name="user_new_user_name">Yangi foydalanuvchi</string>
+    <string name="guest_nickname">Mehmon</string>
+    <string name="guest_new_guest">Yangi mehmon qo‘shish</string>
+    <string name="guest_exit_guest">Mehmonni o‘chirib tashlash</string>
+    <string name="guest_exit_guest_dialog_title">Mehmon profilini yo‘q qilish</string>
+    <string name="guest_exit_guest_dialog_message">Barcha yuklab olingan ilovalar va tegishli ma’lumotlar bilan bir qatorda ushbu profil o‘chirib tashlanadi. Bu ma’lumotni tiklab bo‘lmaydi.</string>
+    <string name="guest_exit_guest_dialog_remove">"O'chirib tashlash"</string>
+    <string name="guest_wipe_session_title">Xush kelibsiz, mehmon!</string>
+    <string name="guest_wipe_session_message">Seansni davom ettirmoqchimisiz?</string>
+    <string name="guest_wipe_session_wipe">Boshidan boshlansin</string>
+    <string name="guest_wipe_session_dontwipe">Ha, davom ettirilsin</string>
+    <string name="guest_notification_title">Mehmon foydalanuvchi</string>
+    <string name="guest_notification_text">Ilova va ma’l-ni o‘chirish u-n mehmon hisobini o‘chiring</string>
+    <string name="guest_notification_remove_action">MEHMON HISOBINI O‘CHIRISH</string>
+    <string name="user_add_user_title">Foydalanuvchi qo‘shish</string>
+    <string name="user_add_user_message_short">"Yangi foydalanuvchi qo‘shganingizda, ular o‘z sohalarini o‘rnatishlari lozim.
+
+Istalgan foydalanuvchi boshqa barcha foydalanuvchilar uchun ilovalarni yangilashlari mumkin."</string>
+    <string name="unable_to_switch_user">Qo‘ng‘iroqlar vaqtida foydalanuvchi profilini o‘zgartirib bo‘lmaydi.</string>
+    <string name="battery_saver_notification_title">Quvvat tejash rejimi yoqildi</string>
+    <string name="battery_saver_notification_text">Unumdorlikni pasaytiradi va fonda int-dan foyd-ni cheklaydi</string>
+    <string name="battery_saver_notification_action_text">Quvvat tejash funksiyasini o‘chiring</string>
+    <string name="notification_hidden_text">Kontent yashirildi</string>
+    <string name="sanitized_content_text">%s kiritish uchun bu yerga cherting.</string>
+    <string name="media_projection_dialog_text">%s ilovasi qurilma ekranidagi har qanday tasvirni ko‘rishni boshlaydi.</string>
+    <string name="media_projection_remember_text">Boshqa ko‘rsatilmasin</string>
+    <string name="clear_all_notifications_text">Barchasini tozalash</string>
+    <string name="media_projection_action_text">Boshlash</string>
+    <string name="empty_shade_text">Bildirishnomalar yo‘q</string>
+    <string name="device_owned_footer">Qurilma kuzatilishi mumkin</string>
+    <string name="profile_owned_footer">Profil kuzatilishi mumkin</string>
+    <string name="vpn_footer">Tarmoq kuzatuv ostida bo‘lishi mumkin</string>
+    <string name="monitoring_title_device_owned">Qurilmalarni kuzatish</string>
+    <string name="monitoring_title_profile_owned">Profilni kuzatish</string>
+    <string name="monitoring_title">Tarmoqlarni kuzatish</string>
+    <string name="disable_vpn">VPN tarmog‘ini o‘chirish</string>
+    <string name="disconnect_vpn">VPN ulanishini uzish</string>
+    <string name="monitoring_description_device_owned">"Qurilmangiz %1$s tomonidan boshqariladi.
+
+Administrator sozlamalar, korporativ kirish huquqi, ilovalar, qurilmangizdagi ma’lumotlar, jumladan, joylashuv ma’lumotlari hamda unga bog‘liq boshqa ma’lumotlarni boshqarishi mumkin. Ko‘proq ma’lumot olish uchun administrator bilan bog‘laning."</string>
+    <string name="monitoring_description_vpn">"Siz ilovaga VPN tarmog‘iga ulanishga ruxsat bergansiz.
+
+Ushbu ilova qurilmangiz va internetdagi harakatlaringizni, jumladan, e-pochta, ilovalar va veb-saytlardagi xatti-harakatlaringizni kuzatishi mumkin."</string>
+    <string name="monitoring_description_vpn_device_owned">"Qurilmangiz %1$s tomonidan boshqariladi.
+
+Administrator sozlamalar, korporativ kirish huquqi, ilovalar, qurilmangizdagi ma’lumotlar, jumladan, joylashuv ma’lumotlarini boshqarishi mumkin.
+
+Shuningdek, siz Internetdagi harakatlaringizni, jumladan, e-pochta, ilova va veb-saytlar bilan ishlashingizni kuzata oladigan VPN tarmog‘iga ham ulangansiz.
+
+Ko‘proq ma’lumot olish uchun  administrator bilan bog‘laning."</string>
+    <string name="monitoring_description_vpn_profile_owned">"Sizning ishchi profilingiz %1$s tomonidan boshqariladi.
+
+Administrator internetdagi harakatlaringizni, jumladan, e-pochta, ilova va xavfsiz veb-saytlar bilan ishlashingizni kuzatishi mumkin.
+
+Batafsil ma’lumot olish uchun administrator bilan bog‘laning.
+
+Shuningdek, siz VPN tarmog‘iga ham ulangansiz. U internetdagi harakatlaringizni kuzatishi mumkin."</string>
+    <string name="legacy_vpn_name">VPN</string>
+    <string name="monitoring_description_app">%1$s ilovasi ishga tushirilgan. U internetdagi harakatlaringiz, jumladan, e-pochta, ilova va veb-saytlardagi xatti-harakatlaringizni kuzatishi mumkin.</string>
+    <string name="monitoring_description_app_personal">%1$s ilovasi ishga tushirilgan. U internetdagi harakatlaringiz, jumladan, e-pochta, ilova va veb-saytlardagi xatti-harakatlaringizni kuzatishi mumkin.</string>
+    <string name="monitoring_description_app_work">"Sizning ishchi profilingiz %1$s tomonidan boshqariladi. %2$s ilovasi ish tarmog‘idagi harakatlaringizni, jumladan, e-pochta, ilova va veb-saytlardagi xatti-harakatlaringizni kuzatishi mumkin.
+
+Batafsil ma’lumot olish uchun administrator bilan bog‘laning."</string>
+    <string name="monitoring_description_app_personal_work">"Sizning ishchi profilingiz %1$s tomonidan boshqariladi. %2$s ilovasi ish tarmog‘idagi harakatlaringizni, jumladan, e-pochta, ilova va veb-saytlardagi xatti-harakatlaringizni kuzatishi mumkin.
+
+Shuningdek, %3$s ilovasi ham shaxsiy tarmoqdagi harakatlaringizni kuzatishi mumkin."</string>
+    <string name="monitoring_description_vpn_app_device_owned">"Qurilmangiz %1$s tomonidan boshqariladi.
+
+Administrator sozlamalar, korporativ kirish huquqi, ilovalar, qurilmangizdagi ma’lumotlar, jumladan, joylashuv ma’lumotlarini boshqarishi mumkin.
+
+Shuningdek, siz %2$s ilovasiga ham ulangansiz. Ushbu ilova internetdagi harakatlaringizni, jumladan, e-pochta, ilovalar va veb-saytlar bilan ishlashingizni kuzata oladi.
+
+Batafsil ma’lumot olish uchun administrator bilan bog‘laning."</string>
+    <string name="keyguard_indication_trust_disabled">Qurilma qo‘lda qulfdan chiqarilmaguncha qulflangan holatda qoladi</string>
+    <string name="hidden_notifications_title">Bildirishnomalarni tezroq oling</string>
+    <string name="hidden_notifications_text">Ularni qulfdan chiqarishdan oldin ko‘ring</string>
+    <string name="hidden_notifications_cancel">Yo‘q, kerak emas</string>
+    <string name="hidden_notifications_setup">Sozlash</string>
+    <string name="notification_expand_button_text">Barchasini ko‘rsatish</string>
+    <string name="notification_collapse_button_text">Barchasini yashirish</string>
+    <string name="zen_mode_and_condition">%1$s. %2$s</string>
+    <string name="volume_zen_end_now">Tugatish</string>
+    <string name="accessibility_volume_expand">Kengaytirish</string>
+    <string name="accessibility_volume_collapse">O‘rash</string>
+    <string name="screen_pinning_title">Ekran qadaldi</string>
+    <string name="screen_pinning_description">Ekran yechilmaguncha u qadalgan holatda qoladi. Uni yechish uchun “Orqaga” va “Umumiy nazar” tugmalarini bir vaqtda bosing va ushlab turing.</string>
+    <string name="screen_pinning_description_accessible">Ekran yechilmaguncha u qadalgan holatda qoladi. Uni yechish uchun “Umumiy nazar” tugmasini bosing va ushlab turing.</string>
+    <string name="screen_pinning_positive">OK</string>
+    <string name="screen_pinning_negative">Yo‘q, kerakmas</string>
+    <string name="quick_settings_reset_confirmation_title">%1$s berkitilsinmi?</string>
+    <string name="quick_settings_reset_confirmation_message">Keyingi safar sozlamalardan yoqilgan paydo bo‘ladi.</string>
+    <string name="quick_settings_reset_confirmation_button">Berkitish</string>
+    <string name="volumeui_prompt_message">%1$s ovoz balandligini boshqarmoqchi.</string>
+    <string name="volumeui_prompt_allow">Ruxsat berish</string>
+    <string name="volumeui_prompt_deny">Rad etish</string>
+    <string name="volumeui_notification_title">%1$s ovoz balandligini boshqaradi</string>
+    <string name="volumeui_notification_text">Aslini tiklash uchun bosing.</string>
+    <string name="managed_profile_foreground_toast">Siz ishchi profildan foydalanmoqdasiz</string>
+    <string name="tw_safe_media_volume_warning">Uzoq vaqt davomida baland ovozda musiqa tinglash eshitish qobiliyatingizga jiddiy zarar yetkazishi mumkin. Ovoz balandligining xavfsiz darajadan balandroq ko‘tarilishiga ruxsat berish uchun OKga teging.</string>
+    <string name="tw_cover_volume_warning_message">Uzoq vaqt dav. baland ovozda mus. tingl. eshitish qobiliyatiga jiddiy zarar yetkazadi. Ovoz ko‘tarish u-n qopqoqni och</string>
+    <string name="tw_safe_media_volume_warning_kids_mode">Bolalar rejimida quloqliklar ulangan vaqtda ovoz balandligi tavsiya etilgan xavfsiz darajadan (%s) oshib ketishi mumkin emas.</string>
+    <string name="yes">OK</string>
+    <string name="no">Bekor qilish</string>
+    <string name="system_ui_tuner">SystemUI Tuner</string>
+    <string name="show_battery_percentage">Batareya foizi ko‘rsatilsin</string>
+    <string name="show_battery_percentage_summary">Batareya quvvat olmayotgan vaqtda uning foizi holat qatorida ko‘rsatilsin</string>
+    <string name="quick_settings">Tezkor sozlamalar</string>
+    <string name="status_bar">Holat qatori</string>
+    <string name="demo_mode">Demo rejim</string>
+    <string name="enable_demo_mode">Demo rejimni yoqish</string>
+    <string name="show_demo_mode">Demo rejimni ko‘rsatish</string>
+    <string name="status_bar_ethernet">Ethernet</string>
+    <string name="status_bar_alarm">Signal</string>
+    <string name="status_bar_work">Ishchi profil</string>
+    <string name="status_bar_airplane">Parvoz rejimi</string>
+    <string name="add_tile">Tezkor sozlamalar tugmasini qo‘shish</string>
+    <string name="broadcast_tile">Translatsiya tugmasi</string>
+    <string name="mobile_hotspot_wifi_off_warning">Mobil faol nuqtani yoqish Wi-Fini o‘chiradi.</string>
+    <string name="mobile_hotspot_wifi_off_warning_china">Enabling Mobile hotspot will turn off WLAN.</string>
+    <string name="mobile_hotspot_wifi_off_warning_jpn">Enabling Wi-Fi tethering will turn off Wi-Fi.</string>
+    <string name="tethering_attention_title">Diqqat</string>
+    <string name="mobile_data_enable_toast_text">Parvoz rejimi yoqilganda, mobil tarmoqlarga ulanib bo‘lmaydi. Parvoz rejimini o‘chiring va qayta urinib ko‘ring.</string>
+    <string name="wifi_ap_wifi_p2p_off_warn">Mobil faol nuqtani yoqish ayni vaqtda Wi-Fi Direct orqali ulangan barcha qurilmalarni uzadi.</string>
+    <string name="wifi_ap_wifi_p2p_off_warn_china">Enabling Portable WLAN hotspot will disconnect device connected via WLAN Direct.</string>
+    <string name="dialog_battery_data_warning">Mobil faol nuqta yoqiladi. Bu batareya quvvati sarfini va ma’lumot ishlatilishini ko‘paytiradi.</string>
+    <string name="zen_alarm_warning_indef">Agar uni o‘chirib qo‘ymasangiz, keyingi signal (%1$s) chalinmaydi</string>
+    <string name="zen_alarm_warning">Keyingi signal (%1$s) chalinmaydi</string>
+    <string name="alarm_template">%1$s</string>
+    <string name="alarm_template_far">%1$s</string>
+    <string name="accessibility_quick_settings_detail">Tezkor sozlamalar, %s.</string>
+    <string name="accessibility_status_bar_hotspot">Ulanish nuqtasi</string>
+    <string name="accessibility_managed_profile">Ishchi profil</string>
+    <string name="tuner_warning_title">Diqqat!</string>
+    <string name="tuner_warning">System UI Tuner yordamida siz Android foydalanuvchi interfeysini tuzatish va o‘zingizga moslashtirishingiz mumkin. Ushbu tajribaviy funksiyalar o‘zgarishi, buzilishi yoki keyingi versiyalarda olib tashlanishi mumkin. Ehtiyot bo‘lib davom eting.</string>
+    <string name="tuner_persistent_warning">Ushbu tajribaviy funksiyalar o‘zgarishi, buzilishi yoki keyingi versiyalarda olib tashlanishi mumkin. Ehtiyot bo‘lib davom eting.</string>
+    <string name="got_it">OK</string>
+    <string name="tuner_toast">Tabriklaymiz! System UI Tuner Sozlamalarga qo‘shildi.</string>
+    <string name="remove_from_settings">Sozlamalardan olib tashlash</string>
+    <string name="remove_from_settings_prompt">System UI Tuner Sozlamalardan olib tashlanib, uning barcha funksiyalaridan foydalanish to‘xtatilsinmi?</string>
+    <string name="accessibility_qs_edit_button">Tahrirlash tugmasi</string>
+    <string name="accessibility_button">Tugma</string>
+    <string name="no_sim_notification_title">SIM-karta yo‘q</string>
+    <string name="no_sim_notification_title_tmo">SIM-karta kiritilmagan</string>
+    <string name="no_sim_notification_title_vzw">No SIM found</string>
+    <string name="no_sim_notification_text">SIM-karta kiriting.</string>
+    <string name="no_sim_notification_text_vzw">Tap for more information.</string>
+    <string name="full_battery_title">Ma’lumot</string>
+    <string name="full_battery_noti_text">Batareya to‘la zaryadlandi.</string>
+    <string name="charging_interruption_title">Zaryadlab bo‘lmaydi</string>
+    <string name="charging_interruption_by_terminal_open_text">Qurilmangizni zaryadlab bo‘lmaydi. Siz Samsungga mos batareya va zaryadlash qurilmasidan foydalanayotganingizga va qurilmangiz zaryadlash qurilmasiga to‘g‘ri ulanganligiga ishonch hosil qiling.</string>
+    <string name="charging_interruption_by_terminal_open_galaxy_text">Unable to charge your device. Make sure you are using a Galaxy compatible battery and charger and that your device is properly connected to the charger.</string>
+    <string name="charging_interruption_by_too_high_temperature_text">Zaryadlash to‘xtatib turilmoqda. Batareya harorati juda yuqori.</string>
+    <string name="charging_interruption_by_too_low_temperature_text">Zaryadlash to‘xtatib turilmoqda. Batareya harorati juda past.</string>
+    <string name="charging_interruption_by_limit_high_temperature_text">"Qurilmani zaryadlash to‘xtatildi. Batareya harorati juda yuqori. Zaryadlash qurilmasini ehtiyotkorlik bilan chiqaring. U juda issiq bo‘lishi mumkin.
+
+Zaryadlash qurilmasini chiqarish va qayta ulash zaryadlashni normal davom ettirishga imkon berishi mumkin. Agar qizib ketsa, mijozlarga xizmat ko‘rsatish markazi bilan bog‘laning, chunki yong‘in yoki zarar yetish ehtimoli mavjud."</string>
+    <string name="highvoltage_charger_notification_title">Tez zaryadlash</string>
+    <string name="highvoltage_charger_notification_text">Tez zaryadlash vositasi ulandi.</string>
+    <string name="cable_charging_title">Kabel bilan zaryadlash</string>
+    <string name="wireless_charging_title">Simsiz zaryadlash</string>
+    <string name="fast_wireless_charging_title">Tezkor simsiz zaryadlash</string>
+    <string name="slow_charging_title">Qurilma sekin zar-moqda</string>
+    <string name="slow_charging_notification_text">Tezroq zaryadlash uchun asl zaryadlash qurilmasidan foydalaning.</string>
+    <string name="charging_noti_text_another">"Zaryadlanmoqda: %1$d%%
+(To‘liq zaryadlanishga taxminan %2$s qoldi)"</string>
+    <string name="quick_settings_battery_charging_label">Zaryadlanmoqda: %d%%</string>
+    <string name="time_format_hour_minute">%1$ds %2$dd</string>
+    <string name="time_format_hour">%d s</string>
+    <string name="time_format_minute">%d d</string>
+    <string name="wireless_charging_disconnect_text">Simsiz zaryadlash to‘xtatildi.</string>
+    <string name="slow_charging_toast_text_for_tablet">To charge faster, use the charger and cable that were provided with this tablet.</string>
+    <string name="wireless_charger_misalign_help_text">Qurilmani samarali zaryadlash uchun uni simsiz zaryadlash qurilmasiga to‘g‘ri joylashtiring.</string>
+    <string name="wireless_charger_info_text">Make sure there are no metallic objects, such as metallic stickers, paper clips, or straps between the charging pad and mobile device.</string>
+    <string name="battery_saver_notification_title_sec">Quvvat tejash rejimi yoqildi</string>
+    <string name="battery_saver_notification_text_sec">Qurilma tezligi va fondagi ma’lumotlar cheklangan</string>
+    <string name="battery_saver_notification_action_text_sec">O‘chiring</string>
+    <string name="battery_npsm_notification_title">Tarmoq quvvat tejash rejimi yoqildi</string>
+    <string name="battery_npsm_notification_text">Ekran o‘chiqligida qurilma tezligi cheklanadi, fonda ishlatiladigan ma’lumotlar kamayadi va Mobil internet va Wi-Fi tarmoq o‘chiriladi</string>
+    <string name="wireless_charging_from_wireless_to_cable_text">Simsiz zaryadlashdan kabelli zaryadlashga o‘tish</string>
+    <string name="wireless_charging_from_cable_to_wireless_text">Kabelli zaryadlashdan simsiz zaryadlashga o‘tish</string>
+    <string name="incompatible_charger_title">Zaryadlanmayapti.</string>
+    <string name="incompatible_charger_dialog_text">The connected charger is incompatible with this phone. To prevent damage to your phone, charging has been stopped. To continue charging, use the original charger and cable that were provided with this phone.</string>
+    <string name="incompatible_charger_notification_text">Unable to charge. Use the original charger.</string>
+    <string name="incompatible_charger_ticker">Zaryadlanmayapti.</string>
+    <string name="warning_alert_check">Boshqa ko‘rsatma</string>
+    <string name="critical_low_battery_title">Batareya quvvati kritik darajada past</string>
+    <string name="low_battery_title">Batareya quvvati kam.</string>
+    <string name="battery_low_hun_remaining_battery_level_format">Qurilmangizda %d%% batareya quvvati qoldi. Qurilmangizni zaryadlash qurilmasiga ulang.</string>
+    <string name="button_close">Yopish</string>
+    <string name="cooling_title">Qurilma qizib ketmoqda</string>
+    <string name="cooling_noti_text">Tafsilotlarni ko‘rish uchun bu yerga teging.</string>
+    <string name="cooling_body">"Qurilmangiz qizib ketmoqda. Uning haroratini pasaytirish uchun bir nechta narsa bajariladi.
+
+Qurilmangizdan foydalanishda davom etishingiz mumkin, lekin
+- ekran qorayishi mumkin.
+- qurilma tezligi pasayishi mumkin.
+- zaryadlash to‘xtatib turilishi mumkin.
+
+Joriy ilovani yopish qurilmangiz haroratini pasaytirishi mumkin.
+
+Qurilma harorati pasaygandan so‘ng ishlash tezligi avtomatik ravishda normalga qaytariladi."</string>
+    <string name="colling_high_level_noti_text">Ilovalarni ochib bo‘lmaydi. Siz faqatgina Telefon va Kontaktlar ilovalaridan foydalanishingiz mumkin.</string>
+    <string name="cooling_title_vzw">Cooling down</string>
+    <string name="cooling_noti_text_vzw">Qo‘shimcha ma’lumot olish uchun bu yerga teging.</string>
+    <string name="cooling_body_vzw">"Your phone is getting too hot, so it's taking steps to cool itself down.
+
+You can still use your phone, but you may notice:
+The screen might dim.
+The phone might slow down.
+Charging might pause.
+
+After the phone cools down, performance will automatically go back to normal."</string>
+    <string name="cooling_body_tablet_vzw">"Your tablet is getting too hot, so it’s taking steps to cool itself down.
+
+You can still use your tablet, but you may notice:
+The screen might dim.
+The tablet might slow down.
+Charging might pause.
+
+After the tablet cools down, performance willAutomatically go back to normal."</string>
+    <string name="overheat_shutdown_warning_title">Too hot - Turning off</string>
+    <string name="overheat_shutdown_warning_text">Your phone is getting too hot. It will now turn off to cool down.</string>
+    <string name="overheat_shutdown_warning_text_tablet">Your tablet is getting too hot. It will now turn off to cool down.</string>
+    <string name="overheat_shutdown_warning_button_text">"Don't turn off"</string>
+    <string name="overheat_shutdown_notice_title">Why did my phone turn off by itself?</string>
+    <string name="overheat_shutdown_notice_title_tablet">Why did my tablet turn off by itself?</string>
+    <string name="overheat_shutdown_notice_text">"Your phone got too hot. It turned off to prevent damage to the phone.
+
+Overheating can be caused by:
+Using graphics intensive apps like video games and navigation apps for long periods of time.
+Downloading or uploading large files.
+Using your phone in a very hot location."</string>
+    <string name="overheat_shutdown_notice_text_tablet">"Your tablet got too hot. It turned off to prevent damage to the tablet.
+
+Overheating can be caused by:
+Using graphics intensive apps like video games and navigation apps for long periods of time.
+Downloading or uploading large files.
+Using your tablet in a very hot location."</string>
+    <string name="overheat_poweroff_warning_title">Qurilmani o‘chirish</string>
+    <string name="overheat_poweroff_warning_text">Qurilmangiz qizib ketdi. Sovitish uchun u o‘chiriladi.</string>
+    <string name="overheat_poweroff_warning_button_text">Quvvat o‘chirilmasin</string>
+    <string name="overheat_poweroff_notice_title">Qurilma avtomatik ravishda o‘chadi</string>
+    <string name="overheat_poweroff_notice_text">"Qurilmangiz qizib ketdi. Zarar yetmasligi uchun u o‘chirildi.
+
+Quyidagilar qizib ketishga sabab bo‘lishi mumkin:
+O‘yin va navigatsiya ilovalari kabi grafik ko‘p ishlatiladigan ilovalardan uzoq muddat davomida foydalanish.
+Katta fayllarni uzatish.
+Qurilmangizdan issiq joyda foydalanish."</string>
+    <string name="safe_mode_noti_title">Xavfsiz rejim yoqildi</string>
+    <string name="safe_mode_noti_body">Xavfsiz rjm o‘ch. u-n teging.</string>
+    <string name="safe_mode_alert_title">Qurilmani qayta yuklash</string>
+    <string name="safe_mode_alert_body">Xavfsiz rejimni o‘chirish uchun qurilmangiz qayta ishga tushiriladi.</string>
+    <string name="safe_mode_alert_positive_button">Hozir qayta ishga tushirish</string>
+    <string name="safe_mode_noti_title_vzw">Safe Mode Is On</string>
+    <string name="safe_mode_noti_body_vzw">Tap to turn off Safe Mode.</string>
+    <string name="safe_mode_alert_title_vzw">Turn Off Safe Mode</string>
+    <string name="safe_mode_alert_body_vzw">Do you want to restart your phone to turn off Safe Mode? All of your apps will be restored.</string>
+    <string name="safe_mode_alert_positive_button_vzw">Turn Off Safe Mode</string>
+    <string name="insert_sim_card">SIM-karta kiriting</string>
+    <string name="insert_sim_card_message">Tarmoq xizmatlariga kirish uchun SIM-karta kiriting.</string>
+    <string name="volte_enable_toast_text_about_no_support_sim">VoLTE dasturiy ta’minotingizning joriy versiyasi tomonidan qo‘llab-quvvatlanmaydi. Batafsil ma’lumot olish uchun xizmat ko‘rsatish markazi bilan bog‘laning.</string>
+    <string name="volte_enable_message">VoLTE xizmatidan foydalanish uchun VoLTEga a’zo bo‘ling. Batafsil ma‘lumot olish uchun xizmat ta‘minotchingiz bilan bog‘laning.</string>
+    <string name="volte_disable_is_impossible_during_volte_call">VoLTE qo‘ng‘irog‘i vaqtida VoLTE-dan foydalanishni o‘chirib bo‘lmaydi.</string>
+    <string name="location_consent_title">Foydalanuvchi roziligi</string>
+    <string name="location_consent_detail">GPS joylashuvi va Sizning joylashuvingiz ma’lumotidan foydalanish Siz ishlatayotgan ilovalar orqali nazorat qilinadi.</string>
+    <string name="location_agree">Roziman</string>
+    <string name="location_disagree">Rozi emas</string>
+    <string name="location_masterswitch_dialogtitle">Joylashuv roziligi</string>
+    <string name="location_masterswitch_dialogtext">"Your phone can share its approximate location with apps and services like maps, shopping and weather.
+
+Apps and services that use your location should inform you. Read the privacy policy of any app or service provider you are considering to understand how they collect, use and share your location information before you use them.
+
+Determining your location will use the mobile network. Data usage will apply."</string>
+    <string name="location_masterswitch_dialogtext_tablet">"Your tablet can share its approximate location with apps and services like maps, shopping and weather.
+
+Apps and services that use your location should inform you. Read the privacy policy of any app or service provider you’re considering to understand how they collect, use and share your location information before you use them.
+
+Determining your location will use the mobile network. Data usage will apply."</string>
+    <string name="agree">Roziman</string>
+    <string name="disagree">Rozi emas</string>
+    <string name="location_turn_off_vowifi_disabled">Turning off GPS, the VoWiFi function will be automatically disabled.</string>
+    <string name="sync_dialog_title_enable">Avtomatik sinxronlashni yoqish</string>
+    <string name="sync_dialog_title_disable">Avtomatik sinxronlashni o‘chirish</string>
+    <string name="sync_dialog_message_enable">"Internetda hisob qaydnomangizga kiritilgan barcha o‘zgartirishlardan qurilmangizga ham avtomatik ravishda nusxa ko‘chiriladi.
+
+Shu bilan birga, qurilmaga kiritilgan o‘zgartirishlardan Internetda Google hisob qaydnomalari kabi hisob qaydnomalarga avtomatik ravishda nusxa ko‘chiriladi.
+
+Har bir hisob qaydnomasida sinxronlanadigan elementlarni tanlash uchun, Parametr > Hisob qaydnomalarga o‘ting."</string>
+    <string name="sync_dialog_message_enable_vzw">"Any changes you make to your accounts on the web will be automatically copied to your phone.
+
+Some accounts, such as Google accounts, may also automatically copy any changes you make on the phone to the web.
+
+To select what information to sync for each account, go to Settings > Accounts."</string>
+    <string name="sync_dialog_message_enable_chn">"Internetda hisob qaydnomangizga kiritilgan barcha o‘zgartirishlardan qurilmangizga avtomatik ravishda nusxa ko‘chiriladi.
+
+Shu bilan birga, ba’zi hisob qaydnomalar qurilmaga kiritilgan o‘zgartirishlardan Internetga avtomatik ravishda nusxa ko‘chiradi.
+
+Har bir hisob qaydnomasida sinxronlanadigan elementlarni tanlash uchun Parametr > Hisob qaydnomalarga o‘ting"</string>
+    <string name="sync_dialog_message_disable">Bu ma’lumot ishlatilishini kamaytiradi va batareya quvvatini ishlatadi, lekin eng oxirgi kiritilgan ma’lumotlarni to‘plash uchun, hisob qaydnomalarini qo‘lda sinxronlashingiz lozim. Bu yoqilganda, yangilanishlar haqida bildirishnomalar olmaysiz.</string>
+    <string name="mobile_data_text">Mbl ma’l-t</string>
+    <string name="mobile_data_vzw">Mobil ma’lumotni o‘chirish</string>
+    <string name="mobile_data_disable_popup_all">"Wi-Fidan foydalanmasangiz, Internet, e-pochta yoki ma‘lumot ulanishini talab qiluvchi boshqa ilovalardan foydalana olmaysiz.
+
+Mobil ma’lumot o‘chiriladi."</string>
+    <string name="mobile_data_warning_toast_airplane_mode">Parvoz rejimi yoqilganda, mobil tarmoqlarga ulanib bo‘lmaydi. Parvoz rejimini o‘chiring va qayta urinib ko‘ring.</string>
+    <string name="mobile_data_warning_toast_disable_during_volte">Unable to turn Mobile data on or off while Advanced calling enabled.</string>
+    <string name="mobile_data_disable_popup_kor_skt_kt">"Wi-Fidan foydalanmasangiz, Internet, e-pochta yoki tarmoq ulanishini talab qiluvchi boshqa ilovalardan foydalana olmaysiz.
+
+Mobil internet o‘chiriladi."</string>
+    <string name="mobile_data_disable_popup_kor_lgt">"Wi-Fidan foydalanmasangiz, Internet, e-pochta yoki tarmoq ulanishini talab qiluvchi boshqa ilovalardan foydalana olmaysiz.
+
+Mobil internet o‘chiriladi."</string>
+    <string name="mobile_data_enable_popup_kor_skt_kt">Mobil internet yoqiladi. Mobil tarmoqlarga ulanish tarif rejangiz asosida qo‘shimcha to‘lov olinishiga sabab bo‘lishi mumkin.</string>
+    <string name="mobile_data_enable_popup_kor_lgt">Mobil internet yoqiladi. Mobil tarmoqlarga ulanish tarif rejangiz asosida qo‘shimcha to‘lov olinishiga olib kelishi mumkin.</string>
+    <string name="mobile_data_disable_popup_vzw">"Unless you use Wi-Fi, you will not be able to use the Internet, Email, or other apps that require a data connection.
+
+Turn off Mobile data?"</string>
+    <string name="mobile_data_disable_popup_vzw_volte">"Unless you use Wi-Fi, you will not be able to use Internet, Email, or other apps that require a data connection. Your phone will not be able to use Video Calling while Mobile data is off.
+Turn off Mobile data?"</string>
+    <string name="mobile_data_disable_dialog_text">Mobil tarmoqdan uzilish MMS va 3G ma’lumot xizmatlaridan foydalanishni cheklaydi. Uzilsinmi?</string>
+    <string name="mobile_data_roaming_dialog">Data roaming may incur additional charges in addition to your domestic flat rate plan. Automatic updates for email or applications may also incur additional charges. Using large-data services such as video or email may incur charges over 20,000 won per minute.</string>
+    <string name="mobile_data_roaming_disable_toast_lgt">Ma’lumot roumingi o‘chirilgan</string>
+    <string name="personal_mode_popup_diable_msg_while_moving_item">Elementlarni Maxfiyga ko‘chirayotganda, Maxfiy rejimni o‘chirib bo‘lmaydi.</string>
+    <string name="personal_mode_text">Maxfiy rejim</string>
+    <string name="rotation_lock_toast">Avtomatik aylantir</string>
+    <string name="rotation_lock_mobile_keyboard_msg">%s-ni yoqish uchun klaviatura muqovasini klaviaturadan chiqaring.</string>
+    <string name="aod_toast_unavailable_with_at_same_time">%1$s va %2$s ni bir vaqtda yoqib bo‘lmaydi.</string>
+    <string name="aod_toast_unavailable_with_mobile_keyboard">%s-ni yoqish uchun klaviatura muqovasini klaviaturadan chiqaring.</string>
+    <string name="aod_disable_popup_title">%sni yoqish</string>
+    <string name="aod_disable_popup_unavailable_with_at_same_time">%1$s va %2$s ni bir vaqtda yoqib bo‘lmaydi. %3$s o‘chiriladi.</string>
+    <string name="aod_disable_popup_description">%s va quyidagi opsiyalarning har ikkalasini bir vaqtda yoqib bo‘lmaydi. Quyidagi opsiyalar o‘chiriladi.</string>
+    <string name="aod_title">Always On Display</string>
+    <string name="aod_power_saving_mode">Quvvat tejash rejimi</string>
+    <string name="aod_voice_assistant_title">Voice Assistant</string>
+    <string name="aod_magnification">Masshtablash</string>
+    <string name="aod_magnifier_window">Kattalashtiruvchi oynasi</string>
+    <string name="aod_assistant_menu_magnifier">Kattalashtiruvchi oynasi</string>
+    <string name="aod_talkback">TalkBack</string>
+    <string name="notification_block">Bloklash</string>
+    <string name="dialog_title_block_notification">Ilova signallarini bloklash</string>
+    <string name="dialog_msg_block_notification">Ushbu ilova signallari, jumladan, bildirishnomalar, ohanglar va vibratsiyalar, bloklanadi.</string>
+    <string name="toast_msg_unblock_notification">Keyinroq ushbu ilova bildirishnomalarini blokdan chiqarish uchun Parametrlar > Ovoz va bildirishnomalar’ga o‘ting, so‘ngra Ilova bildirishnomalarini tanlang.</string>
+    <string name="mobile_hotspot_dialog_nosim_warning_title">Mobil ulanish nuqtasi</string>
+    <string name="mobile_hotspot_dialog_nosim_warning">Mobil faol nuqta va boshqa bog‘lanish funksiyalaridan foydalanish uchun SIM-kartani kiriting.</string>
+    <string name="mobile_hotspot_dialog_nosim_warning_title_jpn">Wi-Fi bog‘lanish</string>
+    <string name="mobile_hotspot_dialog_nosim_warning_jpn">Insert a SIM card to use Wi-Fi tethering and other tethering functions.</string>
+    <string name="mobile_hotspot_dialog_nosim_warning_dcm">Insert a SIM card to use Wi-Fi tethering.</string>
+    <string name="do_not_show_again">Boshqa ko‘rsatilmasin</string>
+    <string name="disable">O‘chirish</string>
+    <string name="airplane_mode_plmn">Parvoz rejimi</string>
+    <string name="airplane_mode_dialog_title">Parvoz rejimini yoqish</string>
+    <string name="airplane_mode_dialog_title_vzw">Turn on Airplane mode</string>
+    <string name="airplane_mode_dialog_message">Parvoz rejimi qo‘ng‘iroq qilish, xabarlar va ma’lumotlar tarmog‘i funksiyasini o‘chirish imkonini beradi. Shuningdek, ushbu funksiya Wi-Fi va Bluetooth kabi ulanish funksiyalarini ham o‘chiradi. Wi-Fi va Bluetoothdan foydalanish uchun Parametrlar yoki bildirishnoma panelida ularni yoqing.</string>
+    <string name="airplane_mode_dialog_message_without_bluetooth">Parvoz rejimi Sizga Wi-Fi kabi tarmoq funksiyalarini o‘chirish imkonini beradi. Wi-Fidan foydalanish uchun Parametrlar yoki bildirishnoma panelida uni yoqing</string>
+    <string name="airplane_mode_dialog_message_wifi">Parvoz rejimi Sizga Wi-Fi va Blutooth kabi tarmoq funksiyalarini o‘chirish imkonini beradi. Wi-Fi va Bluetoothdan foydalanish uchun Parametrlar yoki bildirishnoma panelida ularni yoqing</string>
+    <string name="airplane_mode_dialog_message_cmcc">Flight mode allows you to turn off calling, messaging and data network features. It also turns off connectivity features such as WLAN and Bluetooth. To use WLAN and Bluetooth, turn them on in Settings or on the notification panel.</string>
+    <string name="airplane_mode_dialog_message_vzw">"Unless you use Wi-Fi, you will not be able to use the Internet, Email, or other apps that require a data connection.
+Turn on Airplane mode?"</string>
+    <string name="airplane_mode_dialog_message_vzw_volte">"Unless you use Wi-Fi, you will not be able to use Internet, Email, Wi-Fi Calling or other apps that require a data connection.
+Turn on Airplane mode?"</string>
+    <string name="airplane_mode_msg_safelock">Bloklash yoqilgan vaqtda O‘chirishni bloklash yoqilgan bo‘lsa, Parvoz rejimini yoqib bo‘lmaydi. Ekranni blokdan chiqargandan so‘ng qayta urinib ko‘ring.</string>
+    <string name="airplane_mode_disabled_on_demo_devices">Demo qurilmalarda Parvoz rejimi o‘chirilgan.</string>
+    <string name="torch_light_notification_title">Fonar yoqilgan</string>
+    <string name="torch_light_notification_message">O‘chirish</string>
+    <string name="torch_light_disabled_by_low_battery">Fonarni yoqib bo‘lmaydi. Batareya quvvati kam.</string>
+    <string name="torch_light_turn_off_by_low_battery">Batareya quvvati kam. Fonar o‘chiriladi.</string>
+    <string name="dnd_noti_title">Bezovta qilmang yoqildi</string>
+    <string name="dnd_noti_message">Budilniklar ovozi o‘chirilgan</string>
+    <string name="dnd_noti_action_disable">O‘chirish</string>
+    <string name="qs_edit_settings_title">Tezkor parametr tugmalarini o‘rnatish</string>
+    <string name="qs_edit_settings_available_button">Mavjud tugmalar</string>
+    <string name="qs_edit_settings_active_button">Faol tugmalar</string>
+    <string name="qs_edit_settings_cancel_button">BEKOR QILISH</string>
+    <string name="qs_edit_settings_done_button">BAJARILDI</string>
+    <string name="qs_edit_setting_button_summary_vzw">Customize which quick setting buttons appear at the top of the notification panel. Touch and hold, then drag the buttons to add, hide, or re-order them.</string>
+    <string name="qs_edit_setting_button_summary">Tezkor parametrlar paneli ko‘rib chiqilayotganda, yuqoridagi maydonda ko‘rsatilgan barcha tugmalar ko‘rsatlishi uchun chap yoki o‘ngga suring.</string>
+    <string name="qs_edit_setting_edit_button">TAHRIRLA</string>
+    <string name="qs_edit_setting_option_text">Bu funksiya bildirishnoma paneli ustida ko‘rsat.</string>
+    <string name="qs_edit_setting_available_area_dropped">Button not added to quick settings panel.</string>
+    <string name="qs_edit_setting_active_area_dropped">Button added to quick settings panel.</string>
+    <string name="qs_edit_setting_active_area_tapped">In quick settings panel.</string>
+    <string name="qs_edit_setting_available_area_tapped">Not in quick settings panel.</string>
+    <string name="quick_connect_button">Tez ulanish</string>
+    <string name="tap_to_connect">Qurilma ulash u-n teging</string>
+    <string name="sound_path_button">Audio yo‘l</string>
+    <string name="wired_device">Simli audio qurilma</string>
+    <string name="speaker">Dinamik</string>
+    <string name="headset">Quloqlik</string>
+    <string name="headphones">Quloq karnay</string>
+    <string name="car_system">Avto tizimi</string>
+    <string name="hdmi_mhl">HDMI/MHL qurilma</string>
+    <string name="status_bar_recent_launch_task_manager_title">Tops. menejer</string>
+    <string name="status_bar_recent_remove_all_button">Barchasini yopish</string>
+    <string name="recent_multiwindow_guide_text">Alohida ekran ko‘rinishida ochish uchun ikkita ilova tanlang.</string>
+    <string name="recent_multiwindow_empty_message">Alohida ekran ko‘rinishini qo‘llab-quvvatlovchi ilovalar yo‘q</string>
+    <string name="recent_cannot_open_popup_toast_1">%s ni qalqib chiquvchi ko‘rinishda ochib bo‘lmaydi.</string>
+    <string name="recent_cannot_open_popup_toast_2">Ilovani qalqib chiquvchi ko‘rinishda ochib bo‘lmaydi.</string>
+    <string name="tw_recents_lock_to_app_button_label">Ilovani qo‘shish</string>
+    <string name="tw_lock_to_app_title">Oynalarni mahkamlashni yoqish</string>
+    <string name="tw_lock_to_app_description_1">Bu funksiya ilovani qurilmangiz ekraniga mahkamlash imkonini beradi va undan uzoqqa ketib qolmaysiz.</string>
+    <string name="tw_lock_to_app_description_2">Ilova mahkamlanganda, boshqa ilovalardan kelgan bildirishnomalar olish va qo‘ng‘iroq qilish va xabarlar kabi boshqa funksiyalar ishlamasligi mumkin.</string>
+    <string name="tw_lock_to_app_description_tablet_wifi">Ilova mahkamlanganda bildirishnomalar bloklanadi va boshqa funksiyalar ishlamasligi mumkin.</string>
+    <string name="tw_lock_to_app_description_recents_and_back">Ilovani olib tashlash uchun Oxirgilar va Orqaga tugmalarini bir vaqtda bosib turing.</string>
+    <string name="tw_lock_to_app_description_menu_and_back">Ilovani olib tashlash uchun Menyu va Orqaga tugmalarini bir vaqtda bosib turing.</string>
+    <string name="tw_lock_to_app_description_recents_and_back_accessible">Ilovani olib tashlash uchun oxirgilar tugmasini bosib turing.</string>
+    <string name="tw_lock_to_app_description_menu_and_back_accessible">Ilovani olib tashlash uchun menyu tugmasini bosib turing.</string>
+    <string name="tw_unable_to_pin_title">%s’ni biriktirib bo‘lmaydi</string>
+    <string name="tw_unable_to_pin_description">Ushbu ilova Oynalar mahkamlanishini qo‘llab-quvvatlamaydi.</string>
+    <string name="tw_unable_to_pin_description_toast">Ilovani mahkamlab bo‘lmaydi. %s yopildi. Noma’lum xato yuz berdi.</string>
+    <string name="tw_screen_pinning_positive">Boshlash</string>
+    <string name="accessibility_recents_item_pin">Mahkamlash</string>
+    <string name="accessibility_recents_item_unpin">Olib tashlash</string>
+    <string name="recents_help_split_buttton">Ilovalarni alohida ekran ko‘rinishida ochish uchun ilova oynasining sarlavha satridagi %s ga teging. Ilova alohida ekran ko‘rinishini qo‘llab-quvvatlaganda, ushbu ikonacha ko‘rsatiladi.</string>
+    <string name="recents_help_split_buttton_description">Ilovalarni alohida ekran ko‘rinishida ochish uchun ilova oynasining sarlavha satridagi alohida ekran ikonachasiga teging. Ilova alohida ekran ko‘rinishini qo‘llab-quvvatlaganda, ushbu ikonacha ko‘rsatiladi.</string>
+    <string name="recents_help_long_press">Ilovalarni alohida ekran ko‘rinishida ochish uchun Oxirgilar tugmasini bosib turing.</string>
+    <string name="recent_multi_window">Alohida ekran ko‘rinishida ochish</string>
+    <string name="help">Yordam</string>
+    <string name="disable_multi_window_dialog_title">Ko‘p oynani o‘chirish</string>
+    <string name="disable_multi_window_dialog_text">Ko‘p oyna o‘chiriladi va barcha qalqib chiquvchi oynada ochilgan ilovalar yopiladi.</string>
+    <string name="unable_to_capture_screen_drm_proteced_image">Ekranni rasmga olib bo‘lmadi. DRM himoyalangan tasvir.</string>
+    <string name="unable_to_save_cropped_image">Kesib olingan tasvirni saqlab bo‘lmaydi.</string>
+    <string name="center_bar_window_switch_windows">Oynalarni almashtirish</string>
+    <string name="center_bar_window_drag_and_drop_content">Tarkibni tortib olib kelish</string>
+    <string name="center_bar_window_select_contents">Alohida ekran yoki qalqib chiquvchi oynadagi tasvir, paragraf yoki matnni tortib olib keling va uni boshqa oynaga tashlang.</string>
+    <string name="center_bar_window_do_not_show_again">Boshqa ko‘rsatma</string>
+    <string name="keyguard_high_voltage_plugged_in">Tez zaryadlash: %d%%</string>
+    <string name="keyguard_charging_in_wireless">Simsiz zaryadlanmoqda: %d%%</string>
+    <string name="keyguard_fast_charging_in_wireless">Simsiz tezkor zaryadlash: %d%%</string>
+    <string name="keyguard_charging_remaining_time">(To‘la zaryad. %s qoldi)</string>
+    <string name="lockscreen_charging_remaining_time">"Zaryadlanmoqda: %1$d%%
+(%2$s qoldi)"</string>
+    <string name="lockscreen_charging_in_wireless_remaining_time">"Charging wirelessly: %1$d%%
+(%2$s until full)"</string>
+    <string name="lockscreen_fast_charging_in_wireless_remaining_time">"Fast charging wirelessly: %1$d%%
+(%2$s until full)"</string>
+    <string name="keyguard_high_voltage_plugged_in_remaining_time">"Fast charging: %1$d%%
+(%2$s until full)"</string>
+    <string name="keyguard_skt_usim_unregistered">USIM-kartadan foydalanib bo‘lmaydi. USIM-karta ma’lumotini yuklab olish.</string>
+    <string name="keyguard_usim_not_used">USIM-kartadan foydalanib bo‘lmaydi. Qulfni ochish PIN (PUK) kodi %d marta noto‘g‘ri kiritildi. Yangi USIM-karta xarid qilish.</string>
+    <string name="lockscreen_nosim_text_kor_only">"USIM-karta aniqlanmadi
+Faqat favqulodda qo‘ng‘iroqlar"</string>
+    <string name="noti_setting_button_text">Bild. prmt-lari</string>
+    <string name="name_slot1">Uya 1</string>
+    <string name="name_slot2">Uya 2</string>
+    <string name="app_locked">App locked</string>
+    <string name="applocked_pinning_window_disable">Ilovani biriktirib bo‘lmaydi. Ilova bloklandi.</string>
+    <string name="cover_quick_setting_warning_message">Tezkor parametr tugmalaridan foydalanish uchun qopqoqni oching.</string>
+    <string name="cover_device_locked_message">Qurilma bloklangan. Qopqoqni oching</string>
+    <string name="accessibility_noti_setting_button">Bildirishnoma parametrlari</string>
+    <string name="switched_to_onephone_mode">Rejim Bitta raqam rejimiga almashdi.</string>
+    <string name="switched_to_twophone_mode">Rejim Ikkita raqamli rejimiga o‘tdi.</string>
+    <string name="accessibility_recents_item_lock">Bloklash</string>
+    <string name="accessibility_recents_item_unlock">Blokdan chiqar</string>
+    <string name="quick_panel_data_usage">Data usage</string>
+    <string name="qs_multisim_voice_preffered_btn_title">Ovozli qo‘ng‘iroq</string>
+    <string name="qs_multisim_sms_preffered_btn_title">Matnli xabarlar</string>
+    <string name="qs_multisim_data_preffered_btn_title">Mobil ma’lumot</string>
+    <string name="qs_multisim_voice_ask_always">Doim so‘ralsin</string>
+    <string name="qs_multisim_data_turned_off">O‘chirilgan</string>
+    <string name="wifi_fail_to_scan">Tarmoqlarni tekshirib chiqishni iloji bo‘lmadi</string>
+    <string name="wifi_security_none">Yo‘q</string>
+    <string name="wifi_remembered">Saqlandi</string>
+    <string name="wifi_disabled_generic">"O'chirilgan"</string>
+    <string name="wifi_disabled_network_failure">IP manzilini sozlab bo‘lmadi</string>
+    <string name="wifi_disabled_wifi_failure">Wi-Fi ulanishini o‘rnatib bo‘lmadi</string>
+    <string name="wifi_disabled_password_failure">Tasdiqdan o‘tishda muammo</string>
+    <string name="wifi_not_in_range">Aloqada emas</string>
+    <string name="wifi_no_internet">Internetga ulanish aniqlanmadi, avtomatik ravishda qayta ulana olmaydi.</string>
+    <string name="saved_network">%1$s tomonidan saqlangan</string>
+    <string name="connected_via_wfa">Wi‑Fi yordamchisi orqali ulangan</string>
+    <string name="connected_via_passpoint">%1$s orqali ulangan</string>
+    <string name="available_via_passpoint">%1$s orqali ishlaydi</string>
+    <string name="wifi_connected_no_internet">Ulangan, lekin internet aloqasi yo‘q</string>
+    <string name="bluetooth_disconnected">Uzildi</string>
+    <string name="bluetooth_disconnecting">Uzilyapti…</string>
+    <string name="bluetooth_connecting">Ulanmoqda…</string>
+    <string name="bluetooth_connected">Ulandi</string>
+    <string name="bluetooth_pairing">Biriktirish…</string>
+    <string name="bluetooth_connected_no_headset">Ulandi (telefondan tashqari)</string>
+    <string name="bluetooth_connected_no_a2dp">Ulanildi (mediadan tashqari)</string>
+    <string name="bluetooth_connected_no_map">Ulangan (xabarlarga kirib bo‘lmaydi)</string>
+    <string name="bluetooth_connected_no_headset_no_a2dp">Ulangan (telefon yoki media qurilma emas)</string>
+    <string name="bluetooth_profile_a2dp">Media audio</string>
+    <string name="bluetooth_profile_headset">Audio qo‘ng‘iroq</string>
+    <string name="bluetooth_profile_opp">Fayl o‘tkazish</string>
+    <string name="bluetooth_profile_hid">Kiritish qurilmasi</string>
+    <string name="bluetooth_profile_textinput">Matn kiritish</string>
+    <string name="bluetooth_profile_pan">Internetga ulanish</string>
+    <string name="bluetooth_profile_pbap">Kontaktlarni ulashish</string>
+    <string name="bluetooth_profile_pan_nap">Internet aloqasi ulashmasi</string>
+    <string name="bluetooth_profile_map">Xabarga kirish</string>
+    <string name="bluetooth_profile_sap">SIM-kartaga kirish</string>
+    <string name="bluetooth_profile_pbap_summary">Kontaktlarni ulashish uchun ishlatilsin</string>
+    <string name="bluetooth_a2dp_profile_summary_connected">Media audiosi uchun ulangan</string>
+    <string name="bluetooth_headset_profile_summary_connected">Qo‘ng‘iroq audiosi uchun ulangan</string>
+    <string name="bluetooth_opp_profile_summary_connected">Fayl almashinish serveriga ulanildi</string>
+    <string name="bluetooth_map_profile_summary_connected">Xaritaga ulangan</string>
+    <string name="bluetooth_sap_profile_summary_connected">Ulanish nuqtasiga ulandi</string>
+    <string name="bluetooth_opp_profile_summary_not_connected">Fayl uzatish serveriga ulanmagan</string>
+    <string name="bluetooth_hid_profile_summary_connected">Kiritish qurilmasi sifatida ulangan</string>
+    <string name="bluetooth_pan_user_profile_summary_connected">Internet ulanishidan foydalanish maqsadida qurilmaga ulangan.</string>
+    <string name="bluetooth_pan_nap_profile_summary_connected">Qurilmaga mahaliy internet aloqani tarqatish</string>
+    <string name="bluetooth_summary_connected_to_a2dp_headset">Qo‘n. va media audiosi uchun ulangan</string>
+    <string name="bluetooth_pan_nap_connected">Internet ulanishini taqdim etish uchun ulangan</string>
+    <string name="bluetooth_pan_panu_connected">Internet ulanishiga kirish uchun ulangan</string>
+    <string name="bluetooth_pan_profile_summary_use_for">Internetga kirish uchun foydalaning.</string>
+    <string name="bluetooth_map_profile_summary_use_for">Xaritada foydalanish</string>
+    <string name="bluetooth_sap_profile_summary_use_for">SIM-kartaga kirish uchun foydalanish</string>
+    <string name="bluetooth_a2dp_profile_summary_use_for">Audio qurilma uchun foydalanish</string>
+    <string name="bluetooth_headset_profile_summary_use_for">Dok’dan karnay sifatida foydalanish</string>
+    <string name="bluetooth_opp_profile_summary_use_for">Fayl almashinish uchun foydalanish</string>
+    <string name="bluetooth_hid_profile_summary_use_for">Kiritish qurilmasi sifatida foydalanish</string>
+    <string name="bluetooth_pairing_accept">Biriktirish</string>
+    <string name="bluetooth_pairing_accept_all_caps">ULANISH</string>
+    <string name="bluetooth_pairing_decline">Bekor qilish</string>
+    <string name="bluetooth_pairing_will_share_phonebook">Agar ulanishga ruxsat bersangiz, ulangan vaqtda kontakt va qo‘ng‘iroqlaringiz tarixiga kirishi mumkin.</string>
+    <string name="bluetooth_pairing_error_message">%1$s bilan biriktirib bo‘lmadi.</string>
+    <string name="bluetooth_pairing_pin_error_message">%1$s bilan bog‘lanib bo‘lmaydi. %2$s bog‘lanish uchun tayyorligiga ishonch hosil qiling.</string>
+    <string name="bluetooth_pairing_device_down_error_message">Quyidagi qurilma javob bermayapti: %1$s.</string>
+    <string name="bluetooth_pairing_rejected_error_message">%1$s biriktirish so‘rovini rad qildi.</string>
+    <string name="bluetooth_hid_connection_error_message">Bluetooth kiritish qurilmasi ishlatilayotganda, qurilmani Bluetooth kiritish qurilmasiga ulab bo‘lmaydi.</string>
+</resources>

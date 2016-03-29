@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">あと%dステップでデベロッパーモードになります。</item>
+        <item quantity="one">あと1ステップでデベロッパーモードになります。</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">%1$d個の指紋がセットアップされています</item>
+        <item quantity="one">%1$d個の指紋がセットアップされています</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">パスワードには%d文字以上の文字を含める必要があります。</item>
+        <item quantity="one">パスワードには1文字以上の文字を含める必要があります。</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">パスワードには%d文字以上の小文字を含める必要があります。</item>
+        <item quantity="one">パスワードには1文字以上の小文字を含める必要があります。</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">パスワードには%d文字以上の大文字を含める必要があります。</item>
+        <item quantity="one">パスワードには1文字以上の大文字を含める必要があります。</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">パスワードには%d個以上の数字を含める必要があります。</item>
+        <item quantity="one">パスワードには1個以上の数字を含める必要があります。</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">パスワードには%d文字以上の記号を含める必要があります。</item>
+        <item quantity="one">パスワードには1文字以上の記号を含める必要があります。</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">パスワードには%d文字以上の数字または記号を含める必要があります。</item>
+        <item quantity="one">パスワードには1文字以上の数字または記号を含める必要があります。</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">SIM PINコードが無効です。入力できるのはあと%d回です。この回数を超えた場合は、携帯通信会社にお問い合わせください。</item>
+        <item quantity="one">SIM PINコードが無効です。入力できるのはあと%d回です。</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d個のアプリケーションで通知の読み取りが可能です。</item>
+        <item quantity="one">%d個のアプリケーションで通知の読み取りが可能です。</item>
+    </plurals>
+    <plurals name="manage_condition_providers_summary_nonzero">
+        <item quantity="other">この機能向けに提供されているアプリケーションが%d件インストールされています。</item>
+        <item quantity="one">%d app provides conditions</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">%2$sまで1分間、アラームのみに変更します</item>
+        <item quantity="one">（%2$sまで）%1$d分間、アラームのみに変更します</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">%2$sまで1時間、アラームのみに変更します</item>
+        <item quantity="one">%2$sまで%1$d時間、アラームのみに変更します</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">%d件の権限を付与</item>
+        <item quantity="one">%d件の権限を付与</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">%1$d/%2$d件の権限を付与</item>
+        <item quantity="one">%1$d/%2$d件の権限を付与</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">追加の権限%d件</item>
+        <item quantity="one">追加のアクセス許可%d件</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">%d apps can open their supported links</item>
+        <item quantity="zero">%d個のアプリが対応リンクを開くことが可能</item>
+        <item quantity="one">1個のアプリが対応リンクを開くことが可能</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">1個のアプリに電池の最適化を無視することを許可</item>
+        <item quantity="one">%d個のアプリに電池の最適化を無視することを許可</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">過去%2$sに1個のアプリがメモリを使用しました</item>
+        <item quantity="one">過去%2$sに%1$d個のアプリがメモリを使用しました</item>
+    </plurals>
+    <plurals name="lock_timeout_hours">
+        <item quantity="other">%d時間</item>
+        <item quantity="one">1時間</item>
+    </plurals>
+    <plurals name="lock_timeout_minutes">
+        <item quantity="other">%d分</item>
+        <item quantity="one">1分</item>
+    </plurals>
+    <plurals name="lock_timeout_seconds">
+        <item quantity="other">%d秒</item>
+        <item quantity="one">1秒</item>
+    </plurals>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="qs_tile_width">60.0dip</dimen>
+    <dimen name="battery_margin_bottom">1.0px</dimen>
+    <dimen name="headerview_button_ripple_radius">18.0dip</dimen>
+</resources>

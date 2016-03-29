@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_gravity="center_vertical" android:orientation="vertical" android:id="@id/all_check_container" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:paddingStart="@dimen/actionbar_contentInsetStart" android:paddingEnd="@dimen/checkbox_layout_padding">
+        <CheckBox android:id="@id/all_check" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:buttonTint="@color/actionbar_checkbox_tint_color" />
+        <TextView android:textSize="11.0dip" android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/actionbar_space_checkbox_and_text" android:text="@string/filter_apps_all" android:singleLine="true" style="@style/android:TextAppearance.DeviceDefault.Widget.ActionBar.Title" />
+    </LinearLayout>
+    <TextView android:ellipsize="marquee" android:layout_gravity="center_vertical" android:id="@id/selected_count" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" style="@style/android:TextAppearance.DeviceDefault.Widget.ActionBar.Title" />
+</LinearLayout>

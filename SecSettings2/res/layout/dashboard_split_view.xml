@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <LinearLayout android:orientation="vertical" android:id="@id/headers" android:background="@color/split_view_left_content_area_background_color" android:paddingLeft="0.0dip" android:layout_width="1.0px" android:layout_height="fill_parent" android:layout_marginLeft="0.0dip" android:layout_marginTop="0.0dip" android:layout_marginRight="0.0dip" android:layout_marginBottom="0.0dip" android:layout_weight="@integer/preferences_left_pane_weight" android:paddingEnd="0.0dip">
+                <RelativeLayout android:id="@id/headerbar" android:layout_width="fill_parent" android:layout_height="wrap_content" android:elevation="0.0dip" style="?android:attr/actionBarStyle">
+                    <View android:id="@id/headerbar_vertical_divider" android:background="@color/dashboard_headerbar_vertical_divider_color" android:layout_width="@dimen/dashboard_headerbar_vertical_divider_width" android:layout_height="@dimen/dashboard_headerbar_vertical_divider_height" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+                    <Toolbar android:id="@id/main_toolbar" android:layout_width="fill_parent" android:layout_height="?android:actionBarSize" android:layout_toLeftOf="@id/headerbar_vertical_divider" android:layout_alignParentLeft="true" android:title="Left Toolbar" android:paddingEnd="12.0dip" android:contentInsetStart="@dimen/actionbar_contentInsetStart" />
+                </RelativeLayout>
+                <ScrollView android:scrollbarStyle="outsideOverlay" android:id="@id/dashboard_left" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                        <LinearLayout android:layout_gravity="center_horizontal" android:orientation="vertical" android:id="@id/dashboard_favorite_container" android:paddingTop="@dimen/dashboard_padding_top" android:paddingBottom="@dimen/dashboard_padding_bottom" android:layout_width="fill_parent" android:layout_height="fill_parent" android:paddingStart="@dimen/dashboard_padding_start" android:paddingEnd="@dimen/dashboard_padding_end" />
+                        <LinearLayout android:layout_gravity="center_horizontal" android:orientation="vertical" android:id="@id/dashboard_container_left" android:paddingTop="@dimen/dashboard_padding_top" android:paddingBottom="@dimen/dashboard_padding_bottom" android:layout_width="fill_parent" android:layout_height="fill_parent" android:paddingStart="@dimen/dashboard_padding_start" android:paddingEnd="@dimen/dashboard_padding_end" />
+                    </LinearLayout>
+                </ScrollView>
+            </LinearLayout>
+            <LinearLayout android:orientation="vertical" android:id="@id/prefs_frame" android:layout_width="1.0px" android:layout_height="fill_parent" android:layout_weight="@integer/preferences_right_pane_weight" style="@style/PreferencePanelSinglePane">
+                <LinearLayout android:orientation="vertical" android:id="@id/frefsbar" android:layout_width="fill_parent" android:layout_height="wrap_content" android:elevation="0.0dip" style="?android:attr/actionBarStyle">
+                    <Toolbar android:id="@id/prefs_toolbar" android:layout_width="fill_parent" android:layout_height="?android:actionBarSize" android:paddingEnd="12.0dip" android:contentInsetStart="@dimen/actionbar_contentInsetStart" />
+                </LinearLayout>
+                <com.android.settings.widget.SwitchBar android:theme="?switchBarTheme" android:id="@id/switch_bar" android:background="@drawable/switchbar_background" android:layout_width="fill_parent" android:layout_height="?android:actionBarSize" android:layout_marginTop="@dimen/switchbar_outer_margin_top" android:layout_marginStart="@dimen/switchbar_outer_margin_start" android:layout_marginEnd="@dimen/switchbar_outer_margin_end" android:elevation="@dimen/sub_app_bar_shadow_elevation" />
+                <android.preference.PreferenceFrameLayout android:id="@id/prefs" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0" />
+            </LinearLayout>
+        </LinearLayout>
+        <FrameLayout android:id="@id/prefs_split_bar" android:paddingRight="12.0dip" android:focusable="false" android:layout_width="wrap_content" android:layout_height="fill_parent">
+            <ImageView android:background="@drawable/tw_preference_contents_list_left_mtrl" android:focusable="false" android:layout_width="12.0dip" android:layout_height="fill_parent" android:layout_marginTop="?android:actionBarSize" />
+        </FrameLayout>
+    </FrameLayout>
+</LinearLayout>

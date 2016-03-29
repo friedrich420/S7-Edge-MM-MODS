@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="abc_spinner_mtrl_am_alpha">false</item>
+    <item type="drawable" name="APKTOOL_DUMMY_0253">false</item>
+    <item type="drawable" name="APKTOOL_DUMMY_0255">false</item>
+    <item type="drawable" name="APKTOOL_DUMMY_0256">false</item>
+    <item type="drawable" name="APKTOOL_DUMMY_0258">false</item>
+    <item type="drawable" name="APKTOOL_DUMMY_0259">false</item>
+    <item type="drawable" name="APKTOOL_DUMMY_025a">false</item>
+    <item type="drawable" name="APKTOOL_DUMMY_025b">false</item>
+</resources>

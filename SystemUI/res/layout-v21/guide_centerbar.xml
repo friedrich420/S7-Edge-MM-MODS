@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/guide_centerbar" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/view_guide_centerbar" android:background="@drawable/multiwindow_drawer_press_cue" android:layout_width="@dimen/center_bar_guide_width" android:layout_height="@dimen/center_bar_guide_width" android:tint="@android:color/multiwindow_centerbar_cue_arrow_tint_color" android:backgroundTint="@android:color/multiwindow_centerbar_cue_tint_color" android:backgroundTintMode="multiply" />
+    <RelativeLayout android:gravity="center" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ImageView android:id="@id/view_guide_centerbar_point" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/multi_window_drawer" android:tint="@android:color/multiwindow_centerbar_press_tint_color" android:tintMode="multiply" />
+    </RelativeLayout>
+</FrameLayout>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="brightness_icon_inner_circle_size">18.5px</dimen>
+    <dimen name="seekbar_preference_title_text_size">15.0sp</dimen>
+    <dimen name="bluetooth_preference_device_text_size">17.0sp</dimen>
+    <dimen name="bluetooth_scandialog_frame_layout_padding_start_end">20.0dip</dimen>
+    <dimen name="personal_vibration_center_text_size">33.0dip</dimen>
+    <item type="dimen" name="personal_vibration_big_o_val_offset">127.0</item>
+    <item type="dimen" name="personal_vibration_small_o_val_offset">88.0</item>
+    <item type="dimen" name="personal_vibration_thickness">78.0</item>
+    <item type="dimen" name="personal_vibration_niddle_width">2.0</item>
+    <dimen name="wifi_ap_dialog_edit_margin_left">-3.0dip</dimen>
+    <dimen name="wifi_ap_add_dialog_edit_margin_left">-6.0dip</dimen>
+    <dimen name="wifi_ap_device_dialog_label_text_size">19.0sp</dimen>
+</resources>

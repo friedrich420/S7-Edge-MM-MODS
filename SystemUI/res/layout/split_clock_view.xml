@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.systemui.statusbar.policy.SplitClockView android:layout_width="wrap_content" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextClock android:textAppearance="@style/TextAppearance.StatusBar.Expanded.Clock" android:textSize="@dimen/qs_time_collapsed_size" android:gravity="bottom" android:id="@id/am_pm_view_front" android:paddingBottom="@dimen/headerview_date_bottom_margin_small" android:layout_width="wrap_content" android:layout_height="fill_parent" android:singleLine="true" android:importantForAccessibility="no" />
+    <TextClock android:textAppearance="@style/TextAppearance.StatusBar.Expanded.Clock" android:gravity="center_vertical" android:id="@id/time_view" android:layout_width="wrap_content" android:layout_height="fill_parent" android:singleLine="true" android:includeFontPadding="false" />
+    <TextClock android:textAppearance="@style/TextAppearance.StatusBar.Expanded.Clock" android:textSize="@dimen/qs_time_collapsed_size" android:gravity="bottom" android:id="@id/am_pm_view" android:paddingBottom="@dimen/headerview_date_bottom_margin_small" android:layout_width="wrap_content" android:layout_height="fill_parent" android:singleLine="true" android:importantForAccessibility="no" />
+</com.android.systemui.statusbar.policy.SplitClockView>

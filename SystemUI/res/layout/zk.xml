@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layers>
+    <background_color>#0055db</background_color>
+    <layer>
+        <type>0</type>
+        <id_path_color>zk01</id_path_color>
+        <origin_point_x>-650</origin_point_x>
+        <origin_point_y>-160</origin_point_y>
+        <alpha>0.90</alpha>
+        <rate>1</rate>
+        <direction>0</direction>
+        <scale>1</scale>
+    </layer>
+    <layer>
+        <type>0</type>
+        <id_path_color>zk02</id_path_color>
+        <origin_point_x>-650</origin_point_x>
+        <origin_point_y>-160</origin_point_y>
+        <alpha>0.90</alpha>
+        <rate>40</rate>
+        <direction>0</direction>
+        <scale>1</scale>
+    </layer>
+    <layer>
+        <type>0</type>
+        <id_path_color>zk03</id_path_color>
+        <origin_point_x>-88</origin_point_x>
+        <origin_point_y>321</origin_point_y>
+        <alpha>1</alpha>
+        <rate>40</rate>
+        <direction>1</direction>
+        <scale>1.05</scale>
+    </layer>
+</layers>

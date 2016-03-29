@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:gravity="center_vertical" android:id="@id/main_content" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/setting_main_view" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <com.android.settings.widget.CustomScrollView android:id="@id/scroll_view" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <ViewStub android:id="@id/fota_update_stub" android:layout="@layout/fota_update_stub" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+                <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/add_quick_settings_container" android:background="@color/add_quick_settings_bg_color" android:layout_width="fill_parent" android:layout_height="@dimen/add_quick_settings_height" android:elevation="@dimen/sub_app_bar_shadow_elevation">
+                    <TextView android:textSize="@dimen/add_quick_settings_text_size" android:textColor="@color/add_quick_settings_text_color" android:gravity="center_vertical" android:id="@id/add_quick_settings" android:background="?android:selectableItemBackground" android:focusable="true" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/add_favorite_button" android:drawablePadding="@dimen/add_quick_settings_padding" android:drawableStart="@drawable/add_icon_with_oval" android:fontFamily="sec-roboto-light" android:paddingStart="@dimen/list_item_start_padding" android:paddingEnd="30.0dip" />
+                </LinearLayout>
+                <FrameLayout android:id="@id/favorite_content" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0" />
+                <FrameLayout android:id="@id/main_content2" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_weight="1.0" />
+            </LinearLayout>
+        </com.android.settings.widget.CustomScrollView>
+    </RelativeLayout>
+</RelativeLayout>

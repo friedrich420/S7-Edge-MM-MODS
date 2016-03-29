@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="widget_big_font_size">100.0dip</dimen>
+    <dimen name="kg_status_view_height">228.0dip</dimen>
+    <dimen name="kg_singleclock_margin_top">39.0dip</dimen>
+    <dimen name="kg_singleclock_container_height">186.0dip</dimen>
+    <dimen name="kg_dualclock_margin_top">70.0dip</dimen>
+    <dimen name="kg_dualclock_container_height">141.0dip</dimen>
+    <dimen name="notification_top_padding_keyguard">255.0dip</dimen>
+    <dimen name="view_pager_padding_left">35.5dip</dimen>
+    <dimen name="view_pager_padding_top">83.0dip</dimen>
+    <dimen name="applist_gridview_verticalSpacing">30.0dip</dimen>
+</resources>

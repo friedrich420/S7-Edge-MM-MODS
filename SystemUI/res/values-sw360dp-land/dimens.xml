@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="carrier_and_clear_height">33.0dip</dimen>
+    <dimen name="carrier_and_clear_height_with_plmn">25.0dip</dimen>
+    <dimen name="qs_tile_vertical_tile_gap">0.0dip</dimen>
+    <dimen name="qs_tile_vertical_tile_bottom_padding_quick_off">0.0dip</dimen>
+    <item type="dimen" name="recents_stack_initial_card_position">0.81</item>
+    <item type="dimen" name="recents_task_visible_area">0.54</item>
+    <item type="dimen" name="qs_edit_panel_tile_vertical_gap">@dimen/qs_tile_vertical_tile_gap</item>
+    <dimen name="qs_edit_panel_active_padding_bottom">0.0dip</dimen>
+    <dimen name="qs_edit_panel_available_padding_top">0.0dip</dimen>
+</resources>

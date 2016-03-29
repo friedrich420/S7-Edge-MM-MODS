@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>正在掃描…</item>
+        <item>連線中…</item>
+        <item>正在驗證…</item>
+        <item>正在取得 IP 位址…</item>
+        <item>已連線</item>
+        <item>已暫停</item>
+        <item>正在中斷連線…</item>
+        <item>已中斷連線</item>
+        <item>不成功</item>
+        <item>已封鎖</item>
+        <item>正在檢查網際網路連線品質…</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>正在掃描…</item>
+        <item>連接到%s…</item>
+        <item>正在與%s進行認證…</item>
+        <item>取得 IP地址從%s…</item>
+        <item>已連接至 %1$s。</item>
+        <item>已暫停</item>
+        <item>正在中斷與%s的連線…</item>
+        <item>已中斷連線</item>
+        <item>不成功</item>
+        <item>已封鎖</item>
+        <item>正在檢查網際網路連線品質…</item>
+    </string-array>
+    <string-array name="screen_timeout_entries">
+        <item>15 秒</item>
+        <item>30 秒</item>
+        <item>1 分鐘</item>
+        <item>2 分鐘</item>
+        <item>5 分鐘</item>
+        <item>10 分鐘</item>
+        <item>30 分鐘</item>
+    </string-array>
+    <string-array name="screen_timeout_for_device_lock_entries">
+        <item>15 秒</item>
+        <item>30 秒</item>
+        <item>1 分鐘</item>
+        <item>3 分鐘</item>
+        <item>5 分鐘</item>
+        <item>10 分鐘</item>
+        <item>15 分鐘</item>
+        <item>30 分鐘</item>
+    </string-array>
+    <string-array name="device_lock_timeout_entries">
+        <item>透過電源鍵或待螢幕逾時時立即啟用</item>
+        <item>15 秒</item>
+        <item>30 秒</item>
+        <item>1 分鐘</item>
+        <item>3 分鐘</item>
+        <item>5 分鐘</item>
+        <item>10 分鐘</item>
+        <item>15 分鐘</item>
+        <item>30 分鐘</item>
+        <item>1小時</item>
+    </string-array>
+    <string-array name="lock_after_timeout_entries">
+        <item>立即</item>
+        <item>5 秒</item>
+        <item>15 秒</item>
+        <item>30 秒</item>
+        <item>1 分鐘</item>
+        <item>2 分鐘</item>
+        <item>5 分鐘</item>
+        <item>10 分鐘</item>
+        <item>30 分鐘</item>
+    </string-array>
+    <string-array name="entries_font_size">
+        <item>極小</item>
+        <item>小</item>
+        <item>正常</item>
+        <item>大</item>
+        <item>極大</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>非常慢</item>
+        <item>慢</item>
+        <item>標準</item>
+        <item>快</item>
+        <item>加快</item>
+        <item>更快</item>
+        <item>快</item>
+        <item>很快</item>
+        <item>最快</item>
+    </string-array>
+    <string-array name="wifi_ap_security_testmode">
+        <item>開啟</item>
+        <item>WPA2 PSK</item>
+    </string-array>
+    <string-array name="wifi_eap_method">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+        <item>SIM</item>
+        <item>AKA</item>
+        <item>"AKA'"</item>
+    </string-array>
+    <string-array name="wifi_p2p_status">
+        <item>已連線</item>
+        <item>已邀請。</item>
+        <item>連線失敗</item>
+        <item>輕觸此處以連接。</item>
+        <item>超出範圍</item>
+        <item>已與其他裝置連接</item>
+    </string-array>
+    <string-array name="wifi_ap_wifi_sharing">
+        <item>啟用 Wi-Fi 共享</item>
+        <item>停用 Wi-Fi 共享</item>
+    </string-array>
+    <string-array name="wifi_ap_timeout">
+        <item>永不逾時</item>
+        <item>5 分鐘</item>
+        <item>10 分鐘</item>
+        <item>20 分鐘</item>
+        <item>30 分鐘</item>
+        <item>60 分鐘</item>
+    </string-array>
+    <string-array name="wifi_ap_connection_mode">
+        <item>允許所有裝置</item>
+        <item>僅限允許的裝置</item>
+    </string-array>
+    <string-array name="wifi_ap_channel">
+        <item>自動</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+    </string-array>
+    <string-array name="wifi_share_profile_access_timeout">
+        <item>6 小時</item>
+        <item>12 小時</item>
+        <item>24 小時</item>
+        <item>無時間限制</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>弱</item>
+        <item>普通</item>
+        <item>良好</item>
+        <item>強</item>
+        <item>非常強</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries">
+        <item>"永遠
+(增加耗電量)"</item>
+        <item>充電時</item>
+        <item>"一律不連線 
+(增加數據使用量)"</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries_wifi_only">
+        <item>"永遠
+(增加耗電量)"</item>
+        <item>充電時</item>
+        <item>永不</item>
+    </string-array>
+    <string-array name="wifi_frequency_band_entries">
+        <item>自動</item>
+        <item>僅限 5 GHz</item>
+        <item>僅限 2.4 GHz</item>
+    </string-array>
+    <string-array name="wifi_frequency_band_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="usage_stats_display_order_types">
+        <item>使用時間</item>
+        <item>上次使用時間</item>
+        <item>應用程式名稱</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries">
+        <item>無</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>無</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>靜態</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>無</item>
+        <item>手動模式</item>
+        <item>自動設定</item>
+    </string-array>
+    <string-array name="wifi_iwlan_settings">
+        <item>開</item>
+        <item>關</item>
+    </string-array>
+    <string-array name="apn_auth_entries">
+        <item>無</item>
+        <item>PAP</item>
+        <item>CHAP</item>
+        <item>PAP或CHAP</item>
+    </string-array>
+    <string-array name="apn_protocol_entries">
+        <item>IPv4</item>
+        <item>IPv6</item>
+        <item>IPv4/IPv6</item>
+    </string-array>
+    <string-array name="bearer_entries">
+        <item>未指定</item>
+        <item>LTE</item>
+        <item>HSPAP</item>
+        <item>HSPA</item>
+        <item>HSUPA</item>
+        <item>HSDPA</item>
+        <item>UMTS</item>
+        <item>EDGE</item>
+        <item>GPRS</item>
+        <item>eHRPD</item>
+        <item>EVDO_B</item>
+        <item>EVDO_A</item>
+        <item>EVDO_0</item>
+        <item>1xRTT</item>
+        <item>IS95B</item>
+        <item>IS95A</item>
+    </string-array>
+    <string-array name="mvno_type_entries">
+        <item>無</item>
+        <item>SPN</item>
+        <item>IMSI</item>
+        <item>GID</item>
+    </string-array>
+    <string-array name="app_install_location_entries">
+        <item>內部儲存空間</item>
+        <item>卸除式 SD 卡</item>
+        <item>讓系統決定</item>
+    </string-array>
+    <string-array name="app_ops_categories">
+        <item>位置</item>
+        <item>個人</item>
+        <item>訊息</item>
+        <item>媒體</item>
+        <item>裝置</item>
+        <item>自動執行</item>
+    </string-array>
+    <string-array name="app_ops_summaries">
+        <item>約略位置</item>
+        <item>精確位置</item>
+        <item>GPS</item>
+        <item>震動</item>
+        <item>讀取聯絡人</item>
+        <item>編輯聯絡人</item>
+        <item>讀取通話記錄</item>
+        <item>寫入通話記錄</item>
+        <item>查看日曆</item>
+        <item>管理日曆</item>
+        <item>掃描 Wi-Fi 網路</item>
+        <item>通知</item>
+        <item>掃描行動數據</item>
+        <item>撥打電話</item>
+        <item>讀取文字訊息</item>
+        <item>撰寫文字訊息</item>
+        <item>接收文字訊息</item>
+        <item>接收緊急文字訊息</item>
+        <item>接收多媒體訊息</item>
+        <item>接收 WAP 推播訊息</item>
+        <item>傳送文字訊息</item>
+        <item>讀取 SIM 卡上的文字訊息</item>
+        <item>撰寫 SIM 卡上的文字訊息</item>
+        <item>修改設定</item>
+        <item>重疊應用程式介面</item>
+        <item>存取通知</item>
+        <item>相機</item>
+        <item>錄音</item>
+        <item>播放音訊檔案</item>
+        <item>讀取剪貼簿資料</item>
+        <item>管理剪貼簿資料</item>
+        <item>控制媒體</item>
+        <item>控制音訊焦點</item>
+        <item>調整主音量</item>
+        <item>調整通話音量</item>
+        <item>調整鈴聲音量</item>
+        <item>調整媒體音量</item>
+        <item>調整鬧鐘音量</item>
+        <item>調整提醒音量</item>
+        <item>調整經藍牙裝置播放的聲音音量</item>
+        <item>保持螢幕開啟</item>
+        <item>監控位置資訊</item>
+        <item>監控高精確度位置資訊</item>
+        <item>讀取裝置用量統計資料</item>
+        <item>開啟或關閉麥克風</item>
+        <item>顯示彈出式罐頭訊息</item>
+        <item>擷取媒體</item>
+        <item>啟用 VPN</item>
+        <item>開啟/關閉 Wi-Fi</item>
+        <item>開啟/關閉藍牙</item>
+        <item>發送多媒體訊息</item>
+        <item>讀取多媒體訊息</item>
+        <item>編寫多媒體訊息</item>
+        <item>自動執行</item>
+        <item>開啟/關閉 NFC</item>
+        <item>刪除文字訊息</item>
+        <item>刪除多媒體訊息</item>
+        <item>刪除聯絡人</item>
+        <item>Delete call log</item>
+        <item>開啟/關閉行動數據</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>位置</item>
+        <item>位置</item>
+        <item>位置</item>
+        <item>震動</item>
+        <item>讀取聯絡人</item>
+        <item>編輯聯絡人</item>
+        <item>讀取通話記錄</item>
+        <item>寫入通話記錄</item>
+        <item>查看日曆</item>
+        <item>管理日曆</item>
+        <item>位置</item>
+        <item>顯示通知</item>
+        <item>位置</item>
+        <item>撥打電話</item>
+        <item>讀取文字訊息</item>
+        <item>撰寫文字訊息</item>
+        <item>接收文字訊息</item>
+        <item>接收緊急文字訊息</item>
+        <item>接收多媒體訊息</item>
+        <item>接收 WAP 推播訊息</item>
+        <item>傳送文字訊息</item>
+        <item>讀取 SIM 卡上的文字訊息</item>
+        <item>撰寫 SIM 卡上的文字訊息</item>
+        <item>修改設定</item>
+        <item>重疊應用程式介面</item>
+        <item>存取通知</item>
+        <item>相機</item>
+        <item>錄音</item>
+        <item>播放音訊檔案</item>
+        <item>讀取剪貼簿資料</item>
+        <item>管理剪貼簿資料</item>
+        <item>控制媒體</item>
+        <item>控制音訊焦點</item>
+        <item>調整主音量</item>
+        <item>調整通話音量</item>
+        <item>調整鈴聲音量</item>
+        <item>調整媒體音量</item>
+        <item>調整鬧鐘音量</item>
+        <item>調整提醒音量</item>
+        <item>調整經藍牙裝置播放的聲音音量</item>
+        <item>保持螢幕開啟</item>
+        <item>位置</item>
+        <item>位置</item>
+        <item>讀取裝置用量統計資料</item>
+        <item>開啟或關閉麥克風</item>
+        <item>顯示彈出式罐頭訊息</item>
+        <item>擷取媒體</item>
+        <item>啟用 VPN</item>
+        <item>開啟/關閉 Wi-Fi</item>
+        <item>開啟/關閉藍牙</item>
+        <item>發送多媒體訊息</item>
+        <item>讀取多媒體訊息</item>
+        <item>編寫多媒體訊息</item>
+        <item>自動執行</item>
+        <item>開啟/關閉 NFC</item>
+        <item>刪除文字訊息</item>
+        <item>刪除多媒體訊息</item>
+        <item>刪除聯絡人</item>
+        <item>delete call log</item>
+        <item>開啟/關閉行動數據</item>
+    </string-array>
+    <string-array name="long_press_timeout_selector_titles">
+        <item>短</item>
+        <item>適中</item>
+        <item>長</item>
+    </string-array>
+    <string-array name="captioning_typeface_selector_titles">
+        <item>預設</item>
+        <item>無襯線字體</item>
+        <item>Sans serif condensed</item>
+        <item>Sans serif 等寬字型</item>
+        <item>Serif</item>
+        <item>Serif 等寬字型</item>
+        <item>休閒</item>
+        <item>草寫</item>
+        <item>小寫</item>
+    </string-array>
+    <string-array name="captioning_font_size_selector_titles">
+        <item>極小</item>
+        <item>小</item>
+        <item>標準</item>
+        <item>大</item>
+        <item>超大</item>
+    </string-array>
+    <string-array name="captioning_edge_type_selector_titles">
+        <item>預設</item>
+        <item>無</item>
+        <item>外框</item>
+        <item>圖文框陰影</item>
+        <item>浮雕</item>
+        <item>壓縮</item>
+    </string-array>
+    <string-array name="captioning_opacity_selector_titles">
+        <item>25%</item>
+        <item>50%</item>
+        <item>75%</item>
+        <item>100%</item>
+    </string-array>
+    <string-array name="captioning_preset_selector_titles">
+        <item>預設</item>
+        <item>黑底白字</item>
+        <item>白底黑字</item>
+        <item>黑底黃字</item>
+        <item>藍底黃字</item>
+        <item>自訂</item>
+    </string-array>
+    <string-array name="select_logd_size_titles">
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>16M</item>
+    </string-array>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+    </string-array>
+    <string-array name="select_logd_size_summaries">
+        <item>每記錄緩衝區 64 KB</item>
+        <item>每記錄緩衝區 256 KB</item>
+        <item>每記錄緩衝區 1 MB</item>
+        <item>每記錄緩衝區 4 MB</item>
+        <item>每記錄緩衝區16 MB</item>
+    </string-array>
+    <string-array name="hdcp_checking_titles">
+        <item>永不檢查</item>
+        <item>僅檢查 DRM 內容</item>
+        <item>每次檢查</item>
+    </string-array>
+    <string-array name="hdcp_checking_summaries">
+        <item>永不使用 HDCP 檢查</item>
+        <item>僅使用 HDCP 檢查 DRM 內容</item>
+        <item>一律使用 HDCP 檢查</item>
+    </string-array>
+    <string-array name="window_animation_scale_entries">
+        <item>已關閉動畫。</item>
+        <item>動畫比例 0.5x</item>
+        <item>動畫比例 1x</item>
+        <item>動畫比例 1.5x</item>
+        <item>動畫比例 2x</item>
+        <item>動畫比例 5x</item>
+        <item>動畫比例 10x</item>
+    </string-array>
+    <string-array name="transition_animation_scale_entries">
+        <item>已關閉動畫。</item>
+        <item>動畫比例 0.5x</item>
+        <item>動畫比例 1x</item>
+        <item>動畫比例 1.5x</item>
+        <item>動畫比例 2x</item>
+        <item>動畫比例 5x</item>
+        <item>動畫比例 10x</item>
+    </string-array>
+    <string-array name="animator_duration_scale_entries">
+        <item>已關閉動畫。</item>
+        <item>動畫比例 0.5x</item>
+        <item>動畫比例 1x</item>
+        <item>動畫比例 1.5x</item>
+        <item>動畫比例 2x</item>
+        <item>動畫比例 5x</item>
+        <item>動畫比例 10x</item>
+    </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>無</item>
+        <item>480p</item>
+        <item>720 x 480 mdpi (安全)</item>
+        <item>720p</item>
+        <item>1280 x 720 tvdpi (安全)</item>
+        <item>1080p</item>
+        <item>1920 x 1080 xhdpi (安全)</item>
+        <item>1280 x 720 tvdpi 與 1920 x 1080 xhdpi</item>
+        <item>4K (安全)</item>
+        <item>4K (畫質提升)</item>
+        <item>4K (畫質提升、安全)</item>
+        <item>720p、1080p (雙螢幕)</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>無</item>
+        <item>Logcat</item>
+        <item>Systrace (圖形)</item>
+        <item>glGetError 上的通話列</item>
+    </string-array>
+    <string-array name="show_non_rect_clip_entries">
+        <item>關</item>
+        <item>以藍色標記非矩形圖案的表面</item>
+        <item>以綠色標記測試的繪圖指令</item>
+    </string-array>
+    <string-array name="track_frame_time_entries">
+        <item>關</item>
+        <item>以列的形式顯示於螢幕</item>
+        <item>顯示於 adb shell dumpsys gfxinfo</item>
+    </string-array>
+    <string-array name="debug_hw_overdraw_entries">
+        <item>關</item>
+        <item>顯示 overdraw 區域</item>
+        <item>顯示專為患有綠色弱色盲使用者設計的區域</item>
+    </string-array>
+    <string-array name="app_process_limit_entries">
+        <item>標準限制</item>
+        <item>無背景程序</item>
+        <item>最多 1 個程序</item>
+        <item>最多 2 個程序</item>
+        <item>最多 3 個程序</item>
+        <item>最多 4 個程序</item>
+    </string-array>
+    <string-array name="vpn_states">
+        <item>已中斷連線</item>
+        <item>正在初始化…</item>
+        <item>連線中…</item>
+        <item>已連線</item>
+        <item>逾時</item>
+        <item>不成功</item>
+    </string-array>
+    <string-array name="ram_states">
+        <item>標準</item>
+        <item>中度</item>
+        <item>低</item>
+        <item>極低</item>
+        <item>？</item>
+    </string-array>
+    <string-array name="long_press_timeout_titles_selector">
+        <item>短 (0.5 秒)</item>
+        <item>中 (1.0 秒)</item>
+        <item>長 (1.5 秒)</item>
+        <item>自訂</item>
+    </string-array>
+    <string-array name="time_interval_entries">
+        <item>3 分鐘</item>
+        <item>5 分鐘</item>
+        <item>10 分鐘</item>
+        <item>30 分鐘</item>
+        <item>1 小時</item>
+    </string-array>
+    <string-array name="time_interval_entries_selectable">
+        <item>15 秒</item>
+        <item>30 秒</item>
+        <item>1 分鐘</item>
+        <item>3 分鐘</item>
+        <item>5 分鐘</item>
+    </string-array>
+    <string-array name="time_interval_entries_selectable_22">
+        <item>1 分鐘</item>
+        <item>3 分鐘</item>
+        <item>5 分鐘</item>
+        <item>10 分鐘</item>
+        <item>15 分鐘</item>
+    </string-array>
+    <string-array name="proc_stats_memory_states">
+        <item>正常</item>
+        <item>中度</item>
+        <item>低</item>
+        <item>嚴重不足</item>
+    </string-array>
+    <string-array name="proc_stats_process_states">
+        <item>永續性</item>
+        <item>最佳使用活動</item>
+        <item>重要 (前景)</item>
+        <item>重要 (背景)</item>
+        <item>備份</item>
+        <item>負荷過大</item>
+        <item>服務 (執行中)</item>
+        <item>服務 (重新啟動)</item>
+        <item>接收器</item>
+        <item>住家</item>
+        <item>上次活動</item>
+        <item>已快取 (活動)</item>
+        <item>已快取 (活動用戶端)</item>
+        <item>已快取 (空白)</item>
+    </string-array>
+    <string-array name="wifi_connect_entries">
+        <item>自動</item>
+        <item>手動</item>
+        <item>每次詢問</item>
+    </string-array>
+    <string-array name="data_usage_display_unit">
+        <item>MB/GB (自動切換)</item>
+        <item>僅 MB</item>
+        <item>僅 GB</item>
+    </string-array>
+    <string-array name="color_picker">
+        <item>藍綠色</item>
+        <item>藍色</item>
+        <item>靛藍色</item>
+        <item>紫色</item>
+        <item>粉紅色</item>
+        <item>紅色</item>
+    </string-array>
+    <string-array name="touch_key_light_entries">
+        <item>1.5 秒</item>
+        <item>6 秒</item>
+        <item>永遠關閉</item>
+        <item>一律開啟</item>
+    </string-array>
+    <string-array name="key_backlight_entries">
+        <item>永遠關閉</item>
+        <item>1 秒</item>
+        <item>3 秒</item>
+        <item>5 秒</item>
+        <item>10 秒</item>
+        <item>15 秒</item>
+    </string-array>
+    <string-array name="usb_configuration_titles">
+        <item>@string/usb_use_charging_only</item>
+        <item>MTP (Media Transfer Protocol)</item>
+        <item>PTP (Picture Transfer Protocol)</item>
+        <item>RNDIS (USB Ethernet)</item>
+        <item>音源</item>
+        <item>MIDI</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_choices">
+        <item>Wi-Fi 優先</item>
+        <item>行動通訊優先</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_values">
+        <item>2</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="audio_output_entries">
+        <item>立體聲</item>
+        <item>環繞</item>
+    </string-array>
+</resources>

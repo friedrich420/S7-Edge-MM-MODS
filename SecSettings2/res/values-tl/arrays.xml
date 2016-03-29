@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Ini-i-scan…</item>
+        <item>Kumukonekta…</item>
+        <item>Pinapatotohanan…</item>
+        <item>Kinukuha ang IP address…</item>
+        <item>Nakakonekta</item>
+        <item>Nasuspinde</item>
+        <item>Nagdidiskonekta…</item>
+        <item>Nadiskonekta</item>
+        <item>Hindi matagumpay</item>
+        <item>Na-block</item>
+        <item>Sinusuri ang kalidad ng iyong koneksyon sa Internet…</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Ini-i-scan…</item>
+        <item>Kumokonekta sa %s…</item>
+        <item>Pinapatotohanan gamit ang %s…</item>
+        <item>Kinukuha ang IP address mula sa %s…</item>
+        <item>Nakakonekta sa %1$s.</item>
+        <item>Nasuspinde</item>
+        <item>Idinidiskonekta mula sa %s…</item>
+        <item>Nadiskonekta</item>
+        <item>Hindi matagumpay</item>
+        <item>Na-block</item>
+        <item>Sinusuri ang kalidad ng iyong koneksyon sa Internet…</item>
+    </string-array>
+    <string-array name="screen_timeout_entries">
+        <item>15 segundo</item>
+        <item>30 segundo</item>
+        <item>1 minuto</item>
+        <item>2 minuto</item>
+        <item>5 minuto</item>
+        <item>10 minuto</item>
+        <item>30 minuto</item>
+    </string-array>
+    <string-array name="screen_timeout_for_device_lock_entries">
+        <item>15 segundo</item>
+        <item>30 segundo</item>
+        <item>1 minuto</item>
+        <item>3 minuto</item>
+        <item>5 minuto</item>
+        <item>10 minuto</item>
+        <item>15 minuto</item>
+        <item>30 minuto</item>
+    </string-array>
+    <string-array name="device_lock_timeout_entries">
+        <item>Instant gamit ang power key o kapag nag-time out ang screen</item>
+        <item>15 segundo</item>
+        <item>30 segundo</item>
+        <item>1 minuto</item>
+        <item>3 minuto</item>
+        <item>5 minuto</item>
+        <item>10 minuto</item>
+        <item>15 minuto</item>
+        <item>30 minuto</item>
+        <item>1 oras</item>
+    </string-array>
+    <string-array name="lock_after_timeout_entries">
+        <item>Kaagad</item>
+        <item>5 segundo</item>
+        <item>15 segundo</item>
+        <item>30 segundo</item>
+        <item>1 minuto</item>
+        <item>2 minuto</item>
+        <item>5 minuto</item>
+        <item>10 minuto</item>
+        <item>30 minuto</item>
+    </string-array>
+    <string-array name="entries_font_size">
+        <item>Maliit</item>
+        <item>Maliit</item>
+        <item>Normal</item>
+        <item>Malaki</item>
+        <item>Higante</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>Napakabagal</item>
+        <item>Mabagal</item>
+        <item>Normal</item>
+        <item>Mabilis</item>
+        <item>mas mabilis</item>
+        <item>Mas mabilis</item>
+        <item>Matulin</item>
+        <item>Napakatulin</item>
+        <item>Pinakamabilis</item>
+    </string-array>
+    <string-array name="wifi_ap_security_testmode">
+        <item>Buksan</item>
+        <item>WPA2 PSK</item>
+    </string-array>
+    <string-array name="wifi_eap_method">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+        <item>SIM</item>
+        <item>AKA</item>
+        <item>"AKA'"</item>
+    </string-array>
+    <string-array name="wifi_p2p_status">
+        <item>Nakakonekta</item>
+        <item>Inimbitahan</item>
+        <item>Hindi nakakonekta</item>
+        <item>Mag-tap dito para kumonekta.</item>
+        <item>Wala sa sakop.</item>
+        <item>Nakakonekta sa isa pang device.</item>
+    </string-array>
+    <string-array name="wifi_ap_wifi_sharing">
+        <item>Paganahin ang Wi-Fi sharing</item>
+        <item>Hindi paganahin ang Wi-Fi sharing</item>
+    </string-array>
+    <string-array name="wifi_ap_timeout">
+        <item>Huwag kailanman mag-timeout.</item>
+        <item>5 minuto</item>
+        <item>10 minuto</item>
+        <item>20 minuto</item>
+        <item>30 minuto</item>
+        <item>60 minuto</item>
+    </string-array>
+    <string-array name="wifi_ap_connection_mode">
+        <item>Payagan lahat device</item>
+        <item>Mga pinapayagang device lang</item>
+    </string-array>
+    <string-array name="wifi_ap_channel">
+        <item>Awtomatiko</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+    </string-array>
+    <string-array name="wifi_share_profile_access_timeout">
+        <item>6 na oras</item>
+        <item>12 oras</item>
+        <item>24 oras</item>
+        <item>Walang limitasyon sa oras</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>Mahina</item>
+        <item>Katamtaman</item>
+        <item>Mahusay.</item>
+        <item>Malakas</item>
+        <item>Malakas na malakas</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries">
+        <item>"Palagi
+(Tumataas ang konsumo sa baterya)"</item>
+        <item>Habang nagcha-charge</item>
+        <item>"Huwag kailanman
+(pinapataas ang paggamit ng data)"</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries_wifi_only">
+        <item>"Palagi
+(Tumataas ang konsumo sa baterya)"</item>
+        <item>Habang nagcha-charge</item>
+        <item>Hindi kailanman</item>
+    </string-array>
+    <string-array name="wifi_frequency_band_entries">
+        <item>Awtomatiko</item>
+        <item>5 GHz lang</item>
+        <item>2.4 GHz lang</item>
+    </string-array>
+    <string-array name="wifi_frequency_band_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="usage_stats_display_order_types">
+        <item>Oras ng paggamit</item>
+        <item>Huling oras na ginamit</item>
+        <item>Pangalan ng app</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries">
+        <item>Wala</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>Wala</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>Static</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>Wala</item>
+        <item>Manual</item>
+        <item>I-awto-config</item>
+    </string-array>
+    <string-array name="wifi_iwlan_settings">
+        <item>I-on</item>
+        <item>I-off</item>
+    </string-array>
+    <string-array name="apn_auth_entries">
+        <item>Wala</item>
+        <item>PAP</item>
+        <item>CHAP</item>
+        <item>PAP o CHAP</item>
+    </string-array>
+    <string-array name="apn_protocol_entries">
+        <item>IPv4</item>
+        <item>IPv6</item>
+        <item>IPv4/IPv6</item>
+    </string-array>
+    <string-array name="bearer_entries">
+        <item>Hindi tinukoy</item>
+        <item>LTE</item>
+        <item>HSPAP</item>
+        <item>HSPA</item>
+        <item>HSUPA</item>
+        <item>HSDPA</item>
+        <item>UMTS</item>
+        <item>EDGE</item>
+        <item>GPRS</item>
+        <item>eHRPD</item>
+        <item>EVDO_B</item>
+        <item>EVDO_A</item>
+        <item>EVDO_0</item>
+        <item>1xRTT</item>
+        <item>IS95B</item>
+        <item>IS95A</item>
+    </string-array>
+    <string-array name="mvno_type_entries">
+        <item>Wala</item>
+        <item>SPN</item>
+        <item>IMSI</item>
+        <item>GID</item>
+    </string-array>
+    <string-array name="app_install_location_entries">
+        <item>Panloob na storage ng device</item>
+        <item>Naaalis na SD card</item>
+        <item>Hayaang magpasya ang system</item>
+    </string-array>
+    <string-array name="app_ops_categories">
+        <item>Lokasyon</item>
+        <item>Personal</item>
+        <item>Pagpapadala ng mensahe</item>
+        <item>Media</item>
+        <item>Device</item>
+        <item>I-auto run</item>
+    </string-array>
+    <string-array name="app_ops_summaries">
+        <item>tinatayang lokasyon</item>
+        <item>eksaktong lokasyon</item>
+        <item>GPS</item>
+        <item>Pag-vibrate</item>
+        <item>Basahin ang mga contact</item>
+        <item>I-edit ang mga contact</item>
+        <item>Magbasa ng log ng tawag</item>
+        <item>Magsulat ng log ng tawag</item>
+        <item>Basahin ang kalendaryo</item>
+        <item>Pamahalaan ang kalendaryo</item>
+        <item>Mag-scan ng mga Wi-Fi network</item>
+        <item>Abiso</item>
+        <item>I-i-scan ang mga cell</item>
+        <item>Tumawag sa telepono</item>
+        <item>Basahin ang mga text message</item>
+        <item>Magsulat ng mga text message</item>
+        <item>Tumanggap ng mga text message</item>
+        <item>Tumanggap ng emergency na text message</item>
+        <item>Tumanggap ng mga multimedia message</item>
+        <item>Tumatanggap ng mga WAP push message</item>
+        <item>Magpadala ng mga text message</item>
+        <item>Magbasa ng mga text message sa SIM card</item>
+        <item>Magsulat ng mga text message sa SIM card</item>
+        <item>Baguhin ang mga setting</item>
+        <item>I-overlay ang interface ng application</item>
+        <item>I-access ang mga notification</item>
+        <item>Camera</item>
+        <item>Mag-record ng audio</item>
+        <item>Mag-play ng mga audio file</item>
+        <item>Basahin ang data ng clipboard</item>
+        <item>Pamahalaan ang data ng clipboard</item>
+        <item>Kontrolin ang media</item>
+        <item>Kontrolin ang audio focus</item>
+        <item>Isaayos ang master volume</item>
+        <item>Isaayos ang volume ng in-call</item>
+        <item>Itama ang volume ng ringtone</item>
+        <item>Isaayos ang media volume</item>
+        <item>Isaayos ang volume ng alarm</item>
+        <item>Itama ang volume ng alert</item>
+        <item>Isaayos ang volume ng tunog na pine-play sa pamamagitan ng mga Bluetooth device</item>
+        <item>Panatilihing naka-on ang screen</item>
+        <item>I-monitor ang impormasyon ng lokasyon</item>
+        <item>I-monitor ang labis na tumpak na impormasyon ng lokasyon</item>
+        <item>Basahin ang mga istatistika ng paggamit ng device</item>
+        <item>I-on at i-off ang mikropono</item>
+        <item>Ipakita ang mga toast pop-up</item>
+        <item>Kumuha ng media</item>
+        <item>Paganahin ang VPN</item>
+        <item>I-on/i-off ang Wi-Fi</item>
+        <item>I-on/i-off ang Bluetooth</item>
+        <item>Padala multimedia message.</item>
+        <item>Magbasa ng mga multimedia message</item>
+        <item>Magsulat ng mga multimedia message</item>
+        <item>I-auto run</item>
+        <item>I-on/i-off ang NFC</item>
+        <item>Magtanggal ng mga Teksto message</item>
+        <item>Magtanggal ng mga multimedia message</item>
+        <item>Magtanggal ng mga contact</item>
+        <item>Delete call log</item>
+        <item>I-on/i-off ang Mobile data</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Lokasyon</item>
+        <item>Lokasyon</item>
+        <item>Lokasyon</item>
+        <item>Pag-vibrate</item>
+        <item>Basahin ang mga contact</item>
+        <item>I-edit ang mga contact</item>
+        <item>Magbasa ng log ng tawag</item>
+        <item>Magsulat ng log ng tawag</item>
+        <item>Basahin ang kalendaryo</item>
+        <item>Pamahalaan ang kalendaryo</item>
+        <item>Lokasyon</item>
+        <item>Ipakita an mga notification</item>
+        <item>Lokasyon</item>
+        <item>Tumawag sa telepono</item>
+        <item>Basahin ang mga text message</item>
+        <item>Magsulat ng mga text message</item>
+        <item>Tumanggap ng mga text message</item>
+        <item>Tumanggap ng emergency na text message</item>
+        <item>Tumanggap ng mga multimedia message</item>
+        <item>Tumatanggap ng mga WAP push message</item>
+        <item>Magpadala ng mga text message</item>
+        <item>Magbasa ng mga text message sa SIM card</item>
+        <item>Magsulat ng mga text message sa SIM card</item>
+        <item>Baguhin ang mga setting</item>
+        <item>I-overlay ang interface ng application</item>
+        <item>I-access ang mga notification</item>
+        <item>Camera</item>
+        <item>Mag-record ng audio</item>
+        <item>Mag-play ng mga audio file</item>
+        <item>Basahin ang data ng clipboard</item>
+        <item>Pamahalaan ang data ng clipboard</item>
+        <item>Kontrolin ang media</item>
+        <item>Kontrolin ang audio focus</item>
+        <item>Isaayos ang master volume</item>
+        <item>Isaayos ang volume ng in-call</item>
+        <item>Itama ang volume ng ringtone</item>
+        <item>Isaayos ang media volume</item>
+        <item>Isaayos ang volume ng alarm</item>
+        <item>Itama ang volume ng alert</item>
+        <item>Isaayos ang volume ng tunog na pine-play sa pamamagitan ng mga Bluetooth device</item>
+        <item>Panatilihing naka-on ang screen</item>
+        <item>Lokasyon</item>
+        <item>Lokasyon</item>
+        <item>Basahin ang mga istatistika ng paggamit ng device</item>
+        <item>I-on at i-off ang mikropono</item>
+        <item>Ipakita ang mga toast pop-up</item>
+        <item>Kumuha ng media</item>
+        <item>Paganahin ang VPN</item>
+        <item>I-on/i-off ang Wi-Fi</item>
+        <item>I-on/i-off ang Bluetooth</item>
+        <item>Padala multimedia message.</item>
+        <item>Magbasa ng mga multimedia message</item>
+        <item>Magsulat ng mga multimedia message</item>
+        <item>I-auto run</item>
+        <item>I-on/i-off ang NFC</item>
+        <item>Magtanggal ng mga Teksto message</item>
+        <item>Magtanggal ng mga multimedia message</item>
+        <item>Magtanggal ng mga contact</item>
+        <item>delete call log</item>
+        <item>I-on/i-off ang Mobile data</item>
+    </string-array>
+    <string-array name="long_press_timeout_selector_titles">
+        <item>Maikli</item>
+        <item>Katamtaman</item>
+        <item>Mahaba</item>
+    </string-array>
+    <string-array name="captioning_typeface_selector_titles">
+        <item>Default</item>
+        <item>Sans serif</item>
+        <item>Sans serif condensed</item>
+        <item>Sans serif monospace</item>
+        <item>Serif</item>
+        <item>Serif monospace</item>
+        <item>Casual</item>
+        <item>Dikit-dikit</item>
+        <item>Mga maliit na titik</item>
+    </string-array>
+    <string-array name="captioning_font_size_selector_titles">
+        <item>Napakaliit</item>
+        <item>Maliit</item>
+        <item>Normal</item>
+        <item>Malaki</item>
+        <item>Napakalaki</item>
+    </string-array>
+    <string-array name="captioning_edge_type_selector_titles">
+        <item>Default</item>
+        <item>Wala</item>
+        <item>Outline</item>
+        <item>Drop shadow</item>
+        <item>Raised</item>
+        <item>Depressed</item>
+    </string-array>
+    <string-array name="captioning_opacity_selector_titles">
+        <item>25%</item>
+        <item>50%</item>
+        <item>75%</item>
+        <item>100%</item>
+    </string-array>
+    <string-array name="captioning_preset_selector_titles">
+        <item>Default</item>
+        <item>Puti sa itim</item>
+        <item>Itim sa puti</item>
+        <item>Dilaw sa itim</item>
+        <item>Dilaw sa asul</item>
+        <item>Custom</item>
+    </string-array>
+    <string-array name="select_logd_size_titles">
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>16M</item>
+    </string-array>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+    </string-array>
+    <string-array name="select_logd_size_summaries">
+        <item>64 KB kada buffer ng log</item>
+        <item>256 KB kada buffer ng log</item>
+        <item>1 MB kada buffer ng log</item>
+        <item>4 MB kada buffer ng log</item>
+        <item>16 MB kada buffer ng log</item>
+    </string-array>
+    <string-array name="hdcp_checking_titles">
+        <item>Huwag kailanman tingnan</item>
+        <item>Tumingin lang ng nilalaman ng DRM</item>
+        <item>Palaging tingnan</item>
+    </string-array>
+    <string-array name="hdcp_checking_summaries">
+        <item>Huwag kailanman gamitin ang pagsusuri ng HDCP.</item>
+        <item>Pagsusuri ng HDCP lang ang gamitin para sa DRM content.</item>
+        <item>Palaging gamitin ang pagsusuri ng HDCP.</item>
+    </string-array>
+    <string-array name="window_animation_scale_entries">
+        <item>Naka-off ang animation.</item>
+        <item>Animation scale 0.5x</item>
+        <item>Animation scale 1x</item>
+        <item>Animation scale 1.5x</item>
+        <item>Animation scale 2x</item>
+        <item>Animation scale 5x</item>
+        <item>Animation scale 10x</item>
+    </string-array>
+    <string-array name="transition_animation_scale_entries">
+        <item>Naka-off ang animation.</item>
+        <item>Animation scale 0.5x</item>
+        <item>Animation scale 1x</item>
+        <item>Animation scale 1.5x</item>
+        <item>Animation scale 2x</item>
+        <item>Animation scale 5x</item>
+        <item>Animation scale 10x</item>
+    </string-array>
+    <string-array name="animator_duration_scale_entries">
+        <item>Naka-off ang animation.</item>
+        <item>Animation scale 0.5x</item>
+        <item>Animation scale 1x</item>
+        <item>Animation scale 1.5x</item>
+        <item>Animation scale 2x</item>
+        <item>Animation scale 5x</item>
+        <item>Animation scale 10x</item>
+    </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>Wala</item>
+        <item>480p</item>
+        <item>720 x 480 mdpi (secure)</item>
+        <item>720p</item>
+        <item>1280 x 720 tvdpi (secure)</item>
+        <item>1080p</item>
+        <item>1920 x 1080 xhdpi (secure)</item>
+        <item>1280 x 720 tvdpi at 1920 x 1080 xhdpi</item>
+        <item>4K (secure)</item>
+        <item>4K (na-upscale)</item>
+        <item>4K (na-upscale, secure)</item>
+        <item>720p, 1080p (dual screen)</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>Wala</item>
+        <item>Logcat</item>
+        <item>Systrace (graphics)</item>
+        <item>Tawagan na stack sa glGetError</item>
+    </string-array>
+    <string-array name="show_non_rect_clip_entries">
+        <item>I-off</item>
+        <item>I-highlight ang ibabaw ng mga non-rectangular clip nang asul</item>
+        <item>I-highlight ang mga subok nang drawing command nang berde</item>
+    </string-array>
+    <string-array name="track_frame_time_entries">
+        <item>I-off</item>
+        <item>Ipakita sa screen bilang mga bar</item>
+        <item>Ipakita sa adb shell dumpsys gfxinfo</item>
+    </string-array>
+    <string-array name="debug_hw_overdraw_entries">
+        <item>I-off</item>
+        <item>Ipakita ang mga lugar ng overdraw</item>
+        <item>Ipakita ang mga lugar para mga iyon na may deuteranomaly</item>
+    </string-array>
+    <string-array name="app_process_limit_entries">
+        <item>Karaniwang limitasyon</item>
+        <item>Walang mga proseso sa background.</item>
+        <item>Hanggang 1 proseso</item>
+        <item>Hanggang 2 proseso</item>
+        <item>Hanggang 3 proseso</item>
+        <item>Hanggang 4 na proseso</item>
+    </string-array>
+    <string-array name="vpn_states">
+        <item>Nadiskonekta</item>
+        <item>Sinisimulan…</item>
+        <item>Kumukonekta…</item>
+        <item>Nakakonekta</item>
+        <item>Timeout</item>
+        <item>Hindi matagumpay</item>
+    </string-array>
+    <string-array name="ram_states">
+        <item>Normal</item>
+        <item>Katamtaman</item>
+        <item>Mababa</item>
+        <item>Kritikal</item>
+        <item>\?</item>
+    </string-array>
+    <string-array name="long_press_timeout_titles_selector">
+        <item>Maikli (0.5 segundo)</item>
+        <item>Katamtaman (1.0 segundo)</item>
+        <item>Matagal (1.5 segundo)</item>
+        <item>Custom</item>
+    </string-array>
+    <string-array name="time_interval_entries">
+        <item>3 minuto</item>
+        <item>5 minuto</item>
+        <item>10 minuto</item>
+        <item>30 minuto</item>
+        <item>1 oras</item>
+    </string-array>
+    <string-array name="time_interval_entries_selectable">
+        <item>15 segundo</item>
+        <item>30 segundo</item>
+        <item>1 minuto</item>
+        <item>3 minuto</item>
+        <item>5 minuto</item>
+    </string-array>
+    <string-array name="time_interval_entries_selectable_22">
+        <item>1 minuto</item>
+        <item>3 minuto</item>
+        <item>5 minuto</item>
+        <item>10 minuto</item>
+        <item>15 minuto</item>
+    </string-array>
+    <string-array name="proc_stats_memory_states">
+        <item>Normal</item>
+        <item>Katamtaman</item>
+        <item>Mababa</item>
+        <item>Kritikal</item>
+    </string-array>
+    <string-array name="proc_stats_process_states">
+        <item>Matiyaga</item>
+        <item>Nagungunang aktibidad</item>
+        <item>Mahalaga (foreground)</item>
+        <item>Mahalaga (background)</item>
+        <item>Backup</item>
+        <item>Mabigat na timbang</item>
+        <item>Serbisyo (Tumatakbo)</item>
+        <item>Serbisyo (Nagre-restart)</item>
+        <item>Tatanggap</item>
+        <item>Home</item>
+        <item>Huling aktibidad</item>
+        <item>Naka-cache (aktibidad)</item>
+        <item>Naka-cache (kliyente ng aktibidad)</item>
+        <item>Naka-cache (Walang laman)</item>
+    </string-array>
+    <string-array name="wifi_connect_entries">
+        <item>Awtomatiko</item>
+        <item>Manu-mano</item>
+        <item>Palaging magtanong</item>
+    </string-array>
+    <string-array name="data_usage_display_unit">
+        <item>MB/GB (auto change)</item>
+        <item>MB lang</item>
+        <item>GB lang</item>
+    </string-array>
+    <string-array name="color_picker">
+        <item>Teal</item>
+        <item>Asul</item>
+        <item>Indigo</item>
+        <item>Lila</item>
+        <item>Pink</item>
+        <item>Pula</item>
+    </string-array>
+    <string-array name="touch_key_light_entries">
+        <item>1.5 segundo</item>
+        <item>6 segundo</item>
+        <item>Palaging naka-off</item>
+        <item>Palaging naka-on</item>
+    </string-array>
+    <string-array name="key_backlight_entries">
+        <item>Palaging naka-off</item>
+        <item>1 segundo</item>
+        <item>3 segundo</item>
+        <item>5 segundo</item>
+        <item>10 segundo</item>
+        <item>15 segundo</item>
+    </string-array>
+    <string-array name="usb_configuration_titles">
+        <item>@string/usb_use_charging_only</item>
+        <item>MTP (Media Transfer Protocol)</item>
+        <item>PTP (Picture Transfer Protocol)</item>
+        <item>RNDIS (USB Ethernet)</item>
+        <item>Pinagmumulan ng audio</item>
+        <item>MIDI</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_choices">
+        <item>Mas gusto ang Wi-Fi</item>
+        <item>Mas gusto ang cellular</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_values">
+        <item>2</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="audio_output_entries">
+        <item>Stereo</item>
+        <item>Surround</item>
+    </string-array>
+</resources>

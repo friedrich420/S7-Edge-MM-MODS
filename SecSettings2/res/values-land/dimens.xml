@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="abc_action_bar_progress_bar_size">32.0dip</dimen>
+    <dimen name="abc_text_size_title_material_toolbar">14.0dip</dimen>
+    <dimen name="abc_text_size_subtitle_material_toolbar">12.0dip</dimen>
+    <dimen name="abc_action_bar_default_height_material">48.0dip</dimen>
+    <dimen name="suw_card_title_padding_end">32.0dip</dimen>
+    <dimen name="suw_card_title_padding_start">56.0dip</dimen>
+    <dimen name="suw_card_title_padding_top">24.0dip</dimen>
+    <dimen name="suw_card_title_padding_bottom">0.0dip</dimen>
+    <dimen name="suw_decor_padding_top">0.0dip</dimen>
+    <item type="dimen" name="suw_illustration_aspect_ratio">0.0</item>
+    <dimen name="pattern_lock_confirm_bottom">105.0dip</dimen>
+    <dimen name="lock_password_header_text_size">16.0dip</dimen>
+    <dimen name="lock_password_header_text_marginTop">20.0dip</dimen>
+    <dimen name="captioning_preview_height">100.0dip</dimen>
+    <dimen name="actionbar_size">48.0dip</dimen>
+    <dimen name="dashboard_cell_gap_x">0.0dip</dimen>
+    <dimen name="dashboard_cell_gap_y">0.0dip</dimen>
+    <dimen name="dashboard_category_padding_start">4.0dip</dimen>
+    <dimen name="dashboard_category_padding_end">4.0dip</dimen>
+    <dimen name="dashboard_category_title_margin_start">12.0dip</dimen>
+    <dimen name="dashboard_tile_minimum_height">64.0dip</dimen>
+    <dimen name="dashboard_tile_image_margin_start">12.0dip</dimen>
+    <dimen name="fingerprint_chooselock_vertical_margin">16.0dip</dimen>
+    <dimen name="fingerprint_chooselock_img_width">239.0dip</dimen>
+    <dimen name="fingerprint_chooselock_img_height">134.0dip</dimen>
+    <dimen name="wifi_ap_list_height">170.0dip</dimen>
+    <dimen name="unlock_effect_image_width">312.0dip</dimen>
+    <dimen name="unlock_effect_image_height">273.0dip</dimen>
+    <dimen name="unlock_effect_image_top_margin">11.0dip</dimen>
+    <dimen name="unlock_effect_image_bottom_margin">11.0dip</dimen>
+    <dimen name="unlock_effect_image_left_margin">16.0dip</dimen>
+    <item type="dimen" name="fingerprint_illustration_aspect_ratio">0.0</item>
+    <dimen name="fingerprint_decor_padding_top">24.0dip</dimen>
+    <dimen name="appwidget_preview_width">120.0dip</dimen>
+    <dimen name="appwidget_preview_height">70.0dip</dimen>
+    <dimen name="keyguard_appwidget_picker_margin_left">2.0dip</dimen>
+    <dimen name="keyguard_appwidget_picker_margin_right">2.0dip</dimen>
+</resources>

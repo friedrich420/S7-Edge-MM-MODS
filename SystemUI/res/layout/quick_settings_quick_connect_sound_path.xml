@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:id="@id/qs_bottom_area" android:background="@drawable/qs_bottom_area_bg_drawable" android:layout_width="fill_parent" android:layout_height="@dimen/qs_bottom_area_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/quick_connect_container" android:background="@drawable/notification_panel_theme_btn_borderless_rect" android:focusable="true" android:clickable="true" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" android:paddingStart="@dimen/qs_bottom_area_start_padding" android:paddingEnd="@dimen/qs_bottom_area_end_padding">
+        <TextView android:textAppearance="@style/TextAppearance.QS.BottomButton" android:textSize="@dimen/qs_bottom_area_quick_connect_text_size" android:gravity="center_vertical" android:id="@id/quick_connect" android:layout_width="wrap_content" android:layout_height="fill_parent" android:text="@string/quick_connect_button" android:alpha="0.9" />
+        <RelativeLayout android:id="@id/tap_container" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_toEndOf="@id/quick_connect" android:layout_alignParentEnd="true">
+            <TextView android:textAppearance="@style/TextAppearance.QS.BottomButton" android:ellipsize="end" android:gravity="center_vertical" android:id="@id/tap" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/tap_to_connect" android:maxLines="1" android:layout_centerVertical="true" android:alpha="0.6" android:paddingStart="4.0dip" android:paddingEnd="4.0dip" android:layout_alignParentEnd="true" />
+        </RelativeLayout>
+        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/connected_devices" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_alignParentEnd="true" />
+    </RelativeLayout>
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/sound_path_container" android:layout_width="wrap_content" android:layout_height="fill_parent" android:paddingEnd="@dimen/qs_bottom_area_end_padding">
+        <View android:layout_gravity="center_vertical" android:id="@id/qs_bottom_area_divider" android:background="@drawable/qs_bottom_area_divider" android:layout_width="3.0px" android:layout_height="19.0dip" android:layout_marginEnd="9.0dip" />
+        <TextView android:textAppearance="@style/TextAppearance.QS.BottomButton" android:textSize="@dimen/qs_bottom_area_audio_path_text_size" android:id="@id/sound_path" android:focusable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/sound_path_button" android:drawablePadding="2.0dip" android:alpha="0.9" android:drawableEnd="@drawable/qs_sound_path_arrow" android:paddingStart="4.0dip" android:paddingEnd="2.0dip" />
+    </LinearLayout>
+</LinearLayout>

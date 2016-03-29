@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/fingerprint_setup_img" android:layout_width="@dimen/fingerprint_chooselock_img_width" android:layout_height="@dimen/fingerprint_chooselock_img_height" android:layout_marginTop="@dimen/fingerprint_chooselock_vertical_margin" android:layout_marginBottom="@dimen/fingerprint_chooselock_vertical_margin" android:src="@drawable/fingerprint_setting_setup_image" android:layout_alignParentTop="true" android:layout_centerHorizontal="true" />
+    <TextView android:textSize="@dimen/fingerprint_chooselock_text_size" android:textColor="@color/body_text_color" android:gravity="start" android:id="@id/fingerprint_setup_guide_text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/fingerprint_backup_lock_type_message" android:layout_below="@id/fingerprint_setup_img" android:lineSpacingExtra="@dimen/fingerprint_chooselock_linespace" android:paddingStart="?android:listPreferredItemPaddingStart" android:paddingEnd="?android:listPreferredItemPaddingEnd" />
+    <include android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/fingerprint_chooselock_vertical_margin" android:layout_below="@id/fingerprint_setup_guide_text" layout="@layout/divider_line_layout" />
+</RelativeLayout>

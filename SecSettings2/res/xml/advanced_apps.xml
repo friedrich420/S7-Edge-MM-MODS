@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:key="applications_settings"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <PreferenceScreen android:title="@string/app_permissions" android:key="manage_perms" settings:keywords="@string/keywords_app_permissions" />
+    <PreferenceScreen android:title="@string/domain_urls_title" android:key="domain_urls" android:fragment="com.android.settings.applications.ManageApplications">
+        <extra android:name="classname" android:value="com.android.settings.Settings$DomainsURLsAppListActivity" />
+    </PreferenceScreen>
+    <PreferenceCategory android:title="@string/advanced_apps" />
+    <PreferenceScreen android:title="@string/default_apps_title" android:key="default_apps" android:fragment="com.android.settings.applications.ManageDefaultApps" settings:keywords="@string/keywords_default_apps" />
+    <PreferenceScreen android:title="@string/system_alert_window_settings" android:key="system_alert_window" android:fragment="com.android.settings.applications.ManageApplications" settings:keywords="@string/keywords_system_alert_window">
+        <extra android:name="classname" android:value="com.android.settings.Settings$OverlaySettingsActivity" />
+    </PreferenceScreen>
+    <PreferenceScreen android:title="@string/write_settings" android:key="write_settings_apps" android:fragment="com.android.settings.applications.ManageApplications" settings:keywords="@string/keywords_write_settings">
+        <extra android:name="classname" android:value="com.android.settings.Settings$WriteSettingsActivity" />
+    </PreferenceScreen>
+    <PreferenceScreen android:title="@string/high_power_apps" android:key="high_power_apps" android:fragment="com.android.settings.applications.ManageApplications" settings:keywords="@string/keywords_ignore_optimizations">
+        <extra android:name="classname" android:value="com.android.settings.Settings$HighPowerApplicationsActivity" />
+    </PreferenceScreen>
+</PreferenceScreen>

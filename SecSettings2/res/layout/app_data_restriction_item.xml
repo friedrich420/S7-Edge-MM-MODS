@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:columnCount="4" style="@style/list_item_container_style"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="center_vertical" android:id="@id/app_icon" android:layout_width="@dimen/list_app_icon_size" android:layout_height="@dimen/list_app_icon_size" android:scaleType="centerInside" android:contentDescription="@null" android:layout_rowSpan="2" android:layout_marginEnd="@dimen/list_item_inner_padding" />
+    <TextView android:ellipsize="marquee" android:layout_gravity="fill_horizontal" android:id="@id/app_name" android:layout_width="0.0dip" android:layout_marginTop="@dimen/list_item_top_padding" android:singleLine="true" android:layout_columnSpan="2" android:textAlignment="viewStart" style="@style/list_title_text_style" />
+    <LinearLayout android:layout_gravity="center_vertical" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_rowSpan="2">
+        <CheckBox android:layout_gravity="center_vertical" android:id="@id/data_restricted" android:background="@null" android:focusable="false" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_rowSpan="2" android:layout_marginStart="@dimen/list_item_inner_padding" />
+        <CheckBox android:layout_gravity="center_vertical" android:id="@id/wifi_restricted" android:background="@null" android:focusable="false" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_rowSpan="2" android:layout_marginStart="@dimen/list_item_inner_padding" />
+        <Switch android:gravity="center_vertical" android:orientation="vertical" android:id="@id/data_restricted_switch" android:background="@null" android:focusable="false" android:clickable="false" android:layout_width="wrap_content" android:layout_height="fill_parent" />
+    </LinearLayout>
+    <TextView android:layout_gravity="top" android:id="@id/data_total" android:layout_width="wrap_content" android:layout_marginBottom="@dimen/list_item_bottom_padding" android:textAlignment="viewStart" style="@style/list_summary_text_style" />
+    <TextView android:layout_gravity="fill_horizontal|center|top" android:id="@id/wifi_total" android:layout_width="wrap_content" android:layout_marginStart="@dimen/list_item_inner_padding" style="@style/list_summary_text_style" />
+</GridLayout>

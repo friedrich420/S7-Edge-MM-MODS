@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="PasswordTheme" parent="@android:style/Theme.DeviceDefault">
+        <item name="android:colorControlNormal">#80ffffff</item>
+        <item name="android:colorControlActivated">#80ffffff</item>
+    </style>
+    <style name="TextAppearance.passwordEntry" parent="@android:style/TextAppearance">
+        <item name="android:textSize">25.0dip</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:letterSpacing">0.15</item>
+    </style>
+    <style name="FlashBarTheme" parent="@android:style/Theme.DeviceDefault.Light">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">false</item>
+    </style>
+    <style name="RecentsTheme" parent="@android:style/Theme.Material.Light">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowAnimationStyle">@style/Animation.RecentsActivity</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+    <style name="systemui_theme" parent="@android:style/Theme.DeviceDefault">
+        <item name="android:dialogTheme">@android:style/Theme.DeviceDefault.Light.Dialog</item>
+        <item name="android:alertDialogTheme">@android:style/Theme.DeviceDefault.Light.Dialog.Alert</item>
+        <item name="android:colorControlActivated">@color/system_accent_color</item>
+        <item name="android:colorPrimary">@color/system_primary_color</item>
+    </style>
+    <style name="systemui_theme_light" parent="@android:style/Theme.DeviceDefault.Light">
+        <item name="android:colorControlActivated">@color/system_accent_color</item>
+        <item name="android:colorPrimary">@color/system_primary_color</item>
+    </style>
+    <style name="Theme.SystemUI.Dialog" parent="@android:style/Theme.DeviceDefault.Light.Dialog">
+        <item name="android:colorControlActivated">@color/system_accent_color</item>
+        <item name="android:colorPrimary">@color/system_primary_color</item>
+    </style>
+    <style name="ScreenshotDeleteActivityTheme" parent="@android:style/Theme.DeviceDefault">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoDisplay">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+    <style name="ScreenshotEditActivityTheme" parent="@android:style/Theme.DeviceDefault">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+    <style name="QsScrollViewTheme" parent="@android:style/Theme.DeviceDefault.Light">
+        <item name="android:colorEdgeEffect">?android:colorControlHighlight</item>
+    </style>
+</resources>

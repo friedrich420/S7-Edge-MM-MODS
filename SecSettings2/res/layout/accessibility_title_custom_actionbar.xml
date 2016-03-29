@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:id="@id/accessibility_setupwizard_actionbar" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <TextView android:textSize="20.0sp" android:textColor="@color/actionbar_text_color" android:id="@id/accessibility_setupwizard_title" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/accessibility_settings" android:layout_weight="1.0" android:fontFamily="sans-serif" android:textAlignment="viewStart" />
+    </LinearLayout>
+</LinearLayout>

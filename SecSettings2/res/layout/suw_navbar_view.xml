@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <view android:id="@id/suw_navbar_back" android:layout_width="wrap_content" android:layout_height="fill_parent" android:drawableLeft="?suwNavBarBackButton" android:contentDescription="@string/suw_back_button_label" android:drawableStart="?suwNavBarBackButton" class="com.android.setupwizardlib.view.NavigationBar$NavButton" style="@style/SuwNavBarButtonStyle" />
+    <View android:visibility="invisible" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" />
+    <view android:gravity="end|center" android:id="@id/suw_navbar_more" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="fill_parent" android:drawableRight="?suwNavBarMoreButton" android:contentDescription="@string/suw_more_button_label" android:drawableEnd="?suwNavBarMoreButton" class="com.android.setupwizardlib.view.NavigationBar$NavButton" style="@style/SuwNavBarButtonStyle" />
+    <view android:gravity="end|center" android:id="@id/suw_navbar_next" android:layout_width="wrap_content" android:layout_height="fill_parent" android:text="@string/suw_next_button_label" android:drawableRight="?suwNavBarNextButton" android:drawableEnd="?suwNavBarNextButton" class="com.android.setupwizardlib.view.NavigationBar$NavButton" style="@style/SuwNavBarButtonStyle" />
+</merge>

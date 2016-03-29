@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Duke skanuar…</item>
+        <item>Po lidhem…</item>
+        <item>Duke autentikuar…</item>
+        <item>Po merret adresa IP…</item>
+        <item>Lidhur</item>
+        <item>Pezulluar</item>
+        <item>Duke u shkëputur…</item>
+        <item>Shkëputur</item>
+        <item>Pa sukses</item>
+        <item>Bllokuar</item>
+        <item>Duke kontrolluar cilësinë e lidhjes tënde në Internet…</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Duke skanuar…</item>
+        <item>Duke u lidhur me %s…</item>
+        <item>Po autentifikon me %s…</item>
+        <item>Duke marre adresa IP nga %s…</item>
+        <item>Lidhur me %1$s.</item>
+        <item>Pezulluar</item>
+        <item>Duke u shkëputur nga %s…</item>
+        <item>Shkëputur</item>
+        <item>Pa sukses</item>
+        <item>Bllokuar</item>
+        <item>Duke kontrolluar cilësinë e lidhjes tënde në Internet…</item>
+    </string-array>
+    <string-array name="screen_timeout_entries">
+        <item>15 sekonda</item>
+        <item>30 sekonda</item>
+        <item>1 minutë</item>
+        <item>2 minuta</item>
+        <item>5 minuta</item>
+        <item>10 minuta</item>
+        <item>30 minuta</item>
+    </string-array>
+    <string-array name="screen_timeout_for_device_lock_entries">
+        <item>15 sekonda</item>
+        <item>30 sekonda</item>
+        <item>1 minutë</item>
+        <item>3 minuta</item>
+        <item>5 minuta</item>
+        <item>10 minuta</item>
+        <item>15 minuta</item>
+        <item>30 minuta</item>
+    </string-array>
+    <string-array name="device_lock_timeout_entries">
+        <item>"Menjëherë me tastin ndezës, ose kur t'i kalojë afatpritja ekranit"</item>
+        <item>15 sekonda</item>
+        <item>30 sekonda</item>
+        <item>1 minutë</item>
+        <item>3 minuta</item>
+        <item>5 minuta</item>
+        <item>10 minuta</item>
+        <item>15 minuta</item>
+        <item>30 minuta</item>
+        <item>1 orë</item>
+    </string-array>
+    <string-array name="lock_after_timeout_entries">
+        <item>Menjëherë</item>
+        <item>5 sekonda</item>
+        <item>15 sekonda</item>
+        <item>30 sekonda</item>
+        <item>1 minutë</item>
+        <item>2 minuta</item>
+        <item>5 minuta</item>
+        <item>10 minuta</item>
+        <item>30 minuta</item>
+    </string-array>
+    <string-array name="entries_font_size">
+        <item>E imët</item>
+        <item>E vogël</item>
+        <item>Normale</item>
+        <item>E madhe</item>
+        <item>Shumë i madh</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>Shumë ngadalë</item>
+        <item>Ngadalë</item>
+        <item>Normal</item>
+        <item>Shpejt</item>
+        <item>më shpejt</item>
+        <item>Shumë më shpejt</item>
+        <item>Rapid</item>
+        <item>Very rapid</item>
+        <item>Më e shpejta</item>
+    </string-array>
+    <string-array name="wifi_ap_security_testmode">
+        <item>Hape</item>
+        <item>WPA2 PSK</item>
+    </string-array>
+    <string-array name="wifi_eap_method">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+        <item>SIM</item>
+        <item>AKA</item>
+        <item>"AKA'"</item>
+    </string-array>
+    <string-array name="wifi_p2p_status">
+        <item>Lidhur</item>
+        <item>Të ftuar.</item>
+        <item>Lidhja dështoi</item>
+        <item>"Trokit këtu për t'u lidhur."</item>
+        <item>Jashtë intervalit.</item>
+        <item>Lidhur me pajisje tjetër</item>
+    </string-array>
+    <string-array name="wifi_ap_wifi_sharing">
+        <item>Aft. përbashk. Wi-Fi</item>
+        <item>Paaft. përbash. Wi-Fi</item>
+    </string-array>
+    <string-array name="wifi_ap_timeout">
+        <item>Asnjëherë me kufi të afatpritjes</item>
+        <item>5 minuta</item>
+        <item>10 minuta</item>
+        <item>20 minuta</item>
+        <item>30 minuta</item>
+        <item>60 minuta</item>
+    </string-array>
+    <string-array name="wifi_ap_connection_mode">
+        <item>Lejo gjithë pajisjet</item>
+        <item>Pajisjet e lejuara vetëm</item>
+    </string-array>
+    <string-array name="wifi_ap_channel">
+        <item>Auto</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+    </string-array>
+    <string-array name="wifi_share_profile_access_timeout">
+        <item>6 orë</item>
+        <item>12 orë</item>
+        <item>24 orë</item>
+        <item>Pa cak kohor</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>I dobët</item>
+        <item>I mirë</item>
+        <item>I mirë</item>
+        <item>I fortë</item>
+        <item>Shumë i fortë</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries">
+        <item>"Gjithnjë
+(Rrit konsumin e baterisë)"</item>
+        <item>Gjatë ngarkimit</item>
+        <item>"Kurrë
+(rrit përdorimin e të dhënave)"</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries_wifi_only">
+        <item>"Gjithnjë
+(Rrit konsumin e baterisë)"</item>
+        <item>Gjatë ngarkimit</item>
+        <item>Kurrë</item>
+    </string-array>
+    <string-array name="wifi_frequency_band_entries">
+        <item>Automatik</item>
+        <item>Vetëm 5 GHz</item>
+        <item>Vetëm 2.4 GHz</item>
+    </string-array>
+    <string-array name="wifi_frequency_band_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="usage_stats_display_order_types">
+        <item>Koha e përdorimit</item>
+        <item>Last time used</item>
+        <item>Emri i aplikacionit</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries">
+        <item>Asnjë</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>Asnjë</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>Statik</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>Asnjë</item>
+        <item>Manual</item>
+        <item>Konfiguro auto</item>
+    </string-array>
+    <string-array name="wifi_iwlan_settings">
+        <item>Aktiv</item>
+        <item>"Ç'aktivizuar"</item>
+    </string-array>
+    <string-array name="apn_auth_entries">
+        <item>Asnjë</item>
+        <item>PAP</item>
+        <item>CHAP</item>
+        <item>PAP ose CHAP</item>
+    </string-array>
+    <string-array name="bearer_entries">
+        <item>I paspecifikuar</item>
+        <item>LTE</item>
+        <item>HSPAP</item>
+        <item>HSPA</item>
+        <item>HSUPA</item>
+        <item>HSDPA</item>
+        <item>UMTS</item>
+        <item>EDGE</item>
+        <item>GPRS</item>
+        <item>eHRPD</item>
+        <item>EVDO_B</item>
+        <item>EVDO_A</item>
+        <item>EVDO_0</item>
+        <item>1xRTT</item>
+        <item>IS95B</item>
+        <item>IS95A</item>
+    </string-array>
+    <string-array name="mvno_type_entries">
+        <item>Asnjë</item>
+        <item>SPN</item>
+        <item>IMSI</item>
+        <item>GID</item>
+    </string-array>
+    <string-array name="app_install_location_entries">
+        <item>Memoria e brendshme e pajisjes</item>
+        <item>Removable SD card</item>
+        <item>Let the system decide</item>
+    </string-array>
+    <string-array name="app_ops_categories">
+        <item>Vendndodhja</item>
+        <item>Personale</item>
+        <item>Mesazhe</item>
+        <item>Media</item>
+        <item>Pajisja</item>
+        <item>Ekzekuto automatikisht</item>
+    </string-array>
+    <string-array name="app_ops_summaries">
+        <item>Access approximate location</item>
+        <item>Access exact location</item>
+        <item>GPS</item>
+        <item>Dridhje</item>
+        <item>Lexo kontaktet</item>
+        <item>Redakto kontaktet</item>
+        <item>Lexo ditarin e thirrjeve</item>
+        <item>Shkruaj ditarin e thirrjeve</item>
+        <item>Lexo kalendarin</item>
+        <item>Menaxhon kalendarin</item>
+        <item>Skanon për rrjete Wi-Fi</item>
+        <item>Njoftim</item>
+        <item>Skano për qeliza</item>
+        <item>Kryen thirrje telefonike</item>
+        <item>Lexon mesazhe tekst</item>
+        <item>Shkruan mesazhe tekst</item>
+        <item>Merr mesazhe tekst</item>
+        <item>Merr mesazhe tekst të urgjencës</item>
+        <item>Merr mesazhe multimediale</item>
+        <item>Merr mesazhe WAP push</item>
+        <item>Dërgo mesazhe tekst</item>
+        <item>Lexon mesazhe tekst në kartën SIM</item>
+        <item>Shkruan mesazhe tekst në kartën SIM</item>
+        <item>Modifikon cilësimet</item>
+        <item>Mbishtreson ndërfaqen e aplikacionit</item>
+        <item>akses në njoftimet</item>
+        <item>Kamera</item>
+        <item>Regjistro audio</item>
+        <item>Luan skedarë audio</item>
+        <item>Lexon të dhëna nga kujtesa e fragmenteve</item>
+        <item>Menaxhon kujtesën e fragmenteve</item>
+        <item>Kontrollon mediat</item>
+        <item>Kontrollon fokusin audio</item>
+        <item>Rregullo volumin master</item>
+        <item>Rregullon volumin në-thirrje</item>
+        <item>Rregullo volumin e tonit të ziles</item>
+        <item>Rregullo volumin e medias</item>
+        <item>Rregullo volumin e alarmit</item>
+        <item>Rregullo volumin e sinjalizimit</item>
+        <item>Rregullon volumin e tingujve që luhen përmes pajisjeve Bluetooth</item>
+        <item>Mban ekranin të ndezur</item>
+        <item>Mbikëqyr informacionin për vendndodhjen</item>
+        <item>Mbikëqyr informacionin tejet të saktë të vendndodhjes</item>
+        <item>Lexon statistikat e përdorimit të pajisjes</item>
+        <item>Ndez dhe fik mikrofonin</item>
+        <item>Shfaq ekr. kërc. me info</item>
+        <item>Kap media</item>
+        <item>Aftëso VPN</item>
+        <item>Ndiz/fik Wi-Fi</item>
+        <item>Ndiz/fik Bluetooth</item>
+        <item>Dërgo mesazhe multimedia</item>
+        <item>Lexo mesazhe multimediale</item>
+        <item>Shkruaj mszh multimediale</item>
+        <item>Ekzekuto automatikisht</item>
+        <item>Ndiz/fik NFC</item>
+        <item>Hiq mesazhe tekst</item>
+        <item>Hiq mesazhe multimediale</item>
+        <item>Hiq kontakte</item>
+        <item>Delete call log</item>
+        <item>Ndiz/fik Të dh. celulare</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Vendndodhja</item>
+        <item>Vendndodhja</item>
+        <item>Vendndodhja</item>
+        <item>Dridhje</item>
+        <item>Lexo kontaktet</item>
+        <item>Redakto kontaktet</item>
+        <item>Lexo ditarin e thirrjeve</item>
+        <item>Shkruaj ditarin e thirrjeve</item>
+        <item>Lexo kalendarin</item>
+        <item>Menaxhon kalendarin</item>
+        <item>Vendndodhja</item>
+        <item>Tregon njoftime</item>
+        <item>Vendndodhja</item>
+        <item>Kryen thirrje telefonike</item>
+        <item>Lexon mesazhe tekst</item>
+        <item>Shkruan mesazhe tekst</item>
+        <item>Merr mesazhe tekst</item>
+        <item>Merr mesazhe tekst të urgjencës</item>
+        <item>Merr mesazhe multimediale</item>
+        <item>Merr mesazhe WAP push</item>
+        <item>Dërgo mesazhe tekst</item>
+        <item>Lexon mesazhe tekst në kartën SIM</item>
+        <item>Shkruan mesazhe tekst në kartën SIM</item>
+        <item>Modifikon cilësimet</item>
+        <item>Mbishtreson ndërfaqen e aplikacionit</item>
+        <item>akses në njoftimet</item>
+        <item>Kamera</item>
+        <item>Regjistro audio</item>
+        <item>Luan skedarë audio</item>
+        <item>Lexon të dhëna nga kujtesa e fragmenteve</item>
+        <item>Menaxhon kujtesën e fragmenteve</item>
+        <item>Kontrollon mediat</item>
+        <item>Kontrollon fokusin audio</item>
+        <item>Rregullo volumin master</item>
+        <item>Rregullon volumin në-thirrje</item>
+        <item>Rregullo volumin e tonit të ziles</item>
+        <item>Rregullo volumin e medias</item>
+        <item>Rregullo volumin e alarmit</item>
+        <item>Rregullo volumin e sinjalizimit</item>
+        <item>Rregullon volumin e tingujve që luhen përmes pajisjeve Bluetooth</item>
+        <item>Mban ekranin të ndezur</item>
+        <item>Vendndodhja</item>
+        <item>Vendndodhja</item>
+        <item>Lexon statistikat e përdorimit të pajisjes</item>
+        <item>Ndez dhe fik mikrofonin</item>
+        <item>Shfaq ekr. kërc. me info</item>
+        <item>Kap media</item>
+        <item>Aftëso VPN</item>
+        <item>Ndiz/fik Wi-Fi</item>
+        <item>Ndiz/fik Bluetooth</item>
+        <item>Dërgo mesazhe multimedia</item>
+        <item>Lexo mesazhe multimediale</item>
+        <item>Shkruaj mszh multimediale</item>
+        <item>Ekzekuto automatikisht</item>
+        <item>Ndiz/fik NFC</item>
+        <item>Hiq mesazhe tekst</item>
+        <item>Hiq mesazhe multimediale</item>
+        <item>Hiq kontakte</item>
+        <item>delete call log</item>
+        <item>Ndiz/fik Të dh. celulare</item>
+    </string-array>
+    <string-array name="long_press_timeout_selector_titles">
+        <item>I shkurtër</item>
+        <item>Mesatare</item>
+        <item>E gjatë</item>
+    </string-array>
+    <string-array name="captioning_typeface_selector_titles">
+        <item>E parazgjedhur</item>
+        <item>Sans serif</item>
+        <item>Sans serif condensed</item>
+        <item>Sans serif monospace</item>
+        <item>Serif</item>
+        <item>Serif monospace</item>
+        <item>E përditshme</item>
+        <item>Të pjerrëta</item>
+        <item>Kapitale të vogla</item>
+    </string-array>
+    <string-array name="captioning_font_size_selector_titles">
+        <item>Shumë i vogël</item>
+        <item>I vogël</item>
+        <item>Normale</item>
+        <item>I madh</item>
+        <item>Shumë e madhe</item>
+    </string-array>
+    <string-array name="captioning_edge_type_selector_titles">
+        <item>E parazgjedhur</item>
+        <item>Asnjë</item>
+        <item>Skicë</item>
+        <item>Me hijezim</item>
+        <item>E ngritur</item>
+        <item>E thelluar</item>
+    </string-array>
+    <string-array name="captioning_preset_selector_titles">
+        <item>E parazgjedhur</item>
+        <item>Bardhë mbi zezë</item>
+        <item>Zezë mbi bardhë</item>
+        <item>Verdhë mbi zezë</item>
+        <item>Verdhë mbi blu</item>
+        <item>Personalizuar</item>
+    </string-array>
+    <string-array name="select_logd_size_summaries">
+        <item>64 KB për buffer të logut</item>
+        <item>256 KB për buffer të logut</item>
+        <item>1 MB për buffer të logut</item>
+        <item>4 MB për buffer të logut</item>
+        <item>16 MB për buffer të logut</item>
+    </string-array>
+    <string-array name="hdcp_checking_titles">
+        <item>Mos kontrollo kurrë</item>
+        <item>Kontrollo vetëm për materiale DRM</item>
+        <item>Kontrollo gjithnjë</item>
+    </string-array>
+    <string-array name="hdcp_checking_summaries">
+        <item>Mos përdorni kurrë kontroll HDCP</item>
+        <item>Përdorni vetëm kontroll HDCP për përmbajtje DRM</item>
+        <item>Përdorni gjithmonë kontroll HDCP</item>
+    </string-array>
+    <string-array name="window_animation_scale_entries">
+        <item>Animacioni është joaktiv.</item>
+        <item>Shkalla e animimit 0.5x</item>
+        <item>Shkalla e animimit 1x</item>
+        <item>Shkalla e animimit 1.5x</item>
+        <item>Shkalla e animimit 2x</item>
+        <item>Shkalla e animimit 5x</item>
+        <item>Shkalla e animimit 10x</item>
+    </string-array>
+    <string-array name="transition_animation_scale_entries">
+        <item>Animacioni është joaktiv.</item>
+        <item>Shkalla e animimit 0.5x</item>
+        <item>Shkalla e animimit 1x</item>
+        <item>Shkalla e animimit 1.5x</item>
+        <item>Shkalla e animimit 2x</item>
+        <item>Shkalla e animimit 5x</item>
+        <item>Shkalla e animimit 10x</item>
+    </string-array>
+    <string-array name="animator_duration_scale_entries">
+        <item>Animacioni është joaktiv.</item>
+        <item>Shkalla e animimit 0.5x</item>
+        <item>Shkalla e animimit 1x</item>
+        <item>Shkalla e animimit 1.5x</item>
+        <item>Shkalla e animimit 2x</item>
+        <item>Shkalla e animimit 5x</item>
+        <item>Shkalla e animimit 10x</item>
+    </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>Asnjë</item>
+        <item>480p</item>
+        <item>720 x 480 mdpi (i sigurt)</item>
+        <item>720p</item>
+        <item>1280 x 720 tvdpi (i sigurt)</item>
+        <item>1080p</item>
+        <item>1920 x 1080 xhdpi (i sigurt)</item>
+        <item>1280 x 720 tvdpi dhe 1920 x 1080 xhdpi</item>
+        <item>4K (secure)</item>
+        <item>4K (upscaled)</item>
+        <item>4K (upscaled, secure)</item>
+        <item>720p, 1080p (dual screen)</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>Asnjë</item>
+        <item>Logcat</item>
+        <item>Systrace (grafikë)</item>
+        <item>Stivë thirrjesh në glGetError</item>
+    </string-array>
+    <string-array name="show_non_rect_clip_entries">
+        <item>"Ç'aktivizuar"</item>
+        <item>Theksoje me të kaltër sipërfaqen e klipeve jo-drejtkëndore</item>
+        <item>Theksoji me të gjelbër komandat e testuara të vizatimit</item>
+    </string-array>
+    <string-array name="track_frame_time_entries">
+        <item>"Ç'aktivizuar"</item>
+        <item>Shfaq në ekran si shtylla</item>
+        <item>Shfaq në adb shell dumpsys gfxinfo</item>
+    </string-array>
+    <string-array name="debug_hw_overdraw_entries">
+        <item>"Ç'aktivizuar"</item>
+        <item>Shfaq zonat overdraw</item>
+        <item>Shfaq zonat për ata që kanë deuteranomali</item>
+    </string-array>
+    <string-array name="app_process_limit_entries">
+        <item>Kufiri standard</item>
+        <item>Nuk ka procese në sfond</item>
+        <item>1 proces maksimumi</item>
+        <item>2 procese maksimumi</item>
+        <item>3 procese maksimumi</item>
+        <item>4 procese maksimumi</item>
+    </string-array>
+    <string-array name="vpn_states">
+        <item>Shkëputur</item>
+        <item>Duke rinisur…</item>
+        <item>Po lidhem…</item>
+        <item>Lidhur</item>
+        <item>Afatpritja</item>
+        <item>Pa sukses</item>
+    </string-array>
+    <string-array name="ram_states">
+        <item>Normale</item>
+        <item>Mesatar</item>
+        <item>I ulët</item>
+        <item>Kritike</item>
+        <item>\?</item>
+    </string-array>
+    <string-array name="long_press_timeout_titles_selector">
+        <item>Shkurt (0.5 sekonda)</item>
+        <item>Mesatare (1.0 sekondë)</item>
+        <item>Gjatë (1.5 sekonda)</item>
+        <item>Personalizuar</item>
+    </string-array>
+    <string-array name="time_interval_entries">
+        <item>3 minuta</item>
+        <item>5 minuta</item>
+        <item>10 minuta</item>
+        <item>30 minuta</item>
+        <item>1 orë</item>
+    </string-array>
+    <string-array name="time_interval_entries_selectable">
+        <item>15 sekonda</item>
+        <item>30 sekonda</item>
+        <item>1 minutë</item>
+        <item>3 minuta</item>
+        <item>5 minuta</item>
+    </string-array>
+    <string-array name="time_interval_entries_selectable_22">
+        <item>1 minutë</item>
+        <item>3 minuta</item>
+        <item>5 minuta</item>
+        <item>10 minuta</item>
+        <item>15 minuta</item>
+    </string-array>
+    <string-array name="proc_stats_memory_states">
+        <item>Normal</item>
+        <item>Mesatar</item>
+        <item>I ulët</item>
+        <item>Critical</item>
+    </string-array>
+    <string-array name="proc_stats_process_states">
+        <item>I përhershëm</item>
+        <item>Aktiviteti kryesor</item>
+        <item>E rëndësishme (plan i parë)</item>
+        <item>E rëndësishme (sfond)</item>
+        <item>Arkivim</item>
+        <item>Peshë e rëndë</item>
+        <item>Shërbimi (aktiv)</item>
+        <item>Shërbimi (rinisje)</item>
+        <item>Marrësi</item>
+        <item>Shtëpi</item>
+        <item>Aktiviteti i fundit</item>
+        <item>Në cache (aktiviteti)</item>
+        <item>Në cache (klienti i aktivitetit)</item>
+        <item>Në cache (bosh)</item>
+    </string-array>
+    <string-array name="wifi_connect_entries">
+        <item>Automatik</item>
+        <item>Manualisht</item>
+        <item>Pyet gjithmonë</item>
+    </string-array>
+    <string-array name="data_usage_display_unit">
+        <item>MB/GB (auto change)</item>
+        <item>MB only</item>
+        <item>GB only</item>
+    </string-array>
+    <string-array name="touch_key_light_entries">
+        <item>1,5 sekonda</item>
+        <item>6 sekonda</item>
+        <item>Gjithnjë fikur</item>
+        <item>Gjithnjë ndezur</item>
+    </string-array>
+    <string-array name="key_backlight_entries">
+        <item>Gjithnjë fikur</item>
+        <item>1 sekondë</item>
+        <item>3 sekonda</item>
+        <item>5 sekonda</item>
+        <item>10 sekonda</item>
+        <item>15 sekonda</item>
+    </string-array>
+    <string-array name="usb_configuration_titles">
+        <item>@string/usb_use_charging_only</item>
+        <item>MTP (Media Transfer Protocol)</item>
+        <item>PTP (Picture Transfer Protocol)</item>
+        <item>RNDIS (USB Ethernet)</item>
+        <item>Burimi audio</item>
+        <item>MIDI</item>
+    </string-array>
+    <string-array name="audio_output_entries">
+        <item>Stereo</item>
+        <item>Tingull rrethues</item>
+    </string-array>
+</resources>

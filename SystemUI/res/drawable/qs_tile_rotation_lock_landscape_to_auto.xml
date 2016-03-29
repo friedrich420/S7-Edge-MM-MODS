@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list android:oneshot="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:duration="10" android:drawable="@drawable/rotation_lock_landscape_to_auto_01" />
+    <item android:duration="17" android:drawable="@drawable/rotation_lock_landscape_to_auto_02" />
+    <item android:duration="23" android:drawable="@drawable/rotation_lock_landscape_to_auto_03" />
+    <item android:duration="30" android:drawable="@drawable/rotation_lock_landscape_to_auto_04" />
+    <item android:duration="36" android:drawable="@drawable/rotation_lock_landscape_to_auto_05" />
+    <item android:duration="43" android:drawable="@drawable/rotation_lock_landscape_to_auto_06" />
+    <item android:duration="49" android:drawable="@drawable/rotation_lock_landscape_to_auto_07" />
+    <item android:duration="56" android:drawable="@drawable/rotation_lock_landscape_to_auto_08" />
+    <item android:duration="56" android:drawable="@drawable/rotation_lock_landscape_to_auto_09" />
+    <item android:duration="50" android:drawable="@drawable/rotation_lock_landscape_to_auto_10" />
+    <item android:duration="43" android:drawable="@drawable/rotation_lock_landscape_to_auto_11" />
+    <item android:duration="37" android:drawable="@drawable/rotation_lock_landscape_to_auto_12" />
+    <item android:duration="30" android:drawable="@drawable/rotation_lock_landscape_to_auto_13" />
+    <item android:duration="24" android:drawable="@drawable/rotation_lock_landscape_to_auto_14" />
+    <item android:duration="18" android:drawable="@drawable/rotation_lock_landscape_to_auto_15" />
+    <item android:duration="11" android:drawable="@drawable/rotation_lock_landscape_to_auto_16" />
+</animation-list>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/recent_view" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layoutDirection="ltr">
+        <FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+            <com.android.systemui.multiwindow.SplitAppListViewPager android:id="@id/pager" android:layout_width="fill_parent" android:layout_height="fill_parent" android:overScrollMode="never" />
+            <LinearLayout android:layout_gravity="bottom" android:id="@id/shadow_line_port" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="@dimen/recents_multiwin_shadow_line_size" />
+            <LinearLayout android:layout_gravity="end" android:id="@id/shadow_line_land" android:visibility="gone" android:layout_width="@dimen/recents_multiwin_shadow_line_size" android:layout_height="fill_parent" />
+            <LinearLayout android:gravity="center" android:layout_gravity="bottom|center" android:orientation="horizontal" android:id="@id/page_mark" android:layout_width="fill_parent" android:layout_height="20.0dip" android:layout_marginBottom="@dimen/view_pager_marker_margin_bottom" android:layoutDirection="ltr" />
+        </FrameLayout>
+        <FrameLayout android:id="@id/guide_view" android:background="#19000000" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+            <TextView android:textSize="@dimen/recents_multiwin_text_size" android:textColor="#fffafafa" android:ellipsize="marquee" android:gravity="center" android:layout_gravity="center" android:id="@id/guide_text" android:padding="18.0dip" android:fadingEdge="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/recent_multiwindow_guide_text" android:layout_weight="1.0" android:fontFamily="sec-roboto-regular" />
+            <LinearLayout android:orientation="vertical" android:id="@id/center_shadow_line_port" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <View android:background="@android:color/multiwindow_unfocusline_color" android:layout_width="fill_parent" android:layout_height="2.0px" />
+                <View android:layout_gravity="top" android:background="@drawable/shadow_gradient_270" android:layout_width="fill_parent" android:layout_height="@dimen/recents_multiwin_shadow_line_size" />
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal" android:id="@id/center_shadow_line_land" android:layout_width="wrap_content" android:layout_height="fill_parent">
+                <View android:background="@android:color/multiwindow_unfocusline_color" android:layout_width="2.0px" android:layout_height="fill_parent" />
+                <View android:layout_gravity="start" android:background="@drawable/shadow_gradient_0" android:layout_width="@dimen/recents_multiwin_shadow_line_size" android:layout_height="fill_parent" />
+            </LinearLayout>
+        </FrameLayout>
+    </LinearLayout>
+</FrameLayout>

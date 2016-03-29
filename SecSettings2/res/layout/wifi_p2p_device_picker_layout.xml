@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_gravity="center_horizontal" android:orientation="vertical" android:id="@id/ListLayout" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_alignParentTop="true">
+        <ListView android:id="@android:id/list" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        <View android:layout_gravity="top" android:id="@id/p2p_divider" android:background="@color/wifi_list_divider_color" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="1.0px" android:layout_marginLeft="@dimen/list_divider_padding" android:layout_marginRight="@dimen/list_divider_padding" />
+        <TextView android:layout_gravity="center" android:id="@id/my_device_text" android:paddingTop="16.0dip" android:paddingBottom="16.0dip" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/list_item_start_padding" android:layout_marginRight="@dimen/list_item_end_padding" android:minHeight="46.0dip" android:alpha="0.5" android:textAlignment="center" style="@style/WifiDirectPreferenceMydeviceSummaryText" />
+    </LinearLayout>
+    <TextView android:gravity="center" android:id="@id/my_device_text_center" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="@dimen/list_item_start_padding" android:layout_marginRight="@dimen/list_item_end_padding" android:alpha="0.5" style="@style/WifiDirectPreferenceMydeviceSummaryText" />
+    <LinearLayout android:orientation="vertical" android:id="@id/no_device_mydevice_text" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <TextView android:textAppearance="?android:textAppearanceMedium" android:textSize="19.0sp" android:textColor="@color/wifi_p2p_preference_title_color" android:gravity="center" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/wifi_p2p_no_device_found" android:fontFamily="sec-roboto-light" android:textAlignment="center" />
+        <TextView android:gravity="center" android:id="@id/my_device_text_in_nodevice" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/list_item_start_padding" android:layout_marginTop="@dimen/wifi_p2p_mydevice_margin_portrait" android:layout_marginRight="@dimen/list_item_end_padding" android:alpha="0.5" style="@style/WifiDirectPreferenceMydeviceSummaryText" />
+    </LinearLayout>
+</RelativeLayout>

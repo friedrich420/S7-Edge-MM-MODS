@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>ရှာဖွေနေပါသည်…</item>
+        <item>ဆက်သွယ်နေပါသည်……</item>
+        <item>စစ်မှန်ကြောင်းအထောက်အထားစစ်ဆေးနေခြင်း..</item>
+        <item>IP လိပ်စာ ရယူနေပါသည်…</item>
+        <item>ချိတ်ဆက်ထား</item>
+        <item>ဆိုင်းငံ့ထားပြီး</item>
+        <item>ဆက်သွယ်ထားမှုကို ဖြတ်တောက်နေပါသည်..</item>
+        <item>ဆက်သွယ်ထားမှုကို ဖြတ်တောက်ပြီးပါပြီ</item>
+        <item>မအောင်မြင်ပါ</item>
+        <item>ပိတ်ဆီးထားပါသည်</item>
+        <item>သင့် အင်တာနက် ချိတ်ဆက်မှု အရည်အသွေး စစ်ဆေးနေသည်…</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>ရှာဖွေနေပါသည်…</item>
+        <item>%s သို့ ချိတ်ဆက်နေပါသည်…</item>
+        <item>%s နှင့် စစ်မှန်ကြောင်းစစ်ဆေးနေပါသည…</item>
+        <item>%s မှ IP လိပ်စာ ရယူနေပါသည…</item>
+        <item>%1$s သို့ ဆက်သွယ်ပြီး။</item>
+        <item>ဆိုင်းငံ့ထားပြီး</item>
+        <item>%s အဆက်အသွယ် ဖြတ်နေပါသည်…</item>
+        <item>ဆက်သွယ်ထားမှုကို ဖြတ်တောက်ပြီးပါပြီ</item>
+        <item>မအောင်မြင်ပါ</item>
+        <item>ပိတ်ဆီးထားပါသည်</item>
+        <item>သင့် အင်တာနက် ချိတ်ဆက်မှု အရည်အသွေး စစ်ဆေးနေသည်…</item>
+    </string-array>
+    <string-array name="screen_timeout_entries">
+        <item>၁၅ စက္ကန့်</item>
+        <item>၃၀ စက္ကန့်</item>
+        <item>၁ မိနစ်</item>
+        <item>၂ မိနစ်</item>
+        <item>၅ မိနစ်</item>
+        <item>၁၀ မိနစ်</item>
+        <item>၃၀ မိနစ်</item>
+    </string-array>
+    <string-array name="screen_timeout_for_device_lock_entries">
+        <item>၁၅ စက္ကန့်</item>
+        <item>၃၀ စက္ကန့်</item>
+        <item>၁ မိနစ်</item>
+        <item>၃ မိနစ်</item>
+        <item>၅ မိနစ်</item>
+        <item>၁၀ မိနစ်</item>
+        <item>၁၅ မိနစ်</item>
+        <item>၃၀ မိနစ်</item>
+    </string-array>
+    <string-array name="device_lock_timeout_entries">
+        <item>ပါဝါခလုတ်ဖြင့် ချက်ချင်း သို့မဟုတ် မြင်ကွင်း မှောင်သွားသောအခါ</item>
+        <item>၁၅ စက္ကန့်</item>
+        <item>၃၀ စက္ကန့်</item>
+        <item>၁ မိနစ်</item>
+        <item>၃ မိနစ်</item>
+        <item>၅ မိနစ်</item>
+        <item>၁၀ မိနစ်</item>
+        <item>၁၅ မိနစ်</item>
+        <item>၃၀ မိနစ်</item>
+        <item>၁ နာရီ</item>
+    </string-array>
+    <string-array name="lock_after_timeout_entries">
+        <item>ချက်ချင်း</item>
+        <item>၅ စက္ကန့်</item>
+        <item>၁၅ စက္ကန့်</item>
+        <item>၃၀ စက္ကန့်</item>
+        <item>၁ မိနစ်</item>
+        <item>၂ မိနစ်</item>
+        <item>၅ မိနစ်</item>
+        <item>၁၀ မိနစ်</item>
+        <item>၃၀ မိနစ်</item>
+    </string-array>
+    <string-array name="entries_font_size">
+        <item>သေးငယ်သော</item>
+        <item>အသေး</item>
+        <item>ပုံမှန်</item>
+        <item>အကြီး</item>
+        <item>အကြီးဆုံး</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>အလွန် နှေး</item>
+        <item>နှေးသော</item>
+        <item>ပုံမှန်</item>
+        <item>မြန်သော</item>
+        <item>ပိုမြန်</item>
+        <item>များစွာ ပိုမြန်</item>
+        <item>သွက်သွက်</item>
+        <item>အရမ်းသွက်စွာ</item>
+        <item>အမြန်ဆုံး</item>
+    </string-array>
+    <string-array name="wifi_ap_security_testmode">
+        <item>ဖွင့်ထားသော</item>
+        <item>WPA2 PSK</item>
+    </string-array>
+    <string-array name="wifi_eap_method">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+        <item>SIM</item>
+        <item>AKA</item>
+        <item>"AKA'"</item>
+    </string-array>
+    <string-array name="wifi_p2p_status">
+        <item>ချိတ်ဆက်ထားသော</item>
+        <item>ဖိတ်ခေါ်ပြီးပြီ</item>
+        <item>ဆက်သွယ်မှု မအောင်မြင်ပါ</item>
+        <item>ချိတ်ဆက်ရန် ဤနေရာ နှိပ်ပါ။</item>
+        <item>မျိုးကွဲ။</item>
+        <item>အခြား ကိရိယာနှင့် ချိတ်ဆက်ထားသည်</item>
+    </string-array>
+    <string-array name="wifi_ap_wifi_sharing">
+        <item>Wi-Fi မျှဝေမှု ဖွင့်ပါ</item>
+        <item>Wi-Fi မျှဝေမှု ပိတ်ပါ</item>
+    </string-array>
+    <string-array name="wifi_ap_timeout">
+        <item>မည်သည့်အခါမှ မပိတ်ပါ</item>
+        <item>၅ မိနစ်</item>
+        <item>၁၀ မိနစ်</item>
+        <item>၂၀ မိနစ်</item>
+        <item>၃၀ မိနစ်</item>
+        <item>မိနစ် 60</item>
+    </string-array>
+    <string-array name="wifi_ap_connection_mode">
+        <item>ကိရိယာများ အားလုံးကို ခွင့်ပြု</item>
+        <item>ခွင့်ပြု ကိရိယာများသာ</item>
+    </string-array>
+    <string-array name="wifi_ap_channel">
+        <item>အော်တို</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+    </string-array>
+    <string-array name="wifi_share_profile_access_timeout">
+        <item>၆ နာရီ</item>
+        <item>၁၂ နာရီ</item>
+        <item>၂၄ နာရီ</item>
+        <item>အချိန် အကန့်အသတ် မရှိပါ</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>အားနည်း</item>
+        <item>အသင့်အတင့်</item>
+        <item>ကောင်းသည်</item>
+        <item>အားကောင်း</item>
+        <item>အလွန်အားကောင်း</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries">
+        <item>"အမြဲတမ်း
+(ဘက်ထရီ စားသုံးမှုတိုးမြင့်သည်)"</item>
+        <item>အားသွင်းနေစဉ်</item>
+        <item>"မည်သည့်အခါမှ
+(ဒေတာ အသုံးပြုမှု မတိုးမြှင့်ပါ)"</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries_wifi_only">
+        <item>"အမြဲတမ်း
+(ဘက်ထရီ စားသုံးမှုတိုးမြင့်သည်)"</item>
+        <item>အားသွင်းနေစဉ်</item>
+        <item>ဘယ်တော့မှ</item>
+    </string-array>
+    <string-array name="wifi_frequency_band_entries">
+        <item>အလိုအလျောက်</item>
+        <item>5 GHz မျှသာ</item>
+        <item>2.4 GHz သာ</item>
+    </string-array>
+    <string-array name="wifi_frequency_band_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="usage_stats_display_order_types">
+        <item>အသုံးပြုနေမှု အချိန်</item>
+        <item>နောက်ဆုံး အကြိမ် အသုံးပြုခဲ့</item>
+        <item>အပ် အမည်</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries">
+        <item>မရှိ</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>မရှိ</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>တည်ငြိမ်နေသော</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>မရှိ</item>
+        <item>လမ်းညွှန်</item>
+        <item>အလိုအလျောက် စီစဉ်ဖွဲ့စည်းခြင်း</item>
+    </string-array>
+    <string-array name="wifi_iwlan_settings">
+        <item>ဖွင့်</item>
+        <item>ပိတ်</item>
+    </string-array>
+    <string-array name="apn_auth_entries">
+        <item>မရှိ</item>
+        <item>PAP</item>
+        <item>CHAP</item>
+        <item>PAP သို့မဟုတ် CHAP</item>
+    </string-array>
+    <string-array name="apn_protocol_entries">
+        <item>IPv4</item>
+        <item>IPv6</item>
+        <item>IPv4/IPv6</item>
+    </string-array>
+    <string-array name="bearer_entries">
+        <item>တိတိကျကျဖေါ်ပြမထားသော</item>
+        <item>LTE</item>
+        <item>HSPAP</item>
+        <item>HSPA</item>
+        <item>HSUPA</item>
+        <item>HSDPA</item>
+        <item>UMTS</item>
+        <item>EDGE</item>
+        <item>GPRS</item>
+        <item>eHRPD</item>
+        <item>EVDO_B</item>
+        <item>EVDO_A</item>
+        <item>EVDO_0</item>
+        <item>1xRTT</item>
+        <item>IS95B</item>
+        <item>IS95A</item>
+    </string-array>
+    <string-array name="mvno_type_entries">
+        <item>မရှိ</item>
+        <item>SPN</item>
+        <item>IMSI</item>
+        <item>GID</item>
+    </string-array>
+    <string-array name="app_install_location_entries">
+        <item>အတွင်း စက်ကရိယာ သိုလှောင်ခန်း</item>
+        <item>ဖယ်ရှား၍ရသောSDကဒ်</item>
+        <item>စနစ်အား ဆုံးဖြတ်ပါစေ</item>
+    </string-array>
+    <string-array name="app_ops_categories">
+        <item>တည်နေရာ</item>
+        <item>ကိုယ်ရေး</item>
+        <item>မက်ဆေ့ချ်ပို့ခြင်း</item>
+        <item>မီဒီယာ</item>
+        <item>ကိရိယာ</item>
+        <item>အလိုလို လုပ်ဆောင်</item>
+    </string-array>
+    <string-array name="app_ops_summaries">
+        <item>တည်နေရာအကြမ်း</item>
+        <item>တည်နေရာအချော</item>
+        <item>GPS</item>
+        <item>တုန်ခါမှု</item>
+        <item>အဆက်အသွယ်များ ဖတ်ပါ</item>
+        <item>အဆက်အသွယ်များ တည်းဖြတ်ပါ</item>
+        <item>ခေါ်ဆိုမှုမှတ်တမ်း ဖတ်ပါ</item>
+        <item>ခေါ်ဆိုမှုမှတ်တမ်း ရေးပါ</item>
+        <item>ပြက္ခဒိန်ကို ဖတ်သည်</item>
+        <item>ပြက္ခဒိန်ကို စီမံခြင်း</item>
+        <item>Wi-Fi ကွန်ရက်အတွက် စကန်လုပ်ခြင်း</item>
+        <item>သတိပေးချက်</item>
+        <item>ဆဲလ်များ ရှာဖွေပါ</item>
+        <item>ဖုန်းခေါ်ဆိုမှုများ ပြုလုပ်ခြင်း</item>
+        <item>စာသား မက်ဆေ့ချ်များကို ဖတ်ခြင်း</item>
+        <item>စာသား မက်ဆေ့ချ်များကို ရေးခြင်း</item>
+        <item>စာသား မက်ဆေ့ချ်များကို လက်ခံခြင်း</item>
+        <item>အရေးပေါ် စာသား မက်ဆေ့ချ်များကို လက်ခံခြင်း</item>
+        <item>မာတီမီဒီယာ မက်ဆေ့ချ်များကို လက်ခံခြင်း</item>
+        <item>WAP အလကား ကြော်ငြာမက်ဆေ့ချ်ကို လက်ခံခြင်း</item>
+        <item>စာသားမက်ဆေ့ချ်များ ပို ့ပါ</item>
+        <item>SIM ကတ်ပေါ်ရှိ စာသား မက်ဆေ့ချ်များကို ဖတ်ခြင်း</item>
+        <item>စာသား မက်ဆေ့ချ်များကို SIM ကတ်သို့ ရေးခြင်း</item>
+        <item>သတ်မှတ်ချက်များကို မွမ်းမံခြင်း</item>
+        <item>အပလီကေးရှင်း ကြားခံပစ္စည်းကို အစားထိုးလဲခြင်း</item>
+        <item>ဝင်ရောက်မှု အသိပေးချက်များ</item>
+        <item>ကင်မရာ</item>
+        <item>အသံသွင်းပါ</item>
+        <item>အော်ဒီယို ဖိုင်များကို ဖွင့်ခြင်း</item>
+        <item>ကလစ်ဘုတ် အချက်အလက်ကို ဖတ်ခြင်း</item>
+        <item>ကလစ်ဘုတ် အချက်အလက်ကို စီမံခြင်း</item>
+        <item>မီဒီယာ ထိန်းပါ</item>
+        <item>အော်ဒီယို ဆုံချက်ကို ထိန်းပါ</item>
+        <item>မာစတာ အသံအတိုးအကျယ်ညှိပါ</item>
+        <item>ခေါ်ဆိုမူ-အတွင်း အတိုးအကျယ်ညှိပါ</item>
+        <item>ဖုန်းခေါ်တေး အသံအတိုးအကျယ်ကို ညှိပါ</item>
+        <item>မီဒီယာ အသံအတိုးအကျယ်ညှိပါ</item>
+        <item>သတိပေးချက် အသံအတိုးအကျယ်ညှိပါ</item>
+        <item>သတိပေးချက် အသံအတိုးအကျယ်ကို ညှိပါ</item>
+        <item>ဘလူးတုသ် ကိရိယာများမှ တဆင့်ဖွင့်သော အသံ၏အတိုးအကျယ် ကိုညှိပါ</item>
+        <item>ဖန်သားပြင် ဆက်ဖွင့်ထားပါ</item>
+        <item>တည်နေရာ သတင်းအချက်အလက်ကို စောင့်ကြည့်ပါ</item>
+        <item>မှန်ကန်မူမြင့်မားသော တည်နေရာ သတင်းအချက်အလက်ကို စောင့်ကြည့်ပါ</item>
+        <item>ကိရိယာ အသုံးပြုမူ ကိန်းဂဏန်း အချက်အလက်ကို ဖတ်ပါ</item>
+        <item>မိုက်ခရိုဖုန်းကို ဖွင့်ပြီးပိတ်ပါ</item>
+        <item>ရည်ညွှန်းထားသည့် ပေါ့-အပ်များ ပြပါ</item>
+        <item>မီဒီယာ ရိုက်ကူးပါ</item>
+        <item>VPN ဖွင့်ထားပါ</item>
+        <item>Wi-Fi အဖွင့်/အပိတ်</item>
+        <item>ဘလူးတုသ် အဖွင့်/အပိတ်</item>
+        <item>မာလ်တီမီဒီယာ မက်ဆေ့ချ်များ ပို့ပါ</item>
+        <item>မာတီမီဒီယာ မက်ဆေ့ချ်များ ဖတ်ပါ</item>
+        <item>မာတီမီဒီယာ မက်ဆေ့ချ်များ ရေးသားပါ</item>
+        <item>အလိုလို လုပ်ဆောင်</item>
+        <item>NFC အဖွင့်/အပိတ်</item>
+        <item>စာသား မက်ဆေ့ချ်များ ဖျက်ပစ်ပါ</item>
+        <item>မာတီမီဒီယာ မက်ဆေ့ချ်များ ဖျက်ပစ်ပါ</item>
+        <item>အဆက်အသွယ်များကို ဖျက်ပါ</item>
+        <item>Delete call log</item>
+        <item>မိုဘိုင်း ဒေတာ အဖွင့်/အပိတ်</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>တည်နေရာ</item>
+        <item>တည်နေရာ</item>
+        <item>တည်နေရာ</item>
+        <item>တုန်ခါမှု</item>
+        <item>အဆက်အသွယ်များ ဖတ်ပါ</item>
+        <item>အဆက်အသွယ်များ တည်းဖြတ်ပါ</item>
+        <item>ခေါ်ဆိုမှုမှတ်တမ်း ဖတ်ပါ</item>
+        <item>ခေါ်ဆိုမှုမှတ်တမ်း ရေးပါ</item>
+        <item>ပြက္ခဒိန်ကို ဖတ်သည်</item>
+        <item>ပြက္ခဒိန်ကို စီမံခြင်း</item>
+        <item>တည်နေရာ</item>
+        <item>သတိပေးချက်များ ပြပါ</item>
+        <item>တည်နေရာ</item>
+        <item>ဖုန်းခေါ်ဆိုမှုများ ပြုလုပ်ခြင်း</item>
+        <item>စာသား မက်ဆေ့ချ်များကို ဖတ်ခြင်း</item>
+        <item>စာသား မက်ဆေ့ချ်များကို ရေးခြင်း</item>
+        <item>စာသား မက်ဆေ့ချ်များကို လက်ခံခြင်း</item>
+        <item>အရေးပေါ် စာသား မက်ဆေ့ချ်များကို လက်ခံခြင်း</item>
+        <item>မာတီမီဒီယာ မက်ဆေ့ချ်များကို လက်ခံခြင်း</item>
+        <item>WAP အလကား ကြော်ငြာမက်ဆေ့ချ်ကို လက်ခံခြင်း</item>
+        <item>စာသားမက်ဆေ့ချ်များ ပို ့ပါ</item>
+        <item>SIM ကတ်ပေါ်ရှိ စာသား မက်ဆေ့ချ်များကို ဖတ်ခြင်း</item>
+        <item>စာသား မက်ဆေ့ချ်များကို SIM ကတ်သို့ ရေးခြင်း</item>
+        <item>သတ်မှတ်ချက်များကို မွမ်းမံခြင်း</item>
+        <item>အပလီကေးရှင်း ကြားခံပစ္စည်းကို အစားထိုးလဲခြင်း</item>
+        <item>ဝင်ရောက်မှု အသိပေးချက်များ</item>
+        <item>ကင်မရာ</item>
+        <item>အသံသွင်းပါ</item>
+        <item>အော်ဒီယို ဖိုင်များကို ဖွင့်ခြင်း</item>
+        <item>ကလစ်ဘုတ် အချက်အလက်ကို ဖတ်ခြင်း</item>
+        <item>ကလစ်ဘုတ် အချက်အလက်ကို စီမံခြင်း</item>
+        <item>မီဒီယာ ထိန်းပါ</item>
+        <item>အော်ဒီယို ဆုံချက်ကို ထိန်းပါ</item>
+        <item>မာစတာ အသံအတိုးအကျယ်ညှိပါ</item>
+        <item>ခေါ်ဆိုမူ-အတွင်း အတိုးအကျယ်ညှိပါ</item>
+        <item>ဖုန်းခေါ်တေး အသံအတိုးအကျယ်ကို ညှိပါ</item>
+        <item>မီဒီယာ အသံအတိုးအကျယ်ညှိပါ</item>
+        <item>သတိပေးချက် အသံအတိုးအကျယ်ညှိပါ</item>
+        <item>သတိပေးချက် အသံအတိုးအကျယ်ကို ညှိပါ</item>
+        <item>ဘလူးတုသ် ကိရိယာများမှ တဆင့်ဖွင့်သော အသံ၏အတိုးအကျယ် ကိုညှိပါ</item>
+        <item>ဖန်သားပြင် ဆက်ဖွင့်ထားပါ</item>
+        <item>တည်နေရာ</item>
+        <item>တည်နေရာ</item>
+        <item>ကိရိယာ အသုံးပြုမူ ကိန်းဂဏန်း အချက်အလက်ကို ဖတ်ပါ</item>
+        <item>မိုက်ခရိုဖုန်းကို ဖွင့်ပြီးပိတ်ပါ</item>
+        <item>ရည်ညွှန်းထားသည့် ပေါ့-အပ်များ ပြပါ</item>
+        <item>မီဒီယာ ရိုက်ကူးပါ</item>
+        <item>VPN ဖွင့်ထားပါ</item>
+        <item>Wi-Fi အဖွင့်/အပိတ်</item>
+        <item>ဘလူးတုသ် အဖွင့်/အပိတ်</item>
+        <item>မာလ်တီမီဒီယာ မက်ဆေ့ချ်များ ပို့ပါ</item>
+        <item>မာတီမီဒီယာ မက်ဆေ့ချ်များ ဖတ်ပါ</item>
+        <item>မာတီမီဒီယာ မက်ဆေ့ချ်များ ရေးသားပါ</item>
+        <item>အလိုလို လုပ်ဆောင်</item>
+        <item>NFC အဖွင့်/အပိတ်</item>
+        <item>စာသား မက်ဆေ့ချ်များ ဖျက်ပစ်ပါ</item>
+        <item>မာတီမီဒီယာ မက်ဆေ့ချ်များ ဖျက်ပစ်ပါ</item>
+        <item>အဆက်အသွယ်များကို ဖျက်ပါ</item>
+        <item>delete call log</item>
+        <item>မိုဘိုင်း ဒေတာ အဖွင့်/အပိတ်</item>
+    </string-array>
+    <string-array name="long_press_timeout_selector_titles">
+        <item>တိုသော</item>
+        <item>အလယ်အလတ်</item>
+        <item>ရှည်သော</item>
+    </string-array>
+    <string-array name="captioning_typeface_selector_titles">
+        <item>မူလသတ်မှတ်ထားသော</item>
+        <item>အစွန်းထွက်သော အက္ခရာပုံစံများကို စကင်</item>
+        <item>ဆန်စ် ဆာရစ်ဖ် အသေးစား</item>
+        <item>Sans serif monospace</item>
+        <item>ဆာရစ်ဖ်</item>
+        <item>Serif monospace</item>
+        <item>Casual</item>
+        <item>ဆက်လက်ရေး</item>
+        <item>အပေါ်ထပ်ဆင့် စာလုံးအသေး</item>
+    </string-array>
+    <string-array name="captioning_font_size_selector_titles">
+        <item>အလွန်သေး</item>
+        <item>အသေး</item>
+        <item>ပုံမှန်</item>
+        <item>အကြီး</item>
+        <item>အလွန်ကြီး</item>
+    </string-array>
+    <string-array name="captioning_edge_type_selector_titles">
+        <item>မူလသတ်မှတ်ထားသော</item>
+        <item>မရှိ</item>
+        <item>ပုံကြမ်း</item>
+        <item>အရိပ်ချ</item>
+        <item>မြှင့်ထားသည်</item>
+        <item>အားငယ်သော</item>
+    </string-array>
+    <string-array name="captioning_opacity_selector_titles">
+        <item>၂၅%</item>
+        <item>၅၀%</item>
+        <item>၇၅%</item>
+        <item>၁၀၀%</item>
+    </string-array>
+    <string-array name="captioning_preset_selector_titles">
+        <item>ကြိုတင်စီစဉ်ထားမှု</item>
+        <item>အမည်းပေါ် အဖြူ</item>
+        <item>အဖြူပေါ် အမည်း</item>
+        <item>အမည်းပေါ် အဝါ</item>
+        <item>အပြာပေါ် အဝါ</item>
+        <item>စိတ်ကြိုက်</item>
+    </string-array>
+    <string-array name="select_logd_size_titles">
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>16M</item>
+    </string-array>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>၆၄K</item>
+        <item>၂၅၆K</item>
+        <item>၁M</item>
+    </string-array>
+    <string-array name="select_logd_size_summaries">
+        <item>မှတ်တမ်းဘာဖာတစ်ခုတွင် 64 KB</item>
+        <item>မှတ်တမ်းဘာဖာတစ်ခုတွင် 256 KB</item>
+        <item>မှတ်တမ်းဘာဖာတစ်ခုတွင် 1 MB</item>
+        <item>မှတ်တမ်းဘာဖာတစ်ခုတွင် 4 MB</item>
+        <item>မှတ်တမ်းဘာဖာတစ်ခုတွင် 16 MB</item>
+    </string-array>
+    <string-array name="hdcp_checking_titles">
+        <item>မည်သည့်အခါမှ မစစ်ဆေးပါနှင့်</item>
+        <item>DRM အကြောင်းအရာကိုသာ စစ်ဆေးရန်</item>
+        <item>အမြဲ စစ်ဆေးပါ</item>
+    </string-array>
+    <string-array name="hdcp_checking_summaries">
+        <item>HDCP စစ်ဆေးခြင်းအား မည်သည့်အခါမှ မသုံးပါနှင့်</item>
+        <item>DRM ပါဝင်မှုအတွက် HDCP စစ်ဆေးခြင်းသာ သုံးပါ</item>
+        <item>HDCP စစ်ဆေးခြင်း အစဉ်သုံးပါ</item>
+    </string-array>
+    <string-array name="window_animation_scale_entries">
+        <item>သရုပ်ဖော်ခြင်း ပိတ်ထားသည်။</item>
+        <item>သရုပ်ဖော် စကေး 0.5x</item>
+        <item>သရုပ်ဖော် စကေး 1x</item>
+        <item>သရုပ်ဖော် စကေး 1.5x</item>
+        <item>သရုပ်ဖော် စကေး 2x</item>
+        <item>သရုပ်ဖော် စကေး 5x</item>
+        <item>သရုပ်ဖော် စကေး 10x</item>
+    </string-array>
+    <string-array name="transition_animation_scale_entries">
+        <item>သရုပ်ဖော်ခြင်း ပိတ်ထားသည်။</item>
+        <item>သရုပ်ဖော် စကေး 0.5x</item>
+        <item>သရုပ်ဖော် စကေး 1x</item>
+        <item>သရုပ်ဖော် စကေး 1.5x</item>
+        <item>သရုပ်ဖော် စကေး 2x</item>
+        <item>သရုပ်ဖော် စကေး 5x</item>
+        <item>သရုပ်ဖော် စကေး 10x</item>
+    </string-array>
+    <string-array name="animator_duration_scale_entries">
+        <item>သရုပ်ဖော်ခြင်း ပိတ်ထားသည်။</item>
+        <item>သရုပ်ဖော် စကေး 0.5x</item>
+        <item>သရုပ်ဖော် စကေး 1x</item>
+        <item>သရုပ်ဖော် စကေး 1.5x</item>
+        <item>သရုပ်ဖော် စကေး 2x</item>
+        <item>သရုပ်ဖော် စကေး 5x</item>
+        <item>သရုပ်ဖော် စကေး 10x</item>
+    </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>မရှိ</item>
+        <item>480p</item>
+        <item>720 x 480 mdpi (စိတ်ချသော)</item>
+        <item>720p</item>
+        <item>1280 x 720 tvdpi (စိတ်ချသော)</item>
+        <item>1080p</item>
+        <item>1920 x 1080 xhdpi (စိတ်ချသော)</item>
+        <item>1280 x 720 tvdpi နှင့် 1920 x 1080 xhdpi</item>
+        <item>4K (secure)</item>
+        <item>4K (upscaled)</item>
+        <item>4K (upscaled, secure)</item>
+        <item>720p, 1080p (dual screen)</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>မရှိ</item>
+        <item>Logcat</item>
+        <item>Systrace (ဂရပ်ဖစ်များ)</item>
+        <item>glGetError ပေါ်က ခေါ်ဆိုမှု ဒေတာအစု</item>
+    </string-array>
+    <string-array name="show_non_rect_clip_entries">
+        <item>ပိတ်</item>
+        <item>ထောင့်မှန်စတုဂံ မဟုတ်သော ကလစ်များ၏ မျက်နှာပြင်ကို အပြာရောင်ဖြင့် အသားပေးပါ</item>
+        <item>စစ်ဆေးပြီး ပုံဆွဲခြင်း ကွန်မန်းများကို အစိမ်းရောင်ဖြင့် အသားပေးပါ</item>
+    </string-array>
+    <string-array name="track_frame_time_entries">
+        <item>ပိတ်</item>
+        <item>ဖန်သားပြင်ပေါ်တွင် ဘားများအဖြစ် ပြပါ</item>
+        <item>adb အကာ ဒမ်ဆစ် gfxအချက်အလက် ပြပါ</item>
+    </string-array>
+    <string-array name="debug_hw_overdraw_entries">
+        <item>ပိတ်</item>
+        <item>ဖန်းသားပြင်အရောင်ပြောင်း ဧရိယာများကို ပြပါ</item>
+        <item>အရောင်ကန်းနေသူများ အတွက် အရောင်ဧရိယာများကို ပြပါ</item>
+    </string-array>
+    <string-array name="app_process_limit_entries">
+        <item>စံထားသည့် အကန့်အသတ်</item>
+        <item>နောက်ခံ လုပ်ငန်းစဉ်များ မရှိပါ</item>
+        <item>အများဆုံး လုပ်ငန်းစဉ် ၁ ခု</item>
+        <item>အများဆုံး လုပ်ငန်းစဉ် ၂ ခု</item>
+        <item>အများဆုံး လုပ်ငန်းစဉ် ၃ ခု</item>
+        <item>အများဆုံး လုပ်ငန်းစဉ် ၄ ခု</item>
+    </string-array>
+    <string-array name="vpn_states">
+        <item>ဆက်သွယ်ထားမှုကို ဖြတ်တောက်ပြီးပါပြီ</item>
+        <item>ပြန်လည်စတင်အသုံးပြုနိုင်ရန် ရှင်းလင်းနေပါသည်..</item>
+        <item>ဆက်သွယ်နေပါသည်……</item>
+        <item>ချိတ်ဆက်ထားသော</item>
+        <item>တိုင်းမ်အောက်</item>
+        <item>မအောင်မြင်ပါ</item>
+    </string-array>
+    <string-array name="ram_states">
+        <item>ပုံမှန်</item>
+        <item>အတန်အသင့်</item>
+        <item>နိမ့်သော</item>
+        <item>အရေးပါသော</item>
+        <item>\?</item>
+    </string-array>
+    <string-array name="long_press_timeout_titles_selector">
+        <item>တိုသော (၀.၅ စက္ကန့်)</item>
+        <item>အလတ်စား (၁.၀ စက္ကန့်)</item>
+        <item>ရှည်သော (၁.၅ စက္ကန့်)</item>
+        <item>စိတ်ကြိုက်</item>
+    </string-array>
+    <string-array name="time_interval_entries">
+        <item>၃ မိနစ်</item>
+        <item>၅ မိနစ်</item>
+        <item>၁၀ မိနစ်</item>
+        <item>၃၀ မိနစ်</item>
+        <item>1 နာရီ</item>
+    </string-array>
+    <string-array name="time_interval_entries_selectable">
+        <item>၁၅ စက္ကန့်</item>
+        <item>၃၀ စက္ကန့်</item>
+        <item>၁ မိနစ်</item>
+        <item>၃ မိနစ်</item>
+        <item>၅ မိနစ်</item>
+    </string-array>
+    <string-array name="time_interval_entries_selectable_22">
+        <item>၁ မိနစ်</item>
+        <item>၃ မိနစ်</item>
+        <item>၅ မိနစ်</item>
+        <item>၁၀ မိနစ်</item>
+        <item>၁၅ မိနစ်</item>
+    </string-array>
+    <string-array name="proc_stats_memory_states">
+        <item>ပုံမှန်</item>
+        <item>အတန်အသင့်</item>
+        <item>နိမ့်သော</item>
+        <item>အရေးပါ</item>
+    </string-array>
+    <string-array name="proc_stats_process_states">
+        <item>ဆက်တိုက်</item>
+        <item>ထိပ်တန်း လှုပ်ရှားမှု</item>
+        <item>အရေးကြီးသော (ရှေ့မျက်နှာစာ)</item>
+        <item>အရေးကြီးသော (နောက်ခံ)</item>
+        <item>အရန်</item>
+        <item>အလွန် အသုံးပြုထားပါသည်</item>
+        <item>ဝန်ဆောင်မှု (လုပ်နေသော)</item>
+        <item>ဝန်ဆောင်မှု (ပြန်စတင်ခြင်း)</item>
+        <item>ရရှိသူ</item>
+        <item>အိမ်</item>
+        <item>နောက်ဆုံးလုပ်ခဲ့သော လှုပ်ရှားမှု</item>
+        <item>ယာယီသိမ်းထားသော (လှုပ်ရှားမှု)</item>
+        <item>ယာယီသိမ်းထားသော (ဖောက်သည်၏ လှုပ်ရှားမှု)</item>
+        <item>ယာယီသိမ်းထားသော (အလွတ်)</item>
+    </string-array>
+    <string-array name="wifi_connect_entries">
+        <item>အလိုအလျောက်</item>
+        <item>လက်ဖြင့်</item>
+        <item>အမြဲ မေးပါ</item>
+    </string-array>
+    <string-array name="data_usage_display_unit">
+        <item>MB/GB (auto change)</item>
+        <item>MB only</item>
+        <item>GB only</item>
+    </string-array>
+    <string-array name="color_picker">
+        <item>စိမ်းပြာ</item>
+        <item>အပြာ</item>
+        <item>မဲနယ်</item>
+        <item>ခရမ်း</item>
+        <item>ပန်းရောင်</item>
+        <item>အနီ</item>
+    </string-array>
+    <string-array name="touch_key_light_entries">
+        <item>၁.၅ စက္ကန့်</item>
+        <item>၆ စက္ကန့်</item>
+        <item>အမြဲပိတ်ထားပါ</item>
+        <item>အမြဲဖွင့်ထားပါ</item>
+    </string-array>
+    <string-array name="key_backlight_entries">
+        <item>အမြဲပိတ်ထားပါ</item>
+        <item>၁ စက္ကန့်</item>
+        <item>၃ စက္ကန့်</item>
+        <item>၅ စက္ကန့်</item>
+        <item>၁၀ စက္ကန့်</item>
+        <item>၁၅ စက္ကန့်</item>
+    </string-array>
+    <string-array name="usb_configuration_titles">
+        <item>@string/usb_use_charging_only</item>
+        <item>MTP (Media Transfer Protocol)</item>
+        <item>PTP (Picture Transfer Protocol)</item>
+        <item>RNDIS (USB Ethernet)</item>
+        <item>အော်ဒီယို ရင်းမြစ်</item>
+        <item>MIDI</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_choices">
+        <item>ဝိုင်ဖိုင်အား ပိုနှစ်သက်သော</item>
+        <item>ဆယ်လူလာအား ပိုနှစ်သက်သော</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_values">
+        <item>၂</item>
+        <item>၁</item>
+    </string-array>
+    <string-array name="audio_output_entries">
+        <item>စတီရီယို</item>
+        <item>ပတ်ဝန်းကျင်</item>
+    </string-array>
+</resources>

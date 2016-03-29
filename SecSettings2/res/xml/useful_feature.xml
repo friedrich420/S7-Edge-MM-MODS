@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <PreferenceScreen android:title="@string/game_home_title" android:key="game_home" android:summary="@string/game_home_summary" />
+    <PreferenceScreen android:title="@string/identify_unsaved_numbers_title" android:key="identify_unsaved_numbers" />
+    <PreferenceCategory android:key="category_two" />
+    <PreferenceScreen android:title="@string/onehand_settings_title" android:key="onehand_operation_settings" android:summary="@string/onehand_operation_summary" android:fragment="com.android.settings.NewOneHandOperationSettings" />
+    <PreferenceCategory android:key="category_three" />
+    <SwitchPreference android:title="@string/quick_camera_launch_title" android:key="quick_camera_launch" android:summary="@string/quick_camera_launch_summary" />
+    <Preference android:title="@string/multi_window_setting_title" android:key="multi_window_setting_switch" android:fragment="com.android.settings.usefulfeature.UsefulFeatureHub">
+        <extra android:name="type" android:value="multi_window_setting_switch" />
+    </Preference>
+    <Preference android:title="@string/smart_capture_title" android:key="smart_capture" android:fragment="com.android.settings.usefulfeature.UsefulFeatureHub">
+        <extra android:name="type" android:value="smart_capture" />
+    </Preference>
+    <Preference android:title="@string/palm_swipe_title" android:key="palm_swipe_switch" android:fragment="com.android.settings.usefulfeature.UsefulFeatureHub">
+        <extra android:name="type" android:value="palm_swipe_switch" />
+    </Preference>
+    <Preference android:title="@string/pick_up_to_call_out_title" android:key="pick_up_to_call_out_switch" android:fragment="com.android.settings.usefulfeature.UsefulFeatureHub">
+        <extra android:name="type" android:value="pick_up_to_call_out_switch" />
+    </Preference>
+    <Preference android:title="@string/pick_up_title" android:key="pick_up_switch" android:fragment="com.android.settings.usefulfeature.UsefulFeatureHub">
+        <extra android:name="type" android:value="pick_up_switch" />
+    </Preference>
+    <Preference android:title="@string/mute_title" android:key="merged_mute_or_pause_switch" android:fragment="com.android.settings.usefulfeature.UsefulFeatureHub">
+        <extra android:name="type" android:value="merged_mute_or_pause_switch" />
+    </Preference>
+    <PreferenceCategory android:key="category_four" />
+    <Preference android:title="@string/galaxy_labs_title" android:key="galaxy_labs" android:summary="@string/galaxy_labs_summary" />
+</PreferenceScreen>

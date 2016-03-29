@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/onehand_settings_title" settings:parent="@xml/display_settings"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <SwitchPreference android:title="@string/onehand_activate_reducescreensize_title" android:key="reduce_screen_size" />
+    <SwitchPreference android:title="@string/one_handed_input_title" android:key="one_handed_input" android:summary="@string/one_handed_input_summary" />
+</PreferenceScreen>
