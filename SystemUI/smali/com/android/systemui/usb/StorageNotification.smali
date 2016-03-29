@@ -2403,12 +2403,13 @@
 
     const/4 v12, 0x0
 
-    .line 449
+    goto :goto_14
+
     invoke-virtual {p1}, Landroid/os/storage/VolumeInfo;->getFsUuid()Ljava/lang/String;
 
     move-result-object v8
 
-    if-nez v8, :cond_14
+    if-nez v8, :cond_15
 
     .line 450
     const-string v8, "StorageNotification"
@@ -2418,12 +2419,12 @@
     invoke-static {v8, v9}, Landroid/util/Log;->w(Ljava/lang/String;Ljava/lang/String;)I
 
     .line 502
-    :cond_13
-    :goto_13
+    :cond_14
+    :goto_14
     return-object v7
 
     .line 453
-    :cond_14
+    :cond_15
     iget-object v8, p0, mStorageManager:Landroid/os/storage/StorageManager;
 
     invoke-virtual {p1}, Landroid/os/storage/VolumeInfo;->getFsUuid()Ljava/lang/String;
@@ -2446,27 +2447,27 @@
 
     move-result v8
 
-    if-eqz v8, :cond_2e
+    if-eqz v8, :cond_2f
 
     invoke-virtual {v2}, Landroid/os/storage/DiskInfo;->isAdoptable()Z
 
     move-result v8
 
-    if-nez v8, :cond_13
+    if-nez v8, :cond_14
 
     .line 462
-    :cond_2e
+    :cond_2f
     invoke-virtual {v2}, Landroid/os/storage/DiskInfo;->isAdoptable()Z
 
     move-result v7
 
-    if-eqz v7, :cond_a2
+    if-eqz v7, :cond_a3
 
     invoke-virtual {v4}, Landroid/os/storage/VolumeRecord;->isInited()Z
 
     move-result v7
 
-    if-nez v7, :cond_a2
+    if-nez v7, :cond_a3
 
     .line 463
     invoke-virtual {v2}, Landroid/os/storage/DiskInfo;->getDescription()Ljava/lang/String;
@@ -2571,13 +2572,13 @@
 
     move-result-object v7
 
-    goto/16 :goto_13
+    goto/16 :goto_14
 
     .line 481
     .end local v3    # "initIntent":Landroid/app/PendingIntent;
     .end local v5    # "text":Ljava/lang/CharSequence;
     .end local v6    # "title":Ljava/lang/CharSequence;
-    :cond_a2
+    :cond_a3
     invoke-virtual {v2}, Landroid/os/storage/DiskInfo;->getDescription()Ljava/lang/String;
 
     move-result-object v6
@@ -2672,7 +2673,7 @@
 
     move-result v7
 
-    if-eqz v7, :cond_108
+    if-eqz v7, :cond_109
 
     .line 499
     invoke-virtual {p1}, Landroid/os/storage/VolumeInfo;->getFsUuid()Ljava/lang/String;
@@ -2686,12 +2687,12 @@
     invoke-virtual {v1, v7}, Landroid/app/Notification$Builder;->setDeleteIntent(Landroid/app/PendingIntent;)Landroid/app/Notification$Builder;
 
     .line 502
-    :cond_108
+    :cond_109
     invoke-virtual {v1}, Landroid/app/Notification$Builder;->build()Landroid/app/Notification;
 
     move-result-object v7
 
-    goto/16 :goto_13
+    goto/16 :goto_14
 .end method
 
 .method private onVolumeRemoved(Landroid/os/storage/VolumeInfo;)Landroid/app/Notification;
