@@ -853,4 +853,5 @@
     <item type="id" name="zen_alarm_warning">false</item>
     <item type="id" name="pressed">false</item>
     <item type="id" name="not_pressed">false</item>
+    <item type="id" name="panic_traffic">false</item>
 </resources>
