@@ -82,6 +82,8 @@
 
     move-result-object v0
 
+    const/4 v0, 0x0
+
     iput-object v0, p0, Lcom/samsung/android/personalpage/service/util/SecureProperties;->mImpl:Lcom/samsung/android/personalpage/service/util/SecureProperties$PropertiesImpl;
 
     .line 76
