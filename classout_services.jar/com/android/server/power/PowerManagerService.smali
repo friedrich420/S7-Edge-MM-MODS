@@ -17650,6 +17650,8 @@
 
     move-result v1
 
+    const v1, 0x0
+
     if-eqz v1, :cond_d5
 
     if-eqz v11, :cond_d5
