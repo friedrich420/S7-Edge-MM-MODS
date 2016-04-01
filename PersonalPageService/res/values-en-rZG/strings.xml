@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="private_mode_popup_screen_lock_title">Screen lock settings</string>
+    <string name="private_mode_bakcupkey_subtext_pattern">Your fingerprint settings have been changed. Draw your Double verification pattern to enable Private mode.</string>
+    <string name="private_mode_bakcupkey_subtext_pin">Your fingerprint settings have been changed. Enter your Double verification PIN to enable Private mode.</string>
+    <string name="private_mode_bakcupkey_subtext_pwd">Your fingerprint settings have been changed. Enter your Double verification password to enable Private mode.</string>
+    <string name="private_mode_bakcupkey_bt_text">Use double verification</string>
+    <string name="private_mode_bakcupkey_bt_pin_text">PIN</string>
+    <string name="private_mode_bakcupkey_bt_pattern_text">Pattern</string>
+    <string name="private_mode_bakcupkey_bt_password_text">Password</string>
+    <string name="private_mode_bakcupkey_bt_ppp_text">Use %s</string>
+    <string name="private_mode_bakcuppwd_bt_text">Backup password</string>
+    <string name="private_mode_migration_body_text">Set a pattern, PIN, or password to use as an alternative to your fingerprints to access Private mode.</string>
+    <string name="private_mode_migration_next_button">Next</string>
+    <string name="private_mode_pattern_backup_pin_desc">Backup PIN</string>
+</resources>

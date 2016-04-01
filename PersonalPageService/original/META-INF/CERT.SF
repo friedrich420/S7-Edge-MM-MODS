@@ -1,0 +1,70 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA1-Digest-Manifest: PGHZrJiKpcG7XiCzfPz9BEq4pEk=
+
+Name: res/layout-land/private_mode_pin.xml
+SHA1-Digest: viTw4Dr2ADg6CKZ/Mg3JGkB06UQ=
+
+Name: res/drawable-xxxhdpi-v4/private_mode_unlock_ic_pwd.pio
+SHA1-Digest: qLnrkrhdoBUVYLSB2izLr72NCzs=
+
+Name: res/layout-v21/private_mode_pin.xml
+SHA1-Digest: JT17lrEvlmaB4u5hj9ca06IjT8w=
+
+Name: res/drawable-xxxhdpi-v4/tw_textfield_activated_mtrl_alpha.9.qmg
+SHA1-Digest: v1a6eETaXcKB2Q5Hc8IfuBMKkZU=
+
+Name: res/drawable-xxxhdpi-v4/stat_sys_private_mode.pio
+SHA1-Digest: aDA1T6wyAukjiBNThus70Zvzvtc=
+
+Name: res/drawable/private_mode_textfield_selector.xml
+SHA1-Digest: In5xUNYicsuzXo/eBmn4dNwtdtc=
+
+Name: res/layout/private_mode_pattern.xml
+SHA1-Digest: OLbMLrKDbjkdWko49KlA835dn84=
+
+Name: res/drawable-xxxhdpi-v4/ic_setting_grid_private_mode.qmg
+SHA1-Digest: +4BsBMOf7aO2D6DU6rrrzEVmHdo=
+
+Name: res/layout-land-v21/private_mode_pattern.xml
+SHA1-Digest: VXlcGFx5JlhiEHk3EFP6ANdxMms=
+
+Name: resources.arsc
+SHA1-Digest: z9GfhCxfoWl1YzQsJrUKqC3NahI=
+
+Name: res/layout/private_mode_typingverify.xml
+SHA1-Digest: wFI7fg6YVu8pizaN2x0jQp+dqzU=
+
+Name: res/layout-land-v21/private_mode_typingverify.xml
+SHA1-Digest: HmD92QAm3suF9Y050p+QM/dddfM=
+
+Name: res/drawable-xxxhdpi-v4/tw_textfield_default_mtrl_alpha.9.qmg
+SHA1-Digest: 2iz3vtArMwyM+adiheQ1M/fxwp4=
+
+Name: AndroidManifest.xml
+SHA1-Digest: 5atXF0xhgHTdGVYn0YpsUrODAPU=
+
+Name: res/layout-land/private_mode_pattern.xml
+SHA1-Digest: H6ez1d/bvLNE91LCazP4PYa24No=
+
+Name: res/layout-land-v21/private_mode_pin.xml
+SHA1-Digest: 2VTNYTaEJXyGX3NKAZ78EbNPw8I=
+
+Name: res/drawable-xxxhdpi-v4/stat_notify_private_mode.pio
+SHA1-Digest: e61VI5v+M82+CiD90x2wHEdHlt8=
+
+Name: res/layout-land/private_mode_typingverify.xml
+SHA1-Digest: wMJ/zNmsV2DjU/qjjVyq+IHvZhI=
+
+Name: res/layout/private_mode_pin.xml
+SHA1-Digest: r/CGcXgKLA/XAfN79ZLpZmiJeRQ=
+
+Name: res/layout-v21/private_mode_pattern.xml
+SHA1-Digest: OdWYXT1rltWOCuJvJSxO84gcje4=
+
+Name: res/layout-v21/private_mode_typingverify.xml
+SHA1-Digest: RCf+NTxqNSVok8UjZIX6fX6Pjzo=
+
+Name: res/layout/private_mode_normal_on_l3.xml
+SHA1-Digest: fTs043LOcyuwu/yfSvVFrjsV+m0=
+

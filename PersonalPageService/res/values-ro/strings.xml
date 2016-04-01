@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="personal_page">Mod Privat</string>
+    <string name="personalpage_on">Modul Privat a fost activat.</string>
+    <string name="personalpage_on_available">Conţinutul privat este disponibil.</string>
+    <string name="personalpage_off_not_available">Conţinutul privat nu este disponibil. Tot conţinutul care se mută în prezent în Private nu va fi transferat.</string>
+    <string name="failed_to_unmount">Modul Privat nu poate fi dezactivat. Încercaţi din nou.</string>
+    <string name="pattern_help_text">Desenaţi modelul pentru modul Privat.</string>
+    <string name="password_help_text">Introduceţi parola pentru modul Privat.</string>
+    <string name="personal_page_disclaimer_by_locktype">Ascundeţi conţinutul personal. Pentru a utiliza acest mod, selectaţi o metodă de deblocare. Dezactivaţi acest mod după utilizare, pentru a proteja conţinutul ascuns.</string>
+    <string name="do_not_show_again">Nu se afişează din nou</string>
+    <string name="message_settings">Setări</string>
+    <string name="incorrect_backup_pin">Cod PIN de rezervă incorect</string>
+    <string name="pattern_backuppin">Introduceţi codul PIN utilizat ca alternativă la modelul dvs.</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Încercaţi din nou peste %d secunde.</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempt_footer">Încercaţi din nou peste 1 secundă.</string>
+    <string name="personalpage_off">Modul Privat a fost dezactivat.</string>
+    <string name="personalpage_off_move_off">Modul Privat este dezactivat. Tot conţinutul care se mută în prezent în Private nu va fi transferat.</string>
+    <string name="failed_to_mount">Modul Privat nu a putut fi activat. Încercaţi din nou.</string>
+    <string name="pattern_help_text_try_again">Aţi desenat un model greşit. Încercaţi din nou.</string>
+    <string name="pin_help_text_try_again">Aţi introdus un cod PIN incorect. Încercaţi din nou.</string>
+    <string name="password_help_text_try_again">Aţi introdus o parolă greşită. Încercaţi din nou</string>
+    <string name="pin_help_text">Introduceţi PIN-ul pentru modul Privat.</string>
+    <string name="personal_page_switch_off_message">Conţinutul deschis va fi închis. Toate modificările pe care nu le-aţi salvat vor fi eliminate.</string>
+    <string name="private_mode_popup_btn_skip">Sar</string>
+    <string name="private_mode_popup_screen_lock_title">Setări ecran de blocare</string>
+    <string name="private_mode_popup_screen_lock_msg">Pentru a creşte securitatea când utilizaţi modul Privat, vă recomandăm să schimbaţi metoda de blocare a ecranului la o metodă securizată şi să activaţi apoi modul Privat.</string>
+    <string name="private_mode_popup_m2p_disclaimer_msg">Modul Privat va fi activat în timpul transferării conţinutului selectat.</string>
+    <string name="private_mode_popup_m2p_disclaimer">"Clauză de exonerare 
+Vă rugăm să luaţi în considerare că acest conţinut poate apărea într-un folder separat pe dispozitivul dvs. atunci când acesta este sincronizat în mod automat de o aplicaţie terţă, cum ar fi Dropbox. Verificaţi setările de sincronizare automată a acestor aplicaţii înainte de a utiliza Modul Privat."</string>
+    <string name="private_mode_popup_m2p_success_close">"
+Transfer finalizat. 
+Ieşire din Modul Privat…"</string>
+    <string name="private_mode_popup_m2p_failed_close">"Transfer incomplet. 
+Ieşire din Modul Privat…"</string>
+    <string name="personalpage_on_vzw">Private mode turned on.</string>
+    <string name="personalpage_off_vzw">Private mode turned off.</string>
+    <string name="private_mode_toast_ism2p">Un alt proces este deja în curs. Încercaţi din nou după ce se termină.</string>
+    <string name="private_mode_pop_up_title">Dezactivare mod Privat</string>
+    <string name="private_mode_popup_m2p_msg">Modul Privat va fi activat în timp ce conţinutul selectat este mutat în Private şi va fi dezactivat din nou după ce transferul s-a finalizat.</string>
+    <string name="private_mode_popup_m2p_msg_apphide">"Modul Privat va fi activat în timp ce se mută aplicaţiile selectate în Private şi va fi dezactivat din nou după ce transferul s-a finalizat.
+
+Dacă mutaţi aplicaţiile în Private, se vor muta şi aplicaţiile asociate şi widgeturile corelate, iar comenzile rapide ale acestora vor fi şterse. În timp ce este dezactivat modul Privat, nu veţi primi notificări de la aplicaţiile mutate în Private."</string>
+    <string name="private_mode_popup_m2p_title">Activare mod Privat</string>
+    <string name="private_mode_bakcupkey_subtext_pattern">Setările pentru amprentă au fost schimbate. Desenaţi modelul pentru Verificare dublă şi activaţi Modul Privat.</string>
+    <string name="private_mode_bakcupkey_subtext_pin">Setările pentru amprentă au fost schimbate. Introduceţi codul PIN pentru Verificare dublă şi activaţi Modul Privat.</string>
+    <string name="private_mode_bakcupkey_subtext_pwd">Setările pentru amprentă au fost schimbate. Introduceţi parola pentru Verificare dublă şi activaţi Modul Privat.</string>
+    <string name="private_mode_bakcupkey_bt_text">Utiliz. verificare dublă</string>
+    <string name="private_mode_bakcupkey_bt_pin_text">PIN</string>
+    <string name="private_mode_bakcupkey_bt_pattern_text">Model</string>
+    <string name="private_mode_bakcupkey_bt_password_text">Parolă</string>
+    <string name="private_mode_bakcupkey_bt_ppp_text">Utilizaţi %s</string>
+    <string name="private_mode_bakcuppwd_bt_text">Parolă de backup</string>
+    <string name="private_mode_migration_body_text">Stabiliţi un model, un cod PIN sau o parolă pe care să o utilizaţi drept metodă alternativă la amprente pentru a accesa Modul Privat.</string>
+    <string name="private_mode_migration_next_button">Următorul</string>
+    <string name="private_mode_pattern_backup_pin_desc">PIN de rezervă</string>
+</resources>

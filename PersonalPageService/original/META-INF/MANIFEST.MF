@@ -1,0 +1,69 @@
+Manifest-Version: 1.0
+Created-By: 1.7.0_55 (Oracle Corporation)
+
+Name: res/layout-land/private_mode_pin.xml
+SHA1-Digest: Wcz6kLf/W36k2FfT1QoLjzzh4N8=
+
+Name: res/drawable-xxxhdpi-v4/private_mode_unlock_ic_pwd.pio
+SHA1-Digest: cFgMqS3sMYesB6wfjItSq63XVUk=
+
+Name: res/layout-v21/private_mode_pin.xml
+SHA1-Digest: H2NFRl4YXVOepC02vAJSpaqq4QA=
+
+Name: res/drawable-xxxhdpi-v4/tw_textfield_activated_mtrl_alpha.9.qmg
+SHA1-Digest: LNfdLivg2LC5XmbRFwA+ve6zlzM=
+
+Name: res/drawable-xxxhdpi-v4/stat_sys_private_mode.pio
+SHA1-Digest: Ta9i06sDoKxildX3LmiXfM8DolA=
+
+Name: res/drawable/private_mode_textfield_selector.xml
+SHA1-Digest: 4HW8I434ODWCvZRcTMugr72LWYg=
+
+Name: res/layout/private_mode_pattern.xml
+SHA1-Digest: bwORhyzuowSTdP1x84Naa4EY87Y=
+
+Name: res/drawable-xxxhdpi-v4/ic_setting_grid_private_mode.qmg
+SHA1-Digest: 53ShgswvQ/Z8YkMG5CQKYSrkKZg=
+
+Name: res/layout-land-v21/private_mode_pattern.xml
+SHA1-Digest: vdSSdXFlij/axkBfT4vPbttWAAo=
+
+Name: resources.arsc
+SHA1-Digest: Wkv4syrUTVG1KtXUFRL1kJBHgs0=
+
+Name: res/layout/private_mode_typingverify.xml
+SHA1-Digest: VQQxueF29IewOcuUE9xkRwR8zMo=
+
+Name: res/layout-land-v21/private_mode_typingverify.xml
+SHA1-Digest: bfNC1TG3yH2fYDXem/871fiGodc=
+
+Name: AndroidManifest.xml
+SHA1-Digest: XLbbJuBlygDz7n9IfTnpEBbEggQ=
+
+Name: res/drawable-xxxhdpi-v4/tw_textfield_default_mtrl_alpha.9.qmg
+SHA1-Digest: M/xTg5iM61CtT52ZdxUIft4ZDtc=
+
+Name: res/layout-land-v21/private_mode_pin.xml
+SHA1-Digest: lNUUmKNYezkd+4PIi9bevjCpyTw=
+
+Name: res/layout-land/private_mode_pattern.xml
+SHA1-Digest: K3wYnhxPhOavPeuuZH/481cDc4Q=
+
+Name: res/drawable-xxxhdpi-v4/stat_notify_private_mode.pio
+SHA1-Digest: elLt8mwegmdoPpnX2Cr5IvafVG0=
+
+Name: res/layout-land/private_mode_typingverify.xml
+SHA1-Digest: yZ7c2ID3w58NiHtZdGzqN6B+UrM=
+
+Name: res/layout/private_mode_pin.xml
+SHA1-Digest: 4RG+mR/ETrOxR2PsjfE3LocYeUA=
+
+Name: res/layout-v21/private_mode_pattern.xml
+SHA1-Digest: kqa5Z7onbx3krh96cE2bkWW5l8Q=
+
+Name: res/layout-v21/private_mode_typingverify.xml
+SHA1-Digest: Xti3YQvczxfsFlTf3kvyDd3TPYg=
+
+Name: res/layout/private_mode_normal_on_l3.xml
+SHA1-Digest: qAdZ8Qrk3ix+O6BH7PmgCJljOHg=
+
