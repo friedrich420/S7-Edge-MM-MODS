@@ -7863,6 +7863,8 @@
 
     move-result v4
 
+    goto :goto_td
+
     if-ne v4, v5, :cond_41
 
     iget-object v4, p0, mStreamVolumeAlias:[I
@@ -7998,6 +8000,7 @@
 
     .line 8402
     .end local v0    # "pm":Landroid/os/PowerManager;
+    :goto_td
     :cond_7e
     monitor-exit v3
     :try_end_7f
