@@ -4888,13 +4888,6 @@
 
     .line 429
     :cond_7
-    const-string v25, "touch_key_light"
-
-    move-object/from16 v0, p0
-
-    move-object/from16 v1, v25
-
-    invoke-virtual {v0, v1}, Lcom/android/settings/DisplaySettings;->removePreference(Ljava/lang/String;)V
 
     .line 432
     :cond_8
