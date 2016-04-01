@@ -1488,4 +1488,6 @@ Emergency calls only"</string>
     <string name="bluetooth_hid_connection_error_message">Unable to connect device to Bluetooth input device while using it as Bluetooth input device.</string>
     <string name="accessibility_wifi_off">Wifi off.</string>
     <string name="unknown">Unknown</string>
+    <string name="service_background_processes">%1$s free</string>
+    <string name="service_foreground_processes">%1$s used</string>
 </resources>
