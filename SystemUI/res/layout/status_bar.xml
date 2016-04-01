@@ -11,10 +11,12 @@
                 <com.android.systemui.statusbar.phone.IconMerger android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/notificationIcons" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_alignParentStart="true" />
             </com.android.keyguard.AlphaOptimizedLinearLayout>
         </com.android.systemui.statusbar.AlphaOptimizedFrameLayout>
-        <com.android.keyguard.AlphaOptimizedLinearLayout android:orientation="horizontal" android:id="@id/system_icon_area" android:layout_width="wrap_content" android:layout_height="fill_parent">
-            <TextView android:textSize="12.0dip" android:textColor="#ffffffff" android:gravity="center_vertical" android:id="@id/knoxCustomStatusBarText" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="fill_parent" android:includeFontPadding="false" />
-            <include layout="@layout/system_icons" />
-            <com.android.systemui.statusbar.policy.Clock android:textAppearance="@style/TextAppearance.StatusBar.Clock" android:gravity="start|center" android:id="@id/clock" android:layout_width="wrap_content" android:layout_height="fill_parent" android:singleLine="true" android:paddingStart="@dimen/status_bar_clock_padding_start" />
-        </com.android.keyguard.AlphaOptimizedLinearLayout>
+        <com.android.systemui.statusbar.policy.Clock android:textAppearance="@style/TextAppearance.StatusBar.Clock" android:gravity="center" android:id="@id/clock" android:layout_width="wrap_content" android:layout_height="fill_parent" android:singleLine="true" android:alpha="1.0" android:paddingStart="7.0dip" />
+        <LinearLayout android:gravity="center|right" android:orientation="horizontal" android:id="@id/system_icon_area" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" android:layout_alignParentRight="true" android:alpha="1.0">
+            <com.android.keyguard.AlphaOptimizedLinearLayout android:orientation="horizontal" android:id="@id/system_icon_area" android:layout_width="wrap_content" android:layout_height="fill_parent">
+                <include layout="@layout/system_icons" />
+            </com.android.keyguard.AlphaOptimizedLinearLayout>
+        </LinearLayout>
     </LinearLayout>
+    <com.android.systemui.statusbar.policy.KeyButtonView android:layout_gravity="center" android:id="@id/back" android:layout_width="60.0dip" android:layout_height="fill_parent" android:src="#00000000" android:layout_toRightOf="@id/recent_apps" android:contentDescription="@string/accessibility_back" systemui:keyCode="26" systemui:keyRepeat="false" androidundefinedrientation="vertical" />
 </com.android.systemui.statusbar.phone.PhoneStatusBarView>
