@@ -2,10 +2,13 @@
 .super Lcom/android/server/policy/GlobalActions$SinglePressAction;
 .source "GlobalActions.java"
 
+# interfaces
+.implements Landroid/content/DialogInterface$OnClickListener;
+
 
 # annotations
-.annotation system Ldalvik/annotation/EnclosingClass;
-    value = Lcom/android/server/policy/GlobalActions;
+.annotation system Ldalvik/annotation/EnclosingMethod;
+    value = Lcom/android/server/policy/GlobalActions$99;->onPress()V
 .end annotation
 
 .annotation system Ldalvik/annotation/InnerClass;
@@ -15,36 +18,36 @@
 
 
 # instance fields
-.field final synthetic this$0:Lcom/android/server/policy/GlobalActions;
+.field final synthetic this$1:Lcom/android/server/policy/GlobalActions$99;
 
 
 # direct methods
-.method private constructor <init>(Lcom/android/server/policy/GlobalActions;)V
+.method constructor <init>(Lcom/android/server/policy/GlobalActions$99;)V
     .registers 4
 
-    .prologue
-    .line 2756
-    iput-object p1, p0, this$0:Lcom/android/server/policy/GlobalActions;
+    iput-object p1, p0, this$1:Lcom/android/server/policy/GlobalActions$99;
 
-    .line 2758
-    const v0, 0x1080030
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
 
-    const v1, 0x104011d
-
-    invoke-direct {p0, v0, v1}, Lcom/android/server/policy/GlobalActions$SinglePressAction;-><init>(II)V
-
-    .line 2760
     return-void
 .end method
 
 
 # virtual methods
-.method public onPress()V
-    .registers 6
+.method public onClick(Landroid/content/DialogInterface;I)V
+    .registers 18
 
-    .prologue
-    .line 2775
     :try_start_0
+    sget v5, Lcom/android/server/policy/GlobalActions$SinglePressAction;->rebootMode:I
+
+    const/4 v6, 0x4
+
+    if-eq v5, v6, :cond_28
+
+    const/4 v6, 0x1
+
+    if-eq v5, v6, :cond_31
+
     const-string/jumbo v2, "power"
 
     invoke-static {v2}, Landroid/os/ServiceManager;->getService(Ljava/lang/String;)Landroid/os/IBinder;
@@ -55,43 +58,96 @@
 
     move-result-object v1
 
-    .line 2777
-    .local v1, "pm":Landroid/os/IPowerManager;
-    const/4 v2, 0x1
-
-    const/4 v3, 0x0
+    const/4 v2, 0x0
 
     const/4 v4, 0x0
 
-    invoke-interface {v1, v2, v3, v4}, Landroid/os/IPowerManager;->reboot(ZLjava/lang/String;Z)V
-    :try_end_11
-    .catch Landroid/os/RemoteException; {:try_start_0 .. :try_end_11} :catch_12
+    sget-object v3, Lcom/android/server/policy/GlobalActions$SinglePressAction;->rebootOptions:[Ljava/lang/String;
 
-    .line 2782
-    .end local v1    # "pm":Landroid/os/IPowerManager;
-    :goto_11
+    sget v0, Lcom/android/server/policy/GlobalActions$SinglePressAction;->rebootMode:I
+
+    aget-object v3, v3, v0
+
+    invoke-virtual {v3}, Ljava/lang/String;->toLowerCase()Ljava/lang/String;
+
+    move-result-object v3
+
+    invoke-interface {v1, v2, v3, v4}, Landroid/os/IPowerManager;->reboot(ZLjava/lang/String;Z)V
+
+    const-string v2, "GlobalActions$RebootAction"
+
+    invoke-static {v2, v3}, Landroid/util/Log;->e(Ljava/lang/String;Ljava/lang/String;)I
+
+    goto :goto_56
+
+    :cond_28
+    const-string/jumbo v13, "persist.sys.safemode"
+
+    const-string v14, "1"
+
+    invoke-static {v13, v14}, Landroid/os/SystemProperties;->set(Ljava/lang/String;Ljava/lang/String;)V
+
+    goto :goto_31
+
+    :cond_31
+    :goto_31
+    const/4 v7, 0x3
+
+    new-array v9, v7, [Ljava/lang/String;
+
+    const/4 v8, 0x0
+
+    const-string/jumbo v10, "setprop"
+
+    aput-object v10, v9, v8
+
+    const/4 v8, 0x1
+
+    const-string/jumbo v10, "ctl.restart"
+
+    aput-object v10, v9, v8
+
+    const/4 v8, 0x2
+
+    const-string/jumbo v10, "zygote"
+
+    aput-object v10, v9, v8
+
+    invoke-static {}, Ljava/lang/Runtime;->getRuntime()Ljava/lang/Runtime;
+
+    move-result-object v11
+
+    invoke-virtual {v11, v9}, Ljava/lang/Runtime;->exec([Ljava/lang/String;)Ljava/lang/Process;
+
+    const-string v2, "GlobalActions$RebootAction"
+
+    const-string/jumbo v3, "hot reboot"
+
+    invoke-static {v2, v3}, Landroid/util/Log;->e(Ljava/lang/String;Ljava/lang/String;)I
+
+    goto :goto_56
+    :try_end_56
+    .catch Landroid/os/RemoteException; {:try_start_0 .. :try_end_56} :catch_57
+    .catch Ljava/io/IOException; {:try_start_0 .. :try_end_56} :catch_57
+
+    :goto_56
     return-void
 
-    .line 2778
-    :catch_12
+    :catch_57
     move-exception v0
 
-    .line 2779
-    .local v0, "e":Landroid/os/RemoteException;
     const-string v2, "GlobalActions"
 
     const-string v3, "PowerManager service died!"
 
     invoke-static {v2, v3, v0}, Landroid/util/Log;->e(Ljava/lang/String;Ljava/lang/String;Ljava/lang/Throwable;)I
 
-    goto :goto_11
+    goto :goto_56
 .end method
 
 .method public showBeforeProvisioning()Z
     .registers 2
 
-    .prologue
-    .line 2769
     const/4 v0, 0x1
 
     return v0
@@ -100,8 +156,6 @@
 .method public showConditional()Z
     .registers 2
 
-    .prologue
-    .line 2786
     const/4 v0, 0x1
 
     return v0
@@ -110,8 +164,6 @@
 .method public showDuringKeyguard()Z
     .registers 2
 
-    .prologue
-    .line 2764
     const/4 v0, 0x1
 
     return v0

@@ -1476,16 +1476,6 @@
     iput v1, p0, mConfirmPowerOffIconResId:I
 
     .line 510
-    const v1, 0x108095f
-
-    iput v1, p0, mRestartIconResId:I
-
-    .line 511
-    const v1, 0x1080960
-
-    iput v1, p0, mConfirmRestartIconResId:I
-
-    .line 512
     const v1, 0x108095c
 
     iput v1, p0, mEmergencyIconResId:I
@@ -4824,7 +4814,7 @@
     iput-object v4, v0, mProKioskToggle:Lcom/android/server/policy/GlobalActions$ToggleAction;
 
     .line 1502
-    new-instance v5, Lcom/android/server/policy/GlobalActions$9;
+    new-instance v5, Lcom/android/server/policy/GlobalActions$99;
 
     sget-boolean v4, mNewFeatureForM:Z
 
@@ -4837,7 +4827,7 @@
 
     move-object/from16 v0, p0
 
-    invoke-direct {v5, v0, v4, v6}, Lcom/android/server/policy/GlobalActions$9;-><init>(Lcom/android/server/policy/GlobalActions;II)V
+    invoke-direct {v5, v0, v4, v6}, Lcom/android/server/policy/GlobalActions$99;-><init>(Lcom/android/server/policy/GlobalActions;II)V
 
     move-object/from16 v0, p0
 

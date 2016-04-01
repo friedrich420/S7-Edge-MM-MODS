@@ -17,6 +17,14 @@
 .end annotation
 
 
+# static fields
+.field public static rebootMode:I
+
+.field public static final rebootOptions:[Ljava/lang/String;
+
+.field public static final rebootString:[Ljava/lang/String;
+
+
 # instance fields
 .field public customAction:I
 
@@ -34,6 +42,72 @@
 
 
 # direct methods
+.method static constructor <clinit>()V
+    .registers 9
+
+    const/4 v8, 0x5
+
+    const/4 v7, 0x4
+
+    const/4 v6, 0x3
+
+    const/4 v5, 0x2
+
+    const/4 v4, 0x1
+
+    const/4 v3, 0x0
+
+    new-array v0, v8, [Ljava/lang/String;
+
+    const-string/jumbo v2, "Reboot"
+
+    aput-object v2, v0, v3
+
+    const-string/jumbo v2, "Hot Reboot"
+
+    aput-object v2, v0, v4
+
+    const-string/jumbo v2, "Download"
+
+    aput-object v2, v0, v5
+
+    const-string/jumbo v2, "Recovery"
+
+    aput-object v2, v0, v6
+
+    const-string/jumbo v2, "Safe Mode"
+
+    aput-object v2, v0, v7
+
+    sput-object v0, rebootString:[Ljava/lang/String;
+
+    new-array v1, v8, [Ljava/lang/String;
+
+    const-string v2, "Reboot"
+
+    aput-object v2, v1, v3
+
+    const-string v2, "Hot Reboot"
+
+    aput-object v2, v1, v4
+
+    const-string v2, "Download"
+
+    aput-object v2, v1, v5
+
+    const-string v2, "Recovery"
+
+    aput-object v2, v1, v6
+
+    const-string v2, "Safe Mode"
+
+    aput-object v2, v1, v7
+
+    sput-object v1, rebootOptions:[Ljava/lang/String;
+
+    return-void
+.end method
+
 .method protected constructor <init>(II)V
     .registers 5
     .param p1, "iconResId"    # I
